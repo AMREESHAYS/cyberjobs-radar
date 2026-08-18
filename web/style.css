@@ -1,0 +1,28 @@
+:root { --bg:#0b1020; --card:#151b2e; --fg:#e7ecff; --mut:#93a0c8; --acc:#5b8cff; --ok:#39d98a; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.45 system-ui, sans-serif; padding-bottom:2rem; }
+header { position:sticky; top:0; background:var(--bg); padding:.8rem 1rem; z-index:2; }
+header h1 { margin:0 0 .5rem; font-size:1.2rem; }
+#q, select { width:100%; padding:.6rem .7rem; border-radius:.6rem; border:1px solid #2a3350; background:#0f1526; color:var(--fg); }
+#tabs { display:flex; gap:.4rem; padding:0 1rem .5rem; }
+#tabs button { flex:1; padding:.5rem; border:0; border-radius:.6rem; background:#1b2338; color:var(--mut); }
+#tabs button.active { background:var(--acc); color:#fff; }
+#filters { display:grid; grid-template-columns:1fr 1fr; gap:.5rem; padding:0 1rem 1rem; align-items:center; }
+#filters label { color:var(--mut); font-size:.85rem; display:flex; align-items:center; gap:.3rem; }
+main { padding:0 1rem; display:grid; gap:.7rem; }
+.card { background:var(--card); border:1px solid #222c47; border-radius:.9rem; padding:.9rem; }
+.top { display:flex; gap:.6rem; align-items:flex-start; }
+.top h2 { margin:0; font-size:1rem; }
+.score { flex:0 0 auto; min-width:2.2rem; text-align:center; font-weight:700; background:var(--acc); color:#fff; border-radius:.5rem; padding:.15rem .35rem; }
+.co { color:var(--mut); margin:.35rem 0; font-size:.85rem; }
+.badge { background:#22305a; padding:.05rem .4rem; border-radius:.4rem; }
+.src { padding:.05rem .4rem; border-radius:.4rem; font-size:.75rem; }
+.src.api { background:#173a2b; color:var(--ok); } .src.scraper { background:#3a2e17; color:#e0b24a; }
+.reason { font-size:.9rem; margin:.3rem 0; }
+details summary { cursor:pointer; color:var(--acc); }
+.desc { color:var(--mut); white-space:pre-wrap; }
+.actions { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.6rem; }
+.actions a, .actions button { flex:1; min-width:8rem; text-align:center; padding:.55rem; border-radius:.6rem; border:0; }
+.apply { background:var(--ok); color:#04331f; text-decoration:none; font-weight:600; }
+.actions button { background:#1b2338; color:var(--fg); }
+.empty { color:var(--mut); text-align:center; padding:2rem; }

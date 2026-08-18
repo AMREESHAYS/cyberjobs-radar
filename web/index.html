@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b1020">
+  <title>CyberJobs Radar</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>CyberJobs Radar</h1>
+    <input id="q" type="search" placeholder="Search title / company">
+  </header>
+  <nav id="tabs">
+    <button data-view="all" class="active">All</button>
+    <button data-view="saved">Saved</button>
+    <button data-view="applied">Applied</button>
+  </nav>
+  <section id="filters">
+    <select id="country"><option value="">All countries</option></select>
+    <select id="source"><option value="">All sources</option></select>
+    <label><input type="checkbox" id="remoteOnly"> Remote only</label>
+    <label>Min score <input type="range" id="minScore" min="0" max="100" value="0"></label>
+  </section>
+  <main id="list" aria-live="polite"></main>
+  <script type="module" src="filters.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
