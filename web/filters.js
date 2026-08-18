@@ -15,7 +15,8 @@ export function filterJobs(jobs, c = {}) {
     if (c.country && j.country !== c.country) return false;
     if (c.source && j.source !== c.source) return false;
     if (c.remoteOnly && !(j.remote === true || j.country === "REMOTE")) return false;
-    if (c.minScore != null && (j.score == null || j.score < c.minScore)) return false;
+    // minScore 0 = no filter; a positive threshold excludes unscored + below-threshold jobs
+    if (c.minScore && (j.score == null || j.score < c.minScore)) return false;
     if (q && !`${j.title} ${j.company}`.toLowerCase().includes(q)) return false;
     if (c.view === "saved" && !saved.has(j.id)) return false;
     if (c.view === "applied" && !applied.has(j.id)) return false;

@@ -9,6 +9,17 @@ const jobs = [
   { id: "3", country: "DE", source: "arbeitnow", remote: false, score: null, title: "Baker", company: "C" },
 ];
 
+test("minScore 0 keeps unscored jobs", () => {
+  // regression: unscored (null) jobs must show when no threshold is set
+  const r = filterJobs(jobs, { minScore: 0 });
+  assert.deepEqual(r.map(j => j.id).sort(), ["1", "2", "3"]);
+});
+
+test("positive minScore excludes unscored + below", () => {
+  const r = filterJobs(jobs, { minScore: 50 });
+  assert.deepEqual(r.map(j => j.id), ["1"]);
+});
+
 test("country filter", () => {
   const r = filterJobs(jobs, { country: "CH" });
   assert.deepEqual(r.map(j => j.id), ["1"]);

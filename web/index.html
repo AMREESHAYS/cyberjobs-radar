@@ -3,28 +3,42 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#0b1020">
+  <meta name="theme-color" content="#070b18">
   <title>CyberJobs Radar</title>
   <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23070b18'/%3E%3Ccircle cx='32' cy='32' r='18' fill='none' stroke='%234fd6e0' stroke-width='3' opacity='0.6'/%3E%3Ccircle cx='32' cy='32' r='6' fill='%234fd6e0'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>CyberJobs Radar</h1>
-    <input id="q" type="search" placeholder="Search title / company">
+  <div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
+
+  <header class="glass">
+    <div class="brand">
+      <span class="radar" aria-hidden="true"></span>
+      <div>
+        <h1>CyberJobs Radar</h1>
+        <p id="count" class="count">Loading…</p>
+      </div>
+    </div>
+    <input id="q" type="search" placeholder="Search title or company" autocomplete="off">
+    <nav id="tabs" class="tabs" role="tablist">
+      <button data-view="all" class="active" role="tab">All</button>
+      <button data-view="saved" role="tab">Saved</button>
+      <button data-view="applied" role="tab">Applied</button>
+    </nav>
+    <section id="filters" class="filters">
+      <select id="country" aria-label="Country"><option value="">All countries</option></select>
+      <select id="source" aria-label="Source"><option value="">All sources</option></select>
+      <label class="chip"><input type="checkbox" id="remoteOnly"> Remote only</label>
+      <label class="chip range">Min score <input type="range" id="minScore" min="0" max="100" value="0"><b id="minScoreVal">0</b></label>
+    </section>
   </header>
-  <nav id="tabs">
-    <button data-view="all" class="active">All</button>
-    <button data-view="saved">Saved</button>
-    <button data-view="applied">Applied</button>
-  </nav>
-  <section id="filters">
-    <select id="country"><option value="">All countries</option></select>
-    <select id="source"><option value="">All sources</option></select>
-    <label><input type="checkbox" id="remoteOnly"> Remote only</label>
-    <label>Min score <input type="range" id="minScore" min="0" max="100" value="0"></label>
-  </section>
+
   <main id="list" aria-live="polite"></main>
+
   <script type="module" src="filters.js"></script>
   <script type="module" src="app.js"></script>
 </body>
