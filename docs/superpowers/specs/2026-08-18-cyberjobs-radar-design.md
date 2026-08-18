@@ -73,15 +73,17 @@ Rationale: static + scheduled CI = $0, reachable from the phone anywhere, nothin
 Each adapter is self-contained, returns a list of normalized `Job` dicts, and fails soft (logs + returns `[]` on error, never crashes the run).
 
 **Reliable backbone (structured free APIs):**
-- **Adzuna** — free app_id + app_key. Country endpoints for `ch, de, at, nl, be, pl, fr, it, es`. Query cybersecurity terms. (Note: Adzuna does **not** cover Nordics — see below.)
+- **Adzuna** — free app_id + app_key. Country endpoints for `ch, de, at, nl, be, pl, fr, it, es`. Query cybersecurity terms. (Adzuna does **not** cover Nordics — covered by JobTech/NAV below.)
+- **JobTech JobSearch (Sweden)** — official Swedish employment agency (Arbetsförmedlingen) API at `https://jobsearch.api.jobtechdev.se/search`. Free, ~45k live ads, structured JSON incl. skills taxonomy. No key required for basic use (optional key raises rate limits). Query params `q` (keywords) + region. Fills the Nordic gap for Sweden.
+- **NAV feed (Norway)** — official Norwegian labour agency public job feed (`https://pam-stilling-feed.nav.no`). Free. Needs a Bearer token; a rotating public token is available at `/api/publicToken` (a stable token can be requested by email). Covers most publicly advertised Norwegian vacancies.
 - **Arbeitnow** — free public API, strong Germany/EU coverage, visa-sponsorship flags on some posts.
 - **Jobicy** — remote jobs API, filter by region/tag.
 - **RemoteOK** — remote jobs API, security tag.
 - **Himalayas** — remote jobs API.
 
 **Best-effort (flagged fragile, low confidence):**
+- Denmark (Jobnet) + Finland (Työmarkkinatori open data) — no clean free API; attempt via open-data/RSS where available.
 - Swiss/EU board RSS + company career-page feeds where available (e.g. Swiss startup/tech boards, ETH/EPFL boards).
-- Nordic coverage gap: try Nordic-friendly boards (e.g. thehub-style startup feeds) as best-effort since Adzuna lacks Nordics.
 - **LinkedIn / Indeed** adapters: included but explicitly marked fragile; respect robots/ToS, expect frequent empty returns, and **never fabricate to compensate.**
 
 Search terms union: cybersecurity, security engineer, SOC analyst, penetration tester, red team, blue team, application security, cloud security, DevSecOps, security analyst, information security, incident response, and "intern"/"internship/Praktikum/Werkstudent" variants.
@@ -179,9 +181,9 @@ first_seen    # ISO date we first saw it
 ---
 
 ## 9. Build Order (backbone first)
-- **Phase 1 (backbone, usable end-to-end):** free APIs (Adzuna, Arbeitnow, Jobicy, RemoteOK, Himalayas) → normalize/dedupe → Groq AI scoring → `jobs.json` → mobile PWA on Pages → GitHub Actions cron.
+- **Phase 1 (backbone, usable end-to-end):** free APIs (Adzuna, JobTech/Sweden, NAV/Norway, Arbeitnow, Jobicy, RemoteOK, Himalayas) → normalize/dedupe → Groq AI scoring → `jobs.json` → mobile PWA on Pages → GitHub Actions cron.
 - **Phase 2:** email digest.
-- **Phase 3:** extra scrapers (Swiss/Nordic boards, LinkedIn/Indeed best-effort), each added as an isolated adapter behind the same schema.
+- **Phase 3:** extra best-effort adapters (Denmark/Finland open data, Swiss board RSS, LinkedIn/Indeed), each added as an isolated adapter behind the same schema.
 
 ---
 
