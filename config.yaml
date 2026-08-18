@@ -1,0 +1,18 @@
+countries: [CH, DE, AT, NL, BE, PL, SE, NO, DK, FI, REMOTE]
+search_terms:
+  - cybersecurity
+  - "security engineer"
+  - "SOC analyst"
+  - "penetration tester"
+  - "red team"
+  - "application security"
+  - "cloud security"
+  - DevSecOps
+  - "information security"
+  - "incident response"
+  - "security internship"
+age_out_days: 45
+ai:
+  base_url_default: "https://api.groq.com/openai/v1"
+  model_default: "llama-3.3-70b-versatile"
+max_new_ai_jobs_per_run: 120   # stay within Groq free limits; excess kept unscored
