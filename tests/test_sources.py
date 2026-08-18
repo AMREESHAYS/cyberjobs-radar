@@ -64,3 +64,26 @@ def test_nav_no_token_and_no_public_token_returns_empty():
     def failing_get(url, params=None, headers=None, timeout=20):
         raise RuntimeError("no token endpoint")
     assert nav.fetch({"secrets": {}}, get=failing_get) == []
+
+from pipeline.sources import remote_apis
+
+def test_arbeitnow_keeps_cyber_and_maps_country():
+    payload = json.load(open("tests/fixtures/arbeitnow.json"))
+    cfg = {"search_terms": ["security", "pentest"]}
+    jobs = remote_apis.fetch_arbeitnow(cfg, get=_fixture_get(payload))
+    assert jobs[0].country == "DE"
+    assert jobs[0].url.endswith("/view/sec-eng-1")
+
+def test_remoteok_skips_legal_row_and_sets_remote():
+    payload = json.load(open("tests/fixtures/remoteok.json"))
+    cfg = {"search_terms": ["security", "pentest"]}
+    jobs = remote_apis.fetch_remoteok(cfg, get=_fixture_get(payload))
+    assert len(jobs) == 1
+    assert jobs[0].country == "REMOTE" and jobs[0].remote is True
+
+def test_arbeitnow_filters_non_cyber():
+    payload = {"data": [{"slug": "x", "title": "Baker", "company_name": "Bread",
+                          "location": "Bern, Switzerland", "url": "https://arbeitnow.com/view/x",
+                          "description": "bake bread", "tags": []}]}
+    jobs = remote_apis.fetch_arbeitnow({"search_terms": ["security"]}, get=_fixture_get(payload))
+    assert jobs == []
