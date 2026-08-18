@@ -1,0 +1,50 @@
+name: fetch-and-deploy
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12h
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Run pipeline
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NAV_TOKEN: ${{ secrets.NAV_TOKEN }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+        run: python -m pipeline.run
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/jobs.json
+          git commit -m "chore: refresh jobs data" || echo "no changes"
+          git push
+      - name: Assemble site
+        run: |
+          mkdir -p _site/data
+          cp -r web/* _site/
+          cp data/jobs.json _site/data/jobs.json
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: _site }
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
