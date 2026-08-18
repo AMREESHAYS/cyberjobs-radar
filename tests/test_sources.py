@@ -47,3 +47,20 @@ def test_jobtech_normalizes():
     assert j.url.endswith("/annons/abc123")
     assert j.source == "jobtech" and j.source_type == "api"
     assert "Secure our platform" in j.description
+
+from pipeline.sources import nav
+
+def test_nav_normalizes_with_token():
+    payload = json.load(open("tests/fixtures/nav_feed.json"))
+    cfg = {"secrets": {"NAV_TOKEN": "tok"}}
+    jobs = nav.fetch(cfg, get=_fixture_get(payload))
+    j = jobs[0]
+    assert j.country == "NO"
+    assert j.company == "Oslo Sikkerhet AS"
+    assert j.url.endswith("/stilling/no-1")
+    assert j.source == "nav" and j.source_type == "scraper"
+
+def test_nav_no_token_and_no_public_token_returns_empty():
+    def failing_get(url, params=None, headers=None, timeout=20):
+        raise RuntimeError("no token endpoint")
+    assert nav.fetch({"secrets": {}}, get=failing_get) == []
