@@ -10,9 +10,16 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env   # fill ADZUNA_* and GROQ_API_KEY
 set -a; source .env; set +a
-python -m pipeline.run          # writes data/jobs.json
-python -m http.server -d .      # open http://localhost:8000/web/
+python -m pipeline.run                 # writes data/jobs.json
+# view locally: index.html loads data/jobs.json beside it, so mirror the deploy layout
+mkdir -p web/data && cp data/jobs.json web/data/   # local only; CI does this itself
+python -m http.server 8000 -d web      # open http://localhost:8000/
 ```
+
+> Note: `python -m pipeline.run` runs the fetch with whatever keys are in your env.
+> With no keys you still get Sweden (JobTech) + remote boards; Switzerland/cold-Europe
+> onsite jobs need the free `ADZUNA_*` keys, and AI scoring needs `GROQ_API_KEY`
+> (without it jobs are saved unscored — score shows "—").
 
 ## Tests
 ```bash
