@@ -1,5 +1,5 @@
 import json
-from pipeline.ai import analyze
+from pipeline.ai import analyze, build_client
 from pipeline.models import Job, make_id, NOT_STATED
 
 class FakeResp:
@@ -55,3 +55,10 @@ def test_analyze_survives_client_error():
         def create(self, **kw): raise RuntimeError("429")
     analyze(j, {}, Boom2(), "m")
     assert j.score is None and j.score_reason == "AI unavailable"
+
+def test_build_client_disabled_when_no_key_for_hosted_provider():
+    cfg = {"secrets": {}, "ai": {"base_url_default": "https://api.groq.com/openai/v1",
+                                  "model_default": "llama-3.3-70b-versatile"}}
+    client, model = build_client(cfg)
+    assert client is None
+    assert model is not None

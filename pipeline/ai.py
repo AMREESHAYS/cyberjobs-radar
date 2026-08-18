@@ -32,11 +32,17 @@ def build_client(cfg):
     sec = cfg.get("secrets", {})
     base_url = sec.get("AI_BASE_URL") or cfg.get("ai", {}).get("base_url_default")
     model = sec.get("AI_MODEL") or cfg.get("ai", {}).get("model_default")
-    key = sec.get("GROQ_API_KEY") or "ollama"  # local ollama ignores key
+    key = sec.get("GROQ_API_KEY")
     if not base_url:
         return None, model
-    from openai import OpenAI
-    return OpenAI(base_url=base_url, api_key=key), model
+    is_local = "localhost" in base_url or "127.0.0.1" in base_url
+    if not key and not is_local:
+        return None, model  # hosted provider needs a key; degrade to AI-disabled
+    try:
+        from openai import OpenAI
+    except ImportError:
+        return None, model  # openai package not installed; degrade to AI-disabled
+    return OpenAI(base_url=base_url, api_key=key or "ollama"), model
 
 def _coerce(job: Job, data: dict) -> None:
     job.score = data.get("score") if isinstance(data.get("score"), int) else None
