@@ -1,0 +1,9 @@
+{"total": {"value": 1}, "hits": [
+  {"id": "abc123", "headline": "Security Engineer (AppSec)",
+   "employer": {"name": "Nordic Fintech AB"},
+   "workplace_address": {"municipality": "Stockholm", "region": "Stockholm", "country": "Sverige"},
+   "webpage_url": "https://arbetsformedlingen.se/annons/abc123",
+   "publication_date": "2026-08-12T08:00:00",
+   "description": {"text": "Secure our platform. English speaking team."},
+   "salary_type": {"label": "Fast lön"}}
+]}

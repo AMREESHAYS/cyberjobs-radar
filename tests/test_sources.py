@@ -34,3 +34,16 @@ def test_adzuna_normalizes(tmp_path):
 def test_adzuna_no_keys_returns_empty():
     cfg = {"countries": ["CH"], "search_terms": ["security"], "secrets": {}}
     assert adzuna.fetch(cfg, get=_fixture_get({"results": []})) == []
+
+from pipeline.sources import jobtech
+
+def test_jobtech_normalizes():
+    payload = json.load(open("tests/fixtures/jobtech.json"))
+    cfg = {"search_terms": ["security"]}
+    jobs = jobtech.fetch(cfg, get=_fixture_get(payload))
+    j = jobs[0]
+    assert j.country == "SE"
+    assert j.company == "Nordic Fintech AB"
+    assert j.url.endswith("/annons/abc123")
+    assert j.source == "jobtech" and j.source_type == "api"
+    assert "Secure our platform" in j.description
