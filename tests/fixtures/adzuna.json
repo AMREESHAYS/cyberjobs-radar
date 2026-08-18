@@ -1,0 +1,9 @@
+{"results": [
+  {"id": "111", "title": "Junior SOC Analyst",
+   "company": {"display_name": "SecureBank AG"},
+   "location": {"display_name": "Zurich, Switzerland", "area": ["Switzerland","Zurich"]},
+   "redirect_url": "https://www.adzuna.ch/land/ad/111",
+   "created": "2026-08-10T09:00:00Z",
+   "description": "Monitor alerts. Visa sponsorship available.",
+   "salary_min": 80000, "salary_max": 95000, "contract_time": "full_time"}
+]}

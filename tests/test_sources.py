@@ -12,3 +12,25 @@ def test_fetch_all_isolates_failures():
     jobs = fetch_all({}, adapters=[good, boom])
     assert len(jobs) == 1
     assert jobs[0].url == "https://ok.test/1"
+
+import json
+from pipeline.sources import adzuna
+
+def _fixture_get(payload):
+    return lambda url, params=None, headers=None, timeout=20: payload
+
+def test_adzuna_normalizes(tmp_path):
+    payload = json.load(open("tests/fixtures/adzuna.json"))
+    cfg = {"countries": ["CH"], "search_terms": ["security"],
+           "secrets": {"ADZUNA_APP_ID": "a", "ADZUNA_APP_KEY": "b"}}
+    jobs = adzuna.fetch(cfg, get=_fixture_get(payload))
+    j = jobs[0]
+    assert j.company == "SecureBank AG"
+    assert j.country == "CH"
+    assert j.url == "https://www.adzuna.ch/land/ad/111"
+    assert j.source == "adzuna" and j.source_type == "api"
+    assert "80000" in j.salary
+
+def test_adzuna_no_keys_returns_empty():
+    cfg = {"countries": ["CH"], "search_terms": ["security"], "secrets": {}}
+    assert adzuna.fetch(cfg, get=_fixture_get({"results": []})) == []
