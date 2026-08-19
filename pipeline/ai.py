@@ -44,7 +44,10 @@ def build_client(cfg):
         from openai import OpenAI
     except ImportError:
         return None, model  # openai package not installed; degrade to AI-disabled
-    return OpenAI(base_url=base_url, api_key=key or "ollama"), model
+    # cap per-request time + retries so a slow/hung provider can't stall the run;
+    # analyze() catches timeouts and keeps the job unscored ("AI unavailable")
+    return OpenAI(base_url=base_url, api_key=key or "ollama",
+                  timeout=45, max_retries=2), model
 
 def _coerce(job: Job, data: dict) -> None:
     job.score = data.get("score") if isinstance(data.get("score"), int) else None

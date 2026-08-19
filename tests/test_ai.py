@@ -70,9 +70,10 @@ def test_build_client_uses_ai_api_key_for_any_provider(monkeypatch):
     captured = {}
     fake = types.ModuleType("openai")
     class FakeOpenAI:
-        def __init__(self, base_url=None, api_key=None):
+        def __init__(self, base_url=None, api_key=None, **kwargs):
             captured["base_url"] = base_url
             captured["api_key"] = api_key
+            captured.update(kwargs)
     fake.OpenAI = FakeOpenAI
     monkeypatch.setitem(sys.modules, "openai", fake)
     from pipeline.ai import build_client
