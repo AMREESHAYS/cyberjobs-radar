@@ -1,5 +1,6 @@
 from __future__ import annotations
 import json
+import logging
 from .models import Job, NOT_STATED
 
 PROMPT = """You rank cybersecurity job postings for a specific candidate.
@@ -75,6 +76,10 @@ def analyze(job: Job, profile: dict, client, model: str) -> None:
             raw = raw.strip("`").split("\n", 1)[-1].rsplit("```", 1)[0]
         data = json.loads(raw)
         _coerce(job, data)
-    except Exception:
+    except Exception as e:
+        # log the real cause (401 bad key vs 404/400 wrong model vs JSON parse)
+        # so failures are diagnosable in CI instead of silently "AI unavailable"
+        logging.getLogger("ai").warning("analyze failed for %r: %s: %s",
+                                        job.title[:40], type(e).__name__, e)
         job.score, job.score_reason = None, "AI unavailable"
         job.hiring_process = NOT_STATED
