@@ -16,3 +16,6 @@ ai:
   base_url_default: "https://api.groq.com/openai/v1"
   model_default: "llama-3.3-70b-versatile"
 max_new_ai_jobs_per_run: 120   # stay within Groq free limits; excess kept unscored
+digest:
+  min_score: 70    # email jobs scoring >= this (unscored jobs are included too, so it works without AI)
+  cap: 25          # max jobs per email

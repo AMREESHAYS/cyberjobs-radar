@@ -21,6 +21,19 @@ python -m http.server 8000 -d web      # open http://localhost:8000/
 > onsite jobs need the free `ADZUNA_*` keys, and AI scoring needs `GROQ_API_KEY`
 > (without it jobs are saved unscored — score shows "—").
 
+## One command (fetch + serve + phone)
+```bash
+./run.sh            # fetch jobs, serve http://localhost:8000/
+./run.sh --tunnel   # same, plus a public phone-reachable URL via cloudflared
+```
+
+## Email digest (Phase 2)
+After each run the workflow emails you new matching jobs. Add these secrets to turn it on
+(no-ops without them): `GMAIL_USER`, `GMAIL_APP_PASSWORD` (a Gmail
+[app password](https://myaccount.google.com/apppasswords), not your login), `DIGEST_TO`.
+Run manually with `python -m pipeline.digest`. `data/digest_state.json` remembers what was
+already sent so you never get duplicates.
+
 ## Tests
 ```bash
 pytest -q
@@ -28,11 +41,14 @@ node --test tests/test_filters.mjs
 ```
 
 ## Secrets (GitHub → Settings → Secrets → Actions)
-`ADZUNA_APP_ID`, `ADZUNA_APP_KEY`, `GROQ_API_KEY` (optional `NAV_TOKEN`, `AI_MODEL`, `AI_BASE_URL`).
+Jobs + AI: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY`, `GROQ_API_KEY` (optional `NAV_TOKEN`, `AI_MODEL`, `AI_BASE_URL`).
+Digest: `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `DIGEST_TO`.
 
 ## Deploy
-Enable GitHub Pages (Source: GitHub Actions). The scheduled workflow refreshes
-`data/jobs.json` and redeploys `web/`. Install to Android home screen from the browser menu.
+Enable GitHub Actions once from the repo's **Actions** tab (a new repo gates the first run
+behind a click). The 12h cron then refreshes `data/jobs.json` and emails the digest. Pages
+hosting is dormant unless you set repo variable `ENABLE_PAGES=true` (needs a public repo, or
+private + GitHub Pro); otherwise use `./run.sh --tunnel` to reach it from your phone.
 
 **Integrity:** every job links to its real source; AI only condenses posting text;
 absent fields show "not stated". Nothing is faked.

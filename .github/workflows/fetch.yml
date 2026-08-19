@@ -27,11 +27,17 @@ jobs:
           AI_MODEL: ${{ secrets.AI_MODEL }}
           AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
         run: python -m pipeline.run
+      - name: Email digest (no-op without GMAIL secrets)
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+        run: python -m pipeline.digest
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data/jobs.json
+          git add data/
           git commit -m "chore: refresh jobs data" || echo "no changes"
           git push
       # Pages steps are dormant on a private/free repo. To enable (needs GitHub
