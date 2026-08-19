@@ -41,6 +41,13 @@ def _esc(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+def _work_mode(j: Job) -> str:
+    # same rule as the web card: never infer an office from an address
+    if j.remote is True or j.country == "REMOTE":
+        return "Remote"
+    return "On site" if j.remote is False else NOT_STATED
+
+
 def render_html(jobs: list[Job]) -> str:
     # email clients drop backdrop-filter, so glass is faked with solid dark cards
     # + an aurora gradient banner (linear-gradient renders in most clients).
@@ -48,6 +55,16 @@ def render_html(jobs: list[Job]) -> str:
     for j in jobs:
         score = "—" if j.score is None else str(j.score)
         skills = _esc(", ".join(j.skills) if j.skills else NOT_STATED)
+        facts = "".join(
+            f'<td style="padding:2px 10px 2px 0;">'
+            f'<div style="color:#5a6690;font-size:10px;letter-spacing:.06em;">{label}</div>'
+            f'<div style="color:#d6deff;font-size:12px;">{_esc(value)}</div></td>'
+            for label, value in (
+                ("LOCATION", j.location or NOT_STATED),
+                ("WORK MODE", _work_mode(j)),
+                ("TYPE", j.employment_type or NOT_STATED),
+                ("SALARY", j.salary or NOT_STATED),
+            ))
         reason = "" if j.score_reason in ("AI disabled", "AI unavailable") else _esc(j.score_reason)
         rows.append(f"""
         <tr><td style="padding:0 0 14px;">
@@ -63,7 +80,8 @@ def render_html(jobs: list[Job]) -> str:
                   <div style="color:#9aa7c7;font-size:13px;padding:4px 0;">
                     {_esc(j.company)} · <span style="color:#8b7bff;">{_esc(j.country)}</span> · {_esc(j.source)}</div>
                   {'<div style="color:#d6deff;font-size:13px;">' + reason + '</div>' if reason else ''}
-                  <div style="color:#9aa7c7;font-size:12px;padding-top:6px;">Skills: {skills}</div>
+                  <table width="100%" style="margin-top:8px;"><tr>{facts}</tr></table>
+                  <div style="color:#9aa7c7;font-size:12px;padding-top:8px;">Skills: {skills}</div>
                   <a href="{_esc(j.url)}" style="display:inline-block;margin-top:12px;padding:9px 16px;border-radius:999px;
                     background:linear-gradient(120deg,#4fd6e0,#8b7bff);color:#06111f;font-weight:700;
                     font-size:13px;text-decoration:none;">Open posting →</a>

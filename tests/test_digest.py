@@ -1,6 +1,6 @@
 import json
 from pipeline.digest import select, load_emailed, save_emailed, render_html, run_digest
-from pipeline.models import Job, make_id
+from pipeline.models import Job, make_id, NOT_STATED
 
 
 def _j(url, score=None, first_seen="2026-08-19", source="jobtech"):
@@ -67,3 +67,21 @@ def test_run_digest_noop_without_credentials(tmp_path):
     cfg = {"secrets": {}, "digest": {"min_score": 50, "cap": 25}}
     s = run_digest(cfg, str(data), str(state), send_fn=lambda *a, **k: called.append(1))
     assert s["sent"] == 0 and called == []  # no creds -> never sends
+
+def test_render_states_the_four_facts_and_never_invents_an_office():
+    onsite = Job(id="a", title="Security Engineer", company="Acme", location="Zurich",
+                 country="CH", url="https://b.test/a", source="adzuna", source_type="api",
+                 remote=NOT_STATED, salary="90000 CHF", employment_type="Full Time",
+                 description="d")
+    html = render_html([onsite])
+    for label in ("LOCATION", "WORK MODE", "TYPE", "SALARY"):
+        assert label in html
+    assert "Zurich" in html and "90000 CHF" in html and "Full Time" in html
+    assert "On site" not in html  # adzuna states no remote flag, so neither do we
+
+def test_render_marks_remote_and_absent_fields():
+    remote = Job(id="b", title="Security Engineer", company="Acme", location="Europe",
+                 country="REMOTE", url="https://b.test/b", source="jobicy", source_type="api",
+                 remote=True, description="d")
+    html = render_html([remote])
+    assert "Remote" in html and "not stated" in html  # salary + type absent, stated as such
