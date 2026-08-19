@@ -1,7 +1,7 @@
 name: fetch-and-deploy
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12h
+    - cron: "0 * * * *"   # hourly
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -41,6 +41,8 @@ jobs:
           git config user.email "actions@github.com"
           git add data/
           git commit -m "chore: refresh jobs data" || echo "no changes"
+          # hourly runs race with local pushes; rebase before pushing
+          git pull --rebase --autostash origin master
           git push
       # Pages steps are dormant on a private/free repo. To enable (needs GitHub
       # Pages available for the repo — public, or private with Pro): in repo
