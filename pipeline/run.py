@@ -9,7 +9,7 @@ from . import store
 log = logging.getLogger("run")
 
 # import adapter modules so they register themselves
-from .sources import adzuna, jobtech, nav, remote_apis  # noqa: E402,F401
+from .sources import adzuna, jobtech, nav, remote_apis, crypto_boards  # noqa: E402,F401
 
 def prefilter(jobs, cfg):
     targets = set(cfg.get("countries", []))

@@ -87,3 +87,61 @@ def test_arbeitnow_filters_non_cyber():
                           "description": "bake bread", "tags": []}]}
     jobs = remote_apis.fetch_arbeitnow({"search_terms": ["security"]}, get=_fixture_get(payload))
     assert jobs == []
+
+from pipeline.sources import crypto_boards
+
+def _routed_get(routes):
+    def get(url, params=None, headers=None, timeout=20):
+        if url not in routes:
+            raise AssertionError(f"unexpected fetch: {url}")
+        return open(routes[url]).read()
+    return get
+
+CJL_JOB = ("https://cryptojobslist.com/jobs/blockchain-sr-lead-security-engineer"
+           "-plano-tx-united-states-at-jpmorgan-chase-co")
+
+def test_cryptovalley_filters_slugs_and_reads_ld_json():
+    get = _routed_get({
+        "https://cryptovalley.jobs/sitemap.xml": "tests/fixtures/cryptovalley_sitemap.xml",
+        "https://cryptovalley.jobs/jobs/security-engineer-zug-abc123": "tests/fixtures/cryptovalley_job.html",
+    })
+    jobs = crypto_boards.fetch_cryptovalley({"search_terms": ["security"]}, get=get)
+    assert len(jobs) == 1  # account-executive slug never fetched
+    j = jobs[0]
+    assert j.company == "Solana Foundation"
+    assert j.title == "Data Scientist - Fraud Risk"
+    assert j.url.endswith("security-engineer-zug-abc123")
+    assert j.source == "cryptovalley" and j.source_type == "scraper"
+    assert j.posted_date == "2026-08-10"
+    assert j.remote is True and j.country == "REMOTE"  # location says "; Remote"
+    assert j.location == "New York, NY, USA; Remote"  # board's bogus "CH" code dropped
+    assert "<p>" not in j.description and "fraud" in j.description.lower()
+    assert j.salary == NOT_STATED
+
+def test_cryptojobslist_dedupes_links_and_maps_salary():
+    get = _routed_get({
+        "https://cryptojobslist.com/security-jobs": "tests/fixtures/cryptojobslist_security.html",
+        CJL_JOB: "tests/fixtures/cryptojobslist_job.html",
+    })
+    jobs = crypto_boards.fetch_cryptojobslist({}, get=get)
+    assert len(jobs) == 1  # duplicate href fetched once, /companies/ link ignored
+    j = jobs[0]
+    assert j.company == "JPMorgan Chase & Co"
+    assert j.url == CJL_JOB
+    assert j.location == "Plano, United States"
+    assert j.country == "OTHER"  # non-target country, prefilter drops it
+    assert j.salary == "180000-250000 USD year"
+
+def test_crypto_boards_skip_pages_without_job_posting():
+    get = _routed_get({
+        "https://cryptojobslist.com/security-jobs": "tests/fixtures/cryptojobslist_security.html",
+        CJL_JOB: "tests/fixtures/cryptovalley_sitemap.xml",  # no ld+json JobPosting
+    })
+    assert crypto_boards.fetch_cryptojobslist({}, get=get) == []
+
+def test_crypto_boards_drop_off_topic_postings():
+    get = _routed_get({
+        "https://cryptojobslist.com/security-jobs": "tests/fixtures/cryptojobslist_security.html",
+        CJL_JOB: "tests/fixtures/cryptojobslist_job.html",
+    })
+    assert crypto_boards.fetch_cryptojobslist({"search_terms": ["SOC analyst"]}, get=get) == []
