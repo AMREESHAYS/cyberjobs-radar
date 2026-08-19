@@ -1,7 +1,7 @@
 from __future__ import annotations
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import get_json
+from .base import employment_label, get_json, strip_html
 
 _COUNTRY_MAP = {  # our code -> adzuna country slug
     "CH": "ch", "DE": "de", "AT": "at", "NL": "nl", "BE": "be",
@@ -43,9 +43,10 @@ def fetch(cfg, get=get_json):
                 url=url,
                 source="adzuna", source_type="api",
                 posted_date=(r.get("created") or "")[:10] or None,
-                remote=False,
+                remote=NOT_STATED,  # adzuna states no remote flag
                 salary=_salary(r),
-                description=r.get("description", ""),
+                employment_type=employment_label(r.get("contract_time"), r.get("contract_type")),
+                description=strip_html(r.get("description")),
             ))
     return jobs
 

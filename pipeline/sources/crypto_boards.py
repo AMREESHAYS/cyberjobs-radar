@@ -3,7 +3,7 @@ import json
 import re
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import get_json, get_text
+from .base import employment_label, get_json, get_text, strip_html
 from .remote_apis import _COUNTRY_WORDS, _keyword_match, _terms
 
 # Crypto/web3 boards. Neither exposes a usable API or feed, but both render a
@@ -13,7 +13,6 @@ HEADERS = {"User-Agent": "cyberjobs-radar/1.0 (personal job search)"}
 MAX_JOBS_PER_BOARD = 25  # per run; keeps a cron run to a bounded number of requests
 
 _LD_JSON = re.compile(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', re.S)
-_TAGS = re.compile(r"<[^>]+>")
 
 def _job_posting(html: str) -> dict | None:
     for block in _LD_JSON.findall(html or ""):
@@ -81,7 +80,8 @@ def _to_job(source: str, url: str, posting: dict) -> Job | None:
         posted_date=(posting.get("datePosted") or "")[:10] or None,
         remote=remote,
         salary=_salary(posting),
-        description=_TAGS.sub(" ", posting.get("description") or "").strip(),
+        employment_type=employment_label(posting.get("employmentType")),
+        description=strip_html(posting.get("description")),
     )
 
 def _harvest(source: str, urls: list[str], get, terms: list[str]) -> list[Job]:
@@ -157,7 +157,7 @@ def fetch_web3career(cfg, get=get_json):
         title = (row.get("title") or "").strip()
         if not url or not title:
             continue
-        description = _TAGS.sub(" ", row.get("description") or "").strip()
+        description = strip_html(row.get("description"))
         if not _keyword_match(f"{title} {description} {' '.join(row.get('tags') or [])}", terms):
             continue
         location = row.get("location") or NOT_STATED
@@ -175,6 +175,7 @@ def fetch_web3career(cfg, get=get_json):
             posted_date=posted if re.fullmatch(r"\d{4}-\d{2}-\d{2}", posted) else None,
             remote=remote,
             salary=row.get("salary") or NOT_STATED,
+            employment_type=employment_label(row.get("employmentType")),
             description=description,
         ))
     return jobs

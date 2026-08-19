@@ -194,7 +194,7 @@ def test_eures_finland_filters_and_maps():
     assert j.source == "eures-fi" and j.source_type == "api"
     assert j.url.startswith("https://europa.eu/eures/portal/jv-se/jv-details/")
     assert " " not in j.url.split("/")[-1].split("?")[0]  # id is percent-encoded
-    assert j.posted_date == "2026-08-19" and j.remote is False
+    assert j.posted_date == "2026-08-19" and j.remote == NOT_STATED  # EURES states no remote flag
     assert "<p>" not in j.description
 
 def test_eures_denmark_prefers_queried_country_in_multi_country_posting():
@@ -210,3 +210,39 @@ def test_eures_dedupes_across_keyword_queries():
     cfg = {"search_terms": ["security engineer", "cloud security"]}
     jobs = eures.fetch_finland(cfg, get=_post_capture(payload, []))
     assert len({j.id for j in jobs}) == len(jobs) == 2  # two queries, no repeats
+
+# --- employment type / clean text, added when the cards started rendering them ---
+
+def test_jobicy_states_employment_type_and_strips_html():
+    payload = {"jobs": [{"id": 1, "jobTitle": "Security Engineer", "companyName": "Acme",
+                         "jobGeo": "Europe", "jobType": ["Full-Time"], "jobLevel": "Midweight",
+                         "url": "https://jobicy.com/jobs/1",
+                         "jobDescription": "<h2>About</h2><p>Break <b>things</b>.</p>"}]}
+    jobs = remote_apis.fetch_jobicy({"search_terms": ["security"]}, get=_fixture_get(payload))
+    assert jobs[0].employment_type == "Full Time"
+    assert jobs[0].description == "About Break things ."
+
+def test_himalayas_maps_salary_range_and_location():
+    payload = {"jobs": [{"guid": "g1", "title": "Security Engineer", "companyName": "Acme",
+                         "applicationLink": "https://himalayas.app/jobs/1",
+                         "description": "<p>Security work.</p>", "employmentType": "Full Time",
+                         "seniority": ["Entry-level"], "minSalary": 90000, "maxSalary": 120000,
+                         "currency": "USD", "salaryPeriod": "yearly",
+                         "locationRestrictions": ["Germany", "Poland"], "pubDate": "2026-08-01T00:00:00Z"}]}
+    jobs = remote_apis.fetch_himalayas({"search_terms": ["security"]}, get=_fixture_get(payload))
+    j = jobs[0]
+    assert j.salary == "90000-120000 USD yearly"
+    assert j.location == "Germany, Poland" and j.posted_date == "2026-08-01"
+    assert j.employment_type == "Full Time"
+
+def test_employment_type_absent_stays_not_stated():
+    payload = {"jobs": [{"guid": "g2", "title": "Security Engineer", "companyName": "Acme",
+                         "applicationLink": "https://himalayas.app/jobs/2",
+                         "description": "Security work."}]}
+    jobs = remote_apis.fetch_himalayas({"search_terms": ["security"]}, get=_fixture_get(payload))
+    assert jobs[0].employment_type == NOT_STATED and jobs[0].salary == NOT_STATED
+
+def test_eures_maps_schedule_codes():
+    payload = json.load(open("tests/fixtures/eures_search.json"))
+    jobs = eures.fetch_finland({"search_terms": ["security engineer"]}, get=_post_capture(payload, []))
+    assert jobs[0].employment_type == "Fulltime, Directhire"

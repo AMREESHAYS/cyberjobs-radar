@@ -2,7 +2,7 @@ from __future__ import annotations
 import re
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import get_json
+from .base import employment_label, get_json, strip_html
 
 # rough country detection from a free-text location string
 _COUNTRY_WORDS = {
@@ -25,6 +25,12 @@ def _keyword_match(text: str, terms: list[str]) -> bool:
 def _terms(cfg):
     return cfg.get("search_terms", ["security", "cyber", "pentest", "soc"])
 
+def _range_salary(low, high, currency=None, period=None) -> str:
+    if low is None and high is None:
+        return NOT_STATED
+    amount = f"{low}-{high}" if low is not None and high is not None else str(low if low is not None else high)
+    return " ".join(x for x in (amount, currency, period) if x)
+
 # --- Arbeitnow: EU/DE board ---
 def fetch_arbeitnow(cfg, get=get_json):
     data = get("https://www.arbeitnow.com/api/job-board-api")
@@ -45,7 +51,8 @@ def fetch_arbeitnow(cfg, get=get_json):
             location=loc, country=_country_from(loc),
             url=url, source="arbeitnow", source_type="api",
             posted_date=None, remote=bool(r.get("remote")),
-            salary=NOT_STATED, description=r.get("description", ""),
+            salary=NOT_STATED, employment_type=employment_label(r.get("job_types")),
+            description=strip_html(r.get("description")),
         ))
     return jobs
 
@@ -69,7 +76,9 @@ def fetch_jobicy(cfg, get=get_json):
             location=r.get("jobGeo", "Remote"), country="REMOTE",
             url=url, source="jobicy", source_type="api",
             posted_date=(r.get("pubDate") or "")[:10] or None, remote=True,
-            salary=NOT_STATED, description=r.get("jobDescription", ""),
+            salary=NOT_STATED,
+            employment_type=employment_label(r.get("jobType")),
+            description=strip_html(r.get("jobDescription")),
         ))
     return jobs
 
@@ -95,7 +104,8 @@ def fetch_remoteok(cfg, get=get_json):
             location="Remote", country="REMOTE",
             url=url, source="remoteok", source_type="api",
             posted_date=(r.get("date") or "")[:10] or None, remote=True,
-            salary=NOT_STATED, description=r.get("description", ""),
+            salary=NOT_STATED, employment_type=NOT_STATED,
+            description=strip_html(r.get("description")),
         ))
     return jobs
 
@@ -115,10 +125,14 @@ def fetch_himalayas(cfg, get=get_json):
             id=make_id("himalayas", str(r.get("guid")), url),
             title=r.get("title", "").strip(),
             company=r.get("companyName", NOT_STATED),
-            location="Remote", country="REMOTE",
+            location=", ".join(r.get("locationRestrictions") or []) or "Remote",
+            country="REMOTE",
             url=url, source="himalayas", source_type="api",
-            posted_date=None, remote=True,
-            salary=NOT_STATED, description=r.get("description", ""),
+            posted_date=(r.get("pubDate") or "")[:10] or None, remote=True,
+            salary=_range_salary(r.get("minSalary"), r.get("maxSalary"),
+                                 r.get("currency"), r.get("salaryPeriod")),
+            employment_type=employment_label(r.get("employmentType")),
+            description=strip_html(r.get("description")),
         ))
     return jobs
 

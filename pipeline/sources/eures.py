@@ -1,9 +1,8 @@
 from __future__ import annotations
-import re
 from datetime import datetime, timezone
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import post_json
+from .base import employment_label, post_json, strip_html
 from .remote_apis import _keyword_match, _terms
 from urllib.parse import quote
 
@@ -16,8 +15,6 @@ DETAILS_URL = "https://europa.eu/eures/portal/jv-se/jv-details/"
 HEADERS = {"User-Agent": "cyberjobs-radar/1.0 (personal job search)",
            "Content-Type": "application/json"}
 RESULTS_PER_PAGE = 50
-
-_TAGS = re.compile(r"<[^>]+>")
 
 def _body(keyword: str, country: str) -> dict:
     # the endpoint rejects a partial body, so every filter list is sent explicitly
@@ -58,7 +55,7 @@ def _search(cfg, country: str, post) -> list[Job]:
             jv_id, title = jv.get("id"), (jv.get("title") or "").strip()
             if not jv_id or not title or jv_id in seen:
                 continue
-            description = _TAGS.sub(" ", jv.get("description") or "").strip()
+            description = strip_html(jv.get("description"))
             # EURES keyword search is loose (a "security" query returns delivery
             # drivers), so every hit is re-checked against our own terms
             if not _keyword_match(f"{title} {description}", terms):
@@ -76,8 +73,10 @@ def _search(cfg, country: str, post) -> list[Job]:
                 source=f"eures-{country}",
                 source_type="api",
                 posted_date=_date(jv.get("creationDate")),
-                remote=False,  # EURES has no remote flag; nothing to claim
+                remote=NOT_STATED,  # EURES has no remote flag; nothing to claim
                 salary=NOT_STATED,
+                employment_type=employment_label(jv.get("positionScheduleCodes"),
+                                                 jv.get("positionOfferingCode")),
                 description=description,
             ))
     return jobs

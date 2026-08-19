@@ -21,6 +21,7 @@ class Job:
     posted_date: str | None = None
     remote: bool | str = False
     salary: str = NOT_STATED
+    employment_type: str = NOT_STATED  # full-time / internship / ... as stated
     description: str = ""
     # AI-added
     score: int | None = None

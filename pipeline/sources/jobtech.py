@@ -1,7 +1,7 @@
 from __future__ import annotations
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import get_json
+from .base import employment_label, get_json, strip_html
 
 SEARCH = "https://jobsearch.api.jobtechdev.se/search"
 
@@ -24,9 +24,12 @@ def fetch(cfg, get=get_json):
             url=url,
             source="jobtech", source_type="api",
             posted_date=(r.get("publication_date") or "")[:10] or None,
-            remote=False,
+            remote=NOT_STATED,  # jobtech states no remote flag
             salary=(r.get("salary_type") or {}).get("label", NOT_STATED) or NOT_STATED,
-            description=(r.get("description") or {}).get("text", ""),
+            employment_type=employment_label(
+                (r.get("working_hours_type") or {}).get("label"),
+                (r.get("employment_type") or {}).get("label")),
+            description=strip_html((r.get("description") or {}).get("text", "")),
         ))
     return jobs
 

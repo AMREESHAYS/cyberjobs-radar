@@ -1,5 +1,5 @@
 from pipeline.store import merge, age_out, save, load
-from pipeline.models import Job, make_id
+from pipeline.models import Job, make_id, NOT_STATED
 
 def _j(url, score=None, first_seen=None, source="s"):
     return Job(id=make_id(source, url, url), title="t", company="c", location="l",
@@ -36,3 +36,20 @@ def test_save_rejects_missing_url(tmp_path):
     bad = _j("https://a/1"); bad.url = ""
     with pytest.raises(ValueError):
         save(str(p), [bad])
+
+def test_merge_refreshes_source_fields_but_keeps_ai_work():
+    stored = Job(id="x1", title="Security Engineer", company="Acme", location="not stated",
+                 country="CH", url="https://b.test/1", source="s", source_type="api",
+                 salary=NOT_STATED, description="old text", score=82,
+                 score_reason="strong match", skills=["siem"], hiring_process="3 rounds",
+                 seniority_fit="junior", first_seen="2026-08-01")
+    refetched = Job(id="x1", title="Security Engineer", company="Acme", location="Zurich",
+                    country="CH", url="https://b.test/1", source="s", source_type="api",
+                    salary="90000-110000 CHF", employment_type="Full Time",
+                    description="new text")
+    all_jobs, new = merge([stored], [refetched], "2026-08-20")
+    assert new == []  # not a new posting
+    j = all_jobs[0]
+    assert (j.location, j.salary, j.employment_type) == ("Zurich", "90000-110000 CHF", "Full Time")
+    assert (j.score, j.score_reason, j.skills) == (82, "strong match", ["siem"])
+    assert (j.hiring_process, j.seniority_fit, j.first_seen) == ("3 rounds", "junior", "2026-08-01")

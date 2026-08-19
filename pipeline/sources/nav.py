@@ -1,7 +1,7 @@
 from __future__ import annotations
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import get_json
+from .base import employment_label, get_json, strip_html
 
 FEED = "https://pam-stilling-feed.nav.no/api/v1/feed"
 PUBLIC_TOKEN = "https://pam-stilling-feed.nav.no/api/publicToken"
@@ -39,9 +39,10 @@ def fetch(cfg, get=get_json):
             url=url,
             source="nav", source_type="scraper",
             posted_date=(r.get("published") or "")[:10] or None,
-            remote=False,
+            remote=NOT_STATED,  # nav states no remote flag
             salary=NOT_STATED,
-            description=r.get("description", ""),
+            employment_type=employment_label(r.get("engagementType"), r.get("extent")),
+            description=strip_html(r.get("description")),
         ))
     return jobs
 

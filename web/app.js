@@ -3,6 +3,8 @@ import { filterJobs } from "./filters.js";
 const LS = { saved: "cjr_saved", applied: "cjr_applied" };
 const getSet = k => new Set(JSON.parse(localStorage.getItem(k) || "[]"));
 const putSet = (k, s) => localStorage.setItem(k, JSON.stringify([...s]));
+// rows stored before the pipeline started stripping tags still hold raw HTML
+const plain = s => (s || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 const esc = s => (s || "").replace(/[&<>"]/g, m => ({ "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;" }[m]));
 
 let JOBS = [];
@@ -49,6 +51,11 @@ function render() {
   for (const j of rows) list.appendChild(card(j, saved, applied));
 }
 
+// only claim "Remote" when a source actually said so — everything else keeps
+// showing the stated location rather than asserting an office
+const isRemote = j => j.remote === true || j.country === "REMOTE";
+const workMode = j => isRemote(j) ? "Remote" : (j.remote === false ? "On site" : "not stated");
+
 function card(j, saved, applied) {
   const el = document.createElement("article");
   el.className = "card";
@@ -64,13 +71,18 @@ function card(j, saved, applied) {
       <span class="src ${j.source_type}">${esc(j.source)}</span>
       ${j.remote === true ? '<span class="badge">remote</span>' : ""}
     </p>
+    <ul class="facts">
+      <li><span>Location</span>${esc(j.location && j.location !== "not stated" ? j.location : "not stated")}</li>
+      <li><span>Work mode</span>${workMode(j)}</li>
+      <li><span>Type</span>${esc(j.employment_type || "not stated")}</li>
+      <li><span>Salary</span>${esc(j.salary || "not stated")}</li>
+    </ul>
     <p class="reason">${esc(/^(AI disabled|AI unavailable)$/.test(j.score_reason || "") ? "" : j.score_reason)}</p>
     <details>
       <summary>Details</summary>
       <p><strong>Skills:</strong> ${esc((j.skills || []).join(", ") || "not stated")}</p>
       <p><strong>Hiring:</strong> ${esc(j.hiring_process || "not stated")}</p>
-      <p><strong>Salary:</strong> ${esc(j.salary || "not stated")}</p>
-      <p class="desc">${esc((j.description || "").slice(0, 600))}</p>
+      <p class="desc">${esc(plain(j.description).slice(0, 600))}</p>
     </details>
     <div class="actions">
       <a class="apply" href="${esc(j.url)}" target="_blank" rel="noopener">Open posting ↗</a>
