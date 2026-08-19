@@ -3,7 +3,7 @@ import json
 import re
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import get_text
+from .base import get_json, get_text
 from .remote_apis import _COUNTRY_WORDS, _keyword_match, _terms
 
 # Crypto/web3 boards. Neither exposes a usable API or feed, but both render a
@@ -131,3 +131,52 @@ def fetch_cryptojobslist(cfg, get=get_text):
 
 register(fetch_cryptovalley)
 register(fetch_cryptojobslist)
+
+# --- web3.career (API, token required) -----------------------------------
+# Docs: https://docs.bondex.app/api-reference. Two quirks the adapter handles:
+# the response is a mixed-type root array with the jobs nested inside it, and
+# the terms of use require linking jobs via apply_url, not url.
+def fetch_web3career(cfg, get=get_json):
+    token = (cfg.get("secrets", {}) or {}).get("WEB3CAREER_TOKEN")
+    if not token:
+        return []
+    data = get("https://web3.career/api/v1",
+               params={"token": token, "tag": "security", "limit": 100},
+               headers=HEADERS)
+    if not isinstance(data, list):
+        return []
+    rows = next((x for x in data if isinstance(x, list)), None)
+    if rows is None:
+        rows = data if data and isinstance(data[0], dict) else []
+    terms = _terms(cfg)
+    jobs = []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        url = row.get("apply_url") or row.get("url")  # apply_url is mandatory per terms
+        title = (row.get("title") or "").strip()
+        if not url or not title:
+            continue
+        description = _TAGS.sub(" ", row.get("description") or "").strip()
+        if not _keyword_match(f"{title} {description} {' '.join(row.get('tags') or [])}", terms):
+            continue
+        location = row.get("location") or NOT_STATED
+        remote = bool(row.get("remote")) or "remote" in location.lower()
+        posted = str(row.get("postedAt") or "")[:10]  # format varies between listings
+        jobs.append(Job(
+            id=make_id("web3career", str(row.get("id")) if row.get("id") else None, url),
+            title=title,
+            company=row.get("company") or NOT_STATED,
+            location=location,
+            country=_country(location) or ("REMOTE" if remote else "OTHER"),
+            url=url,
+            source="web3career",
+            source_type="api",
+            posted_date=posted if re.fullmatch(r"\d{4}-\d{2}-\d{2}", posted) else None,
+            remote=remote,
+            salary=row.get("salary") or NOT_STATED,
+            description=description,
+        ))
+    return jobs
+
+register(fetch_web3career)

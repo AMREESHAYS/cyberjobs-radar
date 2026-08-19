@@ -1,0 +1,13 @@
+["ok", "v1", [
+  {"id": 4211, "title": "Smart Contract Security Engineer", "company": "ZugChain AG",
+   "location": "Zug, Switzerland", "remote": false,
+   "description": "<p>Audit contracts and run <strong>pentest</strong> engagements.</p>",
+   "tags": ["security", "solidity"],
+   "apply_url": "https://web3.career/apply/4211?utm_source=api",
+   "url": "https://web3.career/smart-contract-security-engineer-zugchain/4211",
+   "salary": "$120k - $160k", "postedAt": "2026-08-11T09:00:00Z"},
+  {"id": 4212, "title": "Community Manager", "company": "DAOhaus",
+   "location": "Remote", "remote": true, "description": "<p>Run the Discord.</p>",
+   "tags": ["marketing"], "apply_url": "https://web3.career/apply/4212",
+   "url": "https://web3.career/community-manager/4212", "postedAt": "yesterday"}
+]]

@@ -41,7 +41,7 @@ node --test tests/test_filters.mjs
 ```
 
 ## Secrets (GitHub → Settings → Secrets → Actions)
-Jobs: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` (optional `NAV_TOKEN`).
+Jobs: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` (optional `NAV_TOKEN`, `WEB3CAREER_TOKEN` — free at web3.career/web3-jobs-api).
 AI (any OpenAI-compatible provider — pick one):
 - **Groq** (free): `GROQ_API_KEY` (or `AI_API_KEY`), no base URL needed.
 - **NVIDIA** (free, [build.nvidia.com](https://build.nvidia.com)): `AI_API_KEY=nvapi-...`,

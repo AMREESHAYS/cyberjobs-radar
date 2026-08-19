@@ -145,3 +145,30 @@ def test_crypto_boards_drop_off_topic_postings():
         CJL_JOB: "tests/fixtures/cryptojobslist_job.html",
     })
     assert crypto_boards.fetch_cryptojobslist({"search_terms": ["SOC analyst"]}, get=get) == []
+
+def test_web3career_parses_nested_array_and_links_apply_url():
+    payload = json.load(open("tests/fixtures/web3career.json"))
+    cfg = {"search_terms": ["security engineer"], "secrets": {"WEB3CAREER_TOKEN": "tok"}}
+    jobs = crypto_boards.fetch_web3career(cfg, get=_fixture_get(payload))
+    assert len(jobs) == 1  # community manager dropped by keyword filter
+    j = jobs[0]
+    assert j.url == "https://web3.career/apply/4211?utm_source=api"  # terms require apply_url
+    assert j.company == "ZugChain AG" and j.country == "CH" and j.remote is False
+    assert j.source == "web3career" and j.source_type == "api"
+    assert j.posted_date == "2026-08-11" and j.salary == "$120k - $160k"
+    assert "<p>" not in j.description and "pentest" in j.description
+
+def test_web3career_without_token_returns_empty():
+    assert crypto_boards.fetch_web3career({"secrets": {}}, get=_fixture_get([])) == []
+
+def test_web3career_tolerates_flat_root_array():
+    row = json.load(open("tests/fixtures/web3career.json"))[2][0]
+    cfg = {"search_terms": ["security"], "secrets": {"WEB3CAREER_TOKEN": "tok"}}
+    jobs = crypto_boards.fetch_web3career(cfg, get=_fixture_get([row]))
+    assert len(jobs) == 1 and jobs[0].title == "Smart Contract Security Engineer"
+
+def test_web3career_skips_undated_posting_date():
+    payload = json.load(open("tests/fixtures/web3career.json"))
+    cfg = {"search_terms": ["community"], "secrets": {"WEB3CAREER_TOKEN": "tok"}}
+    jobs = crypto_boards.fetch_web3career(cfg, get=_fixture_get(payload))
+    assert jobs[0].posted_date is None  # "yesterday" is not a date
