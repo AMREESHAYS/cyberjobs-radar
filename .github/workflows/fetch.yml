@@ -34,15 +34,21 @@ jobs:
           git add data/jobs.json
           git commit -m "chore: refresh jobs data" || echo "no changes"
           git push
+      # Pages steps are dormant on a private/free repo. To enable (needs GitHub
+      # Pages available for the repo — public, or private with Pro): in repo
+      # Settings > Secrets and variables > Actions > Variables, add ENABLE_PAGES=true.
       - name: Assemble site
+        if: ${{ vars.ENABLE_PAGES == 'true' }}
         run: |
           mkdir -p _site/data
           cp -r web/* _site/
           cp data/jobs.json _site/data/jobs.json
       - uses: actions/upload-pages-artifact@v3
+        if: ${{ vars.ENABLE_PAGES == 'true' }}
         with: { path: _site }
   deploy:
     needs: fetch
+    if: ${{ vars.ENABLE_PAGES == 'true' }}
     runs-on: ubuntu-latest
     environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
     steps:
