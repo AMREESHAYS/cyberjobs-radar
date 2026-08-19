@@ -41,7 +41,14 @@ node --test tests/test_filters.mjs
 ```
 
 ## Secrets (GitHub → Settings → Secrets → Actions)
-Jobs + AI: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY`, `GROQ_API_KEY` (optional `NAV_TOKEN`, `AI_MODEL`, `AI_BASE_URL`).
+Jobs: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` (optional `NAV_TOKEN`).
+AI (any OpenAI-compatible provider — pick one):
+- **Groq** (free): `GROQ_API_KEY` (or `AI_API_KEY`), no base URL needed.
+- **NVIDIA** (free, [build.nvidia.com](https://build.nvidia.com)): `AI_API_KEY=nvapi-...`,
+  `AI_BASE_URL=https://integrate.api.nvidia.com/v1`, `AI_MODEL=meta/llama-3.3-70b-instruct`.
+- **Local Ollama**: `AI_BASE_URL=http://localhost:11434/v1`, `AI_MODEL=llama3.1` (no key).
+
+`AI_API_KEY` beats `GROQ_API_KEY`; switching providers is just those three secrets.
 Digest: `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `DIGEST_TO`.
 
 ## Deploy

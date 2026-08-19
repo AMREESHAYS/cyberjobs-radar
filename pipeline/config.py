@@ -2,7 +2,7 @@ from __future__ import annotations
 import os
 import yaml
 
-_ENV_KEYS = ["ADZUNA_APP_ID", "ADZUNA_APP_KEY", "GROQ_API_KEY",
+_ENV_KEYS = ["ADZUNA_APP_ID", "ADZUNA_APP_KEY", "GROQ_API_KEY", "AI_API_KEY",
              "AI_BASE_URL", "AI_MODEL", "NAV_TOKEN",
              "GMAIL_USER", "GMAIL_APP_PASSWORD", "DIGEST_TO"]
 

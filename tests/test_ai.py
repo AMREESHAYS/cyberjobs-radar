@@ -62,3 +62,25 @@ def test_build_client_disabled_when_no_key_for_hosted_provider():
     client, model = build_client(cfg)
     assert client is None
     assert model is not None
+
+
+def test_build_client_uses_ai_api_key_for_any_provider(monkeypatch):
+    # shadow the openai package so this runs whether or not it is installed
+    import sys, types
+    captured = {}
+    fake = types.ModuleType("openai")
+    class FakeOpenAI:
+        def __init__(self, base_url=None, api_key=None):
+            captured["base_url"] = base_url
+            captured["api_key"] = api_key
+    fake.OpenAI = FakeOpenAI
+    monkeypatch.setitem(sys.modules, "openai", fake)
+    from pipeline.ai import build_client
+    cfg = {"secrets": {"AI_API_KEY": "nvapi-xyz",
+                       "AI_BASE_URL": "https://integrate.api.nvidia.com/v1",
+                       "AI_MODEL": "meta/llama-3.3-70b-instruct"}, "ai": {}}
+    client, model = build_client(cfg)
+    assert client is not None
+    assert captured["api_key"] == "nvapi-xyz"
+    assert captured["base_url"] == "https://integrate.api.nvidia.com/v1"
+    assert model == "meta/llama-3.3-70b-instruct"

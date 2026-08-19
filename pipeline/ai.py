@@ -32,7 +32,9 @@ def build_client(cfg):
     sec = cfg.get("secrets", {})
     base_url = sec.get("AI_BASE_URL") or cfg.get("ai", {}).get("base_url_default")
     model = sec.get("AI_MODEL") or cfg.get("ai", {}).get("model_default")
-    key = sec.get("GROQ_API_KEY")
+    # AI_API_KEY works for any OpenAI-compatible provider (NVIDIA, OpenRouter, ...);
+    # GROQ_API_KEY kept as a fallback so existing Groq setups need no change.
+    key = sec.get("AI_API_KEY") or sec.get("GROQ_API_KEY")
     if not base_url:
         return None, model
     is_local = "localhost" in base_url or "127.0.0.1" in base_url
