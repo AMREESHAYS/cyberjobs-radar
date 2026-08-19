@@ -1,0 +1,134 @@
+{
+ "numberRecords": 225,
+ "jvs": [
+  {
+   "title": "AI Agent Developer & Enablement Specialist",
+   "description": "<p>Lead our <strong>security engineer</strong> team in Helsinki.</p>",
+   "id": "ZDNkOTQzNDktYzE3ZC00ZDEyLTk3MjUtMDU5ZWIyMDFjNmY1IDgx",
+   "creationDate": 1787115651726,
+   "lastModificationDate": 1787115651726,
+   "numberOfPosts": 1,
+   "locationMap": {
+    "FI": [
+     "FI19A"
+    ]
+   },
+   "euresFlag": false,
+   "jobCategoriesCodes": [
+    "http://data.europa.eu/esco/isco/C2512"
+   ],
+   "positionScheduleCodes": [
+    "fulltime"
+   ],
+   "positionOfferingCode": "directhire",
+   "employer": {
+    "name": "OSTP",
+    "legalID": null,
+    "organisationSizeCode": null,
+    "organisationOwnershipTypeCode": null,
+    "website": null,
+    "sectorCodes": [],
+    "description": null
+   },
+   "availableLanguages": [
+    "en"
+   ],
+   "score": null,
+   "translationType": "REQUESTED",
+   "translations": {
+    "en": {
+     "title": "AI Agent Developer & Enablement Specialist",
+     "description": "DO YOU WANT TO SHAPE HOW AI IS USED AT OSTP?<br><br>AI is transforming how organizations work, make decisions, and create value. At OSTP, we are moving from experimentation to real business impact, and we are now looking for an AI Agent Developer &amp; Enablement Specialist to help lead that journey.<br><br>In this key role, you will combine technology, innovation, and business development by building AI agents, supporting users, and ensuring that AI is adopted in a secure, responsible, and scalable way across the organization. This is a group-level role that works across all business units and functions, requiring close collaboration and engagement throughout the organization.<br><br><br>ABOUT THE ROLE<br><br>As an AI Agent Developer &amp; Enablement Specialist, you will play a central role in OSTP's digital transformation. You will work closely with business functions to identify opportunities where AI can simplify workflows, save time, and create business value. At the same time, you will help ensure that AI solutions are developed and used according to clear standards for security, data protection, and governance.<br><br>Your responsibilities will include:<br><br> * Developing, testing, and deploying AI agents and AI-powered solutions.<br><br> * Identifying and prioritizing AI use cases together with business stakeholders.<br><br> * Creating reusable templates, workflows, prompts, and development patterns.<br><br> * Developing and maintaining OSTP's practical AI governance framework.<br><br> * Ensuring AI solutions comply with information security, data protection, and responsible AI requirements.<br><br> * Training, coaching, and supporting users, AI champions, and key stakeholders across the organization.<br><br> * Collaborating with IT, HR, business teams, and external partners to scale AI adoption in a controlled and sustainable manner.<br><br><br>WHO ARE WE LOOKING FOR?<br><br>We are looking for someone who is passionate about new technology and enjoys turning ideas into practical solutions. You thrive at the intersection of technology and business and are motivated by helping people work smarter and more efficiently.<br><br>You likely have experience in one or more of the following areas:<br><br> * Software development, automation, or IT solutions<br><br> * Artificial Intelligence, Generative AI, or AI agents<br><br> * Microsoft Power Platform<br><br> * Microsoft 365 and Copilot solutions<br><br> * Integrations and data-driven solutions<br><br> * Business process improvement and digitalization<br><br>Experience in the following areas is considered an advantage:<br><br> * Copilot Studio<br><br> * Power Automate<br><br> * Azure AI<br><br> * Dynamics 365<br><br> * AI governance, GDPR, or information security<br><br> * EU AI Act and related regulatory frameworks<br><br><br>AS A PERSON<br><br>You are:<br><br> * Curious and innovative<br><br> * Self-driven and proactive<br><br> * A strong communicator and facilitator<br><br> * Structured and responsible<br><br> * Solution-oriented with a strong business mindset<br><br> * Comfortable both developing solutions and enabling others to succeed with AI<br><br><br>WHY OSTP?<br><br>At OSTP, you will have the opportunity to join us at an exciting stage of our AI journey and play an active role in shaping how AI is used across an international industrial group. You will enjoy significant freedom to drive ideas, develop new solutions, and establish ways of working that create lasting value throughout the organization.<br><br>This role is ideal for someone who wants to combine technology, innovation, and people while seeing new ideas turn into real business results.<br><br><br>MORE INFORMATION<br><br>The position is based in Jakobstad, Finland or Örnsköldsvik, Sweden, with occasional travel to other OSTP locations as required.<br><br>For more information, please contact Anders Brännbacka, CIO OSTP Group, +358 50 563 2789.<br>The application period ends on September 6th, 2026. We review applications on an ongoing basis and may invite candidates for interviews already during the application period, so we encourage you to submit your application as soon as possible.<br><br>Are you ready to help shape the future of AI and digitalization at OSTP?<br><br>We look forward to receiving your application!"
+    }
+   }
+  },
+  {
+   "title": "Varastopäällikkö ja varastoapulainen laivalle",
+   "description": "<p>Ajokortti vaaditaan. Delivery work, no security involved.</p>",
+   "id": "MWQyNzY5ZmQtZjlkYi00ZjlmLTgyOTItMDdjZjA1MzlmZDU2IDgx",
+   "creationDate": 1787115368449,
+   "lastModificationDate": 1787115368449,
+   "numberOfPosts": 2,
+   "locationMap": {
+    "FI": [
+     null,
+     "FI1C1",
+     "FI1B1"
+    ]
+   },
+   "euresFlag": false,
+   "jobCategoriesCodes": [
+    "http://data.europa.eu/esco/isco/C4321",
+    "http://data.europa.eu/esco/occupation/bea705fe-06ac-4147-b8e0-6e8ac1208d8f"
+   ],
+   "positionScheduleCodes": [
+    "fulltime"
+   ],
+   "positionOfferingCode": "directhire",
+   "employer": {
+    "name": "Tallink Silja Oy",
+    "legalID": null,
+    "organisationSizeCode": null,
+    "organisationOwnershipTypeCode": null,
+    "website": null,
+    "sectorCodes": [],
+    "description": null
+   },
+   "availableLanguages": [
+    "fi"
+   ],
+   "score": null,
+   "translationType": "FIRST_LANGUAGE",
+   "translations": {
+    "fi": {
+     "title": "Varastopäällikkö ja varastoapulainen laivalle",
+     "description": "Haemme varastopäällikköä ja varastoapulaista Tallink Silja Oy:n Suomen lipun alla seilaaville aluksille, Silja Serenadelle ja Baltic Princessille. Tehtävät ovat vakituisia. Varastopäällikkö toimii varaston lähiesihenkilönä, johtaa päivittäistä toimintaa, osallistuu varaston hallintaan ja yhteistyöhön myymälä- ja ravintolaosaston kanssa sekä vastaa työmenetelmistä ja perehdyttämisestä. Edellytämme aiempaa kokemusta myymälä- tai logistiikka-alalta, tiimityötaitoja ja kielitaitoa (suomi ja englanti). Varastoapulainen vastaa tavaroiden vastaanotosta ja kuljetuksesta, hyllyjen täytöstä ja osallistuu myyntityöhön sekä tarvitsee trukinajotaitoa ja hyvää fyysistä kuntoa. Molemmissa tehtävissä edellytetään asiakaspalvelutaitoja sekä voimassa olevaa passia, lääkärintodistusta meripalvelua varten ja Trafin myöntämää Security Awareness -lisäpätevyys ennen työskentelyn aloittamista."
+    }
+   }
+  },
+  {
+   "title": "AI Developer (m/w/d) (KI-Prompter)",
+   "description": "<p>Cloud security work across the Nordics.</p>",
+   "id": "MTAwMDEtMTAwMzI4NjUxNS1TIDE",
+   "creationDate": 1782420831662,
+   "lastModificationDate": 1787089450042,
+   "numberOfPosts": 1,
+   "locationMap": {
+    "DE": [
+     "DEF01"
+    ],
+    "DK": [
+     "DK03"
+    ]
+   },
+   "euresFlag": false,
+   "jobCategoriesCodes": [
+    "http://data.europa.eu/esco/isco/C2511"
+   ],
+   "positionScheduleCodes": [
+    "fulltime"
+   ],
+   "positionOfferingCode": "directhire",
+   "employer": {
+    "name": "team SE",
+    "legalID": null,
+    "organisationSizeCode": null,
+    "organisationOwnershipTypeCode": null,
+    "website": null,
+    "sectorCodes": [],
+    "description": null
+   },
+   "availableLanguages": [
+    "de"
+   ],
+   "score": null,
+   "translationType": "FIRST_LANGUAGE",
+   "translations": {
+    "de": {
+     "title": "AI Developer (m/w/d) (KI-Prompter)",
+     "description": "Möchtest du Teil der ersten Welle sein, die KI‑Lösungen entwickelt, welche einen echten Mehrwert für DLG schaffen? <br>Als **AI Developer (m/w/d)** wirst du Teil unserer Group IT und übernimmst Verantwortung für die Entwicklung und Skalierung von KI‑Lösungen in der gesamten Organisation. Du steigst in einer spannenden Phase ein: Wir bauen unsere KI‑Fähigkeiten von Grund auf. Das bedeutet, dass du maßgeblich mitgestaltest, wie KI‑Lösungen künftig entwickelt, integriert und skaliert werden. <br><br>Über das Unternehmen<br><br>Die DLG-Gruppe zählt zu den führenden Genossenschaften Europas in den Bereichen Lebensmittel, Energie und Baustoffe. Unser Auftrag ist es, langfristigen Mehrwert für unsere landwirtschaftlichen Eigentümer und für die Gesellschaft zu schaffen – durch verlässliche Produkte, innovative Lösungen und nachhaltiges Wachstum in all unseren Geschäftsbereichen. Mit rund 7.000 Mitarbeitenden in 18 Ländern und auf Basis unserer genossenschaftlichen Struktur gestalten wir unsere Zukunft durch gemeinsame Werte, nachhaltige Ziele und den festen Glauben an die Kraft der Zusammenarbeit. <br><br>Die team SE mit Sitz in Flensburg ist ein wesentlicher Bestandteil der DLG-Gruppe. Unsere zentralen Unternehmensfunktionen sind standortübergreifend zwischen Flensburg und dem DLG-Hauptsitz in Fredericia organisiert. Gemeinsam unterstützen wir die Geschäftsbereiche über Ländergrenzen hinweg und tragen zu einer effizienten, integrierten und zukunftsfähigen Organisation bei, die Skaleneffekte und Synergien optimal nutzt. <br><br>Aufgaben<br><br>Du arbeitest über den gesamten Lifecycle von KI‑Lösungen hinweg – von der Übersetzung fachlicher Anforderungen in technische Designs bis hin zur Implementierung und dem Betrieb in der Produktion. Dabei arbeitest du eng mit Business‑Stakeholdern, Architekt*innen sowie Data‑ und Security‑Teams zusammen.<br><br>- Hands‑on KI‑Lösungen entwickeln und implementieren – skalierbar, sicher und auf die Geschäftsanforderungen abgestimmt<br>- KI‑Agents, Copilots und automatisierte Workflows entwickeln und betreuen<br>- Fachliche Anforderungen in technische Lösungen übersetzen<br>- KI‑Lösungen in bestehende Systeme, Plattformen und Datenquellen integrieren<br>- Qualität, Sicherheit und Governance sicherstellen<br>- Zu wiederverwendbaren Komponenten und gemeinsamen Standards beitragen<br>- Die Einführung und Nutzung von KI‑Lösungen im Business unterstützen<br><br>Profil<br><br>Du hast einen technischen Hintergrund und praktische Erfahrung mit KI‑Lösungen. Du möchtest Lösungen bauen, die in der Realität funktionieren und echten Wert schaffen – und du hast Lust, etwas Neues mit aufzubauen. Wir stellen uns vor, dass du:<br><br>- Erfahrung in Softwareentwicklung und modernen Development‑Praktiken mitbringst<br>- Praktische Erfahrung mit KI, Automatisierung oder LLM‑basierten Lösungen hast<br>- Systemintegration, APIs und den Umgang mit Daten verstehst<br>- Strukturiert und qualitätsorientiert arbeitest<br>- Effektiv über Teams und Disziplinen hinweg zusammenarbeitest<br>- Verantwortung übernimmst und proaktiv handelst<br><br>Unser Angebot<br><br>Bei DLG erwartet dich eine spannende und wirkungsvolle Rolle in einem Unternehmen, in dem KI und Digitalisierung ganz oben auf der Agenda stehen.<br><br>Du kannst dich freuen auf:<br><br>- Die Chance, DLGs KI‑Fähigkeiten von Anfang an mit aufzubauen<br>- Eine Schlüsselrolle bei der Entwicklung und Skalierung von KI‑Lösungen<br>- Hohe Verantwortung und Einfluss auf technische Entscheidungen<br>- Ein starkes professionelles Umfeld in IT, Data und Digitalisierung<br>- Persönliche und fachliche Weiterentwicklung<br>- Flexible Arbeitsbedingungen und eine gesunde Work‑Life‑Balance<br><br>Kontakt<br><br>Wir freuen uns über deine Bewerbung im PDF-Format über unser Bewerbungsportal unter Angabe deiner Gehaltsvorstellung und des frühestmöglichen Eintrittstermins.<br><br>Homeoffice:<br>Umfang: Maximal 40%"
+    }
+   }
+  }
+ ]
+}

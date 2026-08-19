@@ -172,3 +172,41 @@ def test_web3career_skips_undated_posting_date():
     cfg = {"search_terms": ["community"], "secrets": {"WEB3CAREER_TOKEN": "tok"}}
     jobs = crypto_boards.fetch_web3career(cfg, get=_fixture_get(payload))
     assert jobs[0].posted_date is None  # "yesterday" is not a date
+
+from pipeline.sources import eures
+
+def _post_capture(payload, calls):
+    def post(url, json=None, headers=None, timeout=30):
+        calls.append(json)
+        return payload
+    return post
+
+def test_eures_finland_filters_and_maps():
+    payload = json.load(open("tests/fixtures/eures_search.json"))
+    calls = []
+    cfg = {"search_terms": ["security engineer"]}
+    jobs = eures.fetch_finland(cfg, get=_post_capture(payload, calls))
+    assert calls[0]["locationCodes"] == ["fi"]  # country filter reaches the API
+    assert len(jobs) == 1  # the delivery job matched EURES' loose search, not ours
+    j = jobs[0]
+    assert j.title == "AI Agent Developer & Enablement Specialist"
+    assert j.company == "OSTP" and j.country == "FI" and j.location == "FI19A"
+    assert j.source == "eures-fi" and j.source_type == "api"
+    assert j.url.startswith("https://europa.eu/eures/portal/jv-se/jv-details/")
+    assert " " not in j.url.split("/")[-1].split("?")[0]  # id is percent-encoded
+    assert j.posted_date == "2026-08-19" and j.remote is False
+    assert "<p>" not in j.description
+
+def test_eures_denmark_prefers_queried_country_in_multi_country_posting():
+    payload = json.load(open("tests/fixtures/eures_search.json"))
+    cfg = {"search_terms": ["cloud security"]}
+    jobs = eures.fetch_denmark(cfg, get=_post_capture(payload, []))
+    assert len(jobs) == 1
+    assert jobs[0].country == "DK" and jobs[0].location == "DK03"  # posting is DE+DK
+    assert jobs[0].source == "eures-dk"
+
+def test_eures_dedupes_across_keyword_queries():
+    payload = json.load(open("tests/fixtures/eures_search.json"))
+    cfg = {"search_terms": ["security engineer", "cloud security"]}
+    jobs = eures.fetch_finland(cfg, get=_post_capture(payload, []))
+    assert len({j.id for j in jobs}) == len(jobs) == 2  # two queries, no repeats
