@@ -14,7 +14,7 @@ search_terms:
 age_out_days: 45
 ai:
   base_url_default: "https://api.groq.com/openai/v1"
-  model_default: "llama-3.3-70b-versatile"
+  model_default: "openai/gpt-oss-120b"   # Groq retired llama-3.3-70b-versatile on 2026-06-17
 max_new_ai_jobs_per_run: 25    # per-run AI budget; free-tier rate limits make large
                                # batches slow, so backfill spreads across cron runs
 digest:
