@@ -10,8 +10,14 @@ const esc = s => (s || "").replace(/[&<>"]/g, m => ({ "&":"&amp;","<":"&lt;",">"
 let JOBS = [];
 const state = { view: "all", country: "", source: "", remoteOnly: false, minScore: 0, query: "" };
 
+let loadFailed = false;
+
 async function boot() {
-  JOBS = await fetch("data/jobs.json?" + Date.now()).then(r => r.json()).catch(() => []);
+  // behind Cloudflare Access an expired session answers with the sign-in page,
+  // so a parse failure here means "sign in again", not "no jobs"
+  JOBS = await fetch("data/jobs.json?" + Date.now())
+    .then(r => r.json())
+    .catch(() => { loadFailed = true; return []; });
   fillSelect("country", [...new Set(JOBS.map(j => j.country))].sort());
   fillSelect("source", [...new Set(JOBS.map(j => j.source))].sort());
   wire();
@@ -45,9 +51,13 @@ function render() {
   const saved = getSet(LS.saved), applied = getSet(LS.applied);
   const rows = filterJobs(JOBS, { ...state, savedIds: [...saved], appliedIds: [...applied] });
   document.getElementById("count").textContent =
-    JOBS.length ? `${rows.length} of ${JOBS.length} roles` : "No jobs yet — run the pipeline";
+    JOBS.length ? `${rows.length} of ${JOBS.length} roles`
+                : loadFailed ? "Could not load jobs" : "No jobs yet — run the pipeline";
   const list = document.getElementById("list");
-  list.innerHTML = rows.length ? "" : "<p class='empty'>Nothing matches these filters yet. Loosen them or check back after the next refresh.</p>";
+  list.innerHTML = rows.length ? ""
+    : loadFailed
+      ? "<p class='empty'>Could not load the job list. If the session expired, <a href='./'>reload to sign in</a>.</p>"
+      : "<p class='empty'>Nothing matches these filters yet. Loosen them or check back after the next refresh.</p>";
   for (const j of rows) list.appendChild(card(j, saved, applied));
 }
 

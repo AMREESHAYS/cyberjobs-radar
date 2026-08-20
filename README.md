@@ -9,7 +9,7 @@
 [![fetch](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml/badge.svg)](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml)
 ![python](https://img.shields.io/badge/python-3.11-4fd6e0)
 ![sources](https://img.shields.io/badge/sources-12-57e2a5)
-![tests](https://img.shields.io/badge/tests-69%20pytest%20%2B%207%20node-8b7bff)
+![tests](https://img.shields.io/badge/tests-69%20pytest%20%2B%2012%20node-8b7bff)
 ![licence](https://img.shields.io/badge/licence-personal%20use-9aa7c7)
 
 </div>
@@ -70,7 +70,7 @@ unscored and the score shows `—`.
 
 ```bash
 pytest -q
-node --test tests/test_filters.mjs
+node --test tests/*.mjs
 ```
 
 ## Configuration
