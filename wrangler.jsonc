@@ -1,10 +1,12 @@
 {
-  // Static hosting for the PWA: no Worker code, just the assembled site.
+  // Static hosting for the PWA, behind a key check (src/index.js).
   // CI runs `wrangler deploy` after each fetch, so the phone always has fresh data.
   "name": "cyberjobs-radar",
+  "main": "src/index.js",
   "compatibility_date": "2026-08-20",
   "assets": {
     "directory": "./_site",
+    "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   }
 }
