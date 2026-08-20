@@ -6,3 +6,6 @@ web/data/
 
 # FX rate cache: refetched each run, no need to version it
 data/fx.json
+
+# assembled deploy output
+_site/
