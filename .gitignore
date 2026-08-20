@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 web/data/
+
+# FX rate cache: refetched each run, no need to version it
+data/fx.json
