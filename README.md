@@ -1,61 +1,105 @@
+<div align="center">
+
+<img src="web/icons/logo.svg" width="112" height="112" alt="CyberJobs Radar">
+
 # CyberJobs Radar
 
-Personal, free mobile web app that fetches real cybersecurity jobs/internships in
-Switzerland + cold-Europe, AI-ranks them to my profile, and serves a verifiable list.
-Not for sale. See `docs/superpowers/specs/2026-08-18-cyberjobs-radar-design.md`.
+**Real cybersecurity roles across Switzerland, cold Europe and remote — fetched, AI-ranked, and refreshed on a schedule.**
+
+[![fetch](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml/badge.svg)](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml)
+![python](https://img.shields.io/badge/python-3.11-4fd6e0)
+![sources](https://img.shields.io/badge/sources-12-57e2a5)
+![tests](https://img.shields.io/badge/tests-69%20pytest%20%2B%207%20node-8b7bff)
+![licence](https://img.shields.io/badge/licence-personal%20use-9aa7c7)
+
+</div>
+
+---
+
+A personal, free, self-updating mobile PWA. It pulls postings from official employment
+services and job boards, ranks each one against my profile, and serves a list where every
+row links back to the real posting. Not for sale, single user.
+
+**Integrity rule, enforced in code and tests:** every job carries a real source URL, the AI
+only condenses text that was actually fetched, and any field the ad didn't state renders as
+`not stated`. Nothing is invented — not a salary, not a city, not a sponsorship claim.
+
+## What each job shows
+
+| | |
+|---|---|
+| **Score** | 0-100 fit for the profile, with a one-line reason |
+| **Role** | what the job actually is, condensed from the posting |
+| **They expect** | experience and qualifications, as stated |
+| **Visa sponsorship** | `yes` / `no` only on explicit wording — silence shows "not stated", never "no" |
+| **Location** | `City, Country` |
+| **Work mode** | Remote / On site / not stated |
+| **Salary** | the ad's own currency, then an INR conversion |
+| **Type** | full time, internship, contract, as stated |
+
+## Sources
+
+| Region | Source | Needs a key |
+|---|---|---|
+| Switzerland, Germany, Austria, Benelux, Poland, France, Italy, Spain | Adzuna | `ADZUNA_APP_ID` + `ADZUNA_APP_KEY` |
+| Sweden | JobTech (Arbetsförmedlingen) | no |
+| Norway | NAV | no (public token) |
+| Denmark, Finland | EURES | no |
+| Remote / EU | Arbeitnow, Jobicy, RemoteOK, Himalayas | no |
+| Crypto & web3 | CryptoValley, CryptoJobsList | no |
+| Crypto & web3 | web3.career | `WEB3CAREER_TOKEN` |
+
+Every adapter fails soft: one dead board never takes down a run.
 
 ## Run locally
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env   # fill ADZUNA_* and GROQ_API_KEY
+cp .env.example .env          # fill in whichever keys you have
 set -a; source .env; set +a
-python -m pipeline.run                 # writes data/jobs.json
-# view locally: index.html loads data/jobs.json beside it, so mirror the deploy layout
-mkdir -p web/data && cp data/jobs.json web/data/   # local only; CI does this itself
-python -m http.server 8000 -d web      # open http://localhost:8000/
+./run.sh                      # fetch + serve http://localhost:8000/
+./run.sh --tunnel             # same, plus a phone-reachable URL via cloudflared
 ```
 
-> Note: `python -m pipeline.run` runs the fetch with whatever keys are in your env.
-> With no keys you still get Sweden (JobTech) + remote boards; Switzerland/cold-Europe
-> onsite jobs need the free `ADZUNA_*` keys, and AI scoring needs `GROQ_API_KEY`
-> (without it jobs are saved unscored — score shows "—").
-
-## One command (fetch + serve + phone)
-```bash
-./run.sh            # fetch jobs, serve http://localhost:8000/
-./run.sh --tunnel   # same, plus a public phone-reachable URL via cloudflared
-```
-
-## Email digest (Phase 2)
-After each run the workflow emails you new matching jobs. Add these secrets to turn it on
-(no-ops without them): `GMAIL_USER`, `GMAIL_APP_PASSWORD` (a Gmail
-[app password](https://myaccount.google.com/apppasswords), not your login), `DIGEST_TO`.
-Run manually with `python -m pipeline.digest`. `data/digest_state.json` remembers what was
-already sent so you never get duplicates.
+With no keys at all you still get Sweden, Denmark, Finland, the remote boards and the crypto
+boards. Adzuna keys add Switzerland and Germany onsite; without an AI key jobs are saved
+unscored and the score shows `—`.
 
 ## Tests
+
 ```bash
 pytest -q
 node --test tests/test_filters.mjs
 ```
 
-## Secrets (GitHub → Settings → Secrets → Actions)
-Jobs: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` (optional `NAV_TOKEN`, `WEB3CAREER_TOKEN` — free at web3.career/web3-jobs-api).
-AI (any OpenAI-compatible provider — pick one):
-- **Groq** (free): `GROQ_API_KEY` (or `AI_API_KEY`), no base URL needed.
-- **NVIDIA** (free, [build.nvidia.com](https://build.nvidia.com)): `AI_API_KEY=nvapi-...`,
-  `AI_BASE_URL=https://integrate.api.nvidia.com/v1`, `AI_MODEL=meta/llama-3.3-70b-instruct`.
-- **Local Ollama**: `AI_BASE_URL=http://localhost:11434/v1`, `AI_MODEL=llama3.1` (no key).
+## Configuration
 
-`AI_API_KEY` beats `GROQ_API_KEY`; switching providers is just those three secrets.
-Digest: `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `DIGEST_TO`.
+Secrets go in **Settings → Secrets and variables → Actions**.
 
-## Deploy
-Enable GitHub Actions once from the repo's **Actions** tab (a new repo gates the first run
-behind a click). The 12h cron then refreshes `data/jobs.json` and emails the digest. Pages
-hosting is dormant unless you set repo variable `ENABLE_PAGES=true` (needs a public repo, or
-private + GitHub Pro); otherwise use `./run.sh --tunnel` to reach it from your phone.
+| Secret | For |
+|---|---|
+| `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` | Switzerland/Germany onsite roles ([free](https://developer.adzuna.com)) |
+| `WEB3CAREER_TOKEN` | web3.career ([free](https://web3.career/web3-jobs-api)) |
+| `NAV_TOKEN` | optional; Norway falls back to a public token |
+| `AI_API_KEY`, `AI_BASE_URL`, `AI_MODEL` | any OpenAI-compatible provider |
+| `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `DIGEST_TO` | the email digest ([app password](https://myaccount.google.com/apppasswords), not your login) |
 
-**Integrity:** every job links to its real source; AI only condenses posting text;
-absent fields show "not stated". Nothing is faked.
+Switching AI providers is just those three secrets — Groq, NVIDIA, OpenRouter, or a local
+Ollama (`AI_BASE_URL=http://localhost:11434/v1`, no key). `config.yaml` holds the search
+terms, target countries, age-out window and the per-run AI budget.
+
+## How it runs
+
+```
+sources ──> prefilter ──> merge (keeps AI work, refreshes source fields)
+                              │
+                              ├──> AI scoring, budgeted per run
+                              ├──> INR conversion from daily FX rates
+                              └──> data/jobs.json ──> PWA + email digest
+```
+
+A GitHub Actions cron runs every 5 hours, commits the refreshed data, and emails new
+matches. `data/digest_state.json` remembers what was already sent, so nothing arrives twice.
+Pages hosting stays dormant unless the repo variable `ENABLE_PAGES=true` is set (needs a
+public repo, or private with GitHub Pro); otherwise `./run.sh --tunnel` reaches it from a phone.

@@ -69,17 +69,10 @@ header {
 .brand h1 { font-family: var(--font); font-size: 1.25rem; font-weight: 700; letter-spacing: -0.02em; margin: 0; }
 .count { margin: 0.1rem 0 0; color: var(--mut); font-size: 0.78rem; }
 
-.radar {
-  width: 34px; height: 34px; border-radius: 50%; flex: 0 0 auto; position: relative;
-  background: conic-gradient(from 0deg, transparent 0turn, var(--cyan) 0.9turn, transparent 1turn);
-  box-shadow: 0 0 0 1px var(--stroke) inset, 0 0 18px rgba(79, 214, 224, 0.35);
-  animation: sweep 3.2s linear infinite;
+.mark {
+  width: 40px; height: 40px; flex: 0 0 auto; border-radius: 12px;
+  box-shadow: 0 0 18px rgba(79, 214, 224, 0.28);
 }
-.radar::after {
-  content: ""; position: absolute; inset: 6px; border-radius: 50%;
-  background: var(--bg-0); box-shadow: 0 0 0 1px var(--stroke-soft) inset;
-}
-@keyframes sweep { to { transform: rotate(1turn); } }
 
 #q {
   width: 100%; padding: 0.72rem 0.95rem; font-size: 0.95rem; color: var(--fg);
@@ -196,6 +189,6 @@ details strong { color: var(--fg); font-weight: 600; }
 :focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
 
 @media (prefers-reduced-motion: reduce) {
-  .aurora span, .radar { animation: none; }
+  .aurora span { animation: none; }
   .card { transition: none; }
 }

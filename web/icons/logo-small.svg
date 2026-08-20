@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CyberJobs Radar">
+  <title>CyberJobs Radar</title>
+  <rect width="512" height="512" rx="116" fill="#0b1226"/>
+  <g transform="translate(256,256)">
+    <!-- favicon variant: one ring only, fat strokes, so it still reads at 16 px -->
+    <circle r="160" fill="none" stroke="#4fd6e0" stroke-width="40" stroke-linecap="round"
+            stroke-dasharray="754 251" transform="rotate(-125)"/>
+    <path d="M0 0 L110 -90" stroke="#8b7bff" stroke-width="40" stroke-linecap="round"/>
+    <circle r="38" fill="#4fd6e0"/>
+    <circle cx="118" cy="-96" r="44" fill="#57e2a5"/>
+  </g>
+</svg>

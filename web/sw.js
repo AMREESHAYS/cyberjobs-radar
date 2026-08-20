@@ -1,6 +1,7 @@
 // web/sw.js  — cache last-viewed data for offline
-const CACHE = "cjr-v2";
-const ASSETS = ["./", "index.html", "style.css", "app.js", "filters.js", "manifest.webmanifest", "data/jobs.json"];
+const CACHE = "cjr-v3";
+const ASSETS = ["./", "index.html", "style.css", "app.js", "filters.js", "manifest.webmanifest",
+  "data/jobs.json", "icons/logo.svg", "icons/logo-small.svg", "icons/logo-192.png"];
 self.addEventListener("install", e => e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting())));
 self.addEventListener("activate", e => e.waitUntil(caches.keys().then(k => Promise.all(k.filter(x => x !== CACHE).map(x => caches.delete(x))))));
 self.addEventListener("fetch", e => {

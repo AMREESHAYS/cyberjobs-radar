@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CyberJobs Radar">
+  <title>CyberJobs Radar</title>
+  <rect width="512" height="512" rx="116" fill="#0b1226"/>
+  <g transform="translate(256,256)">
+    <!-- rings break open to form a C -->
+    <circle r="177" fill="none" stroke="#4fd6e0" stroke-width="17" stroke-linecap="round"
+            stroke-dasharray="834 279" transform="rotate(-125)"/>
+    <circle r="123" fill="none" stroke="#57e2a5" stroke-width="12" stroke-linecap="round"
+            opacity="0.7" stroke-dasharray="579 194" transform="rotate(-125)"/>
+    <circle r="68" fill="none" stroke="#57e2a5" stroke-width="10" stroke-linecap="round"
+            opacity="0.45" stroke-dasharray="320 107" transform="rotate(-125)"/>
+    <!-- sweep arm + blip -->
+    <path d="M0 0 L126 -102" stroke="#8b7bff" stroke-width="19" stroke-linecap="round"/>
+    <circle r="22" fill="#4fd6e0"/>
+    <circle cx="126" cy="-105" r="24" fill="#57e2a5"/>
+  </g>
+</svg>
