@@ -85,7 +85,9 @@ def analyze(job: Job, profile: dict, client, model: str) -> None:
         return
     prompt = PROMPT.format(profile=json.dumps(profile), title=job.title,
                            company=job.company, location=job.location,
-                           description=job.description[:6000])
+                           # 3k chars covers the role + requirements sections and
+                           # halves token spend against Groq's free daily cap
+                           description=job.description[:3000])
     try:
         resp = client.chat.completions.create(
             model=model, temperature=0,
