@@ -85,3 +85,22 @@ def test_render_marks_remote_and_absent_fields():
                  remote=True, description="d")
     html = render_html([remote])
     assert "Remote" in html and "not stated" in html  # salary + type absent, stated as such
+
+def test_render_always_states_sponsorship_and_both_currencies():
+    j = Job(id="v", title="Security Engineer", company="Acme", location="Zurich, Switzerland",
+            country="CH", url="https://b.test/v", source="adzuna", source_type="api",
+            salary="90000-110000 CHF", salary_inr="≈ ₹1.1 Cr year", visa_sponsorship="yes",
+            role_summary="Run detection engineering.", expectations="Two years of SOC work.",
+            description="d")
+    html = render_html([j])
+    assert "Sponsorship offered" in html
+    assert "90000-110000 CHF (≈ ₹1.1 Cr year)" in html  # their currency first, then INR
+    assert "Run detection engineering." in html and "Two years of SOC work." in html
+
+def test_render_says_sponsorship_not_stated_when_the_ad_is_silent():
+    j = Job(id="w", title="Security Engineer", company="Acme", location="Zurich, Switzerland",
+            country="CH", url="https://b.test/w", source="adzuna", source_type="api",
+            description="d")
+    html = render_html([j])
+    assert "Sponsorship not stated" in html
+    assert "No sponsorship" not in html  # silence is never read as a refusal

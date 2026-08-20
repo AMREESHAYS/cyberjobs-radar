@@ -175,6 +175,14 @@ def test_web3career_skips_undated_posting_date():
 
 from pipeline.sources import eures
 
+def _details_get(city="Helsinki", country="FI"):
+    def get(url, params=None, headers=None, timeout=20):
+        return {"jvProfiles": {"en": {"locations": [{"cityName": city, "countryCode": country}]}}}
+    return get
+
+def _boom_get(url, params=None, headers=None, timeout=20):
+    raise RuntimeError("details endpoint down")
+
 def _post_capture(payload, calls):
     def post(url, json=None, headers=None, timeout=30):
         calls.append(json)
@@ -185,12 +193,13 @@ def test_eures_finland_filters_and_maps():
     payload = json.load(open("tests/fixtures/eures_search.json"))
     calls = []
     cfg = {"search_terms": ["security engineer"]}
-    jobs = eures.fetch_finland(cfg, get=_post_capture(payload, calls))
+    jobs = eures.fetch_finland(cfg, get=_post_capture(payload, calls), fetch=_details_get())
     assert calls[0]["locationCodes"] == ["fi"]  # country filter reaches the API
     assert len(jobs) == 1  # the delivery job matched EURES' loose search, not ours
     j = jobs[0]
     assert j.title == "AI Agent Developer & Enablement Specialist"
-    assert j.company == "OSTP" and j.country == "FI" and j.location == "FI19A"
+    assert j.company == "OSTP" and j.country == "FI"
+    assert j.location == "Helsinki, Finland"  # city comes from the per-job endpoint
     assert j.source == "eures-fi" and j.source_type == "api"
     assert j.url.startswith("https://europa.eu/eures/portal/jv-se/jv-details/")
     assert " " not in j.url.split("/")[-1].split("?")[0]  # id is percent-encoded
@@ -200,15 +209,16 @@ def test_eures_finland_filters_and_maps():
 def test_eures_denmark_prefers_queried_country_in_multi_country_posting():
     payload = json.load(open("tests/fixtures/eures_search.json"))
     cfg = {"search_terms": ["cloud security"]}
-    jobs = eures.fetch_denmark(cfg, get=_post_capture(payload, []))
+    jobs = eures.fetch_denmark(cfg, get=_post_capture(payload, []),
+                               fetch=_details_get("Aarhus", "DK"))
     assert len(jobs) == 1
-    assert jobs[0].country == "DK" and jobs[0].location == "DK03"  # posting is DE+DK
+    assert jobs[0].country == "DK" and jobs[0].location == "Aarhus, Denmark"  # posting is DE+DK
     assert jobs[0].source == "eures-dk"
 
 def test_eures_dedupes_across_keyword_queries():
     payload = json.load(open("tests/fixtures/eures_search.json"))
     cfg = {"search_terms": ["security engineer", "cloud security"]}
-    jobs = eures.fetch_finland(cfg, get=_post_capture(payload, []))
+    jobs = eures.fetch_finland(cfg, get=_post_capture(payload, []), fetch=_details_get())
     assert len({j.id for j in jobs}) == len(jobs) == 2  # two queries, no repeats
 
 # --- employment type / clean text, added when the cards started rendering them ---
@@ -244,5 +254,29 @@ def test_employment_type_absent_stays_not_stated():
 
 def test_eures_maps_schedule_codes():
     payload = json.load(open("tests/fixtures/eures_search.json"))
-    jobs = eures.fetch_finland({"search_terms": ["security engineer"]}, get=_post_capture(payload, []))
+    jobs = eures.fetch_finland({"search_terms": ["security engineer"]},
+                               get=_post_capture(payload, []), fetch=_details_get())
     assert jobs[0].employment_type == "Fulltime, Directhire"
+
+
+def test_eures_keeps_the_region_code_when_the_details_call_fails():
+    payload = json.load(open("tests/fixtures/eures_search.json"))
+    jobs = eures.fetch_finland({"search_terms": ["security engineer"]},
+                               get=_post_capture(payload, []), fetch=_boom_get)
+    assert jobs[0].location == "FI19A, Finland"  # region code + country, job is not dropped
+
+from pipeline.sources.base import format_location, country_name, parse_salary_text
+
+def test_format_location_pairs_city_with_country():
+    assert format_location("Zurich", "CH") == "Zurich, Switzerland"
+    assert format_location("Stockholm", "Sverige") == "Stockholm, Sweden"
+    assert format_location("", "DE") == "Germany"          # no city stated, none invented
+    assert format_location("Munich", "") == "Munich"       # no country stated
+    assert format_location("Anywhere", "REMOTE") == "Anywhere"  # internal bucket, not a place
+    assert format_location("", "") == NOT_STATED
+    assert country_name("OTHER") == ""
+
+def test_parse_salary_text_reads_ranges_and_refuses_prose():
+    assert parse_salary_text("$120k - $160k") == (120000.0, 160000.0, "USD")
+    assert parse_salary_text("105000-230000 USD year") == (105000.0, 230000.0, "USD")
+    assert parse_salary_text("competitive salary") == (None, None, "")

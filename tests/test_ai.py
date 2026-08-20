@@ -1,5 +1,5 @@
 import json
-from pipeline.ai import analyze, build_client
+from pipeline.ai import analyze, build_client, _coerce
 from pipeline.models import Job, make_id, NOT_STATED
 
 class FakeResp:
@@ -85,3 +85,20 @@ def test_build_client_uses_ai_api_key_for_any_provider(monkeypatch):
     assert captured["api_key"] == "nvapi-xyz"
     assert captured["base_url"] == "https://integrate.api.nvidia.com/v1"
     assert model == "meta/llama-3.3-70b-instruct"
+
+def test_coerce_keeps_only_explicit_sponsorship_answers():
+    job = _job()
+    _coerce(job, {"score": 70, "visa_sponsorship": "YES", "role_summary": "Run the SOC.",
+                  "expectations": "Two years of blue-team work."})
+    assert job.visa_sponsorship == "yes"
+    assert job.role_summary == "Run the SOC."
+    assert job.expectations == "Two years of blue-team work."
+    for improvised in ("probably", "likely not", "", None, "maybe"):
+        j = _job()
+        _coerce(j, {"score": 70, "visa_sponsorship": improvised})
+        assert j.visa_sponsorship == NOT_STATED
+
+def test_coerce_defaults_the_new_fields_to_not_stated():
+    job = _job()
+    _coerce(job, {"score": 50})
+    assert job.role_summary == job.expectations == job.visa_sponsorship == NOT_STATED

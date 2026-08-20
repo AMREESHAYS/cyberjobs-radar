@@ -55,6 +55,18 @@ function render() {
 // showing the stated location rather than asserting an office
 const isRemote = j => j.remote === true || j.country === "REMOTE";
 const workMode = j => isRemote(j) ? "Remote" : (j.remote === false ? "On site" : "not stated");
+// sponsorship decides whether the job is reachable at all, so it is always shown
+const VISA = { yes: ["visa yes", "Sponsorship offered"], no: ["visa no", "No sponsorship"] };
+const visaChip = j => {
+  const [cls, label] = VISA[j.visa_sponsorship] || ["visa unknown", "Sponsorship not stated"];
+  return `<span class="${cls}">${label}</span>`;
+};
+const salaryText = j => {
+  const stated = j.salary && j.salary !== "not stated" ? j.salary : "";
+  const inr = j.salary_inr && j.salary_inr !== "not stated" ? j.salary_inr : "";
+  if (!stated && !inr) return "not stated";
+  return stated + (inr ? ` (${inr})` : "");
+};
 
 function card(j, saved, applied) {
   const el = document.createElement("article");
@@ -70,13 +82,16 @@ function card(j, saved, applied) {
       <span class="badge">${esc(j.country)}</span>
       <span class="src ${j.source_type}">${esc(j.source)}</span>
       ${j.remote === true ? '<span class="badge">remote</span>' : ""}
+      ${visaChip(j)}
     </p>
     <ul class="facts">
       <li><span>Location</span>${esc(j.location && j.location !== "not stated" ? j.location : "not stated")}</li>
       <li><span>Work mode</span>${workMode(j)}</li>
       <li><span>Type</span>${esc(j.employment_type || "not stated")}</li>
-      <li><span>Salary</span>${esc(j.salary || "not stated")}</li>
+      <li><span>Salary</span>${esc(salaryText(j))}</li>
     </ul>
+    <p class="role"><span>Role</span>${esc(j.role_summary || "not stated")}</p>
+    <p class="role"><span>They expect</span>${esc(j.expectations || "not stated")}</p>
     <p class="reason">${esc(/^(AI disabled|AI unavailable)$/.test(j.score_reason || "") ? "" : j.score_reason)}</p>
     <details>
       <summary>Details</summary>

@@ -160,6 +160,16 @@ main { padding: 1rem; display: grid; gap: 0.8rem; max-width: 720px; margin: 0 au
 .facts span { color: var(--mut); font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; }
 @media (max-width: 380px) { .facts { grid-template-columns: 1fr; } }
 
+.role { font-size: 0.8rem; color: #c7d2f5; margin: 0 0 0.35rem; }
+.role span {
+  display: block; color: var(--mut); font-size: 0.66rem;
+  text-transform: uppercase; letter-spacing: 0.06em;
+}
+.visa { padding: 0.12rem 0.5rem; border-radius: 999px; font-size: 0.7rem; border: 1px solid; }
+.visa.yes { background: rgba(87, 226, 165, 0.16); border-color: rgba(87, 226, 165, 0.45); color: var(--mint); }
+.visa.no { background: rgba(255, 111, 133, 0.14); border-color: rgba(255, 111, 133, 0.4); color: #ff97a8; }
+.visa.unknown { background: rgba(154, 167, 199, 0.12); border-color: rgba(154, 167, 199, 0.3); color: var(--mut); }
+
 .reason { font-size: 0.88rem; margin: 0.2rem 0 0.6rem; color: #d6deff; }
 .reason:empty { display: none; }
 

@@ -53,3 +53,18 @@ def test_merge_refreshes_source_fields_but_keeps_ai_work():
     assert (j.location, j.salary, j.employment_type) == ("Zurich", "90000-110000 CHF", "Full Time")
     assert (j.score, j.score_reason, j.skills) == (82, "strong match", ["siem"])
     assert (j.hiring_process, j.seniority_fit, j.first_seen) == ("3 rounds", "junior", "2026-08-01")
+
+def test_merge_keeps_every_ai_field_across_a_refetch():
+    from pipeline.ai import ANALYSIS_VERSION
+    stored = Job(id="y1", title="t", company="c", location="Zurich", country="CH",
+                 url="https://b.test/y", source="s", source_type="api", description="old",
+                 score=80, role_summary="Runs the SOC.", expectations="Two years.",
+                 visa_sponsorship="yes", analysis_version=ANALYSIS_VERSION,
+                 first_seen="2026-08-01")
+    refetched = Job(id="y1", title="t", company="c", location="Zurich, Switzerland",
+                    country="CH", url="https://b.test/y", source="s", source_type="api",
+                    description="new")
+    j = merge([stored], [refetched], "2026-08-20")[0][0]
+    assert j.location == "Zurich, Switzerland" and j.description == "new"
+    assert (j.role_summary, j.expectations, j.visa_sponsorship) == ("Runs the SOC.", "Two years.", "yes")
+    assert j.analysis_version == ANALYSIS_VERSION  # not re-analysed next run

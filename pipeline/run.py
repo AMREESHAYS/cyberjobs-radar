@@ -3,8 +3,8 @@ import logging
 from datetime import date, timezone, datetime
 from .config import load_config, load_profile
 from .sources import fetch_all
-from .ai import analyze, build_client
-from . import store
+from .ai import ANALYSIS_VERSION, analyze, build_client
+from . import fx, store
 
 log = logging.getLogger("run")
 
@@ -16,7 +16,8 @@ def prefilter(jobs, cfg):
     return [j for j in jobs if j.country == "REMOTE" or j.country in targets]
 
 def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
-        client_factory=build_client, analyze_fn=analyze, today=None):
+        client_factory=build_client, analyze_fn=analyze, rates_loader=fx.load_rates,
+        today=None):
     today = today or datetime.now(timezone.utc).date().isoformat()
     fetched = prefilter(fetch(cfg), cfg)
     existing = store.load(data_path)
@@ -27,12 +28,18 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
     scored = 0
     if client is not None:
         # score any unscored job (new, or ingested unscored before a key was added,
-        # or a prior AI failure) so adding/fixing a key backfills existing jobs
-        to_score = [j for j in all_jobs if j.score is None]
+        # or a prior AI failure) so adding/fixing a key backfills existing jobs.
+        # jobs analysed by an older prompt are re-run once, so fields added later
+        # (role, expectations, visa) reach rows scored before they existed
+        to_score = [j for j in all_jobs
+                    if j.score is None or j.analysis_version < ANALYSIS_VERSION]
         for job in to_score[:cap]:
             analyze_fn(job, profile, client, model)
             if job.score is not None:
                 scored += 1
+
+    # INR conversion runs over everything, so a rate refresh updates old rows too
+    fx.apply(all_jobs, rates_loader())
 
     kept = store.age_out(all_jobs, today, cfg.get("age_out_days", 45), keep_ids=set())
     store.save(data_path, kept)

@@ -2,7 +2,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import employment_label, post_json, strip_html
+from .base import employment_label, format_location, get_json, post_json, strip_html
 from .remote_apis import _keyword_match, _terms
 from urllib.parse import quote
 
@@ -12,6 +12,7 @@ from urllib.parse import quote
 # MitID login, and the Finnish API needs credentials tied to a business ID.
 SEARCH_URL = "https://europa.eu/eures/api/jv-searchengine/public/jv-search/search"
 DETAILS_URL = "https://europa.eu/eures/portal/jv-se/jv-details/"
+DETAILS_API = "https://europa.eu/eures/api/jv-searchengine/public/jv/id/"
 HEADERS = {"User-Agent": "cyberjobs-radar/1.0 (personal job search)",
            "Content-Type": "application/json"}
 RESULTS_PER_PAGE = 50
@@ -35,8 +36,6 @@ def _date(epoch_ms) -> str | None:
     except (TypeError, ValueError):
         return None
 
-# ponytail: locations come back as NUTS region codes ("FI1B1"), not city names.
-# The per-job details endpoint carries cityName if the codes prove too opaque.
 def _location(jv: dict, country: str) -> tuple[str, str]:
     location_map = jv.get("locationMap") or {}
     codes = [c for c in location_map if isinstance(c, str)]
@@ -46,7 +45,16 @@ def _location(jv: dict, country: str) -> tuple[str, str]:
     regions = [r for r in (location_map.get(code) or []) if r]
     return (", ".join(regions) or (code or NOT_STATED)), (code or "OTHER")
 
-def _search(cfg, country: str, post) -> list[Job]:
+def _city(jv_id: str, fetch) -> tuple[str, str]:
+    """City and country from the per-job endpoint; search results only carry NUTS codes."""
+    data = fetch(f"{DETAILS_API}{quote(jv_id)}", params={"lang": "en"}, headers=HEADERS)
+    profiles = data.get("jvProfiles") or {}
+    profile = profiles.get("en") or next(iter(profiles.values()), {})
+    places = profile.get("locations") or []
+    place = places[0] if places else {}
+    return place.get("cityName") or "", place.get("countryCode") or ""
+
+def _search(cfg, country: str, post, fetch=get_json) -> list[Job]:
     terms = _terms(cfg)
     jobs, seen = [], set()
     for keyword in terms:
@@ -62,6 +70,12 @@ def _search(cfg, country: str, post) -> list[Job]:
                 continue
             seen.add(jv_id)
             location, code = _location(jv, country)
+            try:
+                city, city_country = _city(jv_id, fetch)
+                if city or city_country:
+                    location = format_location(city, city_country or code)
+            except Exception:  # noqa: BLE001 - a NUTS code beats dropping the job
+                location = format_location(location, code)
             employer = jv.get("employer") or {}
             jobs.append(Job(
                 id=make_id(f"eures-{country}", jv_id, DETAILS_URL),
@@ -81,11 +95,11 @@ def _search(cfg, country: str, post) -> list[Job]:
             ))
     return jobs
 
-def fetch_denmark(cfg, get=post_json):
-    return _search(cfg, "dk", get)
+def fetch_denmark(cfg, get=post_json, fetch=get_json):
+    return _search(cfg, "dk", get, fetch)
 
-def fetch_finland(cfg, get=post_json):
-    return _search(cfg, "fi", get)
+def fetch_finland(cfg, get=post_json, fetch=get_json):
+    return _search(cfg, "fi", get, fetch)
 
 register(fetch_denmark)
 register(fetch_finland)

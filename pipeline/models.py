@@ -21,6 +21,11 @@ class Job:
     posted_date: str | None = None
     remote: bool | str = False
     salary: str = NOT_STATED
+    salary_min: float | None = None      # structured only when the ad states numbers
+    salary_max: float | None = None
+    salary_currency: str = ""
+    salary_period: str = ""
+    salary_inr: str = NOT_STATED         # converted at run time, never fabricated
     employment_type: str = NOT_STATED  # full-time / internship / ... as stated
     description: str = ""
     # AI-added
@@ -29,6 +34,10 @@ class Job:
     skills: list[str] = field(default_factory=list)
     hiring_process: str = NOT_STATED
     seniority_fit: str = ""
+    role_summary: str = NOT_STATED       # what the role actually is
+    expectations: str = NOT_STATED       # what they expect from the candidate
+    visa_sponsorship: str = NOT_STATED   # only what the ad states; never inferred
+    analysis_version: int = 0            # bumped when the prompt gains fields, to backfill
     first_seen: str | None = None
 
     def to_dict(self) -> dict:

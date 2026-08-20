@@ -3,7 +3,8 @@ import json
 import re
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import employment_label, get_json, get_text, strip_html
+from .base import (employment_label, format_location, get_json, get_text,
+                   parse_salary_text, strip_html)
 from .remote_apis import _COUNTRY_WORDS, _keyword_match, _terms
 
 # Crypto/web3 boards. Neither exposes a usable API or feed, but both render a
@@ -33,6 +34,10 @@ def _country(text: str) -> str | None:
             return code
     return None
 
+def _amount(posting: dict, key: str):
+    value = ((posting.get("baseSalary") or {}).get("value") or {}).get(key)
+    return float(value) if isinstance(value, (int, float)) else None
+
 def _salary(posting: dict) -> str:
     base = posting.get("baseSalary") or {}
     value = base.get("value") if isinstance(base, dict) else None
@@ -52,13 +57,11 @@ def _location(posting: dict) -> str:
     address = place.get("address") if isinstance(place, dict) else None
     if not isinstance(address, dict):
         return NOT_STATED
-    bits = [address.get(k) or "" for k in ("addressLocality", "addressRegion")]
+    city = address.get("addressLocality") or address.get("addressRegion") or ""
     country = (address.get("addressCountry") or "").strip()
-    # spelled-out country names add information; a bare 2-letter code does not,
-    # and cryptovalley stamps "CH" on every posting including US ones
-    if country and (len(country) > 2 or not any(bits)):
-        bits.append(country)
-    return ", ".join(b for b in bits if b) or NOT_STATED
+    # a spelled-out country name is real information; cryptovalley's bare "CH"
+    # is stamped on every posting including US ones, so it is not trusted
+    return format_location(city, country if len(country) > 2 else "")
 
 def _to_job(source: str, url: str, posting: dict) -> Job | None:
     title = (posting.get("title") or "").strip()
@@ -80,6 +83,10 @@ def _to_job(source: str, url: str, posting: dict) -> Job | None:
         posted_date=(posting.get("datePosted") or "")[:10] or None,
         remote=remote,
         salary=_salary(posting),
+        salary_min=_amount(posting, "minValue"), salary_max=_amount(posting, "maxValue"),
+        salary_currency=((posting.get("baseSalary") or {}).get("currency") or ""),
+        salary_period=(((posting.get("baseSalary") or {}).get("value") or {})
+                       .get("unitText") or "").lower(),
         employment_type=employment_label(posting.get("employmentType")),
         description=strip_html(posting.get("description")),
     )
@@ -160,6 +167,7 @@ def fetch_web3career(cfg, get=get_json):
         description = strip_html(row.get("description"))
         if not _keyword_match(f"{title} {description} {' '.join(row.get('tags') or [])}", terms):
             continue
+        w3_low, w3_high, w3_currency = parse_salary_text(row.get("salary"))
         location = row.get("location") or NOT_STATED
         remote = bool(row.get("remote")) or "remote" in location.lower()
         posted = str(row.get("postedAt") or "")[:10]  # format varies between listings
@@ -175,6 +183,7 @@ def fetch_web3career(cfg, get=get_json):
             posted_date=posted if re.fullmatch(r"\d{4}-\d{2}-\d{2}", posted) else None,
             remote=remote,
             salary=row.get("salary") or NOT_STATED,
+            salary_min=w3_low, salary_max=w3_high, salary_currency=w3_currency,
             employment_type=employment_label(row.get("employmentType")),
             description=description,
         ))

@@ -41,6 +41,24 @@ def _esc(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+_VISA_STYLE = {
+    "yes": ("#57e2a5", "rgba(87,226,165,0.16)", "Sponsorship offered"),
+    "no": ("#ff97a8", "rgba(255,111,133,0.14)", "No sponsorship"),
+}
+
+def _visa_chip(j: Job) -> str:
+    colour, background, label = _VISA_STYLE.get(
+        j.visa_sponsorship, ("#9aa7c7", "rgba(154,167,199,0.12)", "Sponsorship not stated"))
+    return (f'<span style="display:inline-block;padding:2px 8px;border-radius:999px;'
+            f'background:{background};color:{colour};font-size:11px;">{label}</span>')
+
+def _salary_text(j: Job) -> str:
+    stated = j.salary if j.salary and j.salary != NOT_STATED else ""
+    inr = j.salary_inr if j.salary_inr and j.salary_inr != NOT_STATED else ""
+    if not stated and not inr:
+        return NOT_STATED
+    return stated + (f" ({inr})" if inr else "")
+
 def _work_mode(j: Job) -> str:
     # same rule as the web card: never infer an office from an address
     if j.remote is True or j.country == "REMOTE":
@@ -63,7 +81,7 @@ def render_html(jobs: list[Job]) -> str:
                 ("LOCATION", j.location or NOT_STATED),
                 ("WORK MODE", _work_mode(j)),
                 ("TYPE", j.employment_type or NOT_STATED),
-                ("SALARY", j.salary or NOT_STATED),
+                ("SALARY", _salary_text(j)),
             ))
         reason = "" if j.score_reason in ("AI disabled", "AI unavailable") else _esc(j.score_reason)
         rows.append(f"""
@@ -79,8 +97,13 @@ def render_html(jobs: list[Job]) -> str:
                   <div style="color:#eaf0ff;font-size:16px;font-weight:700;">{_esc(j.title)}</div>
                   <div style="color:#9aa7c7;font-size:13px;padding:4px 0;">
                     {_esc(j.company)} · <span style="color:#8b7bff;">{_esc(j.country)}</span> · {_esc(j.source)}</div>
+                  <div style="padding:2px 0 6px;">{_visa_chip(j)}</div>
                   {'<div style="color:#d6deff;font-size:13px;">' + reason + '</div>' if reason else ''}
                   <table width="100%" style="margin-top:8px;"><tr>{facts}</tr></table>
+                  <div style="color:#c7d2f5;font-size:12px;padding-top:8px;">
+                    <span style="color:#5a6690;">ROLE </span>{_esc(j.role_summary or NOT_STATED)}</div>
+                  <div style="color:#c7d2f5;font-size:12px;padding-top:4px;">
+                    <span style="color:#5a6690;">THEY EXPECT </span>{_esc(j.expectations or NOT_STATED)}</div>
                   <div style="color:#9aa7c7;font-size:12px;padding-top:8px;">Skills: {skills}</div>
                   <a href="{_esc(j.url)}" style="display:inline-block;margin-top:12px;padding:9px 16px;border-radius:999px;
                     background:linear-gradient(120deg,#4fd6e0,#8b7bff);color:#06111f;font-weight:700;

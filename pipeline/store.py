@@ -13,7 +13,9 @@ def load(path: str) -> list[Job]:
     return [Job.from_dict(d) for d in json.loads(raw)]
 
 # what the AI writes, plus when we first saw the job: never overwritten by a refetch
-_ENRICHED = ("score", "score_reason", "skills", "hiring_process", "seniority_fit", "first_seen")
+_ENRICHED = ("score", "score_reason", "skills", "hiring_process", "seniority_fit",
+             "role_summary", "expectations", "visa_sponsorship", "analysis_version",
+             "first_seen")
 
 def merge(existing, fetched, today: str):
     by_id = {j.id: j for j in existing}

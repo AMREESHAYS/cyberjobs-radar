@@ -2,7 +2,7 @@ from __future__ import annotations
 import re
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import employment_label, get_json, strip_html
+from .base import employment_label, format_location, get_json, strip_html
 
 # rough country detection from a free-text location string
 _COUNTRY_WORDS = {
@@ -48,7 +48,8 @@ def fetch_arbeitnow(cfg, get=get_json):
             id=make_id("arbeitnow", r.get("slug"), url),
             title=r.get("title", "").strip(),
             company=r.get("company_name", NOT_STATED),
-            location=loc, country=_country_from(loc),
+            location=format_location(loc, _country_from(loc)),
+            country=_country_from(loc),
             url=url, source="arbeitnow", source_type="api",
             posted_date=None, remote=bool(r.get("remote")),
             salary=NOT_STATED, employment_type=employment_label(r.get("job_types")),
@@ -131,6 +132,8 @@ def fetch_himalayas(cfg, get=get_json):
             posted_date=(r.get("pubDate") or "")[:10] or None, remote=True,
             salary=_range_salary(r.get("minSalary"), r.get("maxSalary"),
                                  r.get("currency"), r.get("salaryPeriod")),
+            salary_min=r.get("minSalary"), salary_max=r.get("maxSalary"),
+            salary_currency=r.get("currency") or "", salary_period=r.get("salaryPeriod") or "",
             employment_type=employment_label(r.get("employmentType")),
             description=strip_html(r.get("description")),
         ))

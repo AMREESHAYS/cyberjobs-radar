@@ -1,7 +1,7 @@
 from __future__ import annotations
 from ..models import Job, make_id, NOT_STATED
 from . import register
-from .base import employment_label, get_json, strip_html
+from .base import employment_label, format_location, get_json, strip_html
 
 SEARCH = "https://jobsearch.api.jobtechdev.se/search"
 
@@ -19,7 +19,8 @@ def fetch(cfg, get=get_json):
             id=make_id("jobtech", str(r.get("id")), url),
             title=(r.get("headline") or "").strip(),
             company=(r.get("employer") or {}).get("name", NOT_STATED),
-            location=", ".join(x for x in [addr.get("municipality"), addr.get("region")] if x),
+            location=format_location(addr.get("municipality") or addr.get("region"),
+                                     addr.get("country") or "SE"),
             country="SE",
             url=url,
             source="jobtech", source_type="api",
