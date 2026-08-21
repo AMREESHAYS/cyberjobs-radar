@@ -25,12 +25,13 @@ def test_run_scores_only_new(tmp_path):
         job.score = 77
         job.analysis_version = ANALYSIS_VERSION  # real analyze() stamps this
         scored.append(job.url)
-    s1 = run(cfg, {}, data_path=data, fetch=fake_fetch,
+    meta = str(tmp_path / "meta.json")
+    s1 = run(cfg, {}, data_path=data, meta_path=meta, fetch=fake_fetch,
              client_factory=fake_client_factory, analyze_fn=fake_analyze, today="2026-08-18")
     assert s1["new"] == 2 and s1["scored"] == 2
     # second run: same jobs -> nothing new, nothing re-scored
     scored.clear()
-    s2 = run(cfg, {}, data_path=data, fetch=fake_fetch,
+    s2 = run(cfg, {}, data_path=data, meta_path=meta, fetch=fake_fetch,
              client_factory=fake_client_factory, analyze_fn=fake_analyze, today="2026-08-19")
     assert s2["new"] == 0 and scored == []
 
@@ -47,7 +48,7 @@ def test_run_backfills_existing_unscored_when_key_added(tmp_path):
     def fake_fetch(c, **kw): return [_j("https://a/1")]   # same job re-fetched, still unscored
     def client_on(c): return ("CL", "model")
     def scorer(job, prof, client, model): job.score = 88
-    s = run(cfg, {}, data_path=data, fetch=fake_fetch,
+    s = run(cfg, {}, data_path=data, meta_path=str(tmp_path / "meta.json"), fetch=fake_fetch,
             client_factory=client_on, analyze_fn=scorer, today="2026-08-20")
     assert s["new"] == 0 and s["scored"] == 1   # not new, but backfilled
 
@@ -60,7 +61,7 @@ def test_run_no_score_attempts_when_ai_disabled(tmp_path):
     def client_off(c): return (None, "model")          # AI disabled
     called = []
     def scorer(job, prof, client, model): called.append(1)
-    s = run(cfg, {}, data_path=data, fetch=fake_fetch,
+    s = run(cfg, {}, data_path=data, meta_path=str(tmp_path / "meta.json"), fetch=fake_fetch,
             client_factory=client_off, analyze_fn=scorer, today="2026-08-20")
     assert s["scored"] == 0 and called == []           # no wasted analyze calls
 
@@ -75,7 +76,7 @@ def test_run_converts_stated_salaries_to_inr(tmp_path):
                  country="CH", url="https://b.test/p2", source="s", source_type="api",
                  description="d")
     rates = {"rates": {"CHF": 0.0084}}  # 1 INR = 0.0084 CHF
-    run({"countries": ["CH"]}, {}, str(path),
+    run({"countries": ["CH"]}, {}, str(path), meta_path=str(tmp_path / "meta.json"),
         fetch=lambda cfg: [paid, silent],
         client_factory=lambda cfg: (None, "m"),
         rates_loader=lambda: rates, today="2026-08-20")
@@ -95,7 +96,8 @@ def test_run_rescores_jobs_that_predate_the_role_fields(tmp_path):
         analysed.append(job.id)
         job.role_summary = "Runs the SOC."
         job.analysis_version = ANALYSIS_VERSION
-    run({"countries": ["CH"]}, {}, str(path), fetch=lambda cfg: [],
+    run({"countries": ["CH"]}, {}, str(path), meta_path=str(tmp_path / "meta.json"),
+        fetch=lambda cfg: [],
         client_factory=lambda cfg: ("client", "m"), analyze_fn=fake_analyze,
         rates_loader=lambda: {}, today="2026-08-20")
     assert analysed == ["o1"]  # already scored, but missing the newer fields
