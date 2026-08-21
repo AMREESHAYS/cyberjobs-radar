@@ -1,11 +1,12 @@
 from __future__ import annotations
 import json
 import logging
+import re
 from .models import Job, NOT_STATED
 
 # bump when the prompt starts producing a field older rows do not have: run.py
 # re-analyses anything below this, so existing jobs pick the new fields up
-ANALYSIS_VERSION = 4
+ANALYSIS_VERSION = 5
 
 PROMPT = """You rank cybersecurity job postings for a specific candidate.
 
@@ -50,6 +51,36 @@ HARD RULES:
   explicit wording in the description. Silence means "not stated", never "no".
 Output the JSON object and nothing else."""
 
+# Ads bury "5+ years of experience" in a requirements section far below the
+# intro, but the whole text costs tokens we do not have on a free daily cap.
+# So: the opening, plus the lines that look like requirements.
+HEAD_CHARS = 2200
+EXCERPT_CHARS = 1400
+_WANTED = re.compile(
+    r"(years?|jahre|jaar|ans|år|experience|erfahrung|ervaring|expérience|erfarenhet"
+    r"|require|requirement|qualification|qualifikation|must have|profil|skills?"
+    r"|kenntnisse|voraussetzung|degree|bachelor|master|sponsor|visa|permit"
+    r"|relocat|internship|praktikum)", re.I)
+
+def condense(description: str) -> str:
+    """Opening of the ad plus any later lines that read like requirements."""
+    text = description or ""
+    head, tail = text[:HEAD_CHARS], text[HEAD_CHARS:]
+    if not tail.strip():
+        return head
+    picked, used = [], 0
+    for line in re.split(r"(?<=[.;:!?])\s+|\n+", tail):
+        line = line.strip()
+        if not line or not _WANTED.search(line):
+            continue
+        picked.append(line)
+        used += len(line)
+        if used >= EXCERPT_CHARS:
+            break
+    if not picked:
+        return head
+    return head + "\n\n[requirements excerpted from further down the ad]\n" + " ".join(picked)
+
 def build_client(cfg):
     sec = cfg.get("secrets", {})
     base_url = sec.get("AI_BASE_URL") or cfg.get("ai", {}).get("base_url_default")
@@ -92,9 +123,7 @@ def analyze(job: Job, profile: dict, client, model: str) -> None:
         return
     prompt = PROMPT.format(profile=json.dumps(profile), title=job.title,
                            company=job.company, location=job.location,
-                           # 3k chars covers the role + requirements sections and
-                           # halves token spend against Groq's free daily cap
-                           description=job.description[:3000])
+                           description=condense(job.description))
     try:
         resp = client.chat.completions.create(
             model=model, temperature=0,

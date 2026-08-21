@@ -102,3 +102,23 @@ def test_coerce_defaults_the_new_fields_to_not_stated():
     job = _job()
     _coerce(job, {"score": 50})
     assert job.role_summary == job.expectations == job.visa_sponsorship == NOT_STATED
+
+from pipeline.ai import condense
+
+def test_condense_keeps_requirements_stated_below_the_cutoff():
+    filler = "We are a great company with a great mission. " * 60   # >2200 chars
+    ad = filler + "\n\nWhat you bring: 5+ years of experience in incident response. " \
+                  "A degree in computer science. We sponsor work permits."
+    out = condense(ad)
+    assert "5+ years of experience" in out       # the whole point
+    assert "sponsor work permits" in out
+    assert len(out) < len(ad)                    # still cheaper than sending it all
+
+def test_condense_drops_marketing_prose_from_the_tail():
+    ad = "x" * 2200 + "\n\nOur office has a ping pong table. We love oat milk lattes."
+    out = condense(ad)
+    assert "ping pong" not in out and "lattes" not in out
+
+def test_condense_leaves_short_ads_alone():
+    ad = "Security analyst wanted. 3 years of experience required."
+    assert condense(ad) == ad
