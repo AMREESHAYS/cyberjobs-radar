@@ -104,3 +104,17 @@ def test_render_says_sponsorship_not_stated_when_the_ad_is_silent():
     html = render_html([j])
     assert "Sponsorship not stated" in html
     assert "No sponsorship" not in html  # silence is never read as a refusal
+
+def test_render_states_experience_and_must_have_skills():
+    j = Job(id="e", title="Security Analyst", company="Acme", location="Zurich, Switzerland",
+            country="CH", url="https://b.test/e", source="adzuna", source_type="api",
+            experience_required="2-4 years", skills=["SIEM", "Python"], description="d")
+    html = render_html(j and [j], "2026-08-21T09:30:00+00:00")
+    assert "EXPERIENCE" in html and "2-4 years" in html
+    assert "Must have: SIEM, Python" in html
+    assert "Data refreshed 2026-08-21T09:30:00+00:00" in html
+
+def test_render_without_a_run_stamp_says_nothing_about_freshness():
+    j = Job(id="f", title="Security Analyst", company="Acme", location="l", country="CH",
+            url="https://b.test/f", source="s", source_type="api", description="d")
+    assert "Data refreshed" not in render_html([j])

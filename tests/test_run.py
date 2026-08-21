@@ -101,3 +101,36 @@ def test_run_rescores_jobs_that_predate_the_role_fields(tmp_path):
     assert analysed == ["o1"]  # already scored, but missing the newer fields
     saved = json.load(open(path))[0]
     assert saved["role_summary"] == "Runs the SOC." and saved["score"] == 70
+
+def test_run_removes_confirmed_dead_jobs_and_stamps_the_run(tmp_path):
+    from datetime import datetime, timezone
+    from pipeline.models import Job
+    data, meta = str(tmp_path / "jobs.json"), str(tmp_path / "meta.json")
+    live = Job(id="live", title="Security Engineer", company="c", location="l", country="CH",
+               url="https://b.test/live", source="s", source_type="api", description="d")
+    dead = Job(id="dead", title="Security Engineer", company="c", location="l", country="CH",
+               url="https://b.test/dead", source="s", source_type="api", description="d")
+    run({"countries": ["CH"]}, {}, data, fetch=lambda cfg: [live, dead],
+        client_factory=lambda cfg: (None, "m"), rates_loader=lambda: {},
+        prune_fn=lambda jobs: ([j for j in jobs if j.id != "dead"],
+                               [j for j in jobs if j.id == "dead"]),
+        meta_path=meta, now=datetime(2026, 8, 21, 9, 30, tzinfo=timezone.utc),
+        today="2026-08-21")
+    saved = json.load(open(data))
+    assert [j["id"] for j in saved] == ["live"]
+    m = json.load(open(meta))
+    assert m["removed"] == 1 and m["total"] == 1
+    assert m["generated_at"].startswith("2026-08-21T09:30:00")
+
+def test_merge_marks_jobs_no_source_listed_this_run(tmp_path):
+    from pipeline.store import merge
+    from pipeline.models import Job
+    stored = Job(id="old", title="t", company="c", location="l", country="CH",
+                 url="https://b.test/old", source="s", source_type="api", description="d",
+                 missing_runs=1)
+    still_there = Job(id="new", title="t", company="c", location="l", country="CH",
+                      url="https://b.test/new", source="s", source_type="api", description="d")
+    all_jobs, _ = merge([stored], [still_there], "2026-08-21")
+    by_id = {j.id: j for j in all_jobs}
+    assert by_id["old"].missing_runs == 2          # absent again
+    assert by_id["new"].missing_runs == 0 and by_id["new"].last_seen == "2026-08-21"

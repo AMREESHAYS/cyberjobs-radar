@@ -34,11 +34,14 @@ class Job:
     skills: list[str] = field(default_factory=list)
     hiring_process: str = NOT_STATED
     seniority_fit: str = ""
+    experience_required: str = NOT_STATED  # years/level the ad asks for
     role_summary: str = NOT_STATED       # what the role actually is
     expectations: str = NOT_STATED       # what they expect from the candidate
     visa_sponsorship: str = NOT_STATED   # only what the ad states; never inferred
     analysis_version: int = 0            # bumped when the prompt gains fields, to backfill
     first_seen: str | None = None
+    last_seen: str | None = None         # last run in which a source still listed it
+    missing_runs: int = 0                # consecutive runs where no source listed it
 
     def to_dict(self) -> dict:
         return asdict(self)

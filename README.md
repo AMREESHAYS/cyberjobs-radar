@@ -9,7 +9,7 @@
 [![fetch](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml/badge.svg)](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml)
 ![python](https://img.shields.io/badge/python-3.11-4fd6e0)
 ![sources](https://img.shields.io/badge/sources-12-57e2a5)
-![tests](https://img.shields.io/badge/tests-69%20pytest%20%2B%2012%20node-8b7bff)
+![tests](https://img.shields.io/badge/tests-78%20pytest%20%2B%2021%20node-8b7bff)
 ![licence](https://img.shields.io/badge/licence-personal%20use-9aa7c7)
 
 </div>
@@ -29,6 +29,8 @@ only condenses text that was actually fetched, and any field the ad didn't state
 | | |
 |---|---|
 | **Score** | 0-100 fit for the profile, with a one-line reason |
+| **Experience** | how much the ad asks for, in its own words |
+| **Must have** | the skills it lists as required, bonuses excluded |
 | **Role** | what the job actually is, condensed from the posting |
 | **They expect** | experience and qualifications, as stated |
 | **Visa sponsorship** | `yes` / `no` only on explicit wording — silence shows "not stated", never "no" |
@@ -99,7 +101,8 @@ sources ──> prefilter ──> merge (keeps AI work, refreshes source fields)
                               └──> data/jobs.json ──> PWA + email digest
 ```
 
-A GitHub Actions cron runs every 5 hours, commits the refreshed data, and emails new
-matches. `data/digest_state.json` remembers what was already sent, so nothing arrives twice.
+A GitHub Actions cron runs every 2 hours, commits the refreshed data, and emails new
+matches. Each run restamps `data/meta.json`, which the header reads to show how fresh
+the list is, and confirms delisted postings against the board before dropping them. `data/digest_state.json` remembers what was already sent, so nothing arrives twice.
 Pages hosting stays dormant unless the repo variable `ENABLE_PAGES=true` is set (needs a
 public repo, or private with GitHub Pro); otherwise `./run.sh --tunnel` reaches it from a phone.

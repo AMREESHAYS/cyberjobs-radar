@@ -14,13 +14,17 @@ def load(path: str) -> list[Job]:
 
 # what the AI writes, plus when we first saw the job: never overwritten by a refetch
 _ENRICHED = ("score", "score_reason", "skills", "hiring_process", "seniority_fit",
-             "role_summary", "expectations", "visa_sponsorship", "analysis_version",
-             "first_seen")
+             "role_summary", "expectations", "visa_sponsorship", "experience_required",
+             "analysis_version", "first_seen")
 
 def merge(existing, fetched, today: str):
     by_id = {j.id: j for j in existing}
+    seen_now = set()
     new = []
     for j in fetched:
+        seen_now.add(j.id)
+        j.last_seen = today
+        j.missing_runs = 0
         known = by_id.get(j.id)
         if known is None:
             j.first_seen = today
@@ -34,6 +38,11 @@ def merge(existing, fetched, today: str):
             if field in _ENRICHED:
                 setattr(j, field, value)
         by_id[j.id] = j
+    # a job no source listed this run is a delisting candidate; run.py confirms
+    # against the posting itself before anything is dropped
+    for job_id, job in by_id.items():
+        if job_id not in seen_now:
+            job.missing_runs += 1
     return list(by_id.values()), new
 
 def _days_between(a: str, b: str) -> int:
@@ -56,3 +65,9 @@ def save(path: str, jobs) -> None:
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump([j.to_dict() for j in ordered], f, ensure_ascii=False, indent=2)
+
+def save_meta(path: str, meta: dict) -> None:
+    """Run stamp the UI and the digest read, so both can say how fresh the data is."""
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)

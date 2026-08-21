@@ -5,7 +5,7 @@ from .models import Job, NOT_STATED
 
 # bump when the prompt starts producing a field older rows do not have: run.py
 # re-analyses anything below this, so existing jobs pick the new fields up
-ANALYSIS_VERSION = 2
+ANALYSIS_VERSION = 3
 
 PROMPT = """You rank cybersecurity job postings for a specific candidate.
 
@@ -23,7 +23,11 @@ Return ONLY a JSON object with these keys:
   "score": integer 0-100 (fit for THIS candidate: role match, entry-level fit,
            and visa-sponsorship / relocation / remote-from-India signals score higher),
   "score_reason": one short sentence,
-  "skills": list of required skills EXPLICITLY named in the description,
+  "skills": list of skills the description says are REQUIRED (must-haves only;
+            leave out anything it calls nice-to-have, bonus or preferred),
+  "experience_required": how much experience the ad asks for, quoted close to its
+            own wording, e.g. "3+ years", "2-4 years", "no experience required",
+            "internship"; exactly "not stated" if the ad never says,
   "hiring_process": how they hire IF the description states it, else exactly "not stated",
   "seniority_fit": short tag e.g. "intern", "junior", "mid", "senior",
   "role_summary": one sentence saying what the job actually is day to day,
@@ -72,6 +76,7 @@ def _coerce(job: Job, data: dict) -> None:
     job.skills = [str(s) for s in sk] if isinstance(sk, list) else []
     job.hiring_process = str(data.get("hiring_process") or NOT_STATED) or NOT_STATED
     job.seniority_fit = str(data.get("seniority_fit") or "")
+    job.experience_required = str(data.get("experience_required") or NOT_STATED) or NOT_STATED
     job.role_summary = str(data.get("role_summary") or NOT_STATED) or NOT_STATED
     job.expectations = str(data.get("expectations") or NOT_STATED) or NOT_STATED
     visa = str(data.get("visa_sponsorship") or "").strip().lower()
@@ -107,3 +112,4 @@ def analyze(job: Job, profile: dict, client, model: str) -> None:
         job.score, job.score_reason = None, "AI unavailable"
         job.hiring_process = NOT_STATED
         job.role_summary = job.expectations = job.visa_sponsorship = NOT_STATED
+        job.experience_required = NOT_STATED

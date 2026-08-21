@@ -4,7 +4,7 @@ from datetime import date, timezone, datetime
 from .config import load_config, load_profile
 from .sources import fetch_all
 from .ai import ANALYSIS_VERSION, analyze, build_client
-from . import fx, store
+from . import fx, liveness, store
 
 log = logging.getLogger("run")
 
@@ -17,8 +17,9 @@ def prefilter(jobs, cfg):
 
 def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
         client_factory=build_client, analyze_fn=analyze, rates_loader=fx.load_rates,
-        today=None):
-    today = today or datetime.now(timezone.utc).date().isoformat()
+        prune_fn=liveness.prune, meta_path="data/meta.json", now=None, today=None):
+    now = now or datetime.now(timezone.utc)
+    today = today or now.date().isoformat()
     fetched = prefilter(fetch(cfg), cfg)
     existing = store.load(data_path)
     all_jobs, new_jobs = store.merge(existing, fetched, today)
@@ -41,9 +42,16 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
     # INR conversion runs over everything, so a rate refresh updates old rows too
     fx.apply(all_jobs, rates_loader())
 
-    kept = store.age_out(all_jobs, today, cfg.get("age_out_days", 45), keep_ids=set())
+    # drop postings the board itself now returns as gone, then the age-out net
+    surviving, removed = prune_fn(all_jobs)
+    kept = store.age_out(surviving, today, cfg.get("age_out_days", 45), keep_ids=set())
+    aged_out = len(surviving) - len(kept)
     store.save(data_path, kept)
-    return {"total": len(kept), "new": len(new_jobs), "scored": scored}
+
+    summary = {"total": len(kept), "new": len(new_jobs), "scored": scored,
+               "removed": len(removed), "aged_out": aged_out}
+    store.save_meta(meta_path, {**summary, "generated_at": now.replace(microsecond=0).isoformat()})
+    return summary
 
 def main():
     logging.basicConfig(level=logging.INFO)

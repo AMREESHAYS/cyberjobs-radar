@@ -66,7 +66,7 @@ def _work_mode(j: Job) -> str:
     return "On site" if j.remote is False else NOT_STATED
 
 
-def render_html(jobs: list[Job]) -> str:
+def render_html(jobs: list[Job], generated_at: str = "") -> str:
     # email clients drop backdrop-filter, so glass is faked with solid dark cards
     # + an aurora gradient banner (linear-gradient renders in most clients).
     rows = []
@@ -82,6 +82,7 @@ def render_html(jobs: list[Job]) -> str:
                 ("WORK MODE", _work_mode(j)),
                 ("TYPE", j.employment_type or NOT_STATED),
                 ("SALARY", _salary_text(j)),
+                ("EXPERIENCE", j.experience_required or NOT_STATED),
             ))
         reason = "" if j.score_reason in ("AI disabled", "AI unavailable") else _esc(j.score_reason)
         rows.append(f"""
@@ -104,7 +105,7 @@ def render_html(jobs: list[Job]) -> str:
                     <span style="color:#5a6690;">ROLE </span>{_esc(j.role_summary or NOT_STATED)}</div>
                   <div style="color:#c7d2f5;font-size:12px;padding-top:4px;">
                     <span style="color:#5a6690;">THEY EXPECT </span>{_esc(j.expectations or NOT_STATED)}</div>
-                  <div style="color:#9aa7c7;font-size:12px;padding-top:8px;">Skills: {skills}</div>
+                  <div style="color:#9aa7c7;font-size:12px;padding-top:8px;">Must have: {skills}</div>
                   <a href="{_esc(j.url)}" style="display:inline-block;margin-top:12px;padding:9px 16px;border-radius:999px;
                     background:linear-gradient(120deg,#4fd6e0,#8b7bff);color:#06111f;font-weight:700;
                     font-size:13px;text-decoration:none;">Open posting →</a>
@@ -127,7 +128,8 @@ def render_html(jobs: list[Job]) -> str:
             </td></tr>
             {body}
             <tr><td style="padding:8px 4px 0;color:#5a6690;font-size:11px;">
-              Every link goes to the real posting. Fields the ad didn't state show "not stated".</td></tr>
+              Every link goes to the real posting. Fields the ad didn't state show "not stated".
+              {('<br>Data refreshed ' + _esc(generated_at)) if generated_at else ''}</td></tr>
           </table>
         </td></tr>
       </table></body></html>"""
@@ -159,7 +161,13 @@ def run_digest(cfg: dict, data_path: str, state_path: str, *, send_fn=send_email
         return {"sent": 0, "reason": "nothing new"}
 
     subject = f"CyberJobs Radar — {len(picks)} new match{'es' if len(picks) != 1 else ''}"
-    send_fn(render_html(picks), subject, to, sender, password)
+    generated_at = ""
+    try:
+        with open(state_path.replace("digest_state.json", "meta.json"), encoding="utf-8") as f:
+            generated_at = json.load(f).get("generated_at", "")
+    except (OSError, ValueError):
+        pass
+    send_fn(render_html(picks, generated_at), subject, to, sender, password)
     save_emailed(state_path, emailed | {j.id for j in picks})
     return {"sent": len(picks)}
 

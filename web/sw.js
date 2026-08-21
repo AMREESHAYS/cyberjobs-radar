@@ -1,7 +1,7 @@
 // web/sw.js — cache last-viewed data for offline
-const CACHE = "cjr-v4";
+const CACHE = "cjr-v5";
 const ASSETS = ["./", "index.html", "style.css", "app.js", "filters.js", "manifest.webmanifest",
-  "data/jobs.json", "icons/logo.svg", "icons/logo-small.svg", "icons/logo-192.png"];
+  "data/jobs.json", "data/meta.json", "icons/logo.svg", "icons/logo-small.svg", "icons/logo-192.png"];
 
 // Behind Cloudflare Access an expired session answers with the sign-in page —
 // status 200, but redirected and HTML. Caching that would pin the login screen

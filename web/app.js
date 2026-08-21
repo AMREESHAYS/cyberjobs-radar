@@ -11,13 +11,42 @@ let JOBS = [];
 const state = { view: "all", country: "", source: "", remoteOnly: false, minScore: 0, query: "" };
 
 let loadFailed = false;
+let META = null;
+
+// "3 minutes ago" beats a raw timestamp for the question actually being asked:
+// is what I am looking at current?
+function since(iso) {
+  const then = Date.parse(iso);
+  if (!then) return "";
+  const mins = Math.round((Date.now() - then) / 60000);
+  if (mins < 1) return "just now";
+  if (mins < 60) return `${mins} min ago`;
+  const hrs = Math.round(mins / 60);
+  if (hrs < 24) return `${hrs}h ago`;
+  return `${Math.round(hrs / 24)}d ago`;
+}
+
+function showFreshness() {
+  const el = document.getElementById("freshness");
+  if (!el) return;
+  if (!META || !META.generated_at) { el.textContent = ""; return; }
+  const when = new Date(META.generated_at);
+  const bits = [`Updated ${since(META.generated_at)}`];
+  if (META.new) bits.push(`${META.new} new`);
+  if (META.removed) bits.push(`${META.removed} closed`);
+  el.textContent = bits.join(" · ");
+  el.title = when.toLocaleString();  // exact date and time on hover/long-press
+}
 
 async function boot() {
   // behind Cloudflare Access an expired session answers with the sign-in page,
   // so a parse failure here means "sign in again", not "no jobs"
-  JOBS = await fetch("data/jobs.json?" + Date.now())
-    .then(r => r.json())
-    .catch(() => { loadFailed = true; return []; });
+  const bust = "?" + Date.now();
+  [JOBS, META] = await Promise.all([
+    fetch("data/jobs.json" + bust).then(r => r.json()).catch(() => { loadFailed = true; return []; }),
+    fetch("data/meta.json" + bust).then(r => r.json()).catch(() => null),
+  ]);
+  showFreshness();
   fillSelect("country", [...new Set(JOBS.map(j => j.country))].sort());
   fillSelect("source", [...new Set(JOBS.map(j => j.source))].sort());
   wire();
@@ -99,14 +128,16 @@ function card(j, saved, applied) {
       <li><span>Work mode</span>${workMode(j)}</li>
       <li><span>Type</span>${esc(j.employment_type || "not stated")}</li>
       <li><span>Salary</span>${esc(salaryText(j))}</li>
+      <li><span>Experience</span>${esc(j.experience_required || "not stated")}</li>
     </ul>
+    <p class="role"><span>Must have</span>${esc((j.skills || []).join(" · ") || "not stated")}</p>
     <p class="role"><span>Role</span>${esc(j.role_summary || "not stated")}</p>
     <p class="role"><span>They expect</span>${esc(j.expectations || "not stated")}</p>
     <p class="reason">${esc(/^(AI disabled|AI unavailable)$/.test(j.score_reason || "") ? "" : j.score_reason)}</p>
     <details>
       <summary>Details</summary>
-      <p><strong>Skills:</strong> ${esc((j.skills || []).join(", ") || "not stated")}</p>
       <p><strong>Hiring:</strong> ${esc(j.hiring_process || "not stated")}</p>
+      <p><strong>Last listed:</strong> ${esc(j.last_seen || j.first_seen || "not stated")}</p>
       <p class="desc">${esc(plain(j.description).slice(0, 600))}</p>
     </details>
     <div class="actions">
