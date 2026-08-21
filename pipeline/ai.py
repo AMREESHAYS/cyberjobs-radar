@@ -5,7 +5,7 @@ from .models import Job, NOT_STATED
 
 # bump when the prompt starts producing a field older rows do not have: run.py
 # re-analyses anything below this, so existing jobs pick the new fields up
-ANALYSIS_VERSION = 3
+ANALYSIS_VERSION = 4
 
 PROMPT = """You rank cybersecurity job postings for a specific candidate.
 
@@ -23,8 +23,10 @@ Return ONLY a JSON object with these keys:
   "score": integer 0-100 (fit for THIS candidate: role match, entry-level fit,
            and visa-sponsorship / relocation / remote-from-India signals score higher),
   "score_reason": one short sentence,
-  "skills": list of skills the description says are REQUIRED (must-haves only;
-            leave out anything it calls nice-to-have, bonus or preferred),
+  "skills": up to 8 skills the description says are REQUIRED, each a short name
+            of 1-4 words ("Python", "SIEM", "incident response") rather than a
+            sentence; must-haves only, leaving out anything it calls
+            nice-to-have, bonus or preferred,
   "experience_required": how much experience the ad asks for, quoted close to its
             own wording, e.g. "3+ years", "2-4 years", "no experience required",
             "internship"; exactly "not stated" if the ad never says,

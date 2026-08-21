@@ -100,6 +100,13 @@ const visaChip = j => {
   const [cls, label] = VISA[j.visa_sponsorship] || ["visa unknown", "Sponsorship not stated"];
   return `<span class="${cls}">${label}</span>`;
 };
+// older rows hold whole sentences as "skills"; trim them so the card stays scannable
+const mustHave = j => {
+  const skills = (j.skills || []).map(s => s.trim()).filter(Boolean);
+  if (!skills.length) return "not stated";
+  const short = skills.map(s => (s.length > 42 ? s.slice(0, 41).trimEnd() + "…" : s));
+  return short.slice(0, 8).join(" · ") + (short.length > 8 ? ` +${short.length - 8}` : "");
+};
 const salaryText = j => {
   const stated = j.salary && j.salary !== "not stated" ? j.salary : "";
   const inr = j.salary_inr && j.salary_inr !== "not stated" ? j.salary_inr : "";
@@ -130,7 +137,7 @@ function card(j, saved, applied) {
       <li><span>Salary</span>${esc(salaryText(j))}</li>
       <li><span>Experience</span>${esc(j.experience_required || "not stated")}</li>
     </ul>
-    <p class="role"><span>Must have</span>${esc((j.skills || []).join(" · ") || "not stated")}</p>
+    <p class="role"><span>Must have</span>${esc(mustHave(j))}</p>
     <p class="role"><span>Role</span>${esc(j.role_summary || "not stated")}</p>
     <p class="role"><span>They expect</span>${esc(j.expectations || "not stated")}</p>
     <p class="reason">${esc(/^(AI disabled|AI unavailable)$/.test(j.score_reason || "") ? "" : j.score_reason)}</p>
