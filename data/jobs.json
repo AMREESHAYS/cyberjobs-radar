@@ -5,7 +5,7 @@
     "company": "Kantonspolizei Zürich",
     "location": "Zürich, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5847068854?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=133EEF323D8A7CEE96552C2FB7A410E4BC1497C4",
+    "url": "https://www.adzuna.ch/land/ad/5847068854?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=133EEF323D8A7CEE96552C2FB7A410E4BC1497C4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-18",
@@ -85,517 +85,15 @@
     "employment_type": "not stated",
     "description": "Per nostro Cliente, player di riferimento nel mondo delle soluzioni digitali di pagamento, stiamo cercando un* IT Security Architect Obiettivo Il/la Candidato/a ideale, persona esperta e motivata, con capacità di leadership verrà inserito/a presso la sede luganese e farà parte del team IT Security Architecture & Operations con l'obiettivo di allineare gli obiettivi aziendali ai requisiti di sicurezza IT, definendo obiettivi e standard di sicurezza e architettura, progettando sistemi robusti e g…",
     "score": 20,
-    "score_reason": "Senior architect role with no sponsorship info, not entry-level for a junior candidate.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "mid",
-    "experience_required": "not stated",
-    "role_summary": "Work in the IT Security Architecture & Operations team to align business goals with IT security requirements, define security standards and design robust systems.",
-    "expectations": "Candidate should be experienced and motivated with leadership abilities, able to define security objectives, standards, and architecture for the organization.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "9aece813e2d051f0",
-    "title": "Business Information Security Officer Private Bank Switzerland",
-    "company": "Barclays",
-    "location": "Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5826137857?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-03",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Job Description Purpose of the role To provide a primary liaison service between the business, technology, and security functions. In order to ensure the confidentiality, integrity and availability of information, and support the mitigation of security risk. Accountabilities Collaboration with stakeholders to understand their security requirements in business processes and IT projects, to enhance overall risk management. Execution of risk assessments to identify and prioritise potential cyberse…",
-    "score": 20,
-    "score_reason": "Senior liaison role in Switzerland with no sponsorship or remote-from-India indication, not entry‑level for a junior candidate.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "experience_required": "not stated",
-    "role_summary": "Acts as a primary liaison between business, technology, and security functions, collaborating with stakeholders and performing risk assessments to ensure confidentiality, integrity, and availability of information.",
-    "expectations": "The candidate must collaborate with stakeholders to understand security requirements and enhance overall risk management. They are also expected to execute risk assessments to identify and prioritize potential cyber threats.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 6
-  },
-  {
-    "id": "1508bf8544dab634",
-    "title": "Security Operations Service Manager (m/w/d)",
-    "company": "HITS.NRW – Hochschule IT Services NRW",
-    "location": "Düsseldorf, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5833444906?se=SIMzr_2c8RGwBe63zKMEtw&utm_medium=api&utm_source=ceaf5c9d&v=96985FFC9ED75284F2B6A86C43705475839B6F30",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-08",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Gestalte die Zukunft einer neu gegründeten Hochschul-IT-Organisation in NRW HITS.NRW ist ein neu gegründeter, zentraler IT-Dienstleister für die öffentlichen Hochschulen in Nordrhein-Westfalen. Unsere Mission: Gemeinsam mit den Fachhochschulen die Hochschul-IT der Zukunft gestalten. Dafür entwickeln wir landesweit skalierbare Services aus den Bereichen Cloud, Cyber Security, Software und IT-Procurement. Wir sorgen für moderne, sichere und effiziente Lösungen – damit Hochschulen sich ganz auf Le…",
-    "score": 20,
-    "score_reason": "Low fit due to senior manager role, entry-level experience, and no sponsorship info.",
-    "skills": [
-      "Cloud",
-      "Cyber Security",
-      "Software",
-      "IT-Procurement"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "Manage and develop scalable security operations services for university IT, covering cloud, cyber security, software, and procurement.",
-    "expectations": "Expected to shape future university IT services, develop modern and secure solutions, and oversee scalable cloud and cyber security offerings.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 6
-  },
-  {
-    "id": "5b798dff2178cc87",
-    "title": "Cyber Security Management Consultant - Industrielle Produktion (all genders)",
-    "company": "adesso SE",
-    "location": "Düsseldorf, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5773181042?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=6B0A8F27A1246EDE171BF8B60D12A07C1D8076AC",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-06-23",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "adesso steht für digitale Exzellenz – und damit auch für vielfältige Entwicklungsmöglichkeiten für alle adessi. Wir wachsen gemeinsam und lernen voneinander: in anspruchsvollen Projekten, interdisziplinären Teams und mit zielgerichteten Trainingsangeboten. Wir haben IT im Herzen und den Erfolg unserer Kunden im Fokus. Als Treiber der KI-Transformation verbinden wir Mut zur Veränderung mit technologischer Expertise und zukunftsfähigen Strategien. Was uns stark macht, sind unsere adessi, die etwa…",
-    "score": 20,
-    "score_reason": "Junior candidate, no sponsorship or remote info, senior consultant role",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "experience_required": "not stated",
-    "role_summary": "Works on demanding projects in interdisciplinary teams, providing IT-focused consulting and driving AI transformation for industrial production clients.",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "2d11fa75a10e7ac6",
-    "title": "Cybersecurity Manager (m/w/d)",
-    "company": "Arnold NextG GmbH",
-    "location": "Deutschland",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5829367119?se=-gORveKb8RGvGrvTGRxIcA&utm_medium=api&utm_source=ceaf5c9d&v=F0E6628B80BADAEC6488B55A54AE5FFC34D0B97F",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-05",
-    "remote": false,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Arnold NextG realisiert die Safety-by-Wire®-Technologie von morgen – ob an Land, im Wasser oder in der Luft. Wir bieten das weltweit einzigartige und multi-redundante Zentralsteuergerät NX NextMotion, das eine ausfallsichere und individuelle Implementierung ermöglicht. Als unabhängiger Vorausentwickler, Inkubator und Systemlieferant übernimmt Arnold NextG die Planung und Umsetzung – von der Vision bis zur Straßenzulassung. Wir suchen Cybersecurity Manager (m/w/d) Aufgaben Aufbau, Pflege und Fre…",
-    "score": 20,
-    "score_reason": "Senior manager role in Germany with no mention of sponsorship or remote work, mismatched to junior candidate.",
+    "score_reason": "Senior architect role in Switzerland with no sponsorship info, not suitable for junior candidate.",
     "skills": [],
     "hiring_process": "not stated",
     "seniority_fit": "senior",
     "experience_required": "not stated",
-    "role_summary": "Responsible for the Aufbau (building), Pflege (maintenance) and further tasks of the company's cybersecurity measures.",
-    "expectations": "The candidate is expected to manage cybersecurity activities, including building and maintaining security solutions.",
+    "role_summary": "Work in the IT Security Architecture & Operations team to align business goals with security requirements, define security standards, and design robust systems.",
+    "expectations": "The candidate should be experienced, motivated, and have leadership capabilities to define security objectives, standards, and design secure architectures.",
     "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 6
-  },
-  {
-    "id": "025b3a16f28c4be5",
-    "title": "Senior Cybersecurity Incident Responder (f/m/d)",
-    "company": "ZEISS",
-    "location": "Oberkochen, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5832590704?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=75F7A1C7BC84EE6DC0B0D8E831512AF9E0062FBC",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-08",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people. In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a s…",
-    "score": 20,
-    "score_reason": "Senior role with no sponsorship info, not suitable for junior candidate needing visa support.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "eb50b332131c24ae",
-    "title": "Cybersecurity Manager (m/w/d)",
-    "company": "Arnold NextG GmbH",
-    "location": "Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5829676441?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=A9842858D4ED5906416EAFC2FF83F2B675EAC84B",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-06",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Arnold NextG realisiert die Safety-by-Wire®-Technologie von morgen - ob an Land, im Wasser oder in der Luft. Wir bieten das weltweit einzigartige und multi-redundante Zentralsteuergerät NX NextMotion, das eine ausfallsichere und individuelle Implementierung ermöglicht. Als unabhängiger Vorausentwickler, Inkubator und Systemlieferant übernimmt Arnold NextG die Planung und Umsetzung - von der Vision bis zur Straßenzulassung. Wir suchen Cybersecurity Manager (m/w/d) Deine Aufgaben Aufbau, Pflege u…",
-    "score": 20,
-    "score_reason": "Senior manager role in Germany with no sponsorship or remote options, not entry‑level for a junior candidate.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "experience_required": "not stated",
-    "role_summary": "Manage cybersecurity activities for safety‑by‑wire technology, including building and maintaining security measures.",
-    "expectations": "The candidate is expected to lead and maintain cybersecurity processes for the company's safety‑by‑wire systems.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "5b6b854c2d0938e2",
-    "title": "Senior Technical Support Engineer - Cybersecurity SaaS",
-    "company": "Intuition Machines, Inc.",
-    "location": "Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5659392412?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-03-09",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Intuition Machines uses AI/ML to build enterprise security products. We apply our research to systems that serve hundreds of millions of people, with a team distributed around the world. You are probably familiar with our best-known product, the hCaptcha security suite. Our approach is simple: low overhead, small teams, and rapid iteration. As a Senior Technical Support Engineer, you’ll work directly with customers and engineering teams to solve complex technical problems, improve product relia…",
-    "score": 20,
-    "score_reason": "Senior-level support role mismatches junior experience and lacks explicit sponsorship info.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "Work directly with customers and engineering teams to solve complex technical problems and improve product reliability.",
-    "expectations": "The candidate is expected to troubleshoot complex security product issues, collaborate with engineering, and help enhance product reliability.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "1a697473d6653658",
-    "title": "Software Security Architect - CRA (m/f/d)",
-    "company": "NXP Semiconductors",
-    "location": "Gratkorn, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5814602825?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-25",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Join one of the largest industrial security teams and build technology that protects real devices, worldwide.​ At NXP’s Competence Center Crypto & Security, we design, build, and deliver end-to-end security — from innovation to architecture to products in the field.​ If you’re a security engineer who wants impact, on real life security solutions, we’d love to hear from you. Our Chief Technology Office (CTO) organization drives innovation across NXP and supports Business Units with the tools, kn…",
-    "score": 20,
-    "score_reason": "Senior security architect role in Austria with no sponsorship info, not entry‑level for a junior candidate.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "You will work in NXP’s Competence Center Crypto & Security to design, build, and deliver end‑to‑end security solutions for real devices.",
-    "expectations": "They expect a security engineer who wants impact on real‑life security solutions, supporting the CTO organization and business units with innovative security architecture and product delivery.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "6663a30a41a037d1",
-    "title": "QKD Security Engineer (all genders)",
-    "company": "Quantum Technology Laboratories",
-    "location": "Wien, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5771149545?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-06-21",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "At Quantum Technology Laboratories GmbH (qtlabs), we are developing next-generation quantum communication technologies for space and terrestrial applications. Our work combines quantum optics, cryptography, and advanced engineering to create practical systems for secure communication in the quantum era. Based in Vienna, our team brings together experts in quantum key distribution (QKD), optical communication, system engineering, and security-critical technologies. We are now looking for an Expe…",
-    "score": 20,
-    "score_reason": "Role requires advanced quantum security expertise and likely senior level, not matching junior candidate; no sponsorship info.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "experience_required": "not stated",
-    "role_summary": "Develop and secure quantum communication systems, including quantum key distribution, for space and terrestrial applications.",
-    "expectations": "They are looking for an experienced professional to work on quantum key distribution security engineering.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "5e5b210208912cd3",
-    "title": "Lehre als IT Systemtechniker:in",
-    "company": "Barracuda Networks AG",
-    "location": "Innsbruck, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5795100832?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-10",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Werde Teil von Barracuda Networks – und mach' die digitale Welt sicherer! Barracuda Networks ist ein international führendes Unternehmen im Bereich IT-Security. Unsere innovativen Cloud- und Netzwerksicherheitslösungen schützen E-Mails, Netzwerke, Daten und Anwendungen von über 200.000 Unternehmen weltweit. Am Standort Innsbruck arbeiten engagierte Teams in einem internationalen Umfeld an zukunftsweisenden Technologien. Du interessierst dich für IT, Netzwerke und Sicherheit? Dann starte deine b…",
-    "score": 20,
-    "score_reason": "Apprenticeship role with no mention of sponsorship and limited relevance to cybersecurity specialties.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "intern",
-    "experience_required": "not stated",
-    "role_summary": "Work in an international team at the Innsbruck location on future‑oriented IT, network and security technologies as part of an apprenticeship.",
-    "expectations": "The candidate should be interested in IT, networks and security and be ready to start the apprenticeship program.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "a0671e1a0482b71e",
-    "title": "Senior SOC Architect (w/m/d)",
-    "company": "PricewaterhouseCoopers",
-    "location": "Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5510682372?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2025-11-23",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Line of Service Assurance Industry/Sector Not Applicable Specialism Cybersecurity & Privacy Management Level Manager Job Description & Summary Bist du bereit etwas zu verändern? PwC Österreich ist mit rund 1500 Mitarbeitenden an 5 Standorten eines der größten Prüfungs- und Beratungsunternehmen des Landes. Für uns bedeutet Erfolg, die Welt von morgen wirksam zu beeinflussen. Im Austausch mit führenden Organisationen setzen wir neue Maßstäbe und unterstützen dich dabei, einen entscheidenden Beitr…",
-    "score": 20,
-    "score_reason": "Senior SOC Architect role is senior level, not suitable for a junior candidate; no sponsorship or remote signals.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "The position focuses on cybersecurity and privacy management as a senior SOC architect.",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "7d5c572640093cc5",
-    "title": "Channel Solution Architect (Remote)",
-    "company": "CrowdStrike",
-    "location": "Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5844279212?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-16",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses…",
-    "score": 20,
-    "score_reason": "Senior solution architect role with no sponsorship info, not entry‑level for a junior candidate.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "experience_required": "not stated",
-    "role_summary": "Work on large‑scale distributed systems to protect customers using CrowdStrike’s AI‑native platform.",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "fe4ef31dae1f7a38",
-    "title": "Security Engineer - Full Remote (France) or Hybrid",
-    "company": "Voyage Privé",
-    "location": "France",
-    "country": "REMOTE",
-    "url": "https://jobicy.com/jobs/145653-security-engineer-full-remote-france-or-hybrid",
-    "source": "jobicy",
-    "source_type": "api",
-    "posted_date": "2026-08-07",
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Company Description ✨ About Voyage Privé Born in France in 2006, Voyage Privé has grown from an ambitious startup into becoming the Europe's leading travel tech platform. Operating across 9 markets with tens of millions of users, we're not just another e-commerce success story - we're a tech powerhouse revolutionizing online travel. What makes us unique? A mission-driven culture where performance meets impact. Our innovative campus brings together tech talent, professional athletes, students, and artists, creating an ecosystem where digital innovation drives both business growth and positive change. We're now at an inflection point, upgrading our entire technical foundation with cloud architecture, AI, and real-time systems to become a reference and top-of-mind platform for luxury travel, known by travelers for its for excellent offer and customer experience, and by our providers as a high-performance business development partner. Job Description Your Mission As a Security Engineer , you’ll play a key role in shaping the security and resilience of Voyage Privé’s technology platform. You’ll work closely with Engineering, Product, and Platform teams to embed security practices into every stage of product development, deliver measurable impact, and help us scale efficiently while maintaining a strong security posture. You’ll have the opportunity to build many security foundations from scratch — from internal tooling to CI/CD guardrails — and influence key architectural and technical decisions as we redesign our platform for scale. Your key responsibilities will include: Strengthen the security posture across products, data and infrastructure : secure coding practices, code reviews, threat modeling, vulnerability remediation, cloud, and network hardening. Develop automated security guardrails integrated into CI/CD pipelines (SAST, SCA, secrets scanning). Design secure architectures for applications , APIs, data flows, and integrations in partnership with engineering teams. Secure hybrid environments combining virtual machines, containerized workloads, and cloud-native services, ensuring consistent security standards across the entire platform. Drive proactive risk identification through continuous scanning, threat modeling sessions, risk assessments, and architecture reviews. Enable engineering teams to build secure-by-design practices by acting as a trusted advisor, developing internal tools, and leading security awareness sessions. Operational security &amp; incident readiness : participate in on-call rotations, investigate security events, and improve incident response workflows. Lead security improvement projects : build automation, enhance tools, optimize processes, and foster a culture of security ownership. Qualifications What We’re Looking For We’re looking for builders who move fast, think big, and care deeply about creating impact that lasts Your profile: 5–7 years of experience in software engineering, security engineering, DevSecOps, or equivalent technical security roles. Strong development background (Python, Node.js, Java, Go, PhP or similar). Hands-on experience with modern CI/CD systems (GitHub Actions, GitLab, Jenkins). Solid understanding of cloud security principles (AWS, GCP, Azure). Experience securing both virtualized systems (VMs) and containerized workloads. Strong knowledge of secure coding, OWASP Top 10, and application security fundamentals. Experience with SAST, SCA, container/IaC scanning, runtime security tools, IAM, and secrets management. Pragmatic, engineering-first mindset: able to balance security with developer experience, velocity, and real-world constraints. Excellent communication skills: able to translate complex security issues into actionable guidance for both technical and non-technical stakeholders. Proactive, autonomous, critical thinker with a continuous improvement mindset. Nice to have: previous experience or knowledge of compliance requirements (GDPR, PCI-DSS...) Fluent in French and English. Additional Information ⚡ Our Recruitment Process We believe in a fast, transparent, and human recruitment process. Here’s what you can expect: Intro Call with a Talent Acquisition Partner (30–45 min) – Get to know each other! We’ll share more about the role, the team, and our culture. Manager Interview (60 min) – Deep dive into your experience, missions, and ways of working. Take-Home Task – Practical exercise to showcase your strategic thinking and approach to security. Task Debrief (60 min) – Discuss your task with members of the team On-Site Interview (60 min) – Meet the VP of Engineering to align on expectations, culture, and long-term impact. Location : Aix en Provence or remote, France Start Date : The sooner, the better Contract Type : Full-time / Permanent ❤️ You'll Love Joining Us Our HQ in the South of France offers an exceptional environment - natural, cultural, and digital - on a modern and eco-responsible campus. Prefer flexibility? We offer a hybrid model for all other positions with 3 mandatory on-site days per week plus 4 fully remote weeks per year. Put meaning back into your work and join a unique ecosystem that connects worlds often far apart: business, sports, education, and social impact, through projects like Ecole des XV, Provence Rugby, VP Green, Les Tremplins, and Chez Pierre. Forget your gym subscription! Access our large on-site fitness center morning, noon, and night - or challenge your colleagues to a padel match on our private court. Live to the rhythm of Voyage Privé’s signature mix of business and fun: Company Breaks, Carnival, Annual Convention, meetups and talks… plus free tickets to every Provence Rugby home match and live music nights at the Dalida Institute. ✈️ And because travel is in our DNA : enjoy up to 20% off our exclusive getaway offers. Join us and make your next career move a journey worth taking.",
-    "score": 20,
-    "score_reason": "Job requires 5–7 years experience and no explicit sponsorship, which does not match the junior candidate needing visa support.",
-    "skills": [
-      "secure coding practices",
-      "code reviews",
-      "threat modeling",
-      "vulnerability remediation",
-      "cloud",
-      "network hardening",
-      "SAST",
-      "SCA",
-      "secrets scanning",
-      "secure architectures",
-      "applications",
-      "APIs",
-      "data flows",
-      "integrations",
-      "virtual machines",
-      "containerized workloads",
-      "cloud-native services",
-      "continuous scanning",
-      "risk assessments",
-      "architecture reviews",
-      "security awareness sessions",
-      "on‑call rotations",
-      "security events",
-      "incident response workflows",
-      "automation",
-      "tools",
-      "processes"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "Build and embed security foundations across the platform, create automated CI/CD guardrails, and guide engineering teams on secure‑by‑design practices.",
-    "expectations": "The candidate should have 5–7 years of experience in software engineering, security engineering, DevSecOps, or related fields and will be responsible for secure coding, threat modeling, vulnerability remediation, cloud and network hardening, and incident response.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 0
-  },
-  {
-    "id": "7f2a630bdfbeabab",
-    "title": "Sr. Security Researcher II (Remote, DEU)",
-    "company": "CrowdStrike",
-    "location": "Germany,  Ireland,  Israel,  Romania,  UK",
-    "country": "REMOTE",
-    "url": "https://jobicy.com/jobs/145057-sr-security-researcher-ii-remote-deu",
-    "source": "jobicy",
-    "source_type": "api",
-    "posted_date": "2026-08-05",
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you. About the Role: CrowdStrike Intelligence is seeking a motivated security researcher with excellent technical skills to join the Advanced Research Team (ART). Security Researchers within ART will be expected to apply a broad set of skills to support the CrowdStrike Intelligence mission. ART is responsible for researching and publishing on topics related to information security, providing technical expertise to other teams within CrowdStrike Intelligence, developing tools to support analysts in their day-to-day duties, and collecting technical artifacts about adversary activity. Aside from working on longer-term research and collection projects, ART security researchers will be required to provide unique solutions on short notice to serve ad-hoc needs by other teams within CrowdStrike Intelligence. What You’ll Do: Develop automated solutions for collecting, processing and analyzing data at scale, e.g. Vendor patch processing and analysis Identification of exploits in large file collections Identification of browser exploits Identification of malicious infrastructure Perform vulnerability research on a wide variety of targets, e.g. Analyze vendor patches to identify vulnerabilities and develop proof-of-concept exploits Review evidence of malicious activities (e.g. log files, payloads) to confirm exploitation of 0-day and n-day vulnerabilities, identify root causes and reproduce exploits Identify new vulnerabilities in applications or products Collaborate across other teams at CrowdStrike Intelligence and beyond to Reproduce emerging vulnerabilities and provide actionable technical information Inform on information security topics Satisfy unique technical collection requirements Publish research results on the CrowdStrike blog or at conferences What You’ll Need: Proficiency in English, both written and spoken Strong information security background with 4+ years experience Vulnerability research and exploit development experience Ability to effectively leverage GenAI/LLMs to aid in software development and perform vulnerability research Reverse engineering experience Solid understanding of Microsoft Windows and Linux operating system internals Solid software development experience (Python preferred) Excellent problem solving skills, creativity and strong analytical skills to investigate, assess, validate, and think outside the box Ability to work independently, with a customer-oriented mindset Ability to work remotely, in a collaborative team environment Bonus Points: Successful participation in CTF competitions Experience with mobile platforms and operating systems (e.g. Android, iOS) Experience with macOS Experience with the Go or Rust programming languages Threat Intelligence background Education: M.A./M.Sc. or equivalent professional experience in Information Security/Computer Science/Computer Engineering, or a related field #LI-Remote #LI-EV1 Benefits of Working at CrowdStrike: Market leader in compensation and equity awards Comprehensive physical and mental wellness programs Competitive vacation and holidays for recharge Paid parental and adoption leaves Professional development opportunities for all employees regardless of level or role Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections Vibrant office culture with world class amenities Great Place to Work Certified™ across the globe CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program. CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements. If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.",
-    "score": 20,
-    "score_reason": "Candidate is junior with 0-2 years experience and needs sponsorship, while the role requires 4+ years senior-level expertise and does not mention sponsorship.",
-    "skills": [
-      "Proficiency in English, both written and spoken",
-      "Strong information security background with 4+ years experience",
-      "Vulnerability research and exploit development experience",
-      "Ability to effectively leverage GenAI/LLMs to aid in software development and perform vulnerability research",
-      "Reverse engineering experience",
-      "Solid understanding of Microsoft"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "Develop automated solutions for large‑scale data collection and analysis, identify and research exploits, perform vulnerability research and reverse engineering, collaborate across teams, and publish findings.",
-    "expectations": "The candidate must have 4+ years of information security experience, demonstrated vulnerability research and exploit development skills, reverse engineering ability, proficiency with GenAI/LLMs, solid Microsoft knowledge, and strong English communication.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
+    "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
     "missing_runs": 0
@@ -631,7 +129,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "278ef211af354382",
@@ -639,7 +137,7 @@
     "company": "Airbus DS Airborne Solutions GmbH",
     "location": "Bremen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5828134512?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=FC35DB5F461DE8055D22AAE03C7726AC924A9091",
+    "url": "https://www.adzuna.de/land/ad/5828134512?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=FC35DB5F461DE8055D22AAE03C7726AC924A9091",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-04",
@@ -697,7 +195,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "dcc883d52a454cd6",
@@ -705,7 +203,7 @@
     "company": "Controlling and Finance",
     "location": "Erlangen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5814251228?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=50D712E129988523EB422150B59787F7AA88D2C0",
+    "url": "https://www.adzuna.de/land/ad/5814251228?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=50D712E129988523EB422150B59787F7AA88D2C0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-24",
@@ -803,7 +301,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1a4ea57b3cf1bc4b",
@@ -917,7 +415,7 @@
     "company": "Hochschul-IT-Services.nrw KöR",
     "location": "Düsseldorf, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5840924420?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=636D85BF8D0D92C9F7069CA92C601BE35C303725",
+    "url": "https://www.adzuna.de/land/ad/5840924420?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=636D85BF8D0D92C9F7069CA92C601BE35C303725",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-14",
@@ -975,7 +473,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -1008,7 +506,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "8cdf7a09f53f7069",
@@ -1114,7 +612,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a5981881f4272a89",
@@ -1256,7 +754,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c145c5fb9b5f54b7",
@@ -1264,7 +762,7 @@
     "company": "ZEISS",
     "location": "Oberkochen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5836265105?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=90F8D3E9F940841F14A7CB38D6A594C15CF37E7C",
+    "url": "https://www.adzuna.de/land/ad/5836265105?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=90F8D3E9F940841F14A7CB38D6A594C15CF37E7C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-11",
@@ -1297,7 +795,7 @@
     "company": "not stated",
     "location": "Derendorf, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5842024179?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=258D9BF6CC80D950BD78CBF3B9C8F358AD75218E",
+    "url": "https://www.adzuna.de/land/ad/5842024179?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=258D9BF6CC80D950BD78CBF3B9C8F358AD75218E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-14",
@@ -1385,7 +883,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5a9e52869ed3be5b",
@@ -1432,7 +930,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "279f7dd2e6ba95d2",
@@ -1465,7 +963,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "cb2d8495fde847cf",
@@ -1568,7 +1066,7 @@
     "company": "Bechtle Schweiz AG, Systemhaus Deutschschweiz",
     "location": "Mägenwil, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5831964281?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=A2EC76F60BCA7D82A5F7B291EBF53B8E762DCC58",
+    "url": "https://www.adzuna.ch/land/ad/5831964281?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=A2EC76F60BCA7D82A5F7B291EBF53B8E762DCC58",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-07",
@@ -1700,7 +1198,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b55640c1f733595a",
@@ -1839,7 +1337,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "32aed00b600ad908",
@@ -1881,7 +1379,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e04ebe29a453b0de",
@@ -1925,7 +1423,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "fa10d3ba7898cd6a",
@@ -2009,7 +1507,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3f242ce458127edd",
@@ -2054,7 +1552,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "dbdd4de4c3f15dce",
@@ -2145,7 +1643,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "53ea139296e12900",
@@ -2242,7 +1740,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e0d60748fcfacdea",
@@ -2292,7 +1790,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "fbd7be877ee8f976",
@@ -2325,7 +1823,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9222298581617fd2",
@@ -2490,7 +1988,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "23ff129e487139fe",
@@ -2869,7 +2367,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "4c855116d9f12ae8",
@@ -2913,7 +2411,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "73a4d46f9f28df4d",
@@ -2964,7 +2462,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6bd19a2cc3681802",
@@ -3037,7 +2535,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d5a12ca59e0eca0d",
@@ -3091,7 +2589,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "0e191437dfe5f905",
@@ -3159,7 +2657,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "07eafbaa0745a0a5",
@@ -3203,7 +2701,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "19e2ffbc38533ec2",
@@ -3403,7 +2901,7 @@
     "company": "Die Securitas Gruppe",
     "location": "Zollikofen, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5728109109?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=291507ACE2D5136949E60178302245D02CE667EA",
+    "url": "https://www.adzuna.ch/land/ad/5728109109?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=291507ACE2D5136949E60178302245D02CE667EA",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-05-13",
@@ -3469,7 +2967,7 @@
     "company": "TURCK-Gruppe",
     "location": "Mülheim an der Ruhr, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5843126260?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=65F1CFDB9F8FCBD0F4A4826392AD392B588D7F55",
+    "url": "https://www.adzuna.de/land/ad/5843126260?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=65F1CFDB9F8FCBD0F4A4826392AD392B588D7F55",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-15",
@@ -3502,7 +3000,7 @@
     "company": "TKMS ATLAS ELEKTRONIK GmbH",
     "location": "Bremen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5820896168?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3F0B6489CF8BFAA20F233D174AC15963D6EC9BBF",
+    "url": "https://www.adzuna.de/land/ad/5820896168?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3F0B6489CF8BFAA20F233D174AC15963D6EC9BBF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-30",
@@ -3560,7 +3058,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "03e791b6c4422839",
@@ -3593,7 +3091,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "41d7dcb5819edd3d",
@@ -3626,7 +3124,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "853ed8fbfc9e1705",
@@ -3659,7 +3157,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1120a4579138c7d8",
@@ -3667,7 +3165,7 @@
     "company": "Conscia Deutschland GmbH",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5832297559?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=05A560C5DD97095E3188D6FEBC5BF72226B99177",
+    "url": "https://www.adzuna.de/land/ad/5832297559?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=05A560C5DD97095E3188D6FEBC5BF72226B99177",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-07",
@@ -3700,7 +3198,7 @@
     "company": "operational services GmbH & Co. KG",
     "location": "Frankfurt am Main, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5811687980?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=5543F10C0A31C989832549FC3AE06F87EF30BD47",
+    "url": "https://www.adzuna.de/land/ad/5811687980?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=5543F10C0A31C989832549FC3AE06F87EF30BD47",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-23",
@@ -3758,7 +3256,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e9f36a5da247ce4a",
@@ -4026,7 +3524,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "968ede95d668b7d4",
@@ -4247,7 +3745,7 @@
     "company": "ALSO Group",
     "location": "Soest, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5834023545?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=37C18ECBADFA7CBA3CB128B568AD2BEAD5302246",
+    "url": "https://www.adzuna.de/land/ad/5834023545?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=37C18ECBADFA7CBA3CB128B568AD2BEAD5302246",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-09",
@@ -4315,7 +3813,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "81f7b77c5d5887e9",
@@ -4352,7 +3850,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -4385,7 +3883,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "ef68a67665e40ea0",
@@ -4454,7 +3952,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1e8685f3993b470e",
@@ -4499,7 +3997,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -4881,7 +4379,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "47b61fbb963e259f",
@@ -4924,7 +4422,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "4f792900874c91dd",
@@ -4966,7 +4464,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b6199a71eaa5aa1e",
@@ -5008,7 +4506,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "449495999efe7983",
@@ -5053,7 +4551,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "67a5f58aa6407617",
@@ -5138,7 +4636,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a969b5a40921b30c",
@@ -5183,7 +4681,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b0507b1868d8ee95",
@@ -5229,7 +4727,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c925c6e53e45c3aa",
@@ -5272,7 +4770,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9e16ed79fde9bade",
@@ -5323,7 +4821,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b57fa36bc4341b0f",
@@ -5410,7 +4908,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "aafd6bdbe5df311e",
@@ -5551,7 +5049,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6532eaec96e109c7",
@@ -5594,7 +5092,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7081468c6152a99e",
@@ -5751,7 +5249,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "237ff42c8e59aaaa",
@@ -5759,7 +5257,7 @@
     "company": "Conscia Deutschland GmbH",
     "location": "Ettlingen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5824804558?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=E1F1AAFD18427BA17F2E0919023BDAD48ED8DF72",
+    "url": "https://www.adzuna.de/land/ad/5824804558?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=E1F1AAFD18427BA17F2E0919023BDAD48ED8DF72",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-02",
@@ -5792,7 +5290,7 @@
     "company": "Conscia Deutschland GmbH",
     "location": "Ettlingen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5825728963?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=150EEE79F49B30642D13BCAC3BB51400C52896D4",
+    "url": "https://www.adzuna.de/land/ad/5825728963?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=150EEE79F49B30642D13BCAC3BB51400C52896D4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-02",
@@ -5898,7 +5396,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a942ec9b03df4840",
@@ -5964,7 +5462,509 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
+  },
+  {
+    "id": "9aece813e2d051f0",
+    "title": "Business Information Security Officer Private Bank Switzerland",
+    "company": "Barclays",
+    "location": "Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5826137857?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-03",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Job Description Purpose of the role To provide a primary liaison service between the business, technology, and security functions. In order to ensure the confidentiality, integrity and availability of information, and support the mitigation of security risk. Accountabilities Collaboration with stakeholders to understand their security requirements in business processes and IT projects, to enhance overall risk management. Execution of risk assessments to identify and prioritise potential cyberse…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 7
+  },
+  {
+    "id": "1508bf8544dab634",
+    "title": "Security Operations Service Manager (m/w/d)",
+    "company": "HITS.NRW – Hochschule IT Services NRW",
+    "location": "Düsseldorf, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5833444906?se=SIMzr_2c8RGwBe63zKMEtw&utm_medium=api&utm_source=ceaf5c9d&v=96985FFC9ED75284F2B6A86C43705475839B6F30",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-08",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Gestalte die Zukunft einer neu gegründeten Hochschul-IT-Organisation in NRW HITS.NRW ist ein neu gegründeter, zentraler IT-Dienstleister für die öffentlichen Hochschulen in Nordrhein-Westfalen. Unsere Mission: Gemeinsam mit den Fachhochschulen die Hochschul-IT der Zukunft gestalten. Dafür entwickeln wir landesweit skalierbare Services aus den Bereichen Cloud, Cyber Security, Software und IT-Procurement. Wir sorgen für moderne, sichere und effiziente Lösungen – damit Hochschulen sich ganz auf Le…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [
+      "Cloud",
+      "Cyber Security",
+      "Software",
+      "IT-Procurement"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 7
+  },
+  {
+    "id": "5b798dff2178cc87",
+    "title": "Cyber Security Management Consultant - Industrielle Produktion (all genders)",
+    "company": "adesso SE",
+    "location": "Düsseldorf, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5773181042?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=6B0A8F27A1246EDE171BF8B60D12A07C1D8076AC",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-06-23",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "adesso steht für digitale Exzellenz – und damit auch für vielfältige Entwicklungsmöglichkeiten für alle adessi. Wir wachsen gemeinsam und lernen voneinander: in anspruchsvollen Projekten, interdisziplinären Teams und mit zielgerichteten Trainingsangeboten. Wir haben IT im Herzen und den Erfolg unserer Kunden im Fokus. Als Treiber der KI-Transformation verbinden wir Mut zur Veränderung mit technologischer Expertise und zukunftsfähigen Strategien. Was uns stark macht, sind unsere adessi, die etwa…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "2d11fa75a10e7ac6",
+    "title": "Cybersecurity Manager (m/w/d)",
+    "company": "Arnold NextG GmbH",
+    "location": "Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5829367119?se=-gORveKb8RGvGrvTGRxIcA&utm_medium=api&utm_source=ceaf5c9d&v=F0E6628B80BADAEC6488B55A54AE5FFC34D0B97F",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-05",
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Arnold NextG realisiert die Safety-by-Wire®-Technologie von morgen – ob an Land, im Wasser oder in der Luft. Wir bieten das weltweit einzigartige und multi-redundante Zentralsteuergerät NX NextMotion, das eine ausfallsichere und individuelle Implementierung ermöglicht. Als unabhängiger Vorausentwickler, Inkubator und Systemlieferant übernimmt Arnold NextG die Planung und Umsetzung – von der Vision bis zur Straßenzulassung. Wir suchen Cybersecurity Manager (m/w/d) Aufgaben Aufbau, Pflege und Fre…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 7
+  },
+  {
+    "id": "025b3a16f28c4be5",
+    "title": "Senior Cybersecurity Incident Responder (f/m/d)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5832590704?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=75F7A1C7BC84EE6DC0B0D8E831512AF9E0062FBC",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-08",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people. In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a s…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "eb50b332131c24ae",
+    "title": "Cybersecurity Manager (m/w/d)",
+    "company": "Arnold NextG GmbH",
+    "location": "Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5829676441?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=A9842858D4ED5906416EAFC2FF83F2B675EAC84B",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-06",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Arnold NextG realisiert die Safety-by-Wire®-Technologie von morgen - ob an Land, im Wasser oder in der Luft. Wir bieten das weltweit einzigartige und multi-redundante Zentralsteuergerät NX NextMotion, das eine ausfallsichere und individuelle Implementierung ermöglicht. Als unabhängiger Vorausentwickler, Inkubator und Systemlieferant übernimmt Arnold NextG die Planung und Umsetzung - von der Vision bis zur Straßenzulassung. Wir suchen Cybersecurity Manager (m/w/d) Deine Aufgaben Aufbau, Pflege u…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "5b6b854c2d0938e2",
+    "title": "Senior Technical Support Engineer - Cybersecurity SaaS",
+    "company": "Intuition Machines, Inc.",
+    "location": "Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5659392412?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-03-09",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Intuition Machines uses AI/ML to build enterprise security products. We apply our research to systems that serve hundreds of millions of people, with a team distributed around the world. You are probably familiar with our best-known product, the hCaptcha security suite. Our approach is simple: low overhead, small teams, and rapid iteration. As a Senior Technical Support Engineer, you’ll work directly with customers and engineering teams to solve complex technical problems, improve product relia…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "1a697473d6653658",
+    "title": "Software Security Architect - CRA (m/f/d)",
+    "company": "NXP Semiconductors",
+    "location": "Gratkorn, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5814602825?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-25",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Join one of the largest industrial security teams and build technology that protects real devices, worldwide.​ At NXP’s Competence Center Crypto & Security, we design, build, and deliver end-to-end security — from innovation to architecture to products in the field.​ If you’re a security engineer who wants impact, on real life security solutions, we’d love to hear from you. Our Chief Technology Office (CTO) organization drives innovation across NXP and supports Business Units with the tools, kn…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "6663a30a41a037d1",
+    "title": "QKD Security Engineer (all genders)",
+    "company": "Quantum Technology Laboratories",
+    "location": "Wien, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5771149545?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-06-21",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "At Quantum Technology Laboratories GmbH (qtlabs), we are developing next-generation quantum communication technologies for space and terrestrial applications. Our work combines quantum optics, cryptography, and advanced engineering to create practical systems for secure communication in the quantum era. Based in Vienna, our team brings together experts in quantum key distribution (QKD), optical communication, system engineering, and security-critical technologies. We are now looking for an Expe…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "5e5b210208912cd3",
+    "title": "Lehre als IT Systemtechniker:in",
+    "company": "Barracuda Networks AG",
+    "location": "Innsbruck, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5795100832?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-10",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Werde Teil von Barracuda Networks – und mach' die digitale Welt sicherer! Barracuda Networks ist ein international führendes Unternehmen im Bereich IT-Security. Unsere innovativen Cloud- und Netzwerksicherheitslösungen schützen E-Mails, Netzwerke, Daten und Anwendungen von über 200.000 Unternehmen weltweit. Am Standort Innsbruck arbeiten engagierte Teams in einem internationalen Umfeld an zukunftsweisenden Technologien. Du interessierst dich für IT, Netzwerke und Sicherheit? Dann starte deine b…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "intern",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "a0671e1a0482b71e",
+    "title": "Senior SOC Architect (w/m/d)",
+    "company": "PricewaterhouseCoopers",
+    "location": "Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5510682372?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2025-11-23",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Line of Service Assurance Industry/Sector Not Applicable Specialism Cybersecurity & Privacy Management Level Manager Job Description & Summary Bist du bereit etwas zu verändern? PwC Österreich ist mit rund 1500 Mitarbeitenden an 5 Standorten eines der größten Prüfungs- und Beratungsunternehmen des Landes. Für uns bedeutet Erfolg, die Welt von morgen wirksam zu beeinflussen. Im Austausch mit führenden Organisationen setzen wir neue Maßstäbe und unterstützen dich dabei, einen entscheidenden Beitr…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "7d5c572640093cc5",
+    "title": "Channel Solution Architect (Remote)",
+    "company": "CrowdStrike",
+    "location": "Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5844279212?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-16",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "fe4ef31dae1f7a38",
+    "title": "Security Engineer - Full Remote (France) or Hybrid",
+    "company": "Voyage Privé",
+    "location": "France",
+    "country": "REMOTE",
+    "url": "https://jobicy.com/jobs/145653-security-engineer-full-remote-france-or-hybrid",
+    "source": "jobicy",
+    "source_type": "api",
+    "posted_date": "2026-08-07",
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Company Description ✨ About Voyage Privé Born in France in 2006, Voyage Privé has grown from an ambitious startup into becoming the Europe's leading travel tech platform. Operating across 9 markets with tens of millions of users, we're not just another e-commerce success story - we're a tech powerhouse revolutionizing online travel. What makes us unique? A mission-driven culture where performance meets impact. Our innovative campus brings together tech talent, professional athletes, students, and artists, creating an ecosystem where digital innovation drives both business growth and positive change. We're now at an inflection point, upgrading our entire technical foundation with cloud architecture, AI, and real-time systems to become a reference and top-of-mind platform for luxury travel, known by travelers for its for excellent offer and customer experience, and by our providers as a high-performance business development partner. Job Description Your Mission As a Security Engineer , you’ll play a key role in shaping the security and resilience of Voyage Privé’s technology platform. You’ll work closely with Engineering, Product, and Platform teams to embed security practices into every stage of product development, deliver measurable impact, and help us scale efficiently while maintaining a strong security posture. You’ll have the opportunity to build many security foundations from scratch — from internal tooling to CI/CD guardrails — and influence key architectural and technical decisions as we redesign our platform for scale. Your key responsibilities will include: Strengthen the security posture across products, data and infrastructure : secure coding practices, code reviews, threat modeling, vulnerability remediation, cloud, and network hardening. Develop automated security guardrails integrated into CI/CD pipelines (SAST, SCA, secrets scanning). Design secure architectures for applications , APIs, data flows, and integrations in partnership with engineering teams. Secure hybrid environments combining virtual machines, containerized workloads, and cloud-native services, ensuring consistent security standards across the entire platform. Drive proactive risk identification through continuous scanning, threat modeling sessions, risk assessments, and architecture reviews. Enable engineering teams to build secure-by-design practices by acting as a trusted advisor, developing internal tools, and leading security awareness sessions. Operational security &amp; incident readiness : participate in on-call rotations, investigate security events, and improve incident response workflows. Lead security improvement projects : build automation, enhance tools, optimize processes, and foster a culture of security ownership. Qualifications What We’re Looking For We’re looking for builders who move fast, think big, and care deeply about creating impact that lasts Your profile: 5–7 years of experience in software engineering, security engineering, DevSecOps, or equivalent technical security roles. Strong development background (Python, Node.js, Java, Go, PhP or similar). Hands-on experience with modern CI/CD systems (GitHub Actions, GitLab, Jenkins). Solid understanding of cloud security principles (AWS, GCP, Azure). Experience securing both virtualized systems (VMs) and containerized workloads. Strong knowledge of secure coding, OWASP Top 10, and application security fundamentals. Experience with SAST, SCA, container/IaC scanning, runtime security tools, IAM, and secrets management. Pragmatic, engineering-first mindset: able to balance security with developer experience, velocity, and real-world constraints. Excellent communication skills: able to translate complex security issues into actionable guidance for both technical and non-technical stakeholders. Proactive, autonomous, critical thinker with a continuous improvement mindset. Nice to have: previous experience or knowledge of compliance requirements (GDPR, PCI-DSS...) Fluent in French and English. Additional Information ⚡ Our Recruitment Process We believe in a fast, transparent, and human recruitment process. Here’s what you can expect: Intro Call with a Talent Acquisition Partner (30–45 min) – Get to know each other! We’ll share more about the role, the team, and our culture. Manager Interview (60 min) – Deep dive into your experience, missions, and ways of working. Take-Home Task – Practical exercise to showcase your strategic thinking and approach to security. Task Debrief (60 min) – Discuss your task with members of the team On-Site Interview (60 min) – Meet the VP of Engineering to align on expectations, culture, and long-term impact. Location : Aix en Provence or remote, France Start Date : The sooner, the better Contract Type : Full-time / Permanent ❤️ You'll Love Joining Us Our HQ in the South of France offers an exceptional environment - natural, cultural, and digital - on a modern and eco-responsible campus. Prefer flexibility? We offer a hybrid model for all other positions with 3 mandatory on-site days per week plus 4 fully remote weeks per year. Put meaning back into your work and join a unique ecosystem that connects worlds often far apart: business, sports, education, and social impact, through projects like Ecole des XV, Provence Rugby, VP Green, Les Tremplins, and Chez Pierre. Forget your gym subscription! Access our large on-site fitness center morning, noon, and night - or challenge your colleagues to a padel match on our private court. Live to the rhythm of Voyage Privé’s signature mix of business and fun: Company Breaks, Carnival, Annual Convention, meetups and talks… plus free tickets to every Provence Rugby home match and live music nights at the Dalida Institute. ✈️ And because travel is in our DNA : enjoy up to 20% off our exclusive getaway offers. Join us and make your next career move a journey worth taking.",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [
+      "secure coding practices",
+      "code reviews",
+      "threat modeling",
+      "vulnerability remediation",
+      "cloud",
+      "network hardening",
+      "SAST",
+      "SCA",
+      "secrets scanning",
+      "secure architectures",
+      "applications",
+      "APIs",
+      "data flows",
+      "integrations",
+      "virtual machines",
+      "containerized workloads",
+      "cloud-native services",
+      "continuous scanning",
+      "risk assessments",
+      "architecture reviews",
+      "security awareness sessions",
+      "on‑call rotations",
+      "security events",
+      "incident response workflows",
+      "automation",
+      "tools",
+      "processes"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
+  },
+  {
+    "id": "7f2a630bdfbeabab",
+    "title": "Sr. Security Researcher II (Remote, DEU)",
+    "company": "CrowdStrike",
+    "location": "Germany,  Ireland,  Israel,  Romania,  UK",
+    "country": "REMOTE",
+    "url": "https://jobicy.com/jobs/145057-sr-security-researcher-ii-remote-deu",
+    "source": "jobicy",
+    "source_type": "api",
+    "posted_date": "2026-08-05",
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you. About the Role: CrowdStrike Intelligence is seeking a motivated security researcher with excellent technical skills to join the Advanced Research Team (ART). Security Researchers within ART will be expected to apply a broad set of skills to support the CrowdStrike Intelligence mission. ART is responsible for researching and publishing on topics related to information security, providing technical expertise to other teams within CrowdStrike Intelligence, developing tools to support analysts in their day-to-day duties, and collecting technical artifacts about adversary activity. Aside from working on longer-term research and collection projects, ART security researchers will be required to provide unique solutions on short notice to serve ad-hoc needs by other teams within CrowdStrike Intelligence. What You’ll Do: Develop automated solutions for collecting, processing and analyzing data at scale, e.g. Vendor patch processing and analysis Identification of exploits in large file collections Identification of browser exploits Identification of malicious infrastructure Perform vulnerability research on a wide variety of targets, e.g. Analyze vendor patches to identify vulnerabilities and develop proof-of-concept exploits Review evidence of malicious activities (e.g. log files, payloads) to confirm exploitation of 0-day and n-day vulnerabilities, identify root causes and reproduce exploits Identify new vulnerabilities in applications or products Collaborate across other teams at CrowdStrike Intelligence and beyond to Reproduce emerging vulnerabilities and provide actionable technical information Inform on information security topics Satisfy unique technical collection requirements Publish research results on the CrowdStrike blog or at conferences What You’ll Need: Proficiency in English, both written and spoken Strong information security background with 4+ years experience Vulnerability research and exploit development experience Ability to effectively leverage GenAI/LLMs to aid in software development and perform vulnerability research Reverse engineering experience Solid understanding of Microsoft Windows and Linux operating system internals Solid software development experience (Python preferred) Excellent problem solving skills, creativity and strong analytical skills to investigate, assess, validate, and think outside the box Ability to work independently, with a customer-oriented mindset Ability to work remotely, in a collaborative team environment Bonus Points: Successful participation in CTF competitions Experience with mobile platforms and operating systems (e.g. Android, iOS) Experience with macOS Experience with the Go or Rust programming languages Threat Intelligence background Education: M.A./M.Sc. or equivalent professional experience in Information Security/Computer Science/Computer Engineering, or a related field #LI-Remote #LI-EV1 Benefits of Working at CrowdStrike: Market leader in compensation and equity awards Comprehensive physical and mental wellness programs Competitive vacation and holidays for recharge Paid parental and adoption leaves Professional development opportunities for all employees regardless of level or role Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections Vibrant office culture with world class amenities Great Place to Work Certified™ across the globe CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program. CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements. If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [
+      "Proficiency in English, both written and spoken",
+      "Strong information security background with 4+ years experience",
+      "Vulnerability research and exploit development experience",
+      "Ability to effectively leverage GenAI/LLMs to aid in software development and perform vulnerability research",
+      "Reverse engineering experience",
+      "Solid understanding of Microsoft"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 2,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 0
   },
   {
     "id": "a4230c6d28329139",
@@ -5972,7 +5972,7 @@
     "company": "EY Deutschland",
     "location": "Hannover, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5825828982?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=CA441CB8659063341BC178831147386B54B2D3D3",
+    "url": "https://www.adzuna.de/land/ad/5825828982?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=CA441CB8659063341BC178831147386B54B2D3D3",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-02",
@@ -6129,7 +6129,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2482e91cdcbf03d7",
@@ -6374,7 +6374,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "247db57d5359b26f",
@@ -6562,7 +6562,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -6570,7 +6570,7 @@
     "company": "CYBER FOX AG",
     "location": "Potsdam, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5810555561?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=13E047779846D51181530C0ECC74EDEDBA279AEF",
+    "url": "https://www.adzuna.de/land/ad/5810555561?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=13E047779846D51181530C0ECC74EDEDBA279AEF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-22",
@@ -6817,7 +6817,7 @@
     "company": "CYBER FOX AG",
     "location": "Potsdam, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5837897925?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=51FDB148C1CF8C47C9EACD91E57AB3A9FD6808B5",
+    "url": "https://www.adzuna.de/land/ad/5837897925?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=51FDB148C1CF8C47C9EACD91E57AB3A9FD6808B5",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-12",
@@ -6850,7 +6850,7 @@
     "company": "Die Securitas Gruppe",
     "location": "Zollikofen, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5747465380?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3677F6754660AB94B05134E73C8CBCAB3A84F00D",
+    "url": "https://www.adzuna.ch/land/ad/5747465380?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=3677F6754660AB94B05134E73C8CBCAB3A84F00D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-06-01",
@@ -6960,7 +6960,7 @@
     "company": "Hochschul-IT-Services.nrw KöR",
     "location": "Düsseldorf, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5845417809?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=8956F1D34F5CF94A0119AB9C0B51CEDB4F1E1666",
+    "url": "https://www.adzuna.de/land/ad/5845417809?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=8956F1D34F5CF94A0119AB9C0B51CEDB4F1E1666",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-17",
@@ -7027,7 +7027,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "4843633d16d653e7",
@@ -7060,7 +7060,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "62e9e54e2420585d",
@@ -7093,7 +7093,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "57c17fa660d7eee3",
@@ -7101,7 +7101,7 @@
     "company": "Beckhoff Automation GmbH & Co. KG",
     "location": "Verl, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5846773631?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=AB3FA149F87CE439F959A85558486F93716CF49C",
+    "url": "https://www.adzuna.de/land/ad/5846773631?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=AB3FA149F87CE439F959A85558486F93716CF49C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-18",
@@ -7335,7 +7335,7 @@
     "company": "EY ",
     "location": "Zürich, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5840558445?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=A1FA3B604C8007E4F2FAB11C82E118E68124A9BF",
+    "url": "https://www.adzuna.ch/land/ad/5840558445?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=A1FA3B604C8007E4F2FAB11C82E118E68124A9BF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-13",
@@ -7497,7 +7497,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d7e8132b4d93487a",
@@ -7505,7 +7505,7 @@
     "company": "operational services GmbH & Co. KG",
     "location": "Wolfsburg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5781356664?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=5429147240D3FCFADE1A2B67ED33CBB6553B5822",
+    "url": "https://www.adzuna.de/land/ad/5781356664?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=5429147240D3FCFADE1A2B67ED33CBB6553B5822",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-06-29",
@@ -7538,7 +7538,7 @@
     "company": "Deutsche Apotheker- und Ärztebank eG - apoBank",
     "location": "Düsseldorf, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5798859907?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=C6797D72ADEEF896FAC2B9F3269BF6729F2698AC",
+    "url": "https://www.adzuna.de/land/ad/5798859907?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=C6797D72ADEEF896FAC2B9F3269BF6729F2698AC",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-13",
@@ -7571,7 +7571,7 @@
     "company": "Beckhoff Automation GmbH & Co. KG",
     "location": "Verl, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5821314455?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=DFF1C1475A28AB5B7D9BD3429B625FDF1E3D634F",
+    "url": "https://www.adzuna.de/land/ad/5821314455?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=DFF1C1475A28AB5B7D9BD3429B625FDF1E3D634F",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-30",
@@ -7604,7 +7604,7 @@
     "company": "DBU - University of Applied Sciences",
     "location": "Berlin, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5838653063?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=0E1E393D50EC45DD466A0B6AC8BAC9EBB7B27997",
+    "url": "https://www.adzuna.de/land/ad/5838653063?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=0E1E393D50EC45DD466A0B6AC8BAC9EBB7B27997",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-12",
@@ -7637,7 +7637,7 @@
     "company": "ZEISS",
     "location": "München, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5822114670?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=7AF1FD061043AF72984ACE9463C48BBBF5B8D6D7",
+    "url": "https://www.adzuna.de/land/ad/5822114670?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=7AF1FD061043AF72984ACE9463C48BBBF5B8D6D7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-31",
@@ -7670,7 +7670,7 @@
     "company": "Beckhoff Automation GmbH & Co. KG",
     "location": "Verl, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5812220909?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=36244527841A1EFFF79857F941B89761C5C4F852",
+    "url": "https://www.adzuna.de/land/ad/5812220909?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=36244527841A1EFFF79857F941B89761C5C4F852",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-23",
@@ -7703,7 +7703,7 @@
     "company": "ZEISS",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5832588995?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=1573E852C3D9CC999421A057754F17E4E5611AB4",
+    "url": "https://www.adzuna.de/land/ad/5832588995?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=1573E852C3D9CC999421A057754F17E4E5611AB4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-08",
@@ -7984,7 +7984,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e15c5442b76fe774",
@@ -8050,7 +8050,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "807857290d85cdd6",
@@ -8367,7 +8367,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6667c8771150a512",
@@ -8417,7 +8417,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "815f8b6f7fb3e440",
@@ -8500,7 +8500,7 @@
     "company": "ti&m AG",
     "location": "Oberengstringen, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5822370119?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=F5A8B00F59D24DA8A736FDFEE89F856E7575525A",
+    "url": "https://www.adzuna.ch/land/ad/5822370119?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=F5A8B00F59D24DA8A736FDFEE89F856E7575525A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-31",
@@ -8571,7 +8571,7 @@
     "company": "BOLL Engineering AG",
     "location": "Wettingen, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5817390095?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=32D8509C61F29725D57D305C9EBF93EEFE88E75E",
+    "url": "https://www.adzuna.ch/land/ad/5817390095?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=32D8509C61F29725D57D305C9EBF93EEFE88E75E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-27",
@@ -8604,7 +8604,7 @@
     "company": "Carrosserie HESS AG",
     "location": "Bellach, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5815397637?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=E2434D1CFA7C8A5B65D15E75016560E63487D759",
+    "url": "https://www.adzuna.ch/land/ad/5815397637?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=E2434D1CFA7C8A5B65D15E75016560E63487D759",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-25",
@@ -8812,7 +8812,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -8952,7 +8952,7 @@
     "company": "LGT",
     "location": "Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5825677801?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=36611DCC8C5C1739083720A4918D23265A45B8B9",
+    "url": "https://www.adzuna.ch/land/ad/5825677801?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=36611DCC8C5C1739083720A4918D23265A45B8B9",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-02",
@@ -9115,7 +9115,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e42a540da8214e31",
@@ -9123,7 +9123,7 @@
     "company": "KNDS",
     "location": "Kassel, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5786943139?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=1B0308EA812CA818DF358C42A23BDF49E1BBA754",
+    "url": "https://www.adzuna.de/land/ad/5786943139?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=1B0308EA812CA818DF358C42A23BDF49E1BBA754",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-03",
@@ -9156,7 +9156,7 @@
     "company": "Beckhoff Automation GmbH & Co. KG",
     "location": "Verl, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5811454245?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=B944AB53FCB14E67A602B1E694D9D60EB3B8C99B",
+    "url": "https://www.adzuna.de/land/ad/5811454245?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=B944AB53FCB14E67A602B1E694D9D60EB3B8C99B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-23",
@@ -9317,7 +9317,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6b4dccf5f63757fc",
@@ -9395,7 +9395,7 @@
     "company": "Kantonspolizei Zürich",
     "location": "Zürich, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5847068936?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=50EF0F4D6F21DCE18D23F5278FEA931B7DAF8275",
+    "url": "https://www.adzuna.ch/land/ad/5847068936?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=50EF0F4D6F21DCE18D23F5278FEA931B7DAF8275",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-18",
@@ -9433,7 +9433,7 @@
     "company": "Schweizer Electronic AG",
     "location": "Reiden, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5815398878?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=06B1BA7BAB30D6986410404F28AAB2087C1A9B72",
+    "url": "https://www.adzuna.ch/land/ad/5815398878?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=06B1BA7BAB30D6986410404F28AAB2087C1A9B72",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-25",
@@ -9466,7 +9466,7 @@
     "company": "Beckhoff Automation GmbH & Co. KG",
     "location": "Verl, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5815905354?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=F1911B859B7B0E5B818BE9A5054EBC407CF20FED",
+    "url": "https://www.adzuna.de/land/ad/5815905354?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=F1911B859B7B0E5B818BE9A5054EBC407CF20FED",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-26",
@@ -9499,7 +9499,7 @@
     "company": "not stated",
     "location": "Spaubeek, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5803469506?se=DqoSIlqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=526FACCB7E1A628E806252B2474D768B2B2773BA",
+    "url": "https://www.adzuna.nl/land/ad/5803469506?se=hqBX_1qd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=526FACCB7E1A628E806252B2474D768B2B2773BA",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-16",
@@ -9649,7 +9649,7 @@
     "company": "Hensoldt",
     "location": "Fürstenfeldbruck, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5840348285?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=6F3EBAC42D3FF9953820A3487EC4637242B60949",
+    "url": "https://www.adzuna.de/land/ad/5840348285?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=6F3EBAC42D3FF9953820A3487EC4637242B60949",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-13",
@@ -9891,7 +9891,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "ad921f0040d8793e",
@@ -9924,7 +9924,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5909b779819a505b",
@@ -9957,7 +9957,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -10362,7 +10362,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f7221d03635156da",
@@ -10692,7 +10692,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1b1734de6c951b45",
@@ -10865,7 +10865,7 @@
     "company": "Ministerie van Defensie",
     "location": "Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5842146841?se=DqoSIlqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=D4D336C0AAB27FA38C98DC6D8002C12BE8B7269D",
+    "url": "https://www.adzuna.nl/land/ad/5842146841?se=hqBX_1qd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=D4D336C0AAB27FA38C98DC6D8002C12BE8B7269D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-14",
@@ -11253,7 +11253,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e5fa894602c488ff",
@@ -11385,7 +11385,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -11550,7 +11550,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "8bece923e2e7190c",
@@ -11583,7 +11583,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -11591,7 +11591,7 @@
     "company": "Community Consulting",
     "location": "België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5845405796?se=mpm-Ilqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=6C3B18589F6D68011D0B3E1D6FA1ABC1D63EC8F4",
+    "url": "https://www.adzuna.be/land/ad/5845405796?se=yNUWAFud8RGBPduReAo1dw&utm_medium=api&utm_source=ceaf5c9d&v=6C3B18589F6D68011D0B3E1D6FA1ABC1D63EC8F4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-17",
@@ -11624,7 +11624,7 @@
     "company": "Luminus",
     "location": "België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5836699801?se=mpm-Ilqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=87DD332AEE7A4B76FE723E3CF6269B57B6660CCD",
+    "url": "https://www.adzuna.be/land/ad/5836699801?se=yNUWAFud8RGBPduReAo1dw&utm_medium=api&utm_source=ceaf5c9d&v=87DD332AEE7A4B76FE723E3CF6269B57B6660CCD",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-11",
@@ -11657,7 +11657,7 @@
     "company": "Smals",
     "location": "Brussel, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5830855755?se=mpm-Ilqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=EBE0A641889BCF111BD3379B5881491EE8130A75",
+    "url": "https://www.adzuna.be/land/ad/5830855755?se=yNUWAFud8RGBPduReAo1dw&utm_medium=api&utm_source=ceaf5c9d&v=EBE0A641889BCF111BD3379B5881491EE8130A75",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-06",
@@ -11715,7 +11715,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -11814,7 +11814,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6934b9f8c8f1d6da",
@@ -11888,7 +11888,7 @@
     "company": "NTT DATA",
     "location": "Brussel, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5822625045?se=mpm-Ilqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=85AC64C837C01F17FCEF08FB812394396EF42CA6",
+    "url": "https://www.adzuna.be/land/ad/5822625045?se=yNUWAFud8RGBPduReAo1dw&utm_medium=api&utm_source=ceaf5c9d&v=85AC64C837C01F17FCEF08FB812394396EF42CA6",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-31",
@@ -12614,7 +12614,7 @@
     "company": "Adecco",
     "location": "Ardooie, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5821340613?se=mpm-Ilqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=A3E502DF31B7AD8981CDD18D4AFBDEEE4508BF75",
+    "url": "https://www.adzuna.be/land/ad/5821340613?se=yNUWAFud8RGBPduReAo1dw&utm_medium=api&utm_source=ceaf5c9d&v=A3E502DF31B7AD8981CDD18D4AFBDEEE4508BF75",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-30",
@@ -13068,7 +13068,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3952d4e83d732af7",
@@ -13167,7 +13167,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "0aa435994dbcc323",
@@ -13200,7 +13200,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a4b3082c51fc239c",
@@ -13233,7 +13233,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -13241,7 +13241,7 @@
     "company": "T-Mobile",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5819711209?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=E9E593098551F3419C86499C511A47E8CA0CD144",
+    "url": "https://www.adzuna.pl/land/ad/5819711209?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=E9E593098551F3419C86499C511A47E8CA0CD144",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-29",
@@ -13274,7 +13274,7 @@
     "company": "T-Mobile",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5830371515?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=16ACBAFDC62A9AD39770B896BB5FC3C96C2E9C22",
+    "url": "https://www.adzuna.pl/land/ad/5830371515?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=16ACBAFDC62A9AD39770B896BB5FC3C96C2E9C22",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-06",
@@ -13307,7 +13307,7 @@
     "company": "Antal Sp. z o.o.",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5809265386?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=120AC0B79E38CDF83CFEF61DA78E7CC713CBB3F3",
+    "url": "https://www.adzuna.pl/land/ad/5809265386?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=120AC0B79E38CDF83CFEF61DA78E7CC713CBB3F3",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-21",
@@ -13340,7 +13340,7 @@
     "company": "NASK S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5794128519?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=78325FADE640292E121B510CE0364DBA86F5632A",
+    "url": "https://www.adzuna.pl/land/ad/5794128519?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=78325FADE640292E121B510CE0364DBA86F5632A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-09",
@@ -13373,7 +13373,7 @@
     "company": "DCG",
     "location": "Gdynia, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5794128443?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=EC35DD797545257A0E2F287973EAFCE89DA5B745",
+    "url": "https://www.adzuna.pl/land/ad/5794128443?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=EC35DD797545257A0E2F287973EAFCE89DA5B745",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-09",
@@ -13406,7 +13406,7 @@
     "company": "DCG",
     "location": "Gdańsk, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5794128441?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=639E1DEC7B25CA064B5E1DF51A18D1B5FFE904E0",
+    "url": "https://www.adzuna.pl/land/ad/5794128441?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=639E1DEC7B25CA064B5E1DF51A18D1B5FFE904E0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-09",
@@ -13439,7 +13439,7 @@
     "company": "DCG",
     "location": "Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5794128445?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=5F21039CF2BC6E1E44BC86408886E65D61F85D76",
+    "url": "https://www.adzuna.pl/land/ad/5794128445?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=5F21039CF2BC6E1E44BC86408886E65D61F85D76",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-09",
@@ -13472,7 +13472,7 @@
     "company": "DCG",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5794128442?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=7CB352DE20DC9BD0F77D7B7C51ECAD7C421AD2B1",
+    "url": "https://www.adzuna.pl/land/ad/5794128442?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=7CB352DE20DC9BD0F77D7B7C51ECAD7C421AD2B1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-09",
@@ -13505,7 +13505,7 @@
     "company": "Rublon",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5772177003?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=6F519FBED01C8AA22348E6BAC5DF1762139FAB38",
+    "url": "https://www.adzuna.pl/land/ad/5772177003?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=6F519FBED01C8AA22348E6BAC5DF1762139FAB38",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-06-22",
@@ -13538,7 +13538,7 @@
     "company": "Rublon",
     "location": "Katowice, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5772177031?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=31B4E6C80351EAFEE5F3EB7A9199D8B740D341C0",
+    "url": "https://www.adzuna.pl/land/ad/5772177031?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=31B4E6C80351EAFEE5F3EB7A9199D8B740D341C0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-06-22",
@@ -13571,7 +13571,7 @@
     "company": "Rublon",
     "location": "Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5790512241?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=F13262B431B33A5EF10AAF3DF64D7D1DD55A1524",
+    "url": "https://www.adzuna.pl/land/ad/5790512241?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=F13262B431B33A5EF10AAF3DF64D7D1DD55A1524",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-07",
@@ -13604,7 +13604,7 @@
     "company": "Rublon",
     "location": "Zielona Góra, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5790512239?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=88A5DA8DC4D00D3B5FCDA678E1104D48C3267AAF",
+    "url": "https://www.adzuna.pl/land/ad/5790512239?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=88A5DA8DC4D00D3B5FCDA678E1104D48C3267AAF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-07",
@@ -13637,7 +13637,7 @@
     "company": "Rublon",
     "location": "Wrocław, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5835517388?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=AADF69F4AEE7AF026DDE16C29EA89C14CD2540E3",
+    "url": "https://www.adzuna.pl/land/ad/5835517388?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=AADF69F4AEE7AF026DDE16C29EA89C14CD2540E3",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-10",
@@ -13670,7 +13670,7 @@
     "company": "Rublon",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5843055529?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=CF1CBE2C76CC2C0654B928D078E1DF69C36D450E",
+    "url": "https://www.adzuna.pl/land/ad/5843055529?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=CF1CBE2C76CC2C0654B928D078E1DF69C36D450E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-15",
@@ -13703,7 +13703,7 @@
     "company": "Rublon",
     "location": "Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5835517398?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=036114F1C96667A911463FC666E83020C1F1B30E",
+    "url": "https://www.adzuna.pl/land/ad/5835517398?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=036114F1C96667A911463FC666E83020C1F1B30E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-10",
@@ -13736,7 +13736,7 @@
     "company": "Rublon",
     "location": "Katowice, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5790512232?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=5E20ADC6B2B8DC35115978EF6FE93DA7C705D12C",
+    "url": "https://www.adzuna.pl/land/ad/5790512232?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=5E20ADC6B2B8DC35115978EF6FE93DA7C705D12C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-07",
@@ -13769,7 +13769,7 @@
     "company": "Rublon",
     "location": "Wrocław, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5790512230?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=EDDABAF5A935A14176BA9202F2C06EEF766F0212",
+    "url": "https://www.adzuna.pl/land/ad/5790512230?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=EDDABAF5A935A14176BA9202F2C06EEF766F0212",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-07",
@@ -13802,7 +13802,7 @@
     "company": "Rublon",
     "location": "Zielona Góra, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5790512231?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=06AC486AECBE738C73C532F875A543E7E87F3244",
+    "url": "https://www.adzuna.pl/land/ad/5790512231?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=06AC486AECBE738C73C532F875A543E7E87F3244",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-07",
@@ -13835,7 +13835,7 @@
     "company": "ER Group",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5810818271?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=8B8B79A54361605C8051251CE19C39ED7EF54686",
+    "url": "https://www.adzuna.pl/land/ad/5810818271?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=8B8B79A54361605C8051251CE19C39ED7EF54686",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-22",
@@ -13868,7 +13868,7 @@
     "company": "ER Group",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5810818268?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=9B3CEDE04678C10EC50C881DECE6E5D7365E2131",
+    "url": "https://www.adzuna.pl/land/ad/5810818268?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=9B3CEDE04678C10EC50C881DECE6E5D7365E2131",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-22",
@@ -13926,7 +13926,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "65909c9ef7a81013",
@@ -13959,7 +13959,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "42134c1aec29a7ae",
@@ -13992,7 +13992,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "dffdfa83e902b23e",
@@ -14025,7 +14025,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7fa18cdbc48b6550",
@@ -14058,7 +14058,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6fec6513ac0bd952",
@@ -14091,7 +14091,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "641bd19d812a2edf",
@@ -14124,7 +14124,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3066adec8e60ed0f",
@@ -14157,7 +14157,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "bc353e815006260d",
@@ -14190,7 +14190,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2b6a3296847317e7",
@@ -14223,7 +14223,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f01d0ebdc6aa4f42",
@@ -14256,7 +14256,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b91e718f97bccadf",
@@ -14289,7 +14289,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -14322,7 +14322,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "775a08fb6ac968a0",
@@ -14355,7 +14355,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1b335ce87e775fbd",
@@ -14388,7 +14388,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2502436c786724b6",
@@ -14421,7 +14421,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "37df2ddbc81a3958",
@@ -14454,7 +14454,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b86c188ec43d270c",
@@ -14487,7 +14487,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "466c80e981ee4683",
@@ -14520,7 +14520,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d9d2fd15609abde7",
@@ -14553,7 +14553,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3c70245ee83ec925",
@@ -14586,7 +14586,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5ae3dbc652d5a942",
@@ -14619,7 +14619,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "23298f072950a9a6",
@@ -14652,7 +14652,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1804b4ce93756b21",
@@ -14660,7 +14660,7 @@
     "company": "Antal Sp. z o.o.",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5781639234?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=4689F2E2EFC44EB56DE2D3DCA8A92F468D7C21BF",
+    "url": "https://www.adzuna.pl/land/ad/5781639234?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=4689F2E2EFC44EB56DE2D3DCA8A92F468D7C21BF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-06-30",
@@ -14718,7 +14718,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d81d03606d92b3b1",
@@ -14751,7 +14751,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3c57160806cae8c0",
@@ -14784,7 +14784,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7fd0ba01831ed7b2",
@@ -14817,7 +14817,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "283085df3303ff0f",
@@ -14850,7 +14850,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "cbd3441fe4703aa4",
@@ -14883,7 +14883,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "736de7f88fa91353",
@@ -14916,7 +14916,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "529880dddbb3c7f1",
@@ -14949,7 +14949,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e994083684a225fc",
@@ -14982,7 +14982,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "26bb6523f93a1eda",
@@ -15015,7 +15015,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "ecb2c527c70fee66",
@@ -15048,7 +15048,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "63ad151a32513c24",
@@ -15081,7 +15081,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "785b84feb91c389d",
@@ -15114,7 +15114,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b41158f052b3ad97",
@@ -15147,7 +15147,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a7578117b8d0aa4e",
@@ -15180,7 +15180,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "dffbd0d1c65796b3",
@@ -15213,7 +15213,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9a7a3f0fd16418a7",
@@ -15246,7 +15246,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a1f54d0979e83c7e",
@@ -15279,7 +15279,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2595d3ad66e1a358",
@@ -15312,7 +15312,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b158130ebdbf6cf8",
@@ -15320,7 +15320,7 @@
     "company": "Controlling and Finance",
     "location": "Erlangen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5817568191?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=92D5E727253850258B0C70A42015C04970EA91C5",
+    "url": "https://www.adzuna.de/land/ad/5817568191?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=92D5E727253850258B0C70A42015C04970EA91C5",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-27",
@@ -15353,7 +15353,7 @@
     "company": "Digital Industries",
     "location": "München, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5814251264?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3CCD54CF410DABFD0794B1A3DCF822C7F04C83C2",
+    "url": "https://www.adzuna.de/land/ad/5814251264?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3CCD54CF410DABFD0794B1A3DCF822C7F04C83C2",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-24",
@@ -15411,7 +15411,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9e641b8deecef414",
@@ -15419,7 +15419,7 @@
     "company": "Rohde & Schwarz Messgerätebau GmbH",
     "location": "Memmingen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5838368779?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=88A11106935BAB4537020B6A0E567BD9DA8DCA93",
+    "url": "https://www.adzuna.de/land/ad/5838368779?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=88A11106935BAB4537020B6A0E567BD9DA8DCA93",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-12",
@@ -15452,7 +15452,7 @@
     "company": "Rohde & Schwarz Messgerätebau GmbH",
     "location": "Memmingen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5836786130?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3983DF96F07FF3F2219C5CAFB7260617D74C08B3",
+    "url": "https://www.adzuna.de/land/ad/5836786130?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=3983DF96F07FF3F2219C5CAFB7260617D74C08B3",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-11",
@@ -15510,7 +15510,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "0b8b794b5ff6f6e4",
@@ -15543,7 +15543,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7143db87b27883f0",
@@ -15551,7 +15551,7 @@
     "company": "ROHDE & SCHWARZ Messgerätebau GmbH",
     "location": "Memmingen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5835930085?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=007E5D4AA0DAC49501601794BF68E63E1B906DD4",
+    "url": "https://www.adzuna.de/land/ad/5835930085?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=007E5D4AA0DAC49501601794BF68E63E1B906DD4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-10",
@@ -15584,7 +15584,7 @@
     "company": "LeHibou",
     "location": "Luik, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5848692522?se=mpm-Ilqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=E4ECED82E4C8F84912B529ADB1797A1F92431B27",
+    "url": "https://www.adzuna.be/land/ad/5848692522?se=yNUWAFud8RGBPduReAo1dw&utm_medium=api&utm_source=ceaf5c9d&v=E4ECED82E4C8F84912B529ADB1797A1F92431B27",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-19",
@@ -15642,7 +15642,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -15675,7 +15675,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c0fe0fe84e369725",
@@ -15708,7 +15708,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9daa6a17cc13e7d8",
@@ -15741,7 +15741,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a8039868d519a083",
@@ -15774,7 +15774,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7aa3b5062e80f77d",
@@ -15807,7 +15807,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -15815,7 +15815,7 @@
     "company": "VOLTARIS GmbH",
     "location": "Merzig, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5796640860?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=2DE90794ADF88CEE097256EBC47FC59F631CAB7B",
+    "url": "https://www.adzuna.de/land/ad/5796640860?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=2DE90794ADF88CEE097256EBC47FC59F631CAB7B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-11",
@@ -15848,7 +15848,7 @@
     "company": "HENSOLDT",
     "location": "Fürstenfeldbruck, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5826787133?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=8845F633E028B981AA3EF83C9C8A86EEFAC560B9",
+    "url": "https://www.adzuna.de/land/ad/5826787133?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=8845F633E028B981AA3EF83C9C8A86EEFAC560B9",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-03",
@@ -15906,7 +15906,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "a145b16c2513f9a9",
@@ -16244,7 +16244,7 @@
     "company": "Fabrity S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5664476794?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=CEBFE13E3A4F7135E76976ECCAE77B7290F57639",
+    "url": "https://www.adzuna.pl/land/ad/5664476794?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=CEBFE13E3A4F7135E76976ECCAE77B7290F57639",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-03-14",
@@ -16302,7 +16302,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3089ee31aa816e7e",
@@ -16343,7 +16343,7 @@
     "company": "Link Group",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5782769653?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=D94A493FD8E77300BF25DCFF0973BCC35DDDC3D4",
+    "url": "https://www.adzuna.pl/land/ad/5782769653?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=D94A493FD8E77300BF25DCFF0973BCC35DDDC3D4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-01",
@@ -16541,7 +16541,7 @@
     "company": "Fabrity S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5670199871?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=01FF71F940A6C2C05E1C43664C8AD69FAE1BB7B4",
+    "url": "https://www.adzuna.pl/land/ad/5670199871?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=01FF71F940A6C2C05E1C43664C8AD69FAE1BB7B4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-03-18",
@@ -16599,7 +16599,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "def0ce20b3e8b139",
@@ -16632,7 +16632,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d1629a8a1e6f55d0",
@@ -16731,7 +16731,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -16739,7 +16739,7 @@
     "company": "Antal Sp. z o.o.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5786292934?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=504A88A63E1360F5A19FF9DA668406A5DC90B346",
+    "url": "https://www.adzuna.pl/land/ad/5786292934?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=504A88A63E1360F5A19FF9DA668406A5DC90B346",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-03",
@@ -16863,7 +16863,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "eae0a9bb65c94def",
@@ -16871,7 +16871,7 @@
     "company": "Antal Sp. z o.o.",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5759311247?se=lF3cy0id8RGJ9Py5yiqvzQ&utm_medium=api&utm_source=ceaf5c9d&v=30F2C077D04E80FAD518523FF936848FCFC75F2A",
+    "url": "https://www.adzuna.pl/details/5759311247?utm_medium=api&utm_source=ceaf5c9d",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-06-11",
@@ -16896,7 +16896,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 0
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -16904,7 +16904,7 @@
     "company": "Antal Sp. z o.o.",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5787501206?se=9ARsI1qd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=ceaf5c9d&v=A602C07CF737936EB1229DF1D43010480B93D369",
+    "url": "https://www.adzuna.pl/land/ad/5787501206?se=lCTJAFud8RGRe8MKeLiBPg&utm_medium=api&utm_source=ceaf5c9d&v=A602C07CF737936EB1229DF1D43010480B93D369",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-07-04",
@@ -16962,7 +16962,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6b76ff8b5620976a",
@@ -16995,7 +16995,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "936d9064f77c3e81",
@@ -17028,7 +17028,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2b2f66ca8379f599",
@@ -17061,7 +17061,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "32d9e28daeba2282",
@@ -17094,7 +17094,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2ffca3238c45c221",
@@ -17127,7 +17127,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -17193,7 +17193,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a5023110bce9f6b8",
@@ -17292,7 +17292,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "89cb8cc2f47dfb37",
@@ -17325,7 +17325,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "cdd377a9e818b35a",
@@ -17391,7 +17391,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e4bbf1ed7cae6450",
@@ -17424,7 +17424,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "337271487752b36e",
@@ -17457,7 +17457,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5038524d61bf7ad3",
@@ -17490,7 +17490,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "199c1926c7c4016b",
@@ -17498,7 +17498,7 @@
     "company": "CYBER FOX AG",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5848413735?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=063FBA09789037640968750F8FEA02CD5AA1000D",
+    "url": "https://www.adzuna.de/land/ad/5848413735?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=063FBA09789037640968750F8FEA02CD5AA1000D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-19",
@@ -17531,7 +17531,7 @@
     "company": "Wirz & Partners Management Consulting AG",
     "location": "Zürich, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5846791055?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=406F49CB3BE4AC3607C49AD21D206936423C4C1E",
+    "url": "https://www.adzuna.ch/land/ad/5846791055?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=406F49CB3BE4AC3607C49AD21D206936423C4C1E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-18",
@@ -17564,7 +17564,7 @@
     "company": "The Hague Humanity Hub",
     "location": "Genf, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5846790644?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=526A84631EDD8CF9DAE55336F1699C67D241B262",
+    "url": "https://www.adzuna.ch/land/ad/5846790644?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=526A84631EDD8CF9DAE55336F1699C67D241B262",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-18",
@@ -17622,7 +17622,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5f4377561187fc69",
@@ -17655,7 +17655,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "fdc54eb5c3105f25",
@@ -17688,7 +17688,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "de8911de04fe5aa2",
@@ -17721,7 +17721,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "26326ce846524bd5",
@@ -17820,7 +17820,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "39cc97622e35db69",
@@ -17853,7 +17853,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "197fecf72bd27308",
@@ -17861,7 +17861,7 @@
     "company": "Schneider Electric GmbH",
     "location": "Düsseldorf, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5849365966?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=F8E0BC778F3196E8DDF262021A731E0562148C9F",
+    "url": "https://www.adzuna.de/land/ad/5849365966?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=F8E0BC778F3196E8DDF262021A731E0562148C9F",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -17894,7 +17894,7 @@
     "company": "Bison Schweiz AG",
     "location": "Sursee, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5849392602?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=29402B53DFC0B44A3620BA785A697217D52C970C",
+    "url": "https://www.adzuna.ch/land/ad/5849392602?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=29402B53DFC0B44A3620BA785A697217D52C970C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -17927,7 +17927,7 @@
     "company": "KEENFINITY GMBH",
     "location": "Nürnberg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5849507788?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=6799D2B343320F35A7F5AFF013CBEF4012B3ABC6",
+    "url": "https://www.adzuna.de/land/ad/5849507788?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=6799D2B343320F35A7F5AFF013CBEF4012B3ABC6",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -17960,7 +17960,7 @@
     "company": "Runden Group GmbH & Co. KG",
     "location": "Vechta, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5831395121?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=593E9884D002AD5487580F3710B01D855D87402A",
+    "url": "https://www.adzuna.de/land/ad/5831395121?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=593E9884D002AD5487580F3710B01D855D87402A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-07",
@@ -18018,7 +18018,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d0eb4317a696998d",
@@ -18051,7 +18051,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c060495e7f9066f9",
@@ -18084,7 +18084,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "56417291cb8dd0ab",
@@ -18117,7 +18117,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "4ccbcea4861b434d",
@@ -18150,7 +18150,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a2febe5aa099a81b",
@@ -18183,7 +18183,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "baf825ddf54d51ac",
@@ -18216,7 +18216,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -18348,7 +18348,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "73a02883c7c51946",
@@ -18381,7 +18381,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a7acc32eaa8251f7",
@@ -18389,7 +18389,7 @@
     "company": "BWI GmbH",
     "location": "München, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5849621839?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=403CBA320873F082907F12131C9BB7F12D64DD5C",
+    "url": "https://www.adzuna.de/land/ad/5849621839?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=403CBA320873F082907F12131C9BB7F12D64DD5C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -18447,7 +18447,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "568ef9f627cf4b9e",
@@ -18480,7 +18480,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "e8c81ca0651c43c5",
@@ -18579,7 +18579,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -18612,7 +18612,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "536e6f842f83ba8c",
@@ -18645,7 +18645,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e210a515b2c804e1",
@@ -18678,7 +18678,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "d54ac133526865fa",
@@ -18711,7 +18711,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "24f80d9526012a45",
@@ -18744,7 +18744,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7b07f3def43e5e2d",
@@ -18752,7 +18752,7 @@
     "company": "Swisslinx AG",
     "location": "Zürich, Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5849883825?se=-LBqH1qd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=FDD2BB37A0D7DD2AFBB429B87A726936D89619AE",
+    "url": "https://www.adzuna.ch/land/ad/5849883825?se=RFw__Vqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=FDD2BB37A0D7DD2AFBB429B87A726936D89619AE",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -18810,7 +18810,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "ac7515b7f7fe1b35",
@@ -18843,7 +18843,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c164466e4d97beb5",
@@ -18851,7 +18851,7 @@
     "company": "Ministerie van Defensie",
     "location": "Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5842147298?se=DqoSIlqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=6A0CDE9C00BBB53AB35843FDD3C059C6E3607D13",
+    "url": "https://www.adzuna.nl/land/ad/5842147298?se=hqBX_1qd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=6A0CDE9C00BBB53AB35843FDD3C059C6E3607D13",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-14",
@@ -18909,7 +18909,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "42545a6b9326e588",
@@ -18942,7 +18942,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "518b66566e72f965",
@@ -19008,7 +19008,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "f1a4539e87027121",
@@ -19041,7 +19041,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "60816b58b59edaa4",
@@ -19074,7 +19074,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "65256aabf19ebae8",
@@ -19107,7 +19107,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "e4b974800d10c575",
@@ -19140,7 +19140,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7d56884df77937c5",
@@ -19173,7 +19173,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "11cd449d77493dda",
@@ -19206,7 +19206,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6daa268f0fc0b4c0",
@@ -19239,7 +19239,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "43ba64f065255722",
@@ -19272,7 +19272,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "740792cf88eab1f1",
@@ -19305,7 +19305,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "08f2b8df6999dbec",
@@ -19338,7 +19338,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "ae3d9d8e89a7c671",
@@ -19371,7 +19371,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "6a24ab7df67918eb",
@@ -19404,7 +19404,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a23c9c68dd43bc85",
@@ -19437,7 +19437,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -19470,7 +19470,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "736086f06af4189a",
@@ -19503,7 +19503,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7190bbcee872de2a",
@@ -19536,7 +19536,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "8e6985a5c789d865",
@@ -19569,7 +19569,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9d5da848a695f1d3",
@@ -19602,7 +19602,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "116c4a65c9dca070",
@@ -19635,7 +19635,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "810fc96a2e4cc1d8",
@@ -19668,7 +19668,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5a296841111395bb",
@@ -19701,7 +19701,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2ffb9097a928d764",
@@ -19734,7 +19734,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2fe9b716292be0c8",
@@ -19767,7 +19767,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -19800,7 +19800,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "8651ef6d08c7af5b",
@@ -19833,7 +19833,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b91c0ddc1e6a1d68",
@@ -19866,7 +19866,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "3aac25d374a4d221",
@@ -19899,7 +19899,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "4587b1be3d2e1a49",
@@ -19932,7 +19932,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "604caf2eeefc482e",
@@ -19965,7 +19965,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -19998,7 +19998,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "454d9fb9b87dbf98",
@@ -20031,7 +20031,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f741f6d3e0557d86",
@@ -20064,7 +20064,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "4e100af8cd340774",
@@ -20097,7 +20097,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "060145e073cddc6d",
@@ -20130,7 +20130,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "fb9bd75d3072ad90",
@@ -20163,7 +20163,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "1bc9b4f668888b2f",
@@ -20196,7 +20196,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "083b20551778e021",
@@ -20229,7 +20229,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a9639174602c3952",
@@ -20262,7 +20262,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "0b70758a5c803f74",
@@ -20295,7 +20295,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -20328,7 +20328,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "341d13d11fa8a130",
@@ -20361,7 +20361,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2be399176e1ce304",
@@ -20394,7 +20394,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "c18ad0bfc1ae48a2",
@@ -20427,7 +20427,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "ca8dc3f2cde67b7f",
@@ -20460,7 +20460,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "eac4cb7884aa3c15",
@@ -20493,7 +20493,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "56cc241427d96d4c",
@@ -20534,7 +20534,7 @@
     "company": "Ministerie van Defensie",
     "location": "Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5842146640?se=DqoSIlqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=5A60DE4CE4FF0B7D2718E69CBB32802A784D5C65",
+    "url": "https://www.adzuna.nl/land/ad/5842146640?se=hqBX_1qd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=5A60DE4CE4FF0B7D2718E69CBB32802A784D5C65",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-14",
@@ -20592,7 +20592,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "5df22ee37a39d7ca",
@@ -20625,7 +20625,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "b355fe8eed3b34b2",
@@ -20658,7 +20658,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2c9958d9e3293caa",
@@ -20691,7 +20691,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -20724,7 +20724,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "7034f0be17c99009",
@@ -20798,7 +20798,7 @@
     "company": "ZEISS",
     "location": "Oberkochen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5850389563?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=DEB633C9EEBF795536DC6E3AA90E34092CB9D994",
+    "url": "https://www.adzuna.de/land/ad/5850389563?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=DEB633C9EEBF795536DC6E3AA90E34092CB9D994",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -20831,7 +20831,7 @@
     "company": "Octrion GmbH",
     "location": "Siegen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5840652797?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=EEABD0C9E96F2C34507ABA6CB948C3B3E82AEEA1",
+    "url": "https://www.adzuna.de/land/ad/5840652797?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=EEABD0C9E96F2C34507ABA6CB948C3B3E82AEEA1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-13",
@@ -20864,7 +20864,7 @@
     "company": "Brunel GmbH",
     "location": "Duisburg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5849902075?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=4AABC27EC7034197CAB60E15FA0EFA39A9EBC18A",
+    "url": "https://www.adzuna.de/land/ad/5849902075?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=4AABC27EC7034197CAB60E15FA0EFA39A9EBC18A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -20897,7 +20897,7 @@
     "company": "Hochschul-IT-Services.nrw KöR",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5848400775?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=93C25C56881670D572FA71A74F1C84777C49C822",
+    "url": "https://www.adzuna.de/land/ad/5848400775?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=93C25C56881670D572FA71A74F1C84777C49C822",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-19",
@@ -20955,7 +20955,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "4757bbde58e9a4b4",
@@ -20963,7 +20963,7 @@
     "company": "Ministerie van Defensie",
     "location": "Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5842147294?se=DqoSIlqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=AF69237252B1DCC328BDDA5F185A2941AC868785",
+    "url": "https://www.adzuna.nl/land/ad/5842147294?se=hqBX_1qd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=AF69237252B1DCC328BDDA5F185A2941AC868785",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-14",
@@ -21087,7 +21087,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "9005cd97f3a61279",
@@ -21128,7 +21128,7 @@
     "company": "operational services GmbH & Co. KG",
     "location": "Wolfsburg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5850184427?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=92E0BB71B0112E1A4E837EFFF3EB494D2BD7B783",
+    "url": "https://www.adzuna.de/land/ad/5850184427?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=92E0BB71B0112E1A4E837EFFF3EB494D2BD7B783",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -21285,7 +21285,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "e11f74245ad46e12",
@@ -21920,7 +21920,7 @@
     "company": "Octrion GmbH",
     "location": "Mainz, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5843149425?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=D9555979CDF6003DAF99CA5F655C69162DBC1091",
+    "url": "https://www.adzuna.de/land/ad/5843149425?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=D9555979CDF6003DAF99CA5F655C69162DBC1091",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-15",
@@ -21953,7 +21953,7 @@
     "company": "Instaffo GmbH",
     "location": "Aubing-Lochhausen-Langwied, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5833374646?se=Ahp-IFqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=E582D94099DD8F18D68C85EB92C772693FA8EBFF",
+    "url": "https://www.adzuna.de/land/ad/5833374646?se=KFb3_Vqd8RG4OrFPIMktbg&utm_medium=api&utm_source=ceaf5c9d&v=E582D94099DD8F18D68C85EB92C772693FA8EBFF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-08",
@@ -22019,7 +22019,7 @@
     "company": "Ministerie van Defensie",
     "location": "Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5843172109?se=DqoSIlqd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=B9F7DA6947E40CD07664C372F83476F13B1FBDDC",
+    "url": "https://www.adzuna.nl/land/ad/5843172109?se=hqBX_1qd8RGzn5vA8fZm8g&utm_medium=api&utm_source=ceaf5c9d&v=B9F7DA6947E40CD07664C372F83476F13B1FBDDC",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-15",
