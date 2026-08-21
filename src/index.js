@@ -21,9 +21,19 @@ export function readCookie(header, name) {
   return null;
 }
 
+// Chrome fetches the manifest and the icons without credentials while deciding
+// whether a site is installable, so gating those breaks "Install app". They
+// carry no private data — the job list lives in /data.
+const PUBLIC = [/^\/manifest\.webmanifest$/, /^\/icons\//, /^\/favicon\.ico$/];
+
+export function isPublicPath(pathname) {
+  return PUBLIC.some(rx => rx.test(pathname));
+}
+
 export function authorize(request, key) {
   if (!key) return { ok: true, reason: "no key configured — site is public" };
   const url = new URL(request.url);
+  if (isPublicPath(url.pathname)) return { ok: true, reason: "installability asset" };
   const supplied = url.searchParams.get("k");
   if (supplied !== null) {
     return sameKey(supplied, key)

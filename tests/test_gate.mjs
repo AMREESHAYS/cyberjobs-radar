@@ -37,3 +37,19 @@ test("readCookie picks the right value out of several", () => {
   assert.equal(readCookie("a=1; cjr_key=abc%20def; z=9", "cjr_key"), "abc def");
   assert.equal(readCookie("", "cjr_key"), null);
 });
+
+import { isPublicPath } from "../src/index.js";
+
+test("installability assets stay reachable without the key", () => {
+  for (const p of ["/manifest.webmanifest", "/icons/logo.svg", "/icons/logo-192.png", "/favicon.ico"]) {
+    assert.equal(isPublicPath(p), true, p);
+    assert.equal(authorize(req("https://x.test" + p), "s3cret").ok, true, p);
+  }
+});
+
+test("the job data and the app itself are never public", () => {
+  for (const p of ["/", "/index.html", "/data/jobs.json", "/app.js", "/sw.js"]) {
+    assert.equal(isPublicPath(p), false, p);
+    assert.equal(authorize(req("https://x.test" + p), "s3cret").ok, false, p);
+  }
+});
