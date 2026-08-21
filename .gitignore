@@ -9,3 +9,6 @@ data/fx.json
 
 # assembled deploy output
 _site/
+
+# wrangler local state
+.wrangler/
