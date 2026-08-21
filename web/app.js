@@ -107,6 +107,11 @@ const mustHave = j => {
   const short = skills.map(s => (s.length > 42 ? s.slice(0, 41).trimEnd() + "…" : s));
   return short.slice(0, 8).join(" · ") + (short.length > 8 ? ` +${short.length - 8}` : "");
 };
+// Adzuna's API hands back a 500-char teaser, not the ad. Saying "not stated"
+// there would imply the ad is silent, when really we were never shown it.
+const isTeaser = j => (j.description || "").length <= 520 && /[…\.]{1,3}$/.test((j.description || "").trim());
+const factOrTeaser = (j, value) =>
+  (value && value !== "not stated") ? value : (isTeaser(j) ? "see full posting" : "not stated");
 const salaryText = j => {
   const stated = j.salary && j.salary !== "not stated" ? j.salary : "";
   const inr = j.salary_inr && j.salary_inr !== "not stated" ? j.salary_inr : "";
@@ -135,9 +140,9 @@ function card(j, saved, applied) {
       <li><span>Work mode</span>${workMode(j)}</li>
       <li><span>Type</span>${esc(j.employment_type || "not stated")}</li>
       <li><span>Salary</span>${esc(salaryText(j))}</li>
-      <li><span>Experience</span>${esc(j.experience_required || "not stated")}</li>
+      <li><span>Experience</span>${esc(factOrTeaser(j, j.experience_required))}</li>
     </ul>
-    <p class="role"><span>Must have</span>${esc(mustHave(j))}</p>
+    <p class="role"><span>Must have</span>${esc(mustHave(j) === "not stated" ? factOrTeaser(j, "") : mustHave(j))}</p>
     <p class="role"><span>Role</span>${esc(j.role_summary || "not stated")}</p>
     <p class="role"><span>They expect</span>${esc(j.expectations || "not stated")}</p>
     <p class="reason">${esc(/^(AI disabled|AI unavailable)$/.test(j.score_reason || "") ? "" : j.score_reason)}</p>
