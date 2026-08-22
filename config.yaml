@@ -11,6 +11,32 @@ search_terms:
   - "information security"
   - "incident response"
   - "security internship"
+  # entry-level wording, so the boards stop answering with senior roles only
+  - "junior security"
+  - "graduate security"
+  - "cyber security intern"
+  - "security trainee"
+  - "werkstudent security"
+  - "praktikum informationssicherheit"
+# titles advertising a seniority an entry-level candidate cannot claim. An
+# explicit junior/graduate/intern marker in the same title overrides these.
+exclude_title_patterns:
+  - '\bsenior\b'
+  - '\bsr\.?\b'
+  - '\blead\b'
+  - '\bprincipal\b'
+  - '\bstaff\b'
+  - '\bhead\b'
+  - '\bdirector\b'
+  - '\bchief\b'
+  - '\b(cto|ciso|vp)\b'
+  - '\bmanager\b'
+  - '\barchitect\b'
+  - '\bexpert\b'
+  - '\bleiter(in)?\b'
+  - '\bteam ?lead\b'
+  - '\b(1[0-9]|[5-9])\+? ?(years|jahre)\b'
+
 age_out_days: 45
 ai:
   base_url_default: "https://api.groq.com/openai/v1"

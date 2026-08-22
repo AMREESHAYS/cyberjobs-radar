@@ -4,7 +4,7 @@ from pipeline.ai import ANALYSIS_VERSION
 from pipeline.models import Job, make_id
 
 def _j(url, country="CH"):
-    return Job(id=make_id("s", url, url), title="Security Analyst", company="c",
+    return Job(id=make_id("s", url, url), title=f"Security Analyst {url[-1]}", company="c",
                location="l", country=country, url=url, source="s",
                source_type="api", description="d")
 
@@ -68,11 +68,11 @@ def test_run_no_score_attempts_when_ai_disabled(tmp_path):
 def test_run_converts_stated_salaries_to_inr(tmp_path):
     from pipeline.models import Job, NOT_STATED
     path = tmp_path / "jobs.json"
-    paid = Job(id="p1", title="Security Engineer", company="Acme", location="Zurich, Switzerland",
+    paid = Job(id="p1", title="Security Engineer Payroll", company="Acme", location="Zurich, Switzerland",
                country="CH", url="https://b.test/p1", source="s", source_type="api",
                salary="90000-110000", salary_min=90000, salary_max=110000,
                salary_currency="CHF", salary_period="year", description="d")
-    silent = Job(id="p2", title="Security Engineer", company="Acme", location="Zurich, Switzerland",
+    silent = Job(id="p2", title="Security Engineer Quiet", company="Acme", location="Zurich, Switzerland",
                  country="CH", url="https://b.test/p2", source="s", source_type="api",
                  description="d")
     rates = {"rates": {"CHF": 0.0084}}  # 1 INR = 0.0084 CHF
@@ -108,9 +108,9 @@ def test_run_removes_confirmed_dead_jobs_and_stamps_the_run(tmp_path):
     from datetime import datetime, timezone
     from pipeline.models import Job
     data, meta = str(tmp_path / "jobs.json"), str(tmp_path / "meta.json")
-    live = Job(id="live", title="Security Engineer", company="c", location="l", country="CH",
+    live = Job(id="live", title="Security Engineer Live", company="c", location="l", country="CH",
                url="https://b.test/live", source="s", source_type="api", description="d")
-    dead = Job(id="dead", title="Security Engineer", company="c", location="l", country="CH",
+    dead = Job(id="dead", title="Security Engineer Dead", company="c", location="l", country="CH",
                url="https://b.test/dead", source="s", source_type="api", description="d")
     run({"countries": ["CH"]}, {}, data, fetch=lambda cfg: [live, dead],
         client_factory=lambda cfg: (None, "m"), rates_loader=lambda: {},

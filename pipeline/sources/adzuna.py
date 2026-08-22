@@ -21,15 +21,25 @@ def fetch(cfg, get=get_json):
     app_id, app_key = sec.get("ADZUNA_APP_ID"), sec.get("ADZUNA_APP_KEY")
     if not app_id or not app_key:
         return []
-    what = " ".join(cfg.get("search_terms", ["cybersecurity"])[:1] or ["cybersecurity"])
+    # what: a single required phrase — using only the first search term made the
+    # other sixteen dead config. what_or matches any of the words, and
+    # what_exclude lets the board drop senior postings before they cost us
+    # anything, which is most of what a generic security query returns.
+    terms = cfg.get("search_terms") or ["cybersecurity"]
+    what_or = " ".join(dict.fromkeys(" ".join(terms).lower().split()))
     jobs: list[Job] = []
     for code in cfg.get("countries", []):
         slug = _COUNTRY_MAP.get(code)
         if not slug:
             continue
         data = get(BASE.format(c=slug), params={
-            "app_id": app_id, "app_key": app_key, "what_or": "cybersecurity security",
-            "what": what, "results_per_page": 50, "content-type": "application/json",
+            "app_id": app_id, "app_key": app_key,
+            "what_or": what_or,
+            "what_exclude": cfg.get("adzuna_exclude",
+                                    "senior lead principal head director chief manager architect"),
+            "max_days_old": cfg.get("max_days_old", 45),
+            "sort_by": "date",
+            "results_per_page": 50, "content-type": "application/json",
         })
         for r in data.get("results", []):
             url = r.get("redirect_url")

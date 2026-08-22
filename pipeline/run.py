@@ -4,7 +4,7 @@ from datetime import date, timezone, datetime
 from .config import load_config, load_profile
 from .sources import fetch_all
 from .ai import ANALYSIS_VERSION, analyze, build_client
-from . import fx, liveness, store
+from . import fx, liveness, relevance, store
 
 log = logging.getLogger("run")
 
@@ -20,9 +20,16 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
         prune_fn=liveness.prune, meta_path="data/meta.json", now=None, today=None):
     now = now or datetime.now(timezone.utc)
     today = today or now.date().isoformat()
-    fetched = prefilter(fetch(cfg), cfg)
+    fetched, out_of_reach = relevance.drop_out_of_reach(prefilter(fetch(cfg), cfg), cfg)
+    if out_of_reach:
+        log.info("skipped %d postings above entry level", len(out_of_reach))
     existing = store.load(data_path)
     all_jobs, new_jobs = store.merge(existing, fetched, today)
+    # apply the same two rules to what is already stored, so tightening the
+    # filters cleans the backlog instead of only affecting future fetches
+    all_jobs, stale_seniority = relevance.drop_out_of_reach(all_jobs, cfg)
+    all_jobs, duplicates = relevance.dedupe(all_jobs)
+    new_jobs = [j for j in new_jobs if j in all_jobs]
 
     client, model = client_factory(cfg)
     cap = cfg.get("max_new_ai_jobs_per_run", 120)
@@ -49,7 +56,9 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
     store.save(data_path, kept)
 
     summary = {"total": len(kept), "new": len(new_jobs), "scored": scored,
-               "removed": len(removed), "aged_out": aged_out}
+               "removed": len(removed), "aged_out": aged_out,
+               "above_level": len(out_of_reach) + len(stale_seniority),
+               "duplicates": len(duplicates)}
     store.save_meta(meta_path, {**summary, "generated_at": now.replace(microsecond=0).isoformat()})
     return summary
 

@@ -280,3 +280,15 @@ def test_parse_salary_text_reads_ranges_and_refuses_prose():
     assert parse_salary_text("$120k - $160k") == (120000.0, 160000.0, "USD")
     assert parse_salary_text("105000-230000 USD year") == (105000.0, 230000.0, "USD")
     assert parse_salary_text("competitive salary") == (None, None, "")
+
+def test_adzuna_query_uses_every_term_and_excludes_senior_titles():
+    captured = {}
+    def get(url, params=None, headers=None, timeout=20):
+        captured.update(params)
+        return {"results": []}
+    adzuna.fetch({"countries": ["CH"], "search_terms": ["cybersecurity", "SOC analyst"],
+                  "secrets": {"ADZUNA_APP_ID": "a", "ADZUNA_APP_KEY": "b"}}, get=get)
+    assert "soc" in captured["what_or"] and "cybersecurity" in captured["what_or"]
+    assert "senior" in captured["what_exclude"]      # dropped before it costs us
+    assert captured["sort_by"] == "date"
+    assert "what" not in captured                    # the old single-term filter is gone
