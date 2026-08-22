@@ -30,7 +30,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "6663a30a41a037d1",
@@ -63,7 +63,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -96,7 +96,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "e04ebe29a453b0de",
@@ -138,7 +138,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "5b798dff2178cc87",
@@ -171,7 +171,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "cd1fc3ded981dc2d",
@@ -204,7 +204,45 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
+  },
+  {
+    "id": "c63a1bb43cf5203d",
+    "title": "IT-Systemadministrator (m/w/d) – Infrastruktur & IT-Sicherheit  / Teilzeit (20 Std./Woche)",
+    "company": "CUREosity GmbH",
+    "location": "Düsseldorf",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.com/jobs/companies/cureosity-gmbh/it-systemadministrator-infrastruktur-it-sicherheit-teilzeit-20-std-woche-dusseldorf-236610",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "<h2>Über CUREosity</h2>\n<p>CUREosity ist ein innovatives Med-Tech-Startup aus Düsseldorf, das die Gesundheitsbranche mit Virtual-Reality-Therapien revolutioniert. Unsere mehrfach ausgezeichneten Lösungen verbessern die Rehabilitation für Patient*innen weltweit.<br>\nDamit wir auch technologisch weiter wachsen können, suchen wir Verstärkung für unsere interne IT. In dieser vielseitigen Rolle entwickelst du unsere bestehende IT-Landschaft weiter und arbeitest an abwechslungsreichen Themen rund um moderne Infrastrukturen, sichere Netzwerke, Cybersecurity, Cloud-Technologien und die Digitalisierung unserer Unternehmensprozesse. Dabei übernimmst du eigenständig Verantwortung und setzt gemeinsam mit verschiedenen Teams zukunftsfähige IT-Lösungen um. Bei der Verteilung deiner Arbeitszeit sind wir flexibel und stimmen gemeinsam ein Modell ab, das zu dir und unserem Team passt.</p>\n<h2>Was uns ausmacht</h2>\n<ul>\n<li><strong>Sinnstiftende Arbeit:</strong> Wir entwickeln innovative Therapien, die Menschen wirklich helfen</li>\n<li><strong>Innovative Technologie:</strong> Wir setzen auf VR für bessere Therapieergebnisse</li>\n<li><strong>Teamgeist und Vielfalt:</strong> Ein diverses, internationales Team mit unterschiedlichen Perspektiven und Hintergründen</li>\n<li><strong>Start-Up Atmosphäre:</strong> Flache Hierarchien, kurze Kommunikationswege und viel Gestaltungsspielraum</li>\n</ul>\n<p>Bist du bereit, mit uns die Zukunft der Rehabilitation zu gestalten?</p>\n<h2>Deine Mission</h2>\n<ul>\n<li>Du betreust unsere Unternehmens-IT und entwickelst bestehende Systeme und Strukturen gemeinsam mit dem Team weiter.</li>\n<li>Netzwerk-, Server- und Cloud-Infrastrukturen administrierst du zuverlässig und unterstützt bei deren Optimierung.</li>\n<li>Du setzt Maßnahmen im Bereich IT-Sicherheit und Cybersecurity um und wirkst an der Weiterentwicklung unserer Sicherheitsstandards mit.</li>\n<li>Firewalls, VPNs und weitere Sicherheitslösungen werden von dir betreut und kontinuierlich überwacht.</li>\n<li>Du analysierst digitale Geschäftsprozesse und unterstützt dabei, geeignete Automatisierungsmöglichkeiten zu identifizieren und umzusetzen.</li>\n<li>Neue Technologien und IT-Lösungen prüfst du auf ihren Nutzen und begleitest deren Einführung.</li>\n<li>Bei der Entwicklung interner Softwarelösungen und Automatisierungen bringst du deine technischen Ideen ein.</li>\n<li>Gemeinsam mit Entwicklung, Support und Operations setzt du bereichsübergreifende IT-Themen um.</li>\n<li>IT-Projekte übernimmst du eigenständig und bringst sie strukturiert zum Abschluss.</li>\n</ul>\n<h2>Dein Profil</h2>\n<ul>\n<li>Du hast eine Ausbildung als Fachinformatiker*in, ein Studium im IT-Bereich oder eine vergleichbare Qualifikation erfolgreich abgeschlossen.</li>\n<li>Du bringst mindestens zwei Jahre Berufserfahrung im IT-Bereich mit.</li>\n<li>Mit modernen Unternehmensnetzwerken, Serverlandschaften und Netzwerkarchitekturen kennst du dich gut aus.</li>\n<li>Du verfügst über praktische Kenntnisse in den Bereichen Cybersecurity, Firewalls, Routing und VPN.</li>\n<li>Idealerweise hast du bereits mit Cloud-Technologien und modernen Microsoft-Lösungen wie Microsoft 365, Entra ID oder Azure gearbeitet.</li>\n<li>Neue Technologien rund um Cloud, KI und Automatisierung wecken dein Interesse.</li>\n<li>Eine analytische, strukturierte und eigenverantwortliche Arbeitsweise zeichnet dich aus.</li>\n<li>Du kommunizierst sehr sicher auf Deutsch und verfügst über gute Englischkenntnisse.\nBei uns hast du die Chance, <strong>wirklich etwas zu bewegen und zu gestalten.</strong> Die „Grüne Wiese“ wartet auf deine Ideen und Initiative. Werde Teil unseres dynamischen Teams und gestalte die Zukunft der Med-Tech-Branche aktiv mit!</li>\n</ul>\n<h2>Unsere Benefits</h2>\n<ul>\n<li><strong>Betriebliche Altersvorsorge:</strong> Sichere deine Zukunft mit unserer Unterstützung.</li>\n<li><strong>Monatlich steuerfreier Sachbezug:</strong> Zusätzliche finanzielle Benefits, flexibel einsetzbar.</li>\n<li><strong>Gesundheits- und Fitnessangebote:</strong> Vergünstigter Zugang zu Sport-, Fitness- und Wellnessangeboten – digital oder vor Ort.</li>\n<li><strong>Flexible Arbeitszeiten:</strong> Gestalte deine Arbeit so, dass sie zu deinem Leben passt.</li>\n<li><strong>Tierfreundliches Büro:</strong> Hunde sind bei uns herzlich willkommen.</li>\n<li><strong>Regelmäßige Team-Events:</strong> Austausch, Zusammenhalt und gemeinsame Erlebnisse gehören für uns dazu.</li>\n</ul>\n<h2>Unsere Werte</h2>\n<p><strong>Win as a team – Be brave &#x26; collaborate:</strong> Erfolgreich sind wir nur im Team. Jede*r bringt einzigartige Fähigkeiten mit, und in einer ergebnisorientierten, offenen und kreativen Zusammenarbeit ergänzen wir uns optimal.</p>\n<p><strong>Ownership - See the bigger picture and mission:</strong> Verantwortung für das eigene Handeln, das Wohl des Teams und des Unternehmens zu übernehmen ist uns wichtig. Probleme sehen wir als Chancen zur Lösung.</p>\n<p><strong>Stay Hungry - Take continuous change as a business driver:</strong> Stetige Weiterentwicklung und Offenheit für Veränderungen sind unsere Treiber. Kreativer Hunger nach neuen Impulsen ermöglicht uns kontinuierliches Wachstum.</p>\n<p><strong>Respekt - Spread positivity - not politics:</strong> Offenheit, Positivität und Wertschätzung prägen unsere Interaktionen. Vielfalt in Meinungen und Ideen bereichert unser Team.</p>\n<h2>Unser Bewerbungsprozess</h2>\n<p><strong>1. Review:</strong> Wir prüfen deine Bewerbung und achten besonders auf deine Motivation.</p>\n<p><strong>2. Kennenlernen:</strong> In zwanglosen Gesprächen – online und vor Ort.</p>\n<p><strong>3. Angebot:</strong> Bei beidseitigem Interesse freuen wir uns dich bald in unserem Team begrüßen zu dürfen!</p>\n<p>Starte jetzt deine Karriere bei CUREosity und verändere mit uns die Gesundheitsbranche!</p>\n<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "score": 25,
+    "score_reason": "Low fit because the role requires ≥2 years experience, German language and location, and does not mention sponsorship.",
+    "skills": [
+      "Cybersecurity",
+      "Firewalls",
+      "Routing",
+      "VPN"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "experience_required": "mindestens zwei Jahre Berufserfahrung im IT-Bereich",
+    "role_summary": "You will manage and develop the company's IT infrastructure, including networks, servers, cloud services, and implement cybersecurity measures such as firewalls and VPNs.",
+    "expectations": "The candidate must have completed an IT-related education and at least two years of professional IT experience, with practical knowledge of cybersecurity, firewalls, routing, and VPNs, and be fluent in German with good English.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 24
   },
   {
     "id": "d896235fe6f292dc",
@@ -237,7 +275,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "66f89db6c114d0b9",
@@ -270,7 +308,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "dcc883d52a454cd6",
@@ -303,7 +341,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "eed918fd33e49444",
@@ -342,7 +380,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "58e805f87c37160f",
@@ -384,7 +422,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "85df7ac1edf16577",
@@ -459,7 +497,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "2ecaf2e25399e115",
@@ -492,7 +530,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "9aece813e2d051f0",
@@ -525,7 +563,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "5e5b210208912cd3",
@@ -558,7 +596,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "45e89d2fd2bee0ca",
@@ -591,7 +629,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "469d11f1797792a0",
@@ -624,7 +662,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "5390f8be20209026",
@@ -657,7 +695,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "be3ba1b5124a1c16",
@@ -690,7 +728,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "16e8386d275e643e",
@@ -802,7 +840,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "b55640c1f733595a",
@@ -835,7 +873,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "fc3b66b561c80863",
@@ -868,7 +906,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "039e735f5c8670e1",
@@ -910,7 +948,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "ef417486e47c519e",
@@ -943,7 +981,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "fe4ef31dae1f7a38",
@@ -1110,7 +1148,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "674a2558bffc5fb4",
@@ -1143,7 +1181,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "6532eaec96e109c7",
@@ -1185,7 +1223,46 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
+  },
+  {
+    "id": "724a92de271fe52c",
+    "title": "Security Engineer",
+    "company": "Figma",
+    "location": "USA",
+    "country": "REMOTE",
+    "url": "https://jobicy.com/jobs/151026-security-engineer",
+    "source": "jobicy",
+    "source_type": "api",
+    "posted_date": "2026-08-18",
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! As a Security Engineer you will identify and drive impactful projects to improve the security of Figma’s product, platform, and IT systems. We are hiring for multiple teams within Security Engineering: AI Security, Platform Security, Product Security, and Anti-Abuse. This is a remote first role. You will partner closely with teams across the company and focus on systemic security improvements and risk reduction. You will also participate in operational security responsibilities like security reviews, consulting, vulnerability triage, and security incident response. Examples of what you may work on across teams: AI Security Perform technical security assessments, code audits, and design reviews for new AI infrastructure, platforms, and products. Design and develop technical solutions to secure AI models, tooling, debugging workflows, and data pipelines. Advocate for secure practices across Figma’s AI infrastructure, platforms, and data systems. Build the next generation of internal AI-powered access insights and security tooling. Help run penetration testing and offensive security exercises against Figma’s AI infrastructure, platforms, and products. Platform Security Perform technical security assessments, code audits, and design reviews for changes to Figma’s cloud and corporate infrastructure. Design and develop solutions to prevent or mitigate cloud and corporate security risks. Advocate for secure practices within Figma’s cloud and corporate infrastructure. Build platforms and tooling to detect and respond to infrastructure and corporate security threats. Product Security Perform technical security assessments, code audits, and design reviews for new product features. Design and develop solutions to prevent or mitigate product security vulnerabilities. Advocate for secure development practices across Figma’s products and services. Help run penetration testing, offensive security exercises, and support our bug bounty program. Help respond to product security incidents. Anti-Abuse Design and build technical systems to prevent spam, fraud, and abuse. Partner closely with product teams to identify and address potential abuse vectors. Develop new signals and improve the use of existing signals to detect abusive behavior. Help respond to spam, fraud, and abuse incidents. This is a full-time role that can be held from one of our US hubs or remotely in the United States. We’d love to hear from you if you have: 5+ years of proven engineering experience working in either a Security Engineering or a Software Engineering role. In the case of the latter, some security experience is preferred. Strong security judgment in threat modeling and risk prioritization and/or strong technical judgment in designing and building maintainable, scalable systems. Proficiency in at least one general-purpose coding language. Strong communication and interpersonal skills, with demonstrated experience collaborating across functions. While not required, it’s an added plus if you also have: Subject matter expertise in Application Security, Cloud Security, Corporate Security, Data Access Governance, and/or IAM (Identity and Access Management). Demonstrated ability to make hard prioritization decisions in security controls. At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. #LI-Remote Pay Transparency Disclosure Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. Figma offers equity to employees, as well as a competitive package of additional benefits, including health, dental, and vision coverage; retirement benefits with company contributions; parental leave and reproductive or family planning support; mental health and wellness benefits; and paid time off. Figma provides paid sick leave, holidays, and other leave benefits in compliance with applicable federal, state, and local laws, including the requirements of the Washington Minimum Wage Act and related regulations. Exempt employees are eligible for employer‑provided paid flexible PTO in addition to flexible paid sick leave. PTO is subject to manager approval. Additional benefits may include company recharge days, cell phone and home internet reimbursements, and a number of lifestyle spending accounts. Figma also offers sales incentive compensation for most sales roles and an annual bonus plan for eligible non-sales roles. All compensation and benefits are subject to applicable plan terms and may be modified by Figma at any time, consistent with applicable law. Annual Base Salary Range: $153,000&mdash;$376,000 USD At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. Examples of accommodations include but are not limited to: Holding interviews in an accessible location Enabling closed captioning on video conferencing Ensuring all written communication be compatible with screen readers Changing the mode or format of interviews To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding. By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .",
+    "score": 10,
+    "score_reason": "Senior role requiring 5+ years, no sponsorship info, remote but US‑based, not a fit for a junior candidate needing sponsorship.",
+    "skills": [
+      "security assessments",
+      "code audits",
+      "design reviews",
+      "vulnerability triage",
+      "incident response"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "experience_required": "5+ years",
+    "role_summary": "Identify and drive security projects while performing security reviews, vulnerability triage, incident response, and conducting security assessments, code audits, and design reviews across AI, platform, and product teams.",
+    "expectations": "5+ years of proven engineering experience in security or software engineering, strong communication and collaboration across functions, and the ability to deliver security assessments, code audits, design reviews, vulnerability triage, and incident response.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
   },
   {
     "id": "c51b61ee70918035",
@@ -1218,7 +1295,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "acd348792b083893",
@@ -1251,7 +1328,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "278ef211af354382",
@@ -1284,7 +1361,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -1317,7 +1394,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -1399,7 +1476,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "2dbeab30a1df3688",
@@ -1481,95 +1558,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
-  },
-  {
-    "id": "724a92de271fe52c",
-    "title": "Security Engineer",
-    "company": "Figma",
-    "location": "USA",
-    "country": "REMOTE",
-    "url": "https://jobicy.com/jobs/151026-security-engineer",
-    "source": "jobicy",
-    "source_type": "api",
-    "posted_date": "2026-08-18",
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! As a Security Engineer you will identify and drive impactful projects to improve the security of Figma’s product, platform, and IT systems. We are hiring for multiple teams within Security Engineering: AI Security, Platform Security, Product Security, and Anti-Abuse. This is a remote first role. You will partner closely with teams across the company and focus on systemic security improvements and risk reduction. You will also participate in operational security responsibilities like security reviews, consulting, vulnerability triage, and security incident response. Examples of what you may work on across teams: AI Security Perform technical security assessments, code audits, and design reviews for new AI infrastructure, platforms, and products. Design and develop technical solutions to secure AI models, tooling, debugging workflows, and data pipelines. Advocate for secure practices across Figma’s AI infrastructure, platforms, and data systems. Build the next generation of internal AI-powered access insights and security tooling. Help run penetration testing and offensive security exercises against Figma’s AI infrastructure, platforms, and products. Platform Security Perform technical security assessments, code audits, and design reviews for changes to Figma’s cloud and corporate infrastructure. Design and develop solutions to prevent or mitigate cloud and corporate security risks. Advocate for secure practices within Figma’s cloud and corporate infrastructure. Build platforms and tooling to detect and respond to infrastructure and corporate security threats. Product Security Perform technical security assessments, code audits, and design reviews for new product features. Design and develop solutions to prevent or mitigate product security vulnerabilities. Advocate for secure development practices across Figma’s products and services. Help run penetration testing, offensive security exercises, and support our bug bounty program. Help respond to product security incidents. Anti-Abuse Design and build technical systems to prevent spam, fraud, and abuse. Partner closely with product teams to identify and address potential abuse vectors. Develop new signals and improve the use of existing signals to detect abusive behavior. Help respond to spam, fraud, and abuse incidents. This is a full-time role that can be held from one of our US hubs or remotely in the United States. We’d love to hear from you if you have: 5+ years of proven engineering experience working in either a Security Engineering or a Software Engineering role. In the case of the latter, some security experience is preferred. Strong security judgment in threat modeling and risk prioritization and/or strong technical judgment in designing and building maintainable, scalable systems. Proficiency in at least one general-purpose coding language. Strong communication and interpersonal skills, with demonstrated experience collaborating across functions. While not required, it’s an added plus if you also have: Subject matter expertise in Application Security, Cloud Security, Corporate Security, Data Access Governance, and/or IAM (Identity and Access Management). Demonstrated ability to make hard prioritization decisions in security controls. At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. #LI-Remote Pay Transparency Disclosure Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. Figma offers equity to employees, as well as a competitive package of additional benefits, including health, dental, and vision coverage; retirement benefits with company contributions; parental leave and reproductive or family planning support; mental health and wellness benefits; and paid time off. Figma provides paid sick leave, holidays, and other leave benefits in compliance with applicable federal, state, and local laws, including the requirements of the Washington Minimum Wage Act and related regulations. Exempt employees are eligible for employer‑provided paid flexible PTO in addition to flexible paid sick leave. PTO is subject to manager approval. Additional benefits may include company recharge days, cell phone and home internet reimbursements, and a number of lifestyle spending accounts. Figma also offers sales incentive compensation for most sales roles and an annual bonus plan for eligible non-sales roles. All compensation and benefits are subject to applicable plan terms and may be modified by Figma at any time, consistent with applicable law. Annual Base Salary Range: $153,000&mdash;$376,000 USD At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. Examples of accommodations include but are not limited to: Holding interviews in an accessible location Enabling closed captioning on video conferencing Ensuring all written communication be compatible with screen readers Changing the mode or format of interviews To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding. By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "technical security assessments",
-      "code audits",
-      "design reviews",
-      "security reviews",
-      "consulting",
-      "vulnerability triage",
-      "security incident response",
-      "penetration testing",
-      "offensive security exercises",
-      "bug bounty program support",
-      "anti‑abuse system design"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 0
-  },
-  {
-    "id": "c63a1bb43cf5203d",
-    "title": "IT-Systemadministrator (m/w/d) – Infrastruktur & IT-Sicherheit  / Teilzeit (20 Std./Woche)",
-    "company": "CUREosity GmbH",
-    "location": "Düsseldorf",
-    "country": "REMOTE",
-    "url": "https://www.arbeitnow.com/jobs/companies/cureosity-gmbh/it-systemadministrator-infrastruktur-it-sicherheit-teilzeit-20-std-woche-dusseldorf-236610",
-    "source": "arbeitnow",
-    "source_type": "api",
-    "posted_date": null,
-    "remote": false,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "<h2>Über CUREosity</h2>\n<p>CUREosity ist ein innovatives Med-Tech-Startup aus Düsseldorf, das die Gesundheitsbranche mit Virtual-Reality-Therapien revolutioniert. Unsere mehrfach ausgezeichneten Lösungen verbessern die Rehabilitation für Patient*innen weltweit.<br>\nDamit wir auch technologisch weiter wachsen können, suchen wir Verstärkung für unsere interne IT. In dieser vielseitigen Rolle entwickelst du unsere bestehende IT-Landschaft weiter und arbeitest an abwechslungsreichen Themen rund um moderne Infrastrukturen, sichere Netzwerke, Cybersecurity, Cloud-Technologien und die Digitalisierung unserer Unternehmensprozesse. Dabei übernimmst du eigenständig Verantwortung und setzt gemeinsam mit verschiedenen Teams zukunftsfähige IT-Lösungen um. Bei der Verteilung deiner Arbeitszeit sind wir flexibel und stimmen gemeinsam ein Modell ab, das zu dir und unserem Team passt.</p>\n<h2>Was uns ausmacht</h2>\n<ul>\n<li><strong>Sinnstiftende Arbeit:</strong> Wir entwickeln innovative Therapien, die Menschen wirklich helfen</li>\n<li><strong>Innovative Technologie:</strong> Wir setzen auf VR für bessere Therapieergebnisse</li>\n<li><strong>Teamgeist und Vielfalt:</strong> Ein diverses, internationales Team mit unterschiedlichen Perspektiven und Hintergründen</li>\n<li><strong>Start-Up Atmosphäre:</strong> Flache Hierarchien, kurze Kommunikationswege und viel Gestaltungsspielraum</li>\n</ul>\n<p>Bist du bereit, mit uns die Zukunft der Rehabilitation zu gestalten?</p>\n<h2>Deine Mission</h2>\n<ul>\n<li>Du betreust unsere Unternehmens-IT und entwickelst bestehende Systeme und Strukturen gemeinsam mit dem Team weiter.</li>\n<li>Netzwerk-, Server- und Cloud-Infrastrukturen administrierst du zuverlässig und unterstützt bei deren Optimierung.</li>\n<li>Du setzt Maßnahmen im Bereich IT-Sicherheit und Cybersecurity um und wirkst an der Weiterentwicklung unserer Sicherheitsstandards mit.</li>\n<li>Firewalls, VPNs und weitere Sicherheitslösungen werden von dir betreut und kontinuierlich überwacht.</li>\n<li>Du analysierst digitale Geschäftsprozesse und unterstützt dabei, geeignete Automatisierungsmöglichkeiten zu identifizieren und umzusetzen.</li>\n<li>Neue Technologien und IT-Lösungen prüfst du auf ihren Nutzen und begleitest deren Einführung.</li>\n<li>Bei der Entwicklung interner Softwarelösungen und Automatisierungen bringst du deine technischen Ideen ein.</li>\n<li>Gemeinsam mit Entwicklung, Support und Operations setzt du bereichsübergreifende IT-Themen um.</li>\n<li>IT-Projekte übernimmst du eigenständig und bringst sie strukturiert zum Abschluss.</li>\n</ul>\n<h2>Dein Profil</h2>\n<ul>\n<li>Du hast eine Ausbildung als Fachinformatiker*in, ein Studium im IT-Bereich oder eine vergleichbare Qualifikation erfolgreich abgeschlossen.</li>\n<li>Du bringst mindestens zwei Jahre Berufserfahrung im IT-Bereich mit.</li>\n<li>Mit modernen Unternehmensnetzwerken, Serverlandschaften und Netzwerkarchitekturen kennst du dich gut aus.</li>\n<li>Du verfügst über praktische Kenntnisse in den Bereichen Cybersecurity, Firewalls, Routing und VPN.</li>\n<li>Idealerweise hast du bereits mit Cloud-Technologien und modernen Microsoft-Lösungen wie Microsoft 365, Entra ID oder Azure gearbeitet.</li>\n<li>Neue Technologien rund um Cloud, KI und Automatisierung wecken dein Interesse.</li>\n<li>Eine analytische, strukturierte und eigenverantwortliche Arbeitsweise zeichnet dich aus.</li>\n<li>Du kommunizierst sehr sicher auf Deutsch und verfügst über gute Englischkenntnisse.\nBei uns hast du die Chance, <strong>wirklich etwas zu bewegen und zu gestalten.</strong> Die „Grüne Wiese“ wartet auf deine Ideen und Initiative. Werde Teil unseres dynamischen Teams und gestalte die Zukunft der Med-Tech-Branche aktiv mit!</li>\n</ul>\n<h2>Unsere Benefits</h2>\n<ul>\n<li><strong>Betriebliche Altersvorsorge:</strong> Sichere deine Zukunft mit unserer Unterstützung.</li>\n<li><strong>Monatlich steuerfreier Sachbezug:</strong> Zusätzliche finanzielle Benefits, flexibel einsetzbar.</li>\n<li><strong>Gesundheits- und Fitnessangebote:</strong> Vergünstigter Zugang zu Sport-, Fitness- und Wellnessangeboten – digital oder vor Ort.</li>\n<li><strong>Flexible Arbeitszeiten:</strong> Gestalte deine Arbeit so, dass sie zu deinem Leben passt.</li>\n<li><strong>Tierfreundliches Büro:</strong> Hunde sind bei uns herzlich willkommen.</li>\n<li><strong>Regelmäßige Team-Events:</strong> Austausch, Zusammenhalt und gemeinsame Erlebnisse gehören für uns dazu.</li>\n</ul>\n<h2>Unsere Werte</h2>\n<p><strong>Win as a team – Be brave &#x26; collaborate:</strong> Erfolgreich sind wir nur im Team. Jede*r bringt einzigartige Fähigkeiten mit, und in einer ergebnisorientierten, offenen und kreativen Zusammenarbeit ergänzen wir uns optimal.</p>\n<p><strong>Ownership - See the bigger picture and mission:</strong> Verantwortung für das eigene Handeln, das Wohl des Teams und des Unternehmens zu übernehmen ist uns wichtig. Probleme sehen wir als Chancen zur Lösung.</p>\n<p><strong>Stay Hungry - Take continuous change as a business driver:</strong> Stetige Weiterentwicklung und Offenheit für Veränderungen sind unsere Treiber. Kreativer Hunger nach neuen Impulsen ermöglicht uns kontinuierliches Wachstum.</p>\n<p><strong>Respekt - Spread positivity - not politics:</strong> Offenheit, Positivität und Wertschätzung prägen unsere Interaktionen. Vielfalt in Meinungen und Ideen bereichert unser Team.</p>\n<h2>Unser Bewerbungsprozess</h2>\n<p><strong>1. Review:</strong> Wir prüfen deine Bewerbung und achten besonders auf deine Motivation.</p>\n<p><strong>2. Kennenlernen:</strong> In zwanglosen Gesprächen – online und vor Ort.</p>\n<p><strong>3. Angebot:</strong> Bei beidseitigem Interesse freuen wir uns dich bald in unserem Team begrüßen zu dürfen!</p>\n<p>Starte jetzt deine Karriere bei CUREosity und verändere mit uns die Gesundheitsbranche!</p>\n<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "Netzwerkadministration",
-      "Serveradministration",
-      "Cloud-Infrastruktur",
-      "Firewalls",
-      "VPNs",
-      "IT‑Sicherheit",
-      "Cybersecurity",
-      "Automatisierung",
-      "IT‑Projektmanagement"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "mid",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "899f0bbd2aa8c336",
@@ -1611,7 +1600,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "2976652a37da1f0d",
@@ -1653,7 +1642,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -1686,7 +1675,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d3aa0707d62a6af0",
@@ -1726,7 +1715,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "79da6ae49db0e879",
@@ -1805,7 +1794,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "325c8016309eb60b",
@@ -1891,7 +1880,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "4843633d16d653e7",
@@ -1924,7 +1913,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "62e9e54e2420585d",
@@ -1957,7 +1946,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "57c17fa660d7eee3",
@@ -1990,7 +1979,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "fc4823ecbd0885cf",
@@ -2023,7 +2012,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "019f01bf4b5cdf25",
@@ -2056,7 +2045,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "352c303e8ee6c869",
@@ -2094,7 +2083,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "659e548585cd2e42",
@@ -2127,7 +2116,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "f567a352d9e0e284",
@@ -2160,7 +2149,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "eb14b2d934ef4f1b",
@@ -2193,7 +2182,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a144f46ee4833856",
@@ -2226,7 +2215,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "cf87750c996e5ba3",
@@ -2259,7 +2248,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "37b051d9ee0311f6",
@@ -2297,7 +2286,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "11dd98fd10d0a79d",
@@ -2333,7 +2322,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "f8b893d4dcf31c6f",
@@ -2379,7 +2368,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e15c5442b76fe774",
@@ -2412,7 +2401,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "0d932d0134eb63b4",
@@ -2445,7 +2434,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "807857290d85cdd6",
@@ -2478,7 +2467,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "245c79eb56c53cec",
@@ -2515,7 +2504,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d706ad37f78319bc",
@@ -2548,7 +2537,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "9438fc06a05a8465",
@@ -2626,7 +2615,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c139a3f39fd13c85",
@@ -2659,7 +2648,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "9d003521671be9c0",
@@ -2692,7 +2681,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "afe62b02dc015988",
@@ -2842,7 +2831,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -2875,7 +2864,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2f12772a9fcf57e2",
@@ -2908,7 +2897,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e820fe49f46f7c50",
@@ -2941,7 +2930,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "9a80ae04c03c6f5c",
@@ -2980,7 +2969,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "bc9c587ce30270b3",
@@ -3013,7 +3002,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ff4d8b531b5a5db3",
@@ -3046,7 +3035,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e97742717ed8d3fb",
@@ -3079,7 +3068,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d3965ea1a4c02eab",
@@ -3112,7 +3101,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e42a540da8214e31",
@@ -3145,7 +3134,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a3f36af8084cc068",
@@ -3178,7 +3167,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "9c79bd3d719ab0bc",
@@ -3211,7 +3200,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e932a8bd7500ab8a",
@@ -3244,7 +3233,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "b3422309512a8bfe",
@@ -3281,7 +3270,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "69b1ff11a646af51",
@@ -3314,7 +3303,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "4987c76bf12cbb46",
@@ -3384,7 +3373,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "507c647b9a2dfdb9",
@@ -3422,7 +3411,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d24a5b4cd8b5767b",
@@ -3455,7 +3444,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "80c22a7537713ce7",
@@ -3494,7 +3483,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d895bd56cb8e8e7d",
@@ -3605,7 +3594,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "22692eaae38299bf",
@@ -3638,7 +3627,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a925f297df4476f9",
@@ -3671,7 +3660,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "6c358b564f0fe65b",
@@ -3704,7 +3693,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ea539b63fa53d645",
@@ -3822,7 +3811,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ad921f0040d8793e",
@@ -3855,7 +3844,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "5909b779819a505b",
@@ -3888,7 +3877,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -3925,7 +3914,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "9e4364264e5e5427",
@@ -3958,7 +3947,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "7cd86f344e99a1a8",
@@ -3996,7 +3985,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "261799f9389ecc83",
@@ -4029,7 +4018,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "3259345fcbfde1f8",
@@ -4062,7 +4051,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "73dd215b79d7b6d7",
@@ -4095,7 +4084,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ae1ed54b02d17ca6",
@@ -4128,7 +4117,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "aa5be1f6ad52d7ff",
@@ -4161,7 +4150,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "f0725c056e6ea3a8",
@@ -4194,7 +4183,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "f7221d03635156da",
@@ -4227,7 +4216,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2da3a883eb20a956",
@@ -4260,7 +4249,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "fd8a4612739c1de5",
@@ -4293,7 +4282,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "01239214d8bc5030",
@@ -4326,7 +4315,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "8cda8d21535f2463",
@@ -4359,7 +4348,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "1b1734de6c951b45",
@@ -4392,7 +4381,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "be0b67c80b1a3b85",
@@ -4425,7 +4414,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e4c5fdc224a98690",
@@ -4458,7 +4447,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "284ef22fbb9421c0",
@@ -4491,7 +4480,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c65cb530d5eb56b3",
@@ -4524,7 +4513,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "8008b79da52fcf75",
@@ -4557,7 +4546,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d94faa22744837d5",
@@ -4590,7 +4579,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "cb39bb0c2fc49fe7",
@@ -4623,7 +4612,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ac4f2e9556c23d82",
@@ -4656,7 +4645,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "24b143beae454291",
@@ -4689,7 +4678,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "254aa5c1f051e892",
@@ -4722,7 +4711,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e5fa894602c488ff",
@@ -4755,7 +4744,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "fd9175550109dfba",
@@ -4788,7 +4777,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "0047779a30cdf267",
@@ -4821,7 +4810,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -4854,7 +4843,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "b8156df2259f9f32",
@@ -4887,7 +4876,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "716012ff2e45c815",
@@ -4920,7 +4909,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "71a36bb696e98ee1",
@@ -4953,7 +4942,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "8bece923e2e7190c",
@@ -4986,7 +4975,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -5019,7 +5008,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "1c3bf4d9a9e569d5",
@@ -5052,7 +5041,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -5085,7 +5074,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c5d71a36cb209952",
@@ -5118,7 +5107,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "6934b9f8c8f1d6da",
@@ -5151,7 +5140,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "b84b199d728c3d54",
@@ -5184,7 +5173,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ee548f992527e954",
@@ -5217,7 +5206,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "1c82d76114693c53",
@@ -5250,7 +5239,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "42edbf689da38d09",
@@ -5283,7 +5272,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "cec8b3ac66109141",
@@ -5316,7 +5305,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c8e3b61e7ad82840",
@@ -5349,7 +5338,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d5b0319a1dc3a486",
@@ -5382,7 +5371,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "bf0820f135a1f703",
@@ -5415,7 +5404,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c208c122436a1971",
@@ -5448,7 +5437,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "651cf430a57772f3",
@@ -5481,7 +5470,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ec9bf9a63c8bfaad",
@@ -5514,7 +5503,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "8297697c0b68f485",
@@ -5580,7 +5569,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e663a9ba8b6a0c06",
@@ -5613,7 +5602,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "f91d8f03026eb2f4",
@@ -5646,7 +5635,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "0c9459fbf5817847",
@@ -5679,7 +5668,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "6f56c8683fcd4ec0",
@@ -5712,7 +5701,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "73e7d133877f0bbe",
@@ -5745,7 +5734,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "5a3697f5f9b97f6b",
@@ -5778,7 +5767,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "3a92e95b47203e99",
@@ -5811,7 +5800,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "aee5431825ba06be",
@@ -5844,7 +5833,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "53e1775d2e6ab76d",
@@ -5877,7 +5866,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "3952d4e83d732af7",
@@ -5910,7 +5899,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a4b3082c51fc239c",
@@ -5943,7 +5932,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -5976,7 +5965,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "191c2c400808e938",
@@ -6009,7 +5998,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "4cdb857444cfb299",
@@ -6042,7 +6031,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a4b20f18a0a369ba",
@@ -6075,7 +6064,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2307d28c4811f7b8",
@@ -6108,7 +6097,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "28bb4b2fd8cffbec",
@@ -6141,7 +6130,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "5181c28df94a6263",
@@ -6174,7 +6163,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "fdd98c194af2b1d8",
@@ -6207,7 +6196,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "440562817c717302",
@@ -6240,7 +6229,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "42134c1aec29a7ae",
@@ -6273,7 +6262,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -6306,7 +6295,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "1b335ce87e775fbd",
@@ -6339,7 +6328,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "d9d2fd15609abde7",
@@ -6372,7 +6361,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "5ae3dbc652d5a942",
@@ -6405,7 +6394,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "23298f072950a9a6",
@@ -6438,7 +6427,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "1804b4ce93756b21",
@@ -6471,7 +6460,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "0d8ecd0957406d67",
@@ -6504,7 +6493,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "e994083684a225fc",
@@ -6537,7 +6526,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "a1f54d0979e83c7e",
@@ -6570,7 +6559,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "2595d3ad66e1a358",
@@ -6603,7 +6592,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "42550275ef09e998",
@@ -6636,7 +6625,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "0eff96b6d03fe02c",
@@ -6669,7 +6658,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "9e641b8deecef414",
@@ -6702,7 +6691,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "52a9a2f62d3c5420",
@@ -6735,7 +6724,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "8dc22895ce3719cd",
@@ -6768,7 +6757,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "7143db87b27883f0",
@@ -6801,7 +6790,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "38ecc777f2d2760c",
@@ -6834,7 +6823,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -6867,7 +6856,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "c0fe0fe84e369725",
@@ -6900,7 +6889,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "9daa6a17cc13e7d8",
@@ -6933,7 +6922,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a8039868d519a083",
@@ -6966,7 +6955,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "7aa3b5062e80f77d",
@@ -6999,7 +6988,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -7032,7 +7021,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "42b5375cea91e1da",
@@ -7065,7 +7054,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "b333e11f4e4d507d",
@@ -7098,7 +7087,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c912053be2fdadd1",
@@ -7131,7 +7120,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "bd47c592200aa70c",
@@ -7164,7 +7153,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2d5a76f24121ddf4",
@@ -7197,7 +7186,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2661b767c6421eaa",
@@ -7230,7 +7219,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2e7f8d2ea0be544c",
@@ -7263,7 +7252,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d94a1fe270ef0984",
@@ -7296,7 +7285,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -7329,7 +7318,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "49e76312a5be416a",
@@ -7362,7 +7351,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "eae0a9bb65c94def",
@@ -7395,7 +7384,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -7428,7 +7417,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2ffca3238c45c221",
@@ -7461,7 +7450,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -7494,7 +7483,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "e78489d73b8098b5",
@@ -7527,7 +7516,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "a5023110bce9f6b8",
@@ -7593,7 +7582,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "32a59ab96f0f9ae7",
@@ -7626,7 +7615,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "fdc54eb5c3105f25",
@@ -7659,7 +7648,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "e39c315e6dab164d",
@@ -7692,7 +7681,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "ae0d6c57cd8197ae",
@@ -7725,7 +7714,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "56417291cb8dd0ab",
@@ -7758,7 +7747,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "4ccbcea4861b434d",
@@ -7791,7 +7780,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "a2febe5aa099a81b",
@@ -7824,7 +7813,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -7857,7 +7846,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "568ef9f627cf4b9e",
@@ -7890,7 +7879,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "472f6d72ac7d168c",
@@ -7923,7 +7912,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -7956,7 +7945,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "d54ac133526865fa",
@@ -7989,7 +7978,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "24f80d9526012a45",
@@ -8022,7 +8011,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "c164466e4d97beb5",
@@ -8055,7 +8044,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "42545a6b9326e588",
@@ -8088,7 +8077,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "518b66566e72f965",
@@ -8121,7 +8110,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "11cd449d77493dda",
@@ -8154,7 +8143,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "6a24ab7df67918eb",
@@ -8187,7 +8176,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -8220,7 +8209,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "7190bbcee872de2a",
@@ -8253,7 +8242,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -8286,7 +8275,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "3aac25d374a4d221",
@@ -8319,7 +8308,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "604caf2eeefc482e",
@@ -8352,7 +8341,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -8385,7 +8374,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "f741f6d3e0557d86",
@@ -8418,7 +8407,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "4e100af8cd340774",
@@ -8451,7 +8440,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "060145e073cddc6d",
@@ -8484,7 +8473,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "083b20551778e021",
@@ -8517,7 +8506,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "0b70758a5c803f74",
@@ -8550,7 +8539,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -8583,7 +8572,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "2be399176e1ce304",
@@ -8616,7 +8605,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "89a553360afbe720",
@@ -8649,7 +8638,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2c9958d9e3293caa",
@@ -8682,7 +8671,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -8715,7 +8704,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "60e7fd97deadf7ab",
@@ -8748,7 +8737,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "4757bbde58e9a4b4",
@@ -8781,7 +8770,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "09a492b18788314a",
@@ -8814,7 +8803,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "0c896e97e6d5c122",
@@ -8880,7 +8869,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "405d17edd0856752",
@@ -8913,7 +8902,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "e11f74245ad46e12",
@@ -8946,7 +8935,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "75b97b83d38e9e67",
@@ -8979,7 +8968,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "92ed9099bde68df7",
@@ -9012,7 +9001,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "a1b1a2f35799079b",
@@ -9045,7 +9034,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "161642a79d9f5f75",
@@ -9078,7 +9067,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "8e2341bce1ee3800",
@@ -9111,7 +9100,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "9595952a81ac891d",
@@ -9177,7 +9166,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "c610b87716750571",
@@ -9210,7 +9199,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "62f78051b877db5a",
@@ -9243,7 +9232,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "014f111ccfd193c8",
@@ -9276,7 +9265,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "a434d2c2211f001e",
@@ -9309,7 +9298,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "43895121521a15d9",
@@ -9342,7 +9331,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "7a64ae009c5ecdce",
@@ -9375,7 +9364,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "914c02820936e419",
@@ -9408,7 +9397,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "2c99c99e1964affe",
@@ -9441,7 +9430,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "375d943288db746a",
@@ -9474,7 +9463,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2dd9ab446aadf9f3",
@@ -9507,7 +9496,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "f0b7cebe2eca3163",
@@ -9573,7 +9562,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "4dd44b03c68c0630",
@@ -9606,7 +9595,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "8d0fa64e60043046",
@@ -9639,7 +9628,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "dc23cdeefe773f13",
@@ -9738,7 +9727,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "2c4a37d66c59a5e8",
@@ -11256,7 +11245,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "90ad7d0ccfa0cd0c",
@@ -11289,7 +11278,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f4a45b8315fc5621",
@@ -11322,7 +11311,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "33088ffd7cc0a6f5",
@@ -11355,7 +11344,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "b0e5636a47960b95",
@@ -11388,7 +11377,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d4041de2613913ef",
@@ -11421,7 +11410,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "4e5e6cae5506aba4",
@@ -11454,7 +11443,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "b88579840d14ed38",
@@ -11487,7 +11476,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "3dde360c7222a8ab",
@@ -11520,7 +11509,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d8685688e06be81d",
@@ -11553,7 +11542,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ef0a92ed688f200c",
@@ -11586,7 +11575,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "5b642668a6745658",
@@ -11619,7 +11608,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8fb1f9ad21ae455f",
@@ -11652,7 +11641,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "07d2e70b221fbb38",
@@ -11685,7 +11674,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a9ee98f91e363b24",
@@ -11718,7 +11707,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e7c92997064a245a",
@@ -11751,7 +11740,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ee876e1369c35387",
@@ -11784,7 +11773,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8cb16c63f8c86ebb",
@@ -11817,7 +11806,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "3f5e66ab84db0ff3",
@@ -11850,7 +11839,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "48e7161515f55736",
@@ -11883,7 +11872,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "53c87695fe3bc694",
@@ -11916,7 +11905,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f1a62f27f29cb3eb",
@@ -11949,7 +11938,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "6cc1313f42608269",
@@ -11982,7 +11971,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c74a934edbed7a40",
@@ -12015,7 +12004,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "af0afdf09458fede",
@@ -12048,7 +12037,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "4b2a2863ff1f408a",
@@ -12081,7 +12070,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c6da1ccf4643002c",
@@ -12114,7 +12103,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "eca3d075be2793ec",
@@ -12147,7 +12136,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "1d3485e062602db7",
@@ -12180,7 +12169,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "24d06bd36ab313f4",
@@ -12213,7 +12202,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ba6d0934bec33a3e",
@@ -12246,7 +12235,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "4bf5178627d47932",
@@ -12279,7 +12268,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f89ec761cf0365f0",
@@ -12312,7 +12301,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "64b6006ab3fe3726",
@@ -12345,7 +12334,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d11949d14f997b5e",
@@ -12378,7 +12367,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ab261b05caaa49ba",
@@ -12411,7 +12400,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ff238af9f566a966",
@@ -12444,7 +12433,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c19abf4ec63c3e34",
@@ -12477,7 +12466,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f033f2233eeec6b0",
@@ -12510,7 +12499,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "dcf8181c24643a3b",
@@ -12543,7 +12532,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "93cdfbbbf368b5f3",
@@ -12576,7 +12565,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "c1a161841f565521",
@@ -12609,7 +12598,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "a6333fd7354cf9ab",
@@ -12642,7 +12631,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "855afd7696dac3ff",
@@ -12675,7 +12664,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "9b294408c5b62c83",
@@ -12708,7 +12697,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "20b8c95277434ef6",
@@ -12741,7 +12730,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "837366c60c1aeac4",
@@ -12774,7 +12763,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "1c7b583c8552979a",
@@ -12807,7 +12796,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "3c374ae5282e9987",
@@ -13269,7 +13258,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "94bb16a180ca7578",
@@ -13302,7 +13291,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "d1196d222a99a953",
@@ -13335,7 +13324,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "765c6d5f630d506d",
@@ -13368,7 +13357,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "b6cb6e77ebf1625b",
@@ -13401,7 +13390,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "58d3548830233045",
@@ -13434,7 +13423,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "bb1caa2dba0b8c76",
@@ -13467,7 +13456,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "9ff3bd81d72e8124",
@@ -13500,7 +13489,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "698f6109d20251b4",
@@ -13533,7 +13522,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "9d03643f7f4ac879",
@@ -13566,7 +13555,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "fd3b2c3ae88b2fd2",
@@ -13599,7 +13588,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "553c739eefc20f7d",
@@ -13632,7 +13621,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "27be4694fd148a36",
@@ -13665,7 +13654,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "bf830822623ad1b4",
@@ -13698,7 +13687,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "e9d3ef57a2d8cf2e",
@@ -13731,7 +13720,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "d26e22d2bf71fb53",
@@ -13764,7 +13753,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "a3df94933cf9c429",
@@ -13797,7 +13786,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "01d0da915a05d50c",
@@ -13830,7 +13819,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "bd9fa4b0e0bdb406",
@@ -13863,7 +13852,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "257a8b15499bc215",
@@ -13896,7 +13885,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "b7c328921b9827a3",
@@ -13929,7 +13918,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "5595c015ac6036df",
@@ -13962,7 +13951,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "d010ad679e4ceb9e",
@@ -13995,7 +13984,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "9a81cc1d3f7fe6ac",
@@ -14028,7 +14017,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "7b04c797d5fc68b1",
@@ -14061,7 +14050,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "5f5f30edd1aecf3e",
@@ -14094,7 +14083,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "6580eb772a257d5b",
@@ -15752,7 +15741,7 @@
     "company": "Capgemini",
     "location": "Katowice, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444246?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=CCA1423442E4AF3F75976FD93DF040556FAFC4D7",
+    "url": "https://www.adzuna.pl/land/ad/5852444246?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=CCA1423442E4AF3F75976FD93DF040556FAFC4D7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15950,7 +15939,7 @@
     "company": "ITDS",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444091?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=A82FB44828C0B2FC9AD3EF24DC1F934BC3303C80",
+    "url": "https://www.adzuna.pl/land/ad/5852444091?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=A82FB44828C0B2FC9AD3EF24DC1F934BC3303C80",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15983,7 +15972,7 @@
     "company": "emagine Polska",
     "location": "Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444094?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=3A59D3BB2D8D47B72EF923E68CF7D2897400C716",
+    "url": "https://www.adzuna.pl/land/ad/5852444094?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=3A59D3BB2D8D47B72EF923E68CF7D2897400C716",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16016,7 +16005,7 @@
     "company": "speedapp",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444072?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=7E53062CCA3244A4023F8D496B2702EFF1CD286E",
+    "url": "https://www.adzuna.pl/land/ad/5852444072?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=7E53062CCA3244A4023F8D496B2702EFF1CD286E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16049,7 +16038,7 @@
     "company": "B2Bnetwork",
     "location": "Katowice, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444004?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=87A0B2014C722D175528BBA5A6E1ECEABADB1F54",
+    "url": "https://www.adzuna.pl/land/ad/5852444004?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=87A0B2014C722D175528BBA5A6E1ECEABADB1F54",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16082,7 +16071,7 @@
     "company": "XTB S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443995?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=314ED75850C451DDF1106C61E14F6E1AB16BA32A",
+    "url": "https://www.adzuna.pl/land/ad/5852443995?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=314ED75850C451DDF1106C61E14F6E1AB16BA32A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16181,7 +16170,7 @@
     "company": "Crestt",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443910?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=26C42CD95C95E2B6F602BD728B411A65C7986504",
+    "url": "https://www.adzuna.pl/land/ad/5852443910?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=26C42CD95C95E2B6F602BD728B411A65C7986504",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16247,7 +16236,7 @@
     "company": "Kuehne+Nagel",
     "location": "Wrocław, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443592?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=74588A3FB871312DA8F3B13CDE5EE58C9CEC8D64",
+    "url": "https://www.adzuna.pl/land/ad/5852443592?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=74588A3FB871312DA8F3B13CDE5EE58C9CEC8D64",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16313,7 +16302,7 @@
     "company": "Kuehne+Nagel",
     "location": "Wrocław, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443588?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=AA5BFD1CB8B06AB954D645603EADFBCDD2415FCB",
+    "url": "https://www.adzuna.pl/land/ad/5852443588?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=AA5BFD1CB8B06AB954D645603EADFBCDD2415FCB",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16346,7 +16335,7 @@
     "company": "Vistex Poland-CEE",
     "location": "Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443584?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=873288B1621053FD10155B1B5E4F41C0B33AAD11",
+    "url": "https://www.adzuna.pl/land/ad/5852443584?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=873288B1621053FD10155B1B5E4F41C0B33AAD11",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16379,7 +16368,7 @@
     "company": "ITDS",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443586?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=CDE2075BB6A645DBF0B134FAF6D4615757501239",
+    "url": "https://www.adzuna.pl/land/ad/5852443586?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=CDE2075BB6A645DBF0B134FAF6D4615757501239",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16412,7 +16401,7 @@
     "company": "ITDS",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443533?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=2654D763F4D0AA1EDB25E1A3188D9B03D67BBBD7",
+    "url": "https://www.adzuna.pl/land/ad/5852443533?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=2654D763F4D0AA1EDB25E1A3188D9B03D67BBBD7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16445,7 +16434,7 @@
     "company": "dmTECH Polska",
     "location": "Warszawa, Poland / Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443520?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=049CFF945DE729346018338CC3549392CBD06E8D",
+    "url": "https://www.adzuna.pl/land/ad/5852443520?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=049CFF945DE729346018338CC3549392CBD06E8D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16478,7 +16467,7 @@
     "company": "INFOPLUS TECHNOLOGIES",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443528?se=dqeXHiee8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=0903F819BCA15F834FCFD7144A68C70700705E1A",
+    "url": "https://www.adzuna.pl/land/ad/5852443528?se=drsB5iee8RGGQeUjJFBV4w&utm_medium=api&utm_source=ceaf5c9d&v=0903F819BCA15F834FCFD7144A68C70700705E1A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16569,7 +16558,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "1198df45e028c45f",
@@ -16602,7 +16591,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "ef9ceec5c061e120",
@@ -16635,7 +16624,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "655c8c1f5a38cbb1",
@@ -16668,7 +16657,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "155fb78b493dbdd3",
@@ -16701,7 +16690,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "89b6688535ab58d4",
@@ -16734,7 +16723,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d979438beba0d936",
@@ -16767,7 +16756,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "a99fb15447865972",
@@ -16800,7 +16789,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f68f5b5cab9f9916",
@@ -16833,7 +16822,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "88d421b0fd536fba",
@@ -16866,7 +16855,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "3406b9876c0b746b",
@@ -16899,7 +16888,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "818e3077040c8b43",
@@ -16932,7 +16921,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9bdb32c04460c71c",
@@ -16965,7 +16954,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "e1ae15cfc31b46e2",
@@ -16998,7 +16987,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "086b2f307906df55",
@@ -17031,7 +17020,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "c303aa2beb960efd",
@@ -17064,7 +17053,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d8a2a2ec2974becd",
@@ -17097,7 +17086,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "4c4a872c7aea0e79",
@@ -17130,7 +17119,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "e70cde2f0dd5b378",
@@ -17163,7 +17152,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9a2d4c3fa3d7c121",
@@ -17196,7 +17185,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "8e7c5466f02f31a8",
@@ -17229,7 +17218,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d59eefdf836fccfb",
@@ -17262,7 +17251,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "69100f22822d71e2",
@@ -17295,7 +17284,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "7c03c1abf45e0888",
@@ -17328,7 +17317,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8a9cfe0b2248ec27",
@@ -17361,7 +17350,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "1024587361ad7938",
@@ -17394,7 +17383,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f9f5f3ac1169ea30",
@@ -17427,7 +17416,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "118390252472b176",
@@ -17460,7 +17449,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "17047d67c482856f",
@@ -17493,7 +17482,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ad25cc7aac508e79",
@@ -17501,7 +17490,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470374?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=F34F00C21C9B80A163B6A7626A2388E75626FF81",
+    "url": "https://www.adzuna.nl/land/ad/5852470374?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=F34F00C21C9B80A163B6A7626A2388E75626FF81",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17534,7 +17523,7 @@
     "company": "Effect",
     "location": "Doetinchem, Netherlands +3 more locations",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470279?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=097B76677B7F8B1B7EEBDD58F0AA329720F9CCE6",
+    "url": "https://www.adzuna.nl/land/ad/5852470279?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=097B76677B7F8B1B7EEBDD58F0AA329720F9CCE6",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17567,7 +17556,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands / Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470298?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=D79A42B3F40E537E670A7660565AED92978CD18E",
+    "url": "https://www.adzuna.nl/land/ad/5852470298?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=D79A42B3F40E537E670A7660565AED92978CD18E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17600,7 +17589,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470245?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=F1BC15609E8557F0C633B55BBB00E828E59386D1",
+    "url": "https://www.adzuna.nl/land/ad/5852470245?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=F1BC15609E8557F0C633B55BBB00E828E59386D1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17633,7 +17622,7 @@
     "company": "Effect",
     "location": "Neede, Netherlands / Nieuw-Amsterdam, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470312?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=E8FC15F35E9AD42D8F1ADB89C95C13C7077A9019",
+    "url": "https://www.adzuna.nl/land/ad/5852470312?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=E8FC15F35E9AD42D8F1ADB89C95C13C7077A9019",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17666,7 +17655,7 @@
     "company": "Effect",
     "location": "Rijssen, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470223?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=2A5BEEC051712F3D62E7470A2AD4EDD32EC91978",
+    "url": "https://www.adzuna.nl/land/ad/5852470223?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=2A5BEEC051712F3D62E7470A2AD4EDD32EC91978",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17699,7 +17688,7 @@
     "company": "Effect",
     "location": "Groenlo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470229?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=0C74BDF51B4D3E5AD5456BC11918E668136CF6C0",
+    "url": "https://www.adzuna.nl/land/ad/5852470229?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=0C74BDF51B4D3E5AD5456BC11918E668136CF6C0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17732,7 +17721,7 @@
     "company": "Effect",
     "location": "Lichtenvoorde, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470104?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=58E552E00888497DF284A6FB77518F0E31FF3F3C",
+    "url": "https://www.adzuna.nl/land/ad/5852470104?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=58E552E00888497DF284A6FB77518F0E31FF3F3C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17765,7 +17754,7 @@
     "company": "Effect",
     "location": "Enschede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470059?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=31C3FF485BE10AAFCC12147D10902946C792281B",
+    "url": "https://www.adzuna.nl/land/ad/5852470059?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=31C3FF485BE10AAFCC12147D10902946C792281B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17798,7 +17787,7 @@
     "company": "Effect",
     "location": "Oldenzaal, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470090?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=360B8CA0B358B5731F2A1F744DC8E8BC47C914E9",
+    "url": "https://www.adzuna.nl/land/ad/5852470090?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=360B8CA0B358B5731F2A1F744DC8E8BC47C914E9",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17831,7 +17820,7 @@
     "company": "Effect",
     "location": "Oldenzaal, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470098?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=FBD333016DA6D589E5A84AA8FBE05CDB3A3EBD9D",
+    "url": "https://www.adzuna.nl/land/ad/5852470098?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=FBD333016DA6D589E5A84AA8FBE05CDB3A3EBD9D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17864,7 +17853,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands / Raalte, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469959?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=741A95EF086804C56B46A033C8E1C6567DACC81E",
+    "url": "https://www.adzuna.nl/land/ad/5852469959?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=741A95EF086804C56B46A033C8E1C6567DACC81E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17897,7 +17886,7 @@
     "company": "Effect",
     "location": "Enschede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469993?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=A34FAF19EDEBB10DA2F6DEAAD1A85B9CB0AE66C7",
+    "url": "https://www.adzuna.nl/land/ad/5852469993?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=A34FAF19EDEBB10DA2F6DEAAD1A85B9CB0AE66C7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17930,7 +17919,7 @@
     "company": "Effect",
     "location": "Neede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470025?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=45AFF57C199C130DD616991F8281B7F73DCF8D5C",
+    "url": "https://www.adzuna.nl/land/ad/5852470025?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=45AFF57C199C130DD616991F8281B7F73DCF8D5C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17963,7 +17952,7 @@
     "company": "Effect",
     "location": "Losser, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469875?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=CDAE82B9299008F54CA35D683B98D6699D6ACE66",
+    "url": "https://www.adzuna.nl/land/ad/5852469875?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=CDAE82B9299008F54CA35D683B98D6699D6ACE66",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17996,7 +17985,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469940?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=14E55889E67FB8A78160FB5669A3F8DE0CB42D2E",
+    "url": "https://www.adzuna.nl/land/ad/5852469940?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=14E55889E67FB8A78160FB5669A3F8DE0CB42D2E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18029,7 +18018,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469899?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=52BE16426857AB5F8EDBB1376FEAF7FB805B162A",
+    "url": "https://www.adzuna.nl/land/ad/5852469899?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=52BE16426857AB5F8EDBB1376FEAF7FB805B162A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18062,7 +18051,7 @@
     "company": "Effect",
     "location": "Hardenberg, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469918?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=07BA941C26D65CBE1683A43D7FE112835984CA38",
+    "url": "https://www.adzuna.nl/land/ad/5852469918?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=07BA941C26D65CBE1683A43D7FE112835984CA38",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18095,7 +18084,7 @@
     "company": "Effect",
     "location": "Ootmarsum, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469896?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=77B42046AECFE71379B338B12DFC265362228DAC",
+    "url": "https://www.adzuna.nl/land/ad/5852469896?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=77B42046AECFE71379B338B12DFC265362228DAC",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18128,7 +18117,7 @@
     "company": "Effect",
     "location": "Emmer-Compascuum, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469834?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=691F70E1AD4F7943DAD81C05901CF84F67AF0296",
+    "url": "https://www.adzuna.nl/land/ad/5852469834?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=691F70E1AD4F7943DAD81C05901CF84F67AF0296",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18161,7 +18150,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469814?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=FD8C25C551E27C143709EE1F27C98BDE479A9C51",
+    "url": "https://www.adzuna.nl/land/ad/5852469814?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=FD8C25C551E27C143709EE1F27C98BDE479A9C51",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18194,7 +18183,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469864?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=BE721A055DBE99AAD038166CF9EF50D2DD6EBC32",
+    "url": "https://www.adzuna.nl/land/ad/5852469864?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=BE721A055DBE99AAD038166CF9EF50D2DD6EBC32",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18227,7 +18216,7 @@
     "company": "Effect",
     "location": "Dinxperlo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469792?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=A8484DE4441888E666B633B660A14C708B030531",
+    "url": "https://www.adzuna.nl/land/ad/5852469792?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=A8484DE4441888E666B633B660A14C708B030531",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18285,7 +18274,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a93ef8e9de5dee50",
@@ -18318,7 +18307,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "9c3917d31438cc6f",
@@ -18351,7 +18340,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "80af33ca4193411f",
@@ -18359,7 +18348,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469705?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=0E8C57E384F38231CBAA0C4D5626C932F3B82C2B",
+    "url": "https://www.adzuna.nl/land/ad/5852469705?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=0E8C57E384F38231CBAA0C4D5626C932F3B82C2B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18392,7 +18381,7 @@
     "company": "Effect",
     "location": "Raalte, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469749?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=090645E12C1FFB7351B3C2584C5A2149A5C0BCA4",
+    "url": "https://www.adzuna.nl/land/ad/5852469749?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=090645E12C1FFB7351B3C2584C5A2149A5C0BCA4",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18425,7 +18414,7 @@
     "company": "Effect",
     "location": "Hengevelde, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469714?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=9E424E353F80927974333E958BF71C71AF667967",
+    "url": "https://www.adzuna.nl/land/ad/5852469714?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=9E424E353F80927974333E958BF71C71AF667967",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18483,7 +18472,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "bf7d0a3b10ffc022",
@@ -18516,7 +18505,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "206537fb52e0a485",
@@ -18549,7 +18538,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "fa7a215d0f4f1649",
@@ -18582,7 +18571,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "c57cc4387eedc132",
@@ -18615,7 +18604,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "0efd36a95640c7b4",
@@ -18648,7 +18637,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "db3190c54c1ec613",
@@ -18681,7 +18670,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "a6d088ea072759e6",
@@ -18714,7 +18703,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "1ebd0d69d1a1ac10",
@@ -18747,7 +18736,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "5c2e2b5188636fa4",
@@ -18780,7 +18769,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "89ba2561abf0ce97",
@@ -18813,7 +18802,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "1813caf23116c03d",
@@ -18846,7 +18835,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "62db0f51b9d7fffa",
@@ -18879,7 +18868,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "e573fe25ed33d501",
@@ -18912,7 +18901,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "4b3408efa5f0950d",
@@ -18945,7 +18934,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "a31239115d4d5ddb",
@@ -18978,7 +18967,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "5b2224ad457bc10e",
@@ -19011,7 +19000,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "df0f8304514a6ba2",
@@ -19044,7 +19033,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "149bf5e042a6c942",
@@ -20966,7 +20955,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470377?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=AF8322DE586A9B80321A99B5D4E9C3466EC6A9F8",
+    "url": "https://www.adzuna.nl/land/ad/5852470377?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=AF8322DE586A9B80321A99B5D4E9C3466EC6A9F8",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -20999,7 +20988,7 @@
     "company": "Effect",
     "location": "Oldenzaal, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470353?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=5F68F6771DD12BAC15EB32359D4C4F94AC9EED5E",
+    "url": "https://www.adzuna.nl/land/ad/5852470353?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=5F68F6771DD12BAC15EB32359D4C4F94AC9EED5E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21032,7 +21021,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470379?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=DCC632F5EB4A08B14C75AF7A4F5AA4794E7394F3",
+    "url": "https://www.adzuna.nl/land/ad/5852470379?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=DCC632F5EB4A08B14C75AF7A4F5AA4794E7394F3",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21065,7 +21054,7 @@
     "company": "Effect",
     "location": "Vorden, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470264?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=9C4D1FB0111BF114C98DF820966A771C4FF5A87A",
+    "url": "https://www.adzuna.nl/land/ad/5852470264?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=9C4D1FB0111BF114C98DF820966A771C4FF5A87A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21098,7 +21087,7 @@
     "company": "Effect",
     "location": "Albergen, Netherlands / Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470270?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=841BA0F986F15EE38CA066A138D31F7593049506",
+    "url": "https://www.adzuna.nl/land/ad/5852470270?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=841BA0F986F15EE38CA066A138D31F7593049506",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21131,7 +21120,7 @@
     "company": "Effect",
     "location": "Enschede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470165?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=B2700A83E0B031025BDCF2D75F9988587E5A4942",
+    "url": "https://www.adzuna.nl/land/ad/5852470165?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=B2700A83E0B031025BDCF2D75F9988587E5A4942",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21164,7 +21153,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470146?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=AFE7F5F26FE263F97300E6BC5DAAEDA0528A2FDF",
+    "url": "https://www.adzuna.nl/land/ad/5852470146?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=AFE7F5F26FE263F97300E6BC5DAAEDA0528A2FDF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21197,7 +21186,7 @@
     "company": "Effect",
     "location": "Dedemsvaart, Netherlands +2 more locations",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470197?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=5E6DF6B1212C777CBD459469FAC170AA1BB36410",
+    "url": "https://www.adzuna.nl/land/ad/5852470197?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=5E6DF6B1212C777CBD459469FAC170AA1BB36410",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21230,7 +21219,7 @@
     "company": "Effect",
     "location": "Enschede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470211?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=58AB9412CC088E42F4D92F0B6C3ADBECB56A219C",
+    "url": "https://www.adzuna.nl/land/ad/5852470211?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=58AB9412CC088E42F4D92F0B6C3ADBECB56A219C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21263,7 +21252,7 @@
     "company": "Effect",
     "location": "Vriezenveen, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470178?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=680E92BA501CEEDE862125D87F1B87600AD0EBA5",
+    "url": "https://www.adzuna.nl/land/ad/5852470178?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=680E92BA501CEEDE862125D87F1B87600AD0EBA5",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21296,7 +21285,7 @@
     "company": "Effect",
     "location": "Coevorden, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470081?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=4427AA3E6153CD17FCD3819902C6DD1CD53D0B59",
+    "url": "https://www.adzuna.nl/land/ad/5852470081?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=4427AA3E6153CD17FCD3819902C6DD1CD53D0B59",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21329,7 +21318,7 @@
     "company": "Effect",
     "location": "Hardenberg, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470019?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=E10D07C9F843317197ACE86B123A90BE09522132",
+    "url": "https://www.adzuna.nl/land/ad/5852470019?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=E10D07C9F843317197ACE86B123A90BE09522132",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21362,7 +21351,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469840?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=36A86A78B9E5CBE6B419296A034915512C654677",
+    "url": "https://www.adzuna.nl/land/ad/5852469840?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=36A86A78B9E5CBE6B419296A034915512C654677",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21395,7 +21384,7 @@
     "company": "Effect",
     "location": "Oldenzaal, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469835?se=VPlyHSee8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=0A9E08221B8247B3AF3397D91B3360B99F7106C9",
+    "url": "https://www.adzuna.nl/land/ad/5852469835?se=0DsA5See8RGRs_WofmWTvg&utm_medium=api&utm_source=ceaf5c9d&v=0A9E08221B8247B3AF3397D91B3360B99F7106C9",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -21486,7 +21475,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "4077238193644c75",
@@ -21519,7 +21508,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d62e290fdf4412a0",
@@ -21552,7 +21541,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "c3d60db5bd04d95a",
@@ -21585,7 +21574,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "fc818377067a1e47",
@@ -21618,7 +21607,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "ebfb99f631b937ac",
@@ -21651,7 +21640,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "afe48cfab0525696",
@@ -21684,7 +21673,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "09d837f634921342",
@@ -21717,7 +21706,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "8388de03a9b1dc1a",
@@ -21750,7 +21739,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "616a71bb5cf3b7d5",
@@ -21783,7 +21772,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b8e9c7502e790ef1",
@@ -21816,7 +21805,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5d25d0a18a8447fb",
@@ -21849,7 +21838,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "fccaad12cc5ca4a9",
@@ -21882,7 +21871,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "87c15d0b4afa6042",
@@ -21915,7 +21904,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "690fa4f08ea8fc71",
@@ -21948,7 +21937,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "930b317472148314",
@@ -21981,7 +21970,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5529a6999b67f6a1",
@@ -22014,7 +22003,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "797b49022e2d1ffd",
@@ -22047,7 +22036,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "760f075bdd89283f",
@@ -22080,7 +22069,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "90705db2ea07ac99",
@@ -22113,7 +22102,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "1d0c80a5397b7a35",
@@ -22146,7 +22135,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f32e6882bf165689",
@@ -22179,7 +22168,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5d58c698f6d0e7aa",
@@ -22212,7 +22201,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b81aec4bb0b1551e",
@@ -22245,7 +22234,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "ca055badc2e14d85",
@@ -22278,7 +22267,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "a51b8ab2ca2b3e36",
@@ -22311,7 +22300,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f914a293fa1970bf",
@@ -22344,7 +22333,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "41d20dca14517f68",
@@ -22377,7 +22366,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "03ef1dfab8181f04",
@@ -22410,7 +22399,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "54236779f6decb6e",
@@ -22443,7 +22432,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "0dd77b45c180974f",
@@ -22476,7 +22465,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "cafc721eba648a20",
@@ -22509,7 +22498,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "26e66003f9e56eaa",
@@ -22542,7 +22531,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9c23ccd14bcc0a25",
@@ -22575,7 +22564,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f29c098cedad52be",
@@ -22608,7 +22597,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "e13112b9018f0210",
@@ -22641,7 +22630,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f903b085d6ce9e0f",
@@ -22674,7 +22663,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "be3d6a0ee206d0f2",
@@ -22707,7 +22696,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "82251fd9f492a495",
@@ -22740,7 +22729,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "824181fd349a020f",
@@ -22773,7 +22762,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b8b68d5454ac0872",
@@ -22806,7 +22795,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "0388b3b80b15c1d6",
@@ -22839,7 +22828,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "7e86529161e1460a",
@@ -22872,7 +22861,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "a8df1f36bb618f8a",
@@ -22905,7 +22894,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f5e8fcc3ec527b6f",
@@ -22938,7 +22927,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f04731de30e7fe95",
@@ -22971,7 +22960,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d48bcab6c70b4be5",
@@ -23004,7 +22993,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "cad50b2bda00e8e2",
