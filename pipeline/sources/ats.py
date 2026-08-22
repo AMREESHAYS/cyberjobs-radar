@@ -15,6 +15,10 @@ HEADERS = {"User-Agent": "cyberjobs-radar/1.0 (personal job search)"}
 WORKABLE_SEARCH = "https://jobs.workable.com/api/v1/jobs"
 GREENHOUSE_BOARD = "https://boards-api.greenhouse.io/v1/boards/{token}/jobs"
 ASHBY_BOARD = "https://api.ashbyhq.com/posting-api/job-board/{token}"
+LEVER_BOARD = "https://api.lever.co/v0/postings/{token}"
+SMARTRECRUITERS_BOARD = "https://api.smartrecruiters.com/v1/companies/{token}/postings"
+SMARTRECRUITERS_POSTING = "https://api.smartrecruiters.com/v1/companies/{token}/postings/{job}"
+RECRUITEE_BOARD = "https://{token}.recruitee.com/api/offers/"
 WORKABLE_PAGES = 3          # 20 per page
 _WORKPLACE = {"remote": True, "hybrid": True, "on_site": False, "onsite": False}
 
@@ -165,6 +169,109 @@ def _city(text: str) -> str:
     first = re.split(r"[;,/|]", text or "")[0]
     return _OFFICE_WORDS.sub("", first).strip(" -–") or ""
 
+# --- Lever ---------------------------------------------------------------
+def fetch_lever(cfg, get=get_json):
+    terms = _terms(cfg)
+    jobs = []
+    for token in _ats_config(cfg, "lever"):
+        rows = get(LEVER_BOARD.format(token=quote(str(token))),
+                   params={"mode": "json"}, headers=HEADERS)
+        for r in rows if isinstance(rows, list) else []:
+            url, title = r.get("hostedUrl") or r.get("applyUrl"), (r.get("text") or "").strip()
+            if not url or not title:
+                continue
+            cats = r.get("categories") or {}
+            where = cats.get("location") or ""
+            job = Job(
+                id=make_id("lever", str(r.get("id")), url),
+                title=title, company=str(token).replace("-", " ").title(),
+                location=format_location(_city(where), _country_in(where) or r.get("country")),
+                country=_country_in(where) or country_code(r.get("country")) or "OTHER",
+                url=url, source="lever", source_type="api",
+                posted_date=_epoch_day(r.get("createdAt")),
+                remote="remote" in where.lower() or NOT_STATED,
+                salary=NOT_STATED,
+                employment_type=employment_label(cats.get("commitment")),
+                description=r.get("descriptionPlain") or strip_html(r.get("description")),
+            )
+            if _keep_by_title(job, terms):
+                jobs.append(job)
+    return jobs
+
+def _epoch_day(ms):
+    from datetime import datetime, timezone
+    try:
+        return datetime.fromtimestamp(int(ms) / 1000, timezone.utc).date().isoformat()
+    except (TypeError, ValueError):
+        return None
+
+# --- SmartRecruiters ------------------------------------------------------
+# The list endpoint carries no description, so the ad is fetched only for the
+# postings whose title already matches — a handful per company, not all 99.
+def fetch_smartrecruiters(cfg, get=get_json):
+    terms = _terms(cfg)
+    jobs = []
+    for token in _ats_config(cfg, "smartrecruiters"):
+        slug = quote(str(token))
+        data = get(SMARTRECRUITERS_BOARD.format(token=slug),
+                   params={"limit": 100}, headers=HEADERS)
+        for r in data.get("content", []):
+            title = (r.get("name") or "").strip()
+            if not title or not _keyword_match(title, terms):
+                continue
+            place = r.get("location") or {}
+            job_id = r.get("id")
+            url = f"https://jobs.smartrecruiters.com/{token}/{job_id}"
+            try:
+                detail = get(SMARTRECRUITERS_POSTING.format(token=slug, job=quote(str(job_id))),
+                             headers=HEADERS)
+            except Exception:  # noqa: BLE001 - keep the posting, minus its body
+                detail = {}
+            sections = (detail.get("jobAd") or {}).get("sections") or {}
+            body = " ".join(strip_html((sections.get(k) or {}).get("text"))
+                            for k in ("jobDescription", "qualifications"))
+            jobs.append(Job(
+                id=make_id("smartrecruiters", str(job_id), url),
+                title=title, company=(r.get("company") or {}).get("name") or str(token),
+                location=format_location(place.get("city"), place.get("country")),
+                country=country_code(place.get("country")) or "OTHER",
+                url=detail.get("applyUrl") or url,
+                source="smartrecruiters", source_type="api",
+                posted_date=(detail.get("releasedDate") or "")[:10] or None,
+                remote=bool(place.get("remote")) or (True if place.get("hybrid") else NOT_STATED),
+                salary=NOT_STATED,
+                employment_type=employment_label(r.get("experienceLevel", {}).get("id")
+                                                 if isinstance(r.get("experienceLevel"), dict) else None),
+                description=body.strip(),
+            ))
+    return jobs
+
+# --- Recruitee ------------------------------------------------------------
+def fetch_recruitee(cfg, get=get_json):
+    terms = _terms(cfg)
+    jobs = []
+    for token in _ats_config(cfg, "recruitee"):
+        data = get(RECRUITEE_BOARD.format(token=quote(str(token))), headers=HEADERS)
+        for r in data.get("offers", []):
+            url, title = r.get("careers_url"), (r.get("title") or "").strip()
+            if not url or not title:
+                continue
+            job = Job(
+                id=make_id("recruitee", str(r.get("id") or r.get("guid")), url),
+                title=title, company=r.get("company_name") or str(token).title(),
+                location=format_location(r.get("city"), r.get("country_code") or r.get("country")),
+                country=country_code(r.get("country_code")) or "OTHER",
+                url=url, source="recruitee", source_type="api",
+                posted_date=(r.get("created_at") or "")[:10] or None,
+                remote=NOT_STATED, salary=NOT_STATED,
+                employment_type=employment_label(r.get("employment_type_code")),
+                # requirements is a separate field and is where the must-haves live
+                description=" ".join(strip_html(r.get(k)) for k in ("description", "requirements")).strip(),
+            )
+            if _keep_by_title(job, terms):
+                jobs.append(job)
+    return jobs
+
 def _country_in(text: str) -> str:
     """Country code from a free-text location: a country name, else a known city."""
     parts = [p.strip() for p in re.split(r"[;,/|]", text or "") if p.strip()]
@@ -178,5 +285,6 @@ def _country_in(text: str) -> str:
             return CITY_COUNTRY[cleaned]
     return ""
 
-for _adapter in (fetch_workable, fetch_greenhouse, fetch_ashby):
+for _adapter in (fetch_workable, fetch_greenhouse, fetch_ashby, fetch_lever,
+                 fetch_smartrecruiters, fetch_recruitee):
     register(_adapter)

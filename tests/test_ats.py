@@ -71,3 +71,63 @@ def test_ashby_resolves_a_city_only_location():
     assert j.country == "CH" and j.location == "Zurich, Switzerland"
     assert j.remote is False and j.posted_date == "2026-07-01"
     assert j.employment_type == "Full Time" and j.salary == NOT_STATED
+
+LEVER = [{
+    "id": "l1", "text": "Security Engineer",
+    "hostedUrl": "https://jobs.lever.co/sonarsource/l1",
+    "categories": {"location": "Geneva", "commitment": "Employee / Full-Time"},
+    "country": "CH", "createdAt": 1787000000000,
+    "descriptionPlain": "Keep the platform safe. 3+ years of experience.",
+}, {
+    "id": "l2", "text": "Account Based Marketing Manager",
+    "hostedUrl": "https://jobs.lever.co/sonarsource/l2",
+    "categories": {"location": "London"}, "descriptionPlain": "Sell security tooling.",
+}]
+
+def test_lever_maps_a_posting_and_ignores_non_security_titles():
+    jobs = ats.fetch_lever({"ats": {"lever": ["sonarsource"]}, "search_terms": ["security"]},
+                           get=_get(LEVER))
+    assert [j.title for j in jobs] == ["Security Engineer"]   # marketing role stays out
+    j = jobs[0]
+    assert j.country == "CH" and j.location == "Geneva, Switzerland"
+    assert j.employment_type == "Employee / Full Time"
+    assert j.posted_date and "3+ years" in j.description
+
+SR_LIST = {"content": [
+    {"id": "s1", "name": "Security Analyst", "company": {"name": "Nexthink"},
+     "location": {"city": "Lausanne", "country": "ch", "remote": False, "hybrid": True}},
+    {"id": "s2", "name": "Frontend Developer", "company": {"name": "Nexthink"},
+     "location": {"city": "Madrid", "country": "es"}},
+]}
+SR_DETAIL = {"jobAd": {"sections": {
+    "jobDescription": {"text": "<p>Watch the SOC.</p>"},
+    "qualifications": {"text": "<p>2 years of experience.</p>"}}}}
+
+def test_smartrecruiters_fetches_the_body_only_for_matching_titles():
+    calls = []
+    def get(url, params=None, headers=None, timeout=20):
+        calls.append(url)
+        return SR_LIST if url.endswith("/postings") else SR_DETAIL
+    jobs = ats.fetch_smartrecruiters({"ats": {"smartrecruiters": ["nexthink"]},
+                                      "search_terms": ["security"]}, get=get)
+    assert len(jobs) == 1                      # the frontend role is never fetched
+    assert len([c for c in calls if c.endswith("/s1")]) == 1
+    j = jobs[0]
+    assert j.country == "CH" and j.location == "Lausanne, Switzerland"
+    assert "Watch the SOC." in j.description and "2 years of experience." in j.description
+
+RECRUITEE = {"offers": [{
+    "id": 7, "title": "Cyber Security Specialist", "company_name": "Swisscom",
+    "city": "Bern", "country_code": "CH",
+    "careers_url": "https://swisscom.recruitee.com/o/cyber-security-specialist",
+    "description": "<p>Defend the network.</p>", "requirements": "<p>Must have: SIEM.</p>",
+    "created_at": "2026-07-31 09:55:40 UTC", "employment_type_code": "fulltime_fixed_term",
+}]}
+
+def test_recruitee_joins_description_with_the_requirements_block():
+    jobs = ats.fetch_recruitee({"ats": {"recruitee": ["swisscom"]}, "search_terms": ["security"]},
+                               get=_get(RECRUITEE))
+    j = jobs[0]
+    assert j.company == "Swisscom" and j.country == "CH" and j.location == "Bern, Switzerland"
+    assert "Defend the network." in j.description and "Must have: SIEM." in j.description
+    assert j.employment_type == "Fulltime Fixed Term" and j.posted_date == "2026-07-31"

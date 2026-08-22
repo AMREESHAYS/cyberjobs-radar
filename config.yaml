@@ -43,8 +43,11 @@ exclude_title_patterns:
 # job-boards.greenhouse.io/<token> or jobs.ashbyhq.com/<token>.
 workable_query: security
 ats:
-  greenhouse: [proton, scandit, sumup, n26]
-  ashby: [ledger, deepjudge]
+  greenhouse: [proton, scandit, ledgy, 21shares, sumup, n26]
+  ashby: [deepjudge, frontify, ledger]
+  lever: [sonarsource]
+  smartrecruiters: [nexthink]
+  recruitee: [swisscom, elca]
 
 age_out_days: 45
 ai:
