@@ -15,3 +15,6 @@ _site/
 
 # personal: experience, citizenship, visa needs. See profile.example.yaml
 profile.yaml
+
+# playwright-mcp scratch (snapshots, console logs, staged uploads)
+.playwright-mcp/
