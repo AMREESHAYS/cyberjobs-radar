@@ -14,5 +14,9 @@ def load_config(path: str = "config.yaml") -> dict:
     return cfg
 
 def load_profile(path: str = "profile.yaml") -> dict:
+    # profile.yaml is gitignored, so a fresh clone (and CI without the secret)
+    # falls back to the template rather than crashing the whole run
+    if not os.path.exists(path):
+        path = "profile.example.yaml"
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}

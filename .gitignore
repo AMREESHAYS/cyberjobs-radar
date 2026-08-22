@@ -12,3 +12,6 @@ _site/
 
 # wrangler local state
 .wrangler/
+
+# personal: experience, citizenship, visa needs. See profile.example.yaml
+profile.yaml

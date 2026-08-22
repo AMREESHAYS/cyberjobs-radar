@@ -18,6 +18,19 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: pip install -r requirements.txt
+      # profile.yaml is gitignored (personal details). Restore it from a secret
+      # so scoring stays personalised; without the secret the run falls back to
+      # profile.example.yaml rather than failing.
+      - name: Restore profile
+        env:
+          PROFILE_YAML: ${{ secrets.PROFILE_YAML }}
+        run: |
+          if [ -n "$PROFILE_YAML" ]; then
+            printf '%s' "$PROFILE_YAML" > profile.yaml
+            echo "profile.yaml restored from secret"
+          else
+            echo "no PROFILE_YAML secret set - falling back to profile.example.yaml"
+          fi
       - name: Run pipeline
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}

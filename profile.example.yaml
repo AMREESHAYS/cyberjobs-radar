@@ -1,0 +1,12 @@
+# Copy to profile.yaml and edit. profile.yaml is gitignored: it holds personal
+# details (experience, citizenship, visa needs) that do not belong in a public repo.
+experience: "junior (0-2 years)"
+needs_sponsorship: false
+open_to_remote_from_india: false
+roles:
+  - offensive / pentest / red team
+  - defensive / SOC / blue team
+  - appsec / cloud / devsecops
+  - grc / analyst / any
+location_targets: [Switzerland, Germany, Austria, Netherlands, Belgium, Poland, Sweden, Norway, Denmark, Finland, remote]
+notes: ""

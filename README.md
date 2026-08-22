@@ -9,7 +9,7 @@
 [![fetch](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml/badge.svg)](https://github.com/AMREESHAYS/cyberjobs-radar/actions/workflows/fetch.yml)
 ![python](https://img.shields.io/badge/python-3.11-4fd6e0)
 ![sources](https://img.shields.io/badge/sources-12-57e2a5)
-![tests](https://img.shields.io/badge/tests-78%20pytest%20%2B%2021%20node-8b7bff)
+![tests](https://img.shields.io/badge/tests-98%20pytest%20%2B%2044%20node-8b7bff)
 ![licence](https://img.shields.io/badge/licence-personal%20use-9aa7c7)
 
 </div>
