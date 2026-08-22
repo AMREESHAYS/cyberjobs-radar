@@ -37,6 +37,15 @@ exclude_title_patterns:
   - '\bteam ?lead\b'
   - '\b(1[0-9]|[5-9])\+? ?(years|jahre)\b'
 
+# Applicant tracking systems, which publish the full ad rather than a teaser.
+# Workable is searched globally; greenhouse and ashby are per-company boards —
+# add a token by finding it in the careers-page URL, e.g.
+# job-boards.greenhouse.io/<token> or jobs.ashbyhq.com/<token>.
+workable_query: security
+ats:
+  greenhouse: [proton, scandit, sumup, n26]
+  ashby: [ledger, deepjudge]
+
 age_out_days: 45
 ai:
   base_url_default: "https://api.groq.com/openai/v1"

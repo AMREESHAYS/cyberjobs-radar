@@ -37,7 +37,9 @@ def employment_label(*values) -> str:
         for item in (value if isinstance(value, (list, tuple)) else [value]):
             if not item or not isinstance(item, str):
                 continue
-            label = item.replace("_", " ").replace("-", " ").strip().title()
+            # boards state these as FULL_TIME, full-time or FullTime
+            spaced = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", item.strip())
+            label = spaced.replace("_", " ").replace("-", " ").title()
             if label and label not in parts:
                 parts.append(label)
     return ", ".join(parts) if parts else NOT_STATED
@@ -67,6 +69,13 @@ def country_name(value: str | None) -> str:
     if len(v) == 2 and v.upper() in COUNTRY_NAMES:
         return COUNTRY_NAMES[v.upper()]
     return COUNTRY_NAMES.get(_NAME_TO_CODE.get(v.lower(), ""), v)
+
+def country_code(name: str | None) -> str:
+    """Two-letter code for a country name, or "" when it is not one we target."""
+    v = (name or "").strip()
+    if len(v) == 2 and v.upper() in COUNTRY_NAMES:
+        return v.upper()
+    return _NAME_TO_CODE.get(v.lower(), "")
 
 def format_location(city: str | None = None, country: str | None = None) -> str:
     """"City, Country" when both are stated; whichever half exists otherwise.
