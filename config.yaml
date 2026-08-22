@@ -53,10 +53,12 @@ age_out_days: 45
 ai:
   base_url_default: "https://api.groq.com/openai/v1"
   model_default: "openai/gpt-oss-120b"   # Groq retired llama-3.3-70b-versatile on 2026-06-17
-max_new_ai_jobs_per_run: 15    # per-run AI budget. Groq's free tier allows 200k
-                               # tokens/day; condensing ads to ~1.1k tokens each means
-                               # 15/run over 12 runs (~180/day) fits. Raise it if you
-                               # move off the free tier.
+max_new_ai_jobs_per_run: 10    # per-run AI budget. Groq's free tier allows 200k
+                               # tokens/day and scoring must not spend all of it: the
+                               # Worker's "Draft application" button draws on the same
+                               # account quota. 10/run over 12 runs is ~120 jobs/day
+                               # (~130k tokens), leaving room for ~35 drafts. Raise it
+                               # if you move off the free tier.
 digest:
   min_score: 70    # email jobs scoring >= this (unscored jobs are included too, so it works without AI)
   cap: 25          # max jobs per email
