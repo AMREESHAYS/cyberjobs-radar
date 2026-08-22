@@ -4,7 +4,7 @@
 // the whole document — unsaving a job on the phone must not be undone by the
 // laptop pushing an older copy. Every entry carries the time it changed and the
 // newer one wins, per job.
-export const EMPTY = { saved: {}, applied: {}, notes: {}, updated_at: 0 };
+export const EMPTY = { saved: {}, applied: {}, notes: {}, drafts: {}, updated_at: 0 };
 
 function newerOf(a, b) {
   if (!a) return b;
@@ -25,6 +25,7 @@ export function mergeState(mine = EMPTY, theirs = EMPTY) {
     saved: mergeSection(mine.saved, theirs.saved),
     applied: mergeSection(mine.applied, theirs.applied),
     notes: mergeSection(mine.notes, theirs.notes),
+    drafts: mergeSection(mine.drafts, theirs.drafts),
     updated_at: Math.max(mine.updated_at || 0, theirs.updated_at || 0),
   };
 }
@@ -36,6 +37,6 @@ export function activeIds(section = {}) {
 
 export function isValidState(value) {
   return !!value && typeof value === "object" && !Array.isArray(value) &&
-    ["saved", "applied", "notes"].every(k => !(k in value) ||
+    ["saved", "applied", "notes", "drafts"].every(k => !(k in value) ||
       (typeof value[k] === "object" && value[k] !== null && !Array.isArray(value[k])));
 }

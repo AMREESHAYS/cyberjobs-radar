@@ -167,6 +167,23 @@ main { padding: 1rem; display: grid; gap: 0.8rem; max-width: 720px; margin: 0 au
 .visa.no { background: rgba(255, 111, 133, 0.14); border-color: rgba(255, 111, 133, 0.4); color: #ff97a8; }
 .visa.unknown { background: rgba(154, 167, 199, 0.12); border-color: rgba(154, 167, 199, 0.3); color: var(--mut); }
 
+.draft {
+  margin: 0.4rem 0 0.6rem; padding: 0.7rem 0.8rem; border-radius: 14px;
+  background: rgba(11, 18, 38, 0.72); border: 1px solid var(--stroke-soft);
+}
+.draft .honest { color: #f0be5a; font-size: 0.82rem; margin: 0 0 0.5rem; }
+.draft .muted { color: var(--mut); font-size: 0.8rem; margin: 0; }
+.bullets { margin: 0.2rem 0 0.5rem 1rem; padding: 0; color: #d6deff; font-size: 0.82rem; }
+.letter {
+  white-space: pre-wrap; font: inherit; font-size: 0.82rem; color: #d6deff;
+  margin: 0.2rem 0 0.5rem; max-height: 15rem; overflow-y: auto;
+}
+button.copy, button.make-draft {
+  padding: 0.4rem 0.8rem; border-radius: 999px; border: 1px solid var(--stroke);
+  background: rgba(139, 123, 255, 0.16); color: #cfc7ff; font-size: 0.76rem; cursor: pointer;
+}
+button.make-draft:disabled { opacity: 0.55; }
+
 .reason { font-size: 0.88rem; margin: 0.2rem 0 0.6rem; color: #d6deff; }
 .reason:empty { display: none; }
 

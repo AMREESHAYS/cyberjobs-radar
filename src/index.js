@@ -2,6 +2,7 @@
 // answer, but it needs Zero Trust enabled on the account; this needs nothing
 // beyond a Worker secret, and keeps the job list off the open internet.
 import { EMPTY, isValidState, mergeState } from "./state.js";
+import { DRAFT_SYSTEM, buildPrompt, isUsable, parseDraft } from "./draft.js";
 
 const COOKIE = "cjr_key";
 const STATE_KEY = "tracking";
@@ -99,6 +100,89 @@ async function handleState(request, env) {
   return json({ error: "method not allowed" }, 405);
 }
 
+// Materials are generated on demand, not for all 600+ jobs: the free tier has a
+// daily token budget, and a draft is only wanted for jobs actually being applied
+// to. Once made, it is cached so re-opening a job costs nothing.
+async function handleDraft(request, env) {
+  const json = (body, status = 200) =>
+    new Response(JSON.stringify(body), {
+      status, headers: { "content-type": "application/json", "cache-control": "no-store" },
+    });
+  if (request.method !== "POST") return json({ error: "method not allowed" }, 405);
+  if (!env.AI_API_KEY) return json({ error: "AI_API_KEY is not set on the Worker" }, 501);
+
+  let job;
+  try {
+    job = await request.json();
+  } catch {
+    return json({ error: "invalid json" }, 400);
+  }
+  if (!job || !job.id || !job.title) return json({ error: "job id and title required" }, 400);
+
+  const cached = !job.refresh && await readDraft(env, job.id);
+  if (cached) return json({ ...cached, cached: true });
+
+  const profile = await readProfile(env);
+  const base = (env.AI_BASE_URL || "https://api.groq.com/openai/v1").replace(/\/$/, "");
+  // injectable so tests can stub one call without touching a shared global
+  const callAI = env.FETCH || fetch;
+  let response;
+  try {
+    response = await callAI(base + "/chat/completions", {
+      method: "POST",
+      headers: { "content-type": "application/json", authorization: `Bearer ${env.AI_API_KEY}` },
+      body: JSON.stringify({
+        model: env.AI_MODEL || "openai/gpt-oss-120b",
+        temperature: 0.3,
+        messages: [
+          { role: "system", content: DRAFT_SYSTEM },
+          { role: "user", content: buildPrompt(profile, job) },
+        ],
+      }),
+    });
+  } catch (e) {
+    return json({ error: "could not reach the AI provider" }, 502);
+  }
+  if (!response.ok) {
+    const detail = (await response.text()).slice(0, 300);
+    return json({ error: `AI provider said ${response.status}`, detail }, 502);
+  }
+  let draft;
+  try {
+    const body = await response.json();
+    draft = parseDraft(body.choices?.[0]?.message?.content || "");
+  } catch {
+    return json({ error: "the model did not return usable JSON" }, 502);
+  }
+  if (!isUsable(draft)) return json({ error: "the model returned an empty draft" }, 502);
+
+  await writeDraft(env, job.id, draft);
+  return json({ ...draft, cached: false });
+}
+
+async function readProfile(env) {
+  try {
+    const res = await env.ASSETS.fetch(new Request("https://internal/data/profile.json"));
+    return res.ok ? await res.json() : {};
+  } catch {
+    return {};
+  }
+}
+
+async function readDraft(env, jobId) {
+  if (!env.STATE) return null;
+  const state = await readState(env);
+  const entry = (state.drafts || {})[jobId];
+  return entry && entry.draft ? entry.draft : null;
+}
+
+async function writeDraft(env, jobId, draft) {
+  if (!env.STATE) return;
+  const state = await readState(env);
+  state.drafts = { ...(state.drafts || {}), [jobId]: { draft, ts: Date.now() } };
+  await env.STATE.put(STATE_KEY, JSON.stringify(state));
+}
+
 export default {
   async fetch(request, env) {
     const verdict = authorize(request, env.SITE_KEY);
@@ -111,6 +195,9 @@ export default {
     const url = new URL(request.url);
     if (url.pathname === "/api/state") {
       return handleState(request, env);
+    }
+    if (url.pathname === "/api/draft") {
+      return handleDraft(request, env);
     }
     if (verdict.setCookie) {
       // drop the key out of the URL so it stops appearing in history and referrers

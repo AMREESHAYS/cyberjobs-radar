@@ -231,14 +231,67 @@ function card(j, saved, applied) {
       <p><strong>Last listed:</strong> ${esc(j.last_seen || j.first_seen || "not stated")}</p>
       <p class="desc">${esc(plain(j.description).slice(0, 600))}</p>
     </details>
+    <div class="draft" hidden></div>
     <div class="actions">
+      <button class="make-draft">Draft application</button>
       <a class="apply" href="${esc(j.url)}" target="_blank" rel="noopener">Open posting ↗</a>
       <button class="save ${saved.has(j.id) ? "on" : ""}">${saved.has(j.id) ? "★ Saved" : "☆ Save"}</button>
       <button class="applied ${applied.has(j.id) ? "on" : ""}">${applied.has(j.id) ? "✓ Applied" : "Applied?"}</button>
     </div>`;
+  el.querySelector(".make-draft").addEventListener("click", ev => makeDraft(j, el, ev.target));
   el.querySelector(".save").addEventListener("click", () => toggle("saved", j.id));
   el.querySelector(".applied").addEventListener("click", () => toggle("applied", j.id));
   return el;
+}
+
+async function makeDraft(job, card, button) {
+  const panel = card.querySelector(".draft");
+  panel.hidden = false;
+  panel.innerHTML = "<p class='muted'>Reading the ad and your profile…</p>";
+  button.disabled = true;
+  try {
+    const res = await fetch("api/draft", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        id: job.id, title: job.title, company: job.company, location: job.location,
+        description: job.description, skills: job.skills,
+        experience_required: job.experience_required,
+      }),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      panel.innerHTML = `<p class='muted'>${esc(data.error || "Could not draft this one.")}</p>`;
+      return;
+    }
+    panel.innerHTML = renderDraft(data);
+    panel.querySelectorAll("button.copy").forEach(b =>
+      b.addEventListener("click", () => {
+        navigator.clipboard.writeText(b.dataset.text || "");
+        b.textContent = "Copied";
+        setTimeout(() => { b.textContent = "Copy"; }, 1500);
+      }));
+  } catch {
+    panel.innerHTML = "<p class='muted'>Could not reach the drafting service.</p>";
+  } finally {
+    button.disabled = false;
+  }
+}
+
+function renderDraft(d) {
+  const list = (label, items) => items && items.length
+    ? `<p class="role"><span>${label}</span>${items.map(esc).join(" · ")}</p>` : "";
+  const bullets = (d.cv_bullets || []).map(b => `<li>${esc(b)}</li>`).join("");
+  return `
+    ${d.honest_note ? `<p class="honest">${esc(d.honest_note)}</p>` : ""}
+    ${list("Gaps against this ad", d.gaps)}
+    ${list("What genuinely matches", d.strengths)}
+    ${bullets ? `<p class="role"><span>CV bullets</span></p><ul class="bullets">${bullets}</ul>
+       <button class="copy" data-text="${esc((d.cv_bullets || []).join("\n"))}">Copy</button>` : ""}
+    ${d.cover_letter ? `<p class="role"><span>Cover letter</span></p>
+       <pre class="letter">${esc(d.cover_letter)}</pre>
+       <button class="copy" data-text="${esc(d.cover_letter)}">Copy</button>` : ""}
+    ${d.cached ? "<p class='muted'>Saved from an earlier draft.</p>" : ""}`;
 }
 
 function toggle(section, id) {
