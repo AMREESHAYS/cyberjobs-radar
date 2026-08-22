@@ -1,8 +1,10 @@
 {
-  "total": 687,
-  "new": 0,
+  "total": 509,
+  "new": 226,
   "scored": 8,
-  "removed": 0,
+  "removed": 4,
   "aged_out": 0,
-  "generated_at": "2026-08-22T10:12:08+00:00"
+  "above_level": 363,
+  "duplicates": 159,
+  "generated_at": "2026-08-22T11:35:18+00:00"
 }
