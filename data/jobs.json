@@ -30,7 +30,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "6663a30a41a037d1",
@@ -63,7 +63,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -96,7 +96,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "e04ebe29a453b0de",
@@ -138,7 +138,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "5b798dff2178cc87",
@@ -171,7 +171,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "cd1fc3ded981dc2d",
@@ -204,7 +204,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d896235fe6f292dc",
@@ -237,7 +237,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "66f89db6c114d0b9",
@@ -270,7 +270,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "dcc883d52a454cd6",
@@ -303,7 +303,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "eed918fd33e49444",
@@ -342,7 +342,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "58e805f87c37160f",
@@ -384,7 +384,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "85df7ac1edf16577",
@@ -459,7 +459,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "2ecaf2e25399e115",
@@ -492,7 +492,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "9aece813e2d051f0",
@@ -525,7 +525,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "5e5b210208912cd3",
@@ -558,7 +558,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "469d11f1797792a0",
@@ -591,7 +591,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "5390f8be20209026",
@@ -624,7 +624,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "be3ba1b5124a1c16",
@@ -657,7 +657,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "16e8386d275e643e",
@@ -769,7 +769,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "b55640c1f733595a",
@@ -802,7 +802,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "039e735f5c8670e1",
@@ -844,7 +844,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "ef417486e47c519e",
@@ -877,7 +877,49 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
+  },
+  {
+    "id": "fe4ef31dae1f7a38",
+    "title": "Security Engineer - Full Remote (France) or Hybrid",
+    "company": "Voyage Privé",
+    "location": "France",
+    "country": "REMOTE",
+    "url": "https://jobicy.com/jobs/145653-security-engineer-full-remote-france-or-hybrid",
+    "source": "jobicy",
+    "source_type": "api",
+    "posted_date": "2026-08-07",
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Company Description ✨ About Voyage Privé Born in France in 2006, Voyage Privé has grown from an ambitious startup into becoming the Europe's leading travel tech platform. Operating across 9 markets with tens of millions of users, we're not just another e-commerce success story - we're a tech powerhouse revolutionizing online travel. What makes us unique? A mission-driven culture where performance meets impact. Our innovative campus brings together tech talent, professional athletes, students, and artists, creating an ecosystem where digital innovation drives both business growth and positive change. We're now at an inflection point, upgrading our entire technical foundation with cloud architecture, AI, and real-time systems to become a reference and top-of-mind platform for luxury travel, known by travelers for its for excellent offer and customer experience, and by our providers as a high-performance business development partner. Job Description Your Mission As a Security Engineer , you’ll play a key role in shaping the security and resilience of Voyage Privé’s technology platform. You’ll work closely with Engineering, Product, and Platform teams to embed security practices into every stage of product development, deliver measurable impact, and help us scale efficiently while maintaining a strong security posture. You’ll have the opportunity to build many security foundations from scratch — from internal tooling to CI/CD guardrails — and influence key architectural and technical decisions as we redesign our platform for scale. Your key responsibilities will include: Strengthen the security posture across products, data and infrastructure : secure coding practices, code reviews, threat modeling, vulnerability remediation, cloud, and network hardening. Develop automated security guardrails integrated into CI/CD pipelines (SAST, SCA, secrets scanning). Design secure architectures for applications , APIs, data flows, and integrations in partnership with engineering teams. Secure hybrid environments combining virtual machines, containerized workloads, and cloud-native services, ensuring consistent security standards across the entire platform. Drive proactive risk identification through continuous scanning, threat modeling sessions, risk assessments, and architecture reviews. Enable engineering teams to build secure-by-design practices by acting as a trusted advisor, developing internal tools, and leading security awareness sessions. Operational security &amp; incident readiness : participate in on-call rotations, investigate security events, and improve incident response workflows. Lead security improvement projects : build automation, enhance tools, optimize processes, and foster a culture of security ownership. Qualifications What We’re Looking For We’re looking for builders who move fast, think big, and care deeply about creating impact that lasts Your profile: 5–7 years of experience in software engineering, security engineering, DevSecOps, or equivalent technical security roles. Strong development background (Python, Node.js, Java, Go, PhP or similar). Hands-on experience with modern CI/CD systems (GitHub Actions, GitLab, Jenkins). Solid understanding of cloud security principles (AWS, GCP, Azure). Experience securing both virtualized systems (VMs) and containerized workloads. Strong knowledge of secure coding, OWASP Top 10, and application security fundamentals. Experience with SAST, SCA, container/IaC scanning, runtime security tools, IAM, and secrets management. Pragmatic, engineering-first mindset: able to balance security with developer experience, velocity, and real-world constraints. Excellent communication skills: able to translate complex security issues into actionable guidance for both technical and non-technical stakeholders. Proactive, autonomous, critical thinker with a continuous improvement mindset. Nice to have: previous experience or knowledge of compliance requirements (GDPR, PCI-DSS...) Fluent in French and English. Additional Information ⚡ Our Recruitment Process We believe in a fast, transparent, and human recruitment process. Here’s what you can expect: Intro Call with a Talent Acquisition Partner (30–45 min) – Get to know each other! We’ll share more about the role, the team, and our culture. Manager Interview (60 min) – Deep dive into your experience, missions, and ways of working. Take-Home Task – Practical exercise to showcase your strategic thinking and approach to security. Task Debrief (60 min) – Discuss your task with members of the team On-Site Interview (60 min) – Meet the VP of Engineering to align on expectations, culture, and long-term impact. Location : Aix en Provence or remote, France Start Date : The sooner, the better Contract Type : Full-time / Permanent ❤️ You'll Love Joining Us Our HQ in the South of France offers an exceptional environment - natural, cultural, and digital - on a modern and eco-responsible campus. Prefer flexibility? We offer a hybrid model for all other positions with 3 mandatory on-site days per week plus 4 fully remote weeks per year. Put meaning back into your work and join a unique ecosystem that connects worlds often far apart: business, sports, education, and social impact, through projects like Ecole des XV, Provence Rugby, VP Green, Les Tremplins, and Chez Pierre. Forget your gym subscription! Access our large on-site fitness center morning, noon, and night - or challenge your colleagues to a padel match on our private court. Live to the rhythm of Voyage Privé’s signature mix of business and fun: Company Breaks, Carnival, Annual Convention, meetups and talks… plus free tickets to every Provence Rugby home match and live music nights at the Dalida Institute. ✈️ And because travel is in our DNA : enjoy up to 20% off our exclusive getaway offers. Join us and make your next career move a journey worth taking.",
+    "score": 12,
+    "score_reason": "Requires 5–7 years experience, French fluency, on‑site presence in France, and offers no explicit visa sponsorship.",
+    "skills": [
+      "CI/CD",
+      "VM security",
+      "container security",
+      "SAST",
+      "SCA",
+      "IaC scanning",
+      "runtime security",
+      "IAM"
+    ],
+    "hiring_process": "Manager Interview (60 min) – Deep dive into your experience, missions, and ways of working.",
+    "seniority_fit": "senior",
+    "experience_required": "5–7 years",
+    "role_summary": "Embed security into product development, build security foundations from scratch, and implement automated security guardrails in CI/CD pipelines.",
+    "expectations": "5–7 years of experience in security engineering or DevSecOps, hands‑on CI/CD, securing VMs and containers, SAST/SCA, compliance knowledge, and fluency in French and English.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
   },
   {
     "id": "f4c2a23292e91f27",
@@ -1002,7 +1044,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "674a2558bffc5fb4",
@@ -1035,7 +1077,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "6532eaec96e109c7",
@@ -1077,7 +1119,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "c51b61ee70918035",
@@ -1110,7 +1152,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "acd348792b083893",
@@ -1143,7 +1185,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "278ef211af354382",
@@ -1176,7 +1218,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -1209,7 +1251,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -1291,7 +1333,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "2dbeab30a1df3688",
@@ -1373,68 +1415,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
-  },
-  {
-    "id": "fe4ef31dae1f7a38",
-    "title": "Security Engineer - Full Remote (France) or Hybrid",
-    "company": "Voyage Privé",
-    "location": "France",
-    "country": "REMOTE",
-    "url": "https://jobicy.com/jobs/145653-security-engineer-full-remote-france-or-hybrid",
-    "source": "jobicy",
-    "source_type": "api",
-    "posted_date": "2026-08-07",
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Company Description ✨ About Voyage Privé Born in France in 2006, Voyage Privé has grown from an ambitious startup into becoming the Europe's leading travel tech platform. Operating across 9 markets with tens of millions of users, we're not just another e-commerce success story - we're a tech powerhouse revolutionizing online travel. What makes us unique? A mission-driven culture where performance meets impact. Our innovative campus brings together tech talent, professional athletes, students, and artists, creating an ecosystem where digital innovation drives both business growth and positive change. We're now at an inflection point, upgrading our entire technical foundation with cloud architecture, AI, and real-time systems to become a reference and top-of-mind platform for luxury travel, known by travelers for its for excellent offer and customer experience, and by our providers as a high-performance business development partner. Job Description Your Mission As a Security Engineer , you’ll play a key role in shaping the security and resilience of Voyage Privé’s technology platform. You’ll work closely with Engineering, Product, and Platform teams to embed security practices into every stage of product development, deliver measurable impact, and help us scale efficiently while maintaining a strong security posture. You’ll have the opportunity to build many security foundations from scratch — from internal tooling to CI/CD guardrails — and influence key architectural and technical decisions as we redesign our platform for scale. Your key responsibilities will include: Strengthen the security posture across products, data and infrastructure : secure coding practices, code reviews, threat modeling, vulnerability remediation, cloud, and network hardening. Develop automated security guardrails integrated into CI/CD pipelines (SAST, SCA, secrets scanning). Design secure architectures for applications , APIs, data flows, and integrations in partnership with engineering teams. Secure hybrid environments combining virtual machines, containerized workloads, and cloud-native services, ensuring consistent security standards across the entire platform. Drive proactive risk identification through continuous scanning, threat modeling sessions, risk assessments, and architecture reviews. Enable engineering teams to build secure-by-design practices by acting as a trusted advisor, developing internal tools, and leading security awareness sessions. Operational security &amp; incident readiness : participate in on-call rotations, investigate security events, and improve incident response workflows. Lead security improvement projects : build automation, enhance tools, optimize processes, and foster a culture of security ownership. Qualifications What We’re Looking For We’re looking for builders who move fast, think big, and care deeply about creating impact that lasts Your profile: 5–7 years of experience in software engineering, security engineering, DevSecOps, or equivalent technical security roles. Strong development background (Python, Node.js, Java, Go, PhP or similar). Hands-on experience with modern CI/CD systems (GitHub Actions, GitLab, Jenkins). Solid understanding of cloud security principles (AWS, GCP, Azure). Experience securing both virtualized systems (VMs) and containerized workloads. Strong knowledge of secure coding, OWASP Top 10, and application security fundamentals. Experience with SAST, SCA, container/IaC scanning, runtime security tools, IAM, and secrets management. Pragmatic, engineering-first mindset: able to balance security with developer experience, velocity, and real-world constraints. Excellent communication skills: able to translate complex security issues into actionable guidance for both technical and non-technical stakeholders. Proactive, autonomous, critical thinker with a continuous improvement mindset. Nice to have: previous experience or knowledge of compliance requirements (GDPR, PCI-DSS...) Fluent in French and English. Additional Information ⚡ Our Recruitment Process We believe in a fast, transparent, and human recruitment process. Here’s what you can expect: Intro Call with a Talent Acquisition Partner (30–45 min) – Get to know each other! We’ll share more about the role, the team, and our culture. Manager Interview (60 min) – Deep dive into your experience, missions, and ways of working. Take-Home Task – Practical exercise to showcase your strategic thinking and approach to security. Task Debrief (60 min) – Discuss your task with members of the team On-Site Interview (60 min) – Meet the VP of Engineering to align on expectations, culture, and long-term impact. Location : Aix en Provence or remote, France Start Date : The sooner, the better Contract Type : Full-time / Permanent ❤️ You'll Love Joining Us Our HQ in the South of France offers an exceptional environment - natural, cultural, and digital - on a modern and eco-responsible campus. Prefer flexibility? We offer a hybrid model for all other positions with 3 mandatory on-site days per week plus 4 fully remote weeks per year. Put meaning back into your work and join a unique ecosystem that connects worlds often far apart: business, sports, education, and social impact, through projects like Ecole des XV, Provence Rugby, VP Green, Les Tremplins, and Chez Pierre. Forget your gym subscription! Access our large on-site fitness center morning, noon, and night - or challenge your colleagues to a padel match on our private court. Live to the rhythm of Voyage Privé’s signature mix of business and fun: Company Breaks, Carnival, Annual Convention, meetups and talks… plus free tickets to every Provence Rugby home match and live music nights at the Dalida Institute. ✈️ And because travel is in our DNA : enjoy up to 20% off our exclusive getaway offers. Join us and make your next career move a journey worth taking.",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "secure coding practices",
-      "code reviews",
-      "threat modeling",
-      "vulnerability remediation",
-      "cloud",
-      "network hardening",
-      "SAST",
-      "SCA",
-      "secrets scanning",
-      "secure architectures",
-      "applications",
-      "APIs",
-      "data flows",
-      "integrations",
-      "virtual machines",
-      "containerized workloads",
-      "cloud-native services",
-      "continuous scanning",
-      "risk assessments",
-      "architecture reviews",
-      "security awareness sessions",
-      "on‑call rotations",
-      "security events",
-      "incident response workflows",
-      "automation",
-      "tools",
-      "processes"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 2,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 21
   },
   {
     "id": "45e89d2fd2bee0ca",
@@ -1467,7 +1448,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "724a92de271fe52c",
@@ -1555,7 +1536,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "fc3b66b561c80863",
@@ -1588,7 +1569,7 @@
     "analysis_version": 2,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "899f0bbd2aa8c336",
@@ -1630,7 +1611,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "2976652a37da1f0d",
@@ -1672,7 +1653,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -1705,7 +1686,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d3aa0707d62a6af0",
@@ -1745,7 +1726,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "79da6ae49db0e879",
@@ -1824,7 +1805,7 @@
     "analysis_version": 4,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "325c8016309eb60b",
@@ -1910,7 +1891,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "4843633d16d653e7",
@@ -1943,7 +1924,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "62e9e54e2420585d",
@@ -1976,7 +1957,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "57c17fa660d7eee3",
@@ -2009,7 +1990,7 @@
     "analysis_version": 3,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "fc4823ecbd0885cf",
@@ -2042,7 +2023,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "019f01bf4b5cdf25",
@@ -2075,7 +2056,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "352c303e8ee6c869",
@@ -2113,7 +2094,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "659e548585cd2e42",
@@ -2146,7 +2127,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "f567a352d9e0e284",
@@ -2179,7 +2160,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "eb14b2d934ef4f1b",
@@ -2212,7 +2193,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a144f46ee4833856",
@@ -2245,7 +2226,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "cf87750c996e5ba3",
@@ -2278,7 +2259,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "37b051d9ee0311f6",
@@ -2316,7 +2297,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "11dd98fd10d0a79d",
@@ -2352,7 +2333,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f8b893d4dcf31c6f",
@@ -2398,7 +2379,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e15c5442b76fe774",
@@ -2431,7 +2412,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "0d932d0134eb63b4",
@@ -2464,7 +2445,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "807857290d85cdd6",
@@ -2497,7 +2478,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "245c79eb56c53cec",
@@ -2534,7 +2515,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d706ad37f78319bc",
@@ -2567,7 +2548,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "9438fc06a05a8465",
@@ -2645,7 +2626,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c139a3f39fd13c85",
@@ -2678,7 +2659,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "9d003521671be9c0",
@@ -2711,7 +2692,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "afe62b02dc015988",
@@ -2861,7 +2842,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -2894,7 +2875,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2f12772a9fcf57e2",
@@ -2927,7 +2908,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e820fe49f46f7c50",
@@ -2960,7 +2941,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "9a80ae04c03c6f5c",
@@ -2999,7 +2980,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "bc9c587ce30270b3",
@@ -3032,7 +3013,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ff4d8b531b5a5db3",
@@ -3065,7 +3046,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e97742717ed8d3fb",
@@ -3098,7 +3079,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d3965ea1a4c02eab",
@@ -3131,7 +3112,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e42a540da8214e31",
@@ -3164,7 +3145,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a3f36af8084cc068",
@@ -3197,7 +3178,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "9c79bd3d719ab0bc",
@@ -3230,7 +3211,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e932a8bd7500ab8a",
@@ -3263,7 +3244,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "b3422309512a8bfe",
@@ -3300,7 +3281,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "69b1ff11a646af51",
@@ -3333,13 +3314,13 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "4987c76bf12cbb46",
     "title": "IT Security Engineer",
     "company": "Destinus",
-    "location": "Zürich, Switzerland / Switzerland",
+    "location": "Zürich, Switzerland",
     "country": "CH",
     "url": "https://jobs.workable.com/view/8JshhuFBSuEMP9EXhe7CGR/hybrid-it-security-engineer-in-z%C3%BCrich-at-destinus",
     "source": "workable",
@@ -3403,7 +3384,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "507c647b9a2dfdb9",
@@ -3441,7 +3422,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d24a5b4cd8b5767b",
@@ -3474,7 +3455,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "80c22a7537713ce7",
@@ -3513,7 +3494,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d895bd56cb8e8e7d",
@@ -3624,7 +3605,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "22692eaae38299bf",
@@ -3657,7 +3638,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a925f297df4476f9",
@@ -3690,7 +3671,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "6c358b564f0fe65b",
@@ -3723,7 +3704,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ea539b63fa53d645",
@@ -3841,7 +3822,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ad921f0040d8793e",
@@ -3874,7 +3855,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "5909b779819a505b",
@@ -3907,7 +3888,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -3944,7 +3925,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "9e4364264e5e5427",
@@ -3977,7 +3958,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "7cd86f344e99a1a8",
@@ -4015,7 +3996,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "261799f9389ecc83",
@@ -4048,7 +4029,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "3259345fcbfde1f8",
@@ -4081,7 +4062,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "73dd215b79d7b6d7",
@@ -4114,7 +4095,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ae1ed54b02d17ca6",
@@ -4147,7 +4128,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "aa5be1f6ad52d7ff",
@@ -4180,7 +4161,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f0725c056e6ea3a8",
@@ -4213,7 +4194,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f7221d03635156da",
@@ -4246,7 +4227,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2da3a883eb20a956",
@@ -4279,7 +4260,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "fd8a4612739c1de5",
@@ -4312,7 +4293,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "01239214d8bc5030",
@@ -4345,7 +4326,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8cda8d21535f2463",
@@ -4378,7 +4359,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "1b1734de6c951b45",
@@ -4411,7 +4392,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "be0b67c80b1a3b85",
@@ -4444,7 +4425,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e4c5fdc224a98690",
@@ -4477,7 +4458,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "284ef22fbb9421c0",
@@ -4510,7 +4491,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c65cb530d5eb56b3",
@@ -4543,7 +4524,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8008b79da52fcf75",
@@ -4576,7 +4557,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d94faa22744837d5",
@@ -4609,7 +4590,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "cb39bb0c2fc49fe7",
@@ -4642,7 +4623,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ac4f2e9556c23d82",
@@ -4675,7 +4656,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "24b143beae454291",
@@ -4708,7 +4689,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "254aa5c1f051e892",
@@ -4741,7 +4722,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e5fa894602c488ff",
@@ -4774,7 +4755,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "fd9175550109dfba",
@@ -4807,7 +4788,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "0047779a30cdf267",
@@ -4840,7 +4821,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -4873,7 +4854,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "b8156df2259f9f32",
@@ -4906,7 +4887,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "716012ff2e45c815",
@@ -4939,7 +4920,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "71a36bb696e98ee1",
@@ -4972,7 +4953,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "8bece923e2e7190c",
@@ -5005,7 +4986,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -5038,7 +5019,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "1c3bf4d9a9e569d5",
@@ -5071,7 +5052,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -5104,7 +5085,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c5d71a36cb209952",
@@ -5137,7 +5118,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "6934b9f8c8f1d6da",
@@ -5170,7 +5151,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "b84b199d728c3d54",
@@ -5203,7 +5184,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ee548f992527e954",
@@ -5236,7 +5217,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "1c82d76114693c53",
@@ -5269,7 +5250,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "42edbf689da38d09",
@@ -5302,7 +5283,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "cec8b3ac66109141",
@@ -5335,7 +5316,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c8e3b61e7ad82840",
@@ -5368,7 +5349,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d5b0319a1dc3a486",
@@ -5401,7 +5382,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "bf0820f135a1f703",
@@ -5434,7 +5415,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c208c122436a1971",
@@ -5467,7 +5448,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "651cf430a57772f3",
@@ -5500,7 +5481,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ec9bf9a63c8bfaad",
@@ -5533,13 +5514,13 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8297697c0b68f485",
     "title": "AI Cybersecurity Engineer (Offensive Security & Threat Modeling)",
     "company": "Xenon7",
-    "location": "Belgium / België",
+    "location": "Belgium",
     "country": "BE",
     "url": "https://jobs.workable.com/view/5mHKVkBbmXyiiceAZCMD6y/remote-ai-cybersecurity-engineer-(offensive-security-%26-threat-modeling)-in-belgium-at-xenon7",
     "source": "workable",
@@ -5599,7 +5580,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e663a9ba8b6a0c06",
@@ -5632,7 +5613,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f91d8f03026eb2f4",
@@ -5665,7 +5646,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "0c9459fbf5817847",
@@ -5698,7 +5679,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "6f56c8683fcd4ec0",
@@ -5731,7 +5712,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "73e7d133877f0bbe",
@@ -5764,7 +5745,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "5a3697f5f9b97f6b",
@@ -5797,7 +5778,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "3a92e95b47203e99",
@@ -5830,7 +5811,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "aee5431825ba06be",
@@ -5863,7 +5844,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "53e1775d2e6ab76d",
@@ -5896,7 +5877,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "3952d4e83d732af7",
@@ -5929,7 +5910,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a4b3082c51fc239c",
@@ -5962,7 +5943,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -5995,7 +5976,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "191c2c400808e938",
@@ -6028,7 +6009,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "4cdb857444cfb299",
@@ -6061,7 +6042,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a4b20f18a0a369ba",
@@ -6094,7 +6075,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2307d28c4811f7b8",
@@ -6127,7 +6108,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "28bb4b2fd8cffbec",
@@ -6160,7 +6141,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "5181c28df94a6263",
@@ -6193,7 +6174,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "fdd98c194af2b1d8",
@@ -6226,7 +6207,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "440562817c717302",
@@ -6259,7 +6240,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "42134c1aec29a7ae",
@@ -6292,7 +6273,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -6325,7 +6306,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "1b335ce87e775fbd",
@@ -6358,7 +6339,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d9d2fd15609abde7",
@@ -6391,7 +6372,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "5ae3dbc652d5a942",
@@ -6424,7 +6405,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "23298f072950a9a6",
@@ -6457,7 +6438,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "1804b4ce93756b21",
@@ -6490,7 +6471,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "0d8ecd0957406d67",
@@ -6523,7 +6504,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "e994083684a225fc",
@@ -6556,7 +6537,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a1f54d0979e83c7e",
@@ -6589,7 +6570,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "2595d3ad66e1a358",
@@ -6622,7 +6603,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "42550275ef09e998",
@@ -6655,7 +6636,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "0eff96b6d03fe02c",
@@ -6688,7 +6669,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "9e641b8deecef414",
@@ -6721,7 +6702,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "52a9a2f62d3c5420",
@@ -6754,7 +6735,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "8dc22895ce3719cd",
@@ -6787,7 +6768,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "7143db87b27883f0",
@@ -6820,7 +6801,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "38ecc777f2d2760c",
@@ -6853,7 +6834,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -6886,7 +6867,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "c0fe0fe84e369725",
@@ -6919,7 +6900,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "9daa6a17cc13e7d8",
@@ -6952,7 +6933,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a8039868d519a083",
@@ -6985,7 +6966,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "7aa3b5062e80f77d",
@@ -7018,7 +6999,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -7051,7 +7032,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "42b5375cea91e1da",
@@ -7084,7 +7065,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "b333e11f4e4d507d",
@@ -7117,7 +7098,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c912053be2fdadd1",
@@ -7150,7 +7131,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "bd47c592200aa70c",
@@ -7183,7 +7164,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2d5a76f24121ddf4",
@@ -7216,7 +7197,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2661b767c6421eaa",
@@ -7249,7 +7230,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2e7f8d2ea0be544c",
@@ -7282,7 +7263,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d94a1fe270ef0984",
@@ -7315,7 +7296,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -7348,7 +7329,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "49e76312a5be416a",
@@ -7381,7 +7362,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "eae0a9bb65c94def",
@@ -7414,7 +7395,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -7447,7 +7428,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2ffca3238c45c221",
@@ -7480,7 +7461,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -7513,7 +7494,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "e78489d73b8098b5",
@@ -7546,7 +7527,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a5023110bce9f6b8",
@@ -7612,7 +7593,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "32a59ab96f0f9ae7",
@@ -7645,7 +7626,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "fdc54eb5c3105f25",
@@ -7678,7 +7659,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "e39c315e6dab164d",
@@ -7711,7 +7692,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "ae0d6c57cd8197ae",
@@ -7744,7 +7725,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "56417291cb8dd0ab",
@@ -7777,7 +7758,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "4ccbcea4861b434d",
@@ -7810,7 +7791,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a2febe5aa099a81b",
@@ -7843,7 +7824,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -7876,7 +7857,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "568ef9f627cf4b9e",
@@ -7909,7 +7890,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "472f6d72ac7d168c",
@@ -7942,7 +7923,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -7975,7 +7956,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d54ac133526865fa",
@@ -8008,7 +7989,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "24f80d9526012a45",
@@ -8041,7 +8022,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "c164466e4d97beb5",
@@ -8074,7 +8055,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "42545a6b9326e588",
@@ -8107,7 +8088,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "518b66566e72f965",
@@ -8140,7 +8121,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "11cd449d77493dda",
@@ -8173,7 +8154,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "6a24ab7df67918eb",
@@ -8206,7 +8187,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -8239,7 +8220,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "7190bbcee872de2a",
@@ -8272,7 +8253,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -8305,7 +8286,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "3aac25d374a4d221",
@@ -8338,7 +8319,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "604caf2eeefc482e",
@@ -8371,7 +8352,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -8404,7 +8385,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "f741f6d3e0557d86",
@@ -8437,7 +8418,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "4e100af8cd340774",
@@ -8470,7 +8451,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "060145e073cddc6d",
@@ -8503,7 +8484,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "083b20551778e021",
@@ -8536,7 +8517,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "0b70758a5c803f74",
@@ -8569,7 +8550,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -8602,7 +8583,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "2be399176e1ce304",
@@ -8635,7 +8616,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "89a553360afbe720",
@@ -8668,7 +8649,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2c9958d9e3293caa",
@@ -8701,7 +8682,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -8734,7 +8715,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "60e7fd97deadf7ab",
@@ -8767,7 +8748,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "4757bbde58e9a4b4",
@@ -8800,7 +8781,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "09a492b18788314a",
@@ -8833,7 +8814,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "0c896e97e6d5c122",
@@ -8899,7 +8880,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "405d17edd0856752",
@@ -8932,7 +8913,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "e11f74245ad46e12",
@@ -8965,7 +8946,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "75b97b83d38e9e67",
@@ -8998,7 +8979,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "92ed9099bde68df7",
@@ -9031,7 +9012,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "a1b1a2f35799079b",
@@ -9064,7 +9045,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "161642a79d9f5f75",
@@ -9097,7 +9078,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "8e2341bce1ee3800",
@@ -9130,7 +9111,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "9595952a81ac891d",
@@ -9196,7 +9177,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c610b87716750571",
@@ -9229,7 +9210,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "62f78051b877db5a",
@@ -9262,7 +9243,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "014f111ccfd193c8",
@@ -9295,7 +9276,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "a434d2c2211f001e",
@@ -9328,7 +9309,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "43895121521a15d9",
@@ -9361,7 +9342,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "7a64ae009c5ecdce",
@@ -9394,7 +9375,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "914c02820936e419",
@@ -9427,7 +9408,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2c99c99e1964affe",
@@ -9460,7 +9441,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "375d943288db746a",
@@ -9493,7 +9474,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2dd9ab446aadf9f3",
@@ -9526,7 +9507,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "f0b7cebe2eca3163",
@@ -9592,7 +9573,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "4dd44b03c68c0630",
@@ -9625,7 +9606,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "8d0fa64e60043046",
@@ -9658,7 +9639,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "dc23cdeefe773f13",
@@ -9757,7 +9738,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "2c4a37d66c59a5e8",
@@ -9961,7 +9942,7 @@
     "id": "4dd3c0019e9fa00a",
     "title": "Dipl. Pflegefachfrau/-mann HF/FH Demenzbetreuung 60% für die Region Dietikon gesucht",
     "company": "Job-Room",
-    "location": "Dietikon, Switzerland / Zürich, Switzerland",
+    "location": "Dietikon, Switzerland",
     "country": "CH",
     "url": "https://www.adzuna.ch/details/5852444875?utm_medium=api&utm_source=ceaf5c9d",
     "source": "adzuna",
@@ -11250,7 +11231,7 @@
     "company": "MÜNCHENSTIFT GmbH",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455615?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=655F545D85C85AE60D6FE05A01FE8C2E41D2EE73",
+    "url": "https://www.adzuna.de/land/ad/5852455615?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=655F545D85C85AE60D6FE05A01FE8C2E41D2EE73",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11283,7 +11264,7 @@
     "company": "Hospiz St. Martin",
     "location": "Degerloch, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455596?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6236E14890001798FA1D5DCDDE86A2E917D6EBCC",
+    "url": "https://www.adzuna.de/land/ad/5852455596?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6236E14890001798FA1D5DCDDE86A2E917D6EBCC",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11316,7 +11297,7 @@
     "company": "Ev. Kreiskirchenamt Weser-Werre-Wiehen",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455570?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=10974EB66B8503A918B67D3A45E7454FE593B3B8",
+    "url": "https://www.adzuna.de/land/ad/5852455570?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=10974EB66B8503A918B67D3A45E7454FE593B3B8",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11349,7 +11330,7 @@
     "company": "KIRINUS Health GmbH",
     "location": "Augsburg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455559?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=ABEF84ECE18B422C6DADBD5353F4CB18F564B3D0",
+    "url": "https://www.adzuna.de/land/ad/5852455559?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=ABEF84ECE18B422C6DADBD5353F4CB18F564B3D0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11382,7 +11363,7 @@
     "company": "Studierendenwerk Stuttgart Anstalt des öffentlichen Rechts",
     "location": "Mitte, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455516?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=8222C3BF466F31BB1FECD18FA9A8B7D4408E30D0",
+    "url": "https://www.adzuna.de/land/ad/5852455516?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=8222C3BF466F31BB1FECD18FA9A8B7D4408E30D0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11415,7 +11396,7 @@
     "company": "Universität Passau",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455517?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3A38B8749787ED06A35F4E8317B5D813EF8B900E",
+    "url": "https://www.adzuna.de/land/ad/5852455517?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3A38B8749787ED06A35F4E8317B5D813EF8B900E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11448,7 +11429,7 @@
     "company": "MEDIA MARKT TV-HiFi-Elektro GmbH Sindelfingen",
     "location": "Sindelfingen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455488?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3A57AFABE54249695476668E9755E28AB1AC0147",
+    "url": "https://www.adzuna.de/land/ad/5852455488?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3A57AFABE54249695476668E9755E28AB1AC0147",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11481,7 +11462,7 @@
     "company": "B.Braun Deutschland GmbH & Co. KG",
     "location": "Mecklenburg-Vorpommern, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455480?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=A91209882EF4E245E941CF536EBB71E90D3AE9F1",
+    "url": "https://www.adzuna.de/land/ad/5852455480?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=A91209882EF4E245E941CF536EBB71E90D3AE9F1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11514,7 +11495,7 @@
     "company": "Pflege zu Hause Küffel über ABD Media GmbH",
     "location": "Erfurt, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455478?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=7A366B10873DC537332EAA4D72853008C3B3FDB0",
+    "url": "https://www.adzuna.de/land/ad/5852455478?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=7A366B10873DC537332EAA4D72853008C3B3FDB0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11547,7 +11528,7 @@
     "company": "flaschenpost SE",
     "location": "Hannover, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455463?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6F39A5A4202DB973A522D6BFA980752B4B5D9D90",
+    "url": "https://www.adzuna.de/land/ad/5852455463?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6F39A5A4202DB973A522D6BFA980752B4B5D9D90",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11580,7 +11561,7 @@
     "company": "Bayerisches Rotes Kreuz Kreisverband Regensburg",
     "location": "Galgenberg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455420?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=76EA6F1AC7A2C0C00C1ABBFE427850126E689116",
+    "url": "https://www.adzuna.de/land/ad/5852455420?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=76EA6F1AC7A2C0C00C1ABBFE427850126E689116",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11613,7 +11594,7 @@
     "company": "IBC SOLAR AG",
     "location": "Bad Staffelstein, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455398?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=AED19C359DD525FAF7E7FBB366048B1C8DD77D9B",
+    "url": "https://www.adzuna.de/land/ad/5852455398?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=AED19C359DD525FAF7E7FBB366048B1C8DD77D9B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11646,7 +11627,7 @@
     "company": "TROX SE",
     "location": "Isselburg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455407?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6555530A7A01FFB74A7559C8C8C1B728F822D7D7",
+    "url": "https://www.adzuna.de/land/ad/5852455407?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6555530A7A01FFB74A7559C8C8C1B728F822D7D7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11679,7 +11660,7 @@
     "company": "Dr. Beckmann Group",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455414?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=5F9BC93291BA7D12C5E4C8B57B9C28E7DED4B533",
+    "url": "https://www.adzuna.de/land/ad/5852455414?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=5F9BC93291BA7D12C5E4C8B57B9C28E7DED4B533",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11712,7 +11693,7 @@
     "company": "Schleswig-Holsteinische Landesforsten AöR",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455399?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=4DAE7106CED6C2EB70161B4DF8403271ED7572CC",
+    "url": "https://www.adzuna.de/land/ad/5852455399?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=4DAE7106CED6C2EB70161B4DF8403271ED7572CC",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11745,7 +11726,7 @@
     "company": "Landesbetrieb Straßenbau Nordrhein-Westfalen ",
     "location": "Feldmark, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455403?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=485C22430B0F5D68CAF90F1C0AC99969C903047B",
+    "url": "https://www.adzuna.de/land/ad/5852455403?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=485C22430B0F5D68CAF90F1C0AC99969C903047B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11778,7 +11759,7 @@
     "company": "AFT Automatisierungs- und Fördertechnik GmbH & Co.KG",
     "location": "Schopfheim, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455404?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=9EE3320BBC95C872EE8C3E71098B211E3492F9AF",
+    "url": "https://www.adzuna.de/land/ad/5852455404?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=9EE3320BBC95C872EE8C3E71098B211E3492F9AF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11811,7 +11792,7 @@
     "company": "Hensoldt",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455412?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=4AD3756DF220DB1407B9BF0A00DD8274C1C24D34",
+    "url": "https://www.adzuna.de/land/ad/5852455412?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=4AD3756DF220DB1407B9BF0A00DD8274C1C24D34",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11844,7 +11825,7 @@
     "company": "Behörde für Kultur und Medien",
     "location": "Neustadt, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455422?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=9534B34943E678ABCEFAAF065CEBCE398E4A9547",
+    "url": "https://www.adzuna.de/land/ad/5852455422?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=9534B34943E678ABCEFAAF065CEBCE398E4A9547",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11877,7 +11858,7 @@
     "company": "Dr. Becker Klinik Juliana",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455421?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=5D576D1D7B7CF36DFBF21717E063036FA462D0DD",
+    "url": "https://www.adzuna.de/land/ad/5852455421?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=5D576D1D7B7CF36DFBF21717E063036FA462D0DD",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11910,7 +11891,7 @@
     "company": "Dr. Becker Klinik Juliana",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455413?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=4D890CE384ED5ABFED7268CAFC38404306234E75",
+    "url": "https://www.adzuna.de/land/ad/5852455413?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=4D890CE384ED5ABFED7268CAFC38404306234E75",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11943,7 +11924,7 @@
     "company": "Westerwaldklinik Waldbreitbach gGmbH",
     "location": "Bremscheid, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455395?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=DD4C77D7136A2DCA005E9EAAE928025D39FA52FF",
+    "url": "https://www.adzuna.de/land/ad/5852455395?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=DD4C77D7136A2DCA005E9EAAE928025D39FA52FF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -11976,7 +11957,7 @@
     "company": "Dr. Becker Klinik Juliana",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455417?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3D367D0730F21EF684EB520580A2DC04B684AA7C",
+    "url": "https://www.adzuna.de/land/ad/5852455417?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3D367D0730F21EF684EB520580A2DC04B684AA7C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12009,7 +11990,7 @@
     "company": "Landesbetrieb Straßenbau Nordrhein-Westfalen ",
     "location": "Netphen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455406?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=1F12663D798CE4F984C21C83C87995597DA76859",
+    "url": "https://www.adzuna.de/land/ad/5852455406?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=1F12663D798CE4F984C21C83C87995597DA76859",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12042,7 +12023,7 @@
     "company": "STRABAG AG",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455425?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=38DC56871C9D11BD502C0445DE6B7CF34A25FD5E",
+    "url": "https://www.adzuna.de/land/ad/5852455425?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=38DC56871C9D11BD502C0445DE6B7CF34A25FD5E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12075,7 +12056,7 @@
     "company": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455402?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=AD356AFA5EE4FBE346B42E2B1DDCE420EB65F171",
+    "url": "https://www.adzuna.de/land/ad/5852455402?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=AD356AFA5EE4FBE346B42E2B1DDCE420EB65F171",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12108,7 +12089,7 @@
     "company": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455411?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=573FCA3203B400CF307CCC576BA5EA1BE5110244",
+    "url": "https://www.adzuna.de/land/ad/5852455411?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=573FCA3203B400CF307CCC576BA5EA1BE5110244",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12141,7 +12122,7 @@
     "company": "Hensoldt",
     "location": "Ulm, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455426?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=EE141A6BA06DBB43143E093A7DE4F4DE8AD28029",
+    "url": "https://www.adzuna.de/land/ad/5852455426?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=EE141A6BA06DBB43143E093A7DE4F4DE8AD28029",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12174,7 +12155,7 @@
     "company": "Hensoldt",
     "location": "Ulm, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455369?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=C4EAAB6C1BE638A13BE71C391654819A74007603",
+    "url": "https://www.adzuna.de/land/ad/5852455369?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=C4EAAB6C1BE638A13BE71C391654819A74007603",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12207,7 +12188,7 @@
     "company": "PHT Partner für Hygiene und Technologie GmbH",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455381?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=497BBCC9E41088EF8E4304316EF4496A446CDC24",
+    "url": "https://www.adzuna.de/land/ad/5852455381?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=497BBCC9E41088EF8E4304316EF4496A446CDC24",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12240,7 +12221,7 @@
     "company": "Model GmbH",
     "location": "Bad Bentheim, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455364?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=A6BA62B63034CB14FA1E02184DDBEAF89587CAAF",
+    "url": "https://www.adzuna.de/land/ad/5852455364?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=A6BA62B63034CB14FA1E02184DDBEAF89587CAAF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12273,7 +12254,7 @@
     "company": "Bundesamt für Verfassungsschutz",
     "location": "Köln, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455355?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6EBDF2E075B9869F520043FBE6FA6EF2352C9C85",
+    "url": "https://www.adzuna.de/land/ad/5852455355?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6EBDF2E075B9869F520043FBE6FA6EF2352C9C85",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12306,7 +12287,7 @@
     "company": "PHS group",
     "location": "St. Wendel, Germany / Heppenheim, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455388?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=8E29B4062DD1221EA37C713649B665EB61AAC794",
+    "url": "https://www.adzuna.de/land/ad/5852455388?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=8E29B4062DD1221EA37C713649B665EB61AAC794",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12339,7 +12320,7 @@
     "company": "Evangelische Gesamtkirchengemeinde Ulm",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455374?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6B45451514F8804D11B5A374AA4A554A0480CC95",
+    "url": "https://www.adzuna.de/land/ad/5852455374?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6B45451514F8804D11B5A374AA4A554A0480CC95",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12372,7 +12353,7 @@
     "company": "Max Rubner-Institut",
     "location": "Karlsruhe, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455392?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=8219ED7BE8ADB597424FDFC43A5331465A4AE762",
+    "url": "https://www.adzuna.de/land/ad/5852455392?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=8219ED7BE8ADB597424FDFC43A5331465A4AE762",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12405,7 +12386,7 @@
     "company": "Wasserstraßen-Neubauamt Heidelberg",
     "location": "Heidelberg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455370?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=1D44B4B280A2A8F4B8E07ABB7AE4CA78F7C4747A",
+    "url": "https://www.adzuna.de/land/ad/5852455370?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=1D44B4B280A2A8F4B8E07ABB7AE4CA78F7C4747A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12438,7 +12419,7 @@
     "company": "Regierungspräsidium Tübingen",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455393?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=79F8B6A1A19573D7779AAE5C6462846B44BAF23C",
+    "url": "https://www.adzuna.de/land/ad/5852455393?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=79F8B6A1A19573D7779AAE5C6462846B44BAF23C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12471,7 +12452,7 @@
     "company": "navacom IT Solutions GmbH & Co. KG",
     "location": "Hürth, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455383?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3E33F4E16522ED7F6F49AE3E95B766D027C8326B",
+    "url": "https://www.adzuna.de/land/ad/5852455383?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3E33F4E16522ED7F6F49AE3E95B766D027C8326B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12504,7 +12485,7 @@
     "company": "Klinikum Landkreis Tuttlingen gGmbH",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852455360?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=2F40BFE9149BA04B0AB64CB197D916EE78DE2BA9",
+    "url": "https://www.adzuna.de/land/ad/5852455360?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=2F40BFE9149BA04B0AB64CB197D916EE78DE2BA9",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12562,7 +12543,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "93cdfbbbf368b5f3",
@@ -12595,7 +12576,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "c1a161841f565521",
@@ -12628,7 +12609,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "a6333fd7354cf9ab",
@@ -12661,7 +12642,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "855afd7696dac3ff",
@@ -12694,7 +12675,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9b294408c5b62c83",
@@ -12727,7 +12708,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "20b8c95277434ef6",
@@ -12760,7 +12741,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "837366c60c1aeac4",
@@ -12793,7 +12774,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "1c7b583c8552979a",
@@ -12826,7 +12807,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "3c374ae5282e9987",
@@ -13228,7 +13209,7 @@
     "id": "6b46ce076e128dc2",
     "title": "Initiativbewerbung – Gestalte deine Karriere mit System und Perspektive (m/w/d) (German Speaking)",
     "company": "Gerhard Fehrenbach",
-    "location": "Innsbruck, Austria +5 more locations",
+    "location": "Innsbruck, Austria +4 more locations",
     "country": "AT",
     "url": "https://www.adzuna.at/details/5852402969?utm_medium=api&utm_source=ceaf5c9d",
     "source": "adzuna",
@@ -13288,7 +13269,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "94bb16a180ca7578",
@@ -13321,7 +13302,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d1196d222a99a953",
@@ -13354,7 +13335,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "765c6d5f630d506d",
@@ -13387,7 +13368,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b6cb6e77ebf1625b",
@@ -13420,7 +13401,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "58d3548830233045",
@@ -13453,7 +13434,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "bb1caa2dba0b8c76",
@@ -13486,7 +13467,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9ff3bd81d72e8124",
@@ -13519,7 +13500,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "698f6109d20251b4",
@@ -13552,7 +13533,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9d03643f7f4ac879",
@@ -13585,7 +13566,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "fd3b2c3ae88b2fd2",
@@ -13618,7 +13599,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "553c739eefc20f7d",
@@ -13651,7 +13632,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "27be4694fd148a36",
@@ -13684,7 +13665,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "bf830822623ad1b4",
@@ -13717,7 +13698,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "e9d3ef57a2d8cf2e",
@@ -13750,7 +13731,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d26e22d2bf71fb53",
@@ -13783,7 +13764,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "a3df94933cf9c429",
@@ -13816,7 +13797,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "01d0da915a05d50c",
@@ -13849,7 +13830,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "bd9fa4b0e0bdb406",
@@ -13882,7 +13863,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "257a8b15499bc215",
@@ -13915,7 +13896,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b7c328921b9827a3",
@@ -13948,7 +13929,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5595c015ac6036df",
@@ -13981,7 +13962,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "d010ad679e4ceb9e",
@@ -14014,7 +13995,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "9a81cc1d3f7fe6ac",
@@ -14047,7 +14028,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "7b04c797d5fc68b1",
@@ -14080,7 +14061,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5f5f30edd1aecf3e",
@@ -14113,7 +14094,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "6580eb772a257d5b",
@@ -15771,7 +15752,7 @@
     "company": "Capgemini",
     "location": "Katowice, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444246?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=CCA1423442E4AF3F75976FD93DF040556FAFC4D7",
+    "url": "https://www.adzuna.pl/land/ad/5852444246?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=CCA1423442E4AF3F75976FD93DF040556FAFC4D7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15804,7 +15785,7 @@
     "company": "T-Mobile",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444163?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=874637B2447AA10FACA72A4D66CB8CB4C2DAFF2B",
+    "url": "https://www.adzuna.pl/land/ad/5852444163?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=874637B2447AA10FACA72A4D66CB8CB4C2DAFF2B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15837,7 +15818,7 @@
     "company": "Fabrity S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444168?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=4DC39A72709F228655D0899E42E3F872CABF2063",
+    "url": "https://www.adzuna.pl/land/ad/5852444168?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=4DC39A72709F228655D0899E42E3F872CABF2063",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15870,7 +15851,7 @@
     "company": "Asseco Poland S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444189?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=0720E1AA4A41F3739D7F99D85BC15DA81D4F57DB",
+    "url": "https://www.adzuna.pl/land/ad/5852444189?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=0720E1AA4A41F3739D7F99D85BC15DA81D4F57DB",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15903,7 +15884,7 @@
     "company": "emagine Polska",
     "location": "Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444097?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=191ED5B11D1937E2E2838C7A2490B5BFB8AC6BDF",
+    "url": "https://www.adzuna.pl/land/ad/5852444097?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=191ED5B11D1937E2E2838C7A2490B5BFB8AC6BDF",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15936,7 +15917,7 @@
     "company": "emagine Polska",
     "location": "Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444095?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=3267CEBFA3DBB68DD6B60BEBDFCA30D99B3B1938",
+    "url": "https://www.adzuna.pl/land/ad/5852444095?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3267CEBFA3DBB68DD6B60BEBDFCA30D99B3B1938",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -15969,7 +15950,7 @@
     "company": "ITDS",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444091?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=A82FB44828C0B2FC9AD3EF24DC1F934BC3303C80",
+    "url": "https://www.adzuna.pl/land/ad/5852444091?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=A82FB44828C0B2FC9AD3EF24DC1F934BC3303C80",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16002,7 +15983,7 @@
     "company": "emagine Polska",
     "location": "Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444094?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=3A59D3BB2D8D47B72EF923E68CF7D2897400C716",
+    "url": "https://www.adzuna.pl/land/ad/5852444094?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3A59D3BB2D8D47B72EF923E68CF7D2897400C716",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16035,7 +16016,7 @@
     "company": "speedapp",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444072?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=7E53062CCA3244A4023F8D496B2702EFF1CD286E",
+    "url": "https://www.adzuna.pl/land/ad/5852444072?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=7E53062CCA3244A4023F8D496B2702EFF1CD286E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16068,7 +16049,7 @@
     "company": "B2Bnetwork",
     "location": "Katowice, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852444004?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=87A0B2014C722D175528BBA5A6E1ECEABADB1F54",
+    "url": "https://www.adzuna.pl/land/ad/5852444004?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=87A0B2014C722D175528BBA5A6E1ECEABADB1F54",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16101,7 +16082,7 @@
     "company": "XTB S.A.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443995?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=314ED75850C451DDF1106C61E14F6E1AB16BA32A",
+    "url": "https://www.adzuna.pl/land/ad/5852443995?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=314ED75850C451DDF1106C61E14F6E1AB16BA32A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16134,7 +16115,7 @@
     "company": "Connectis",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443907?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=2188719D841D64D4E0001183402731D5CDB48707",
+    "url": "https://www.adzuna.pl/land/ad/5852443907?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=2188719D841D64D4E0001183402731D5CDB48707",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16167,7 +16148,7 @@
     "company": "Shimi Sp. z o.o.",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443896?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=CEC1A019BD6A30958DB937563983707982A10F84",
+    "url": "https://www.adzuna.pl/land/ad/5852443896?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=CEC1A019BD6A30958DB937563983707982A10F84",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16200,7 +16181,7 @@
     "company": "Crestt",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443910?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=26C42CD95C95E2B6F602BD728B411A65C7986504",
+    "url": "https://www.adzuna.pl/land/ad/5852443910?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=26C42CD95C95E2B6F602BD728B411A65C7986504",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16233,7 +16214,7 @@
     "company": "DCG",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443912?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=D360042CA73F315DF6865FE51B2B131E0102BBE2",
+    "url": "https://www.adzuna.pl/land/ad/5852443912?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=D360042CA73F315DF6865FE51B2B131E0102BBE2",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16266,7 +16247,7 @@
     "company": "Kuehne+Nagel",
     "location": "Wrocław, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443592?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=74588A3FB871312DA8F3B13CDE5EE58C9CEC8D64",
+    "url": "https://www.adzuna.pl/land/ad/5852443592?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=74588A3FB871312DA8F3B13CDE5EE58C9CEC8D64",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16299,7 +16280,7 @@
     "company": "Ledgebrook Insurance",
     "location": "Gdynia, Poland +2 more locations",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443612?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=3CCF4A9511B188503E8595F39961CDF2D9915FE2",
+    "url": "https://www.adzuna.pl/land/ad/5852443612?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3CCF4A9511B188503E8595F39961CDF2D9915FE2",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16332,7 +16313,7 @@
     "company": "Kuehne+Nagel",
     "location": "Wrocław, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443588?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=AA5BFD1CB8B06AB954D645603EADFBCDD2415FCB",
+    "url": "https://www.adzuna.pl/land/ad/5852443588?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=AA5BFD1CB8B06AB954D645603EADFBCDD2415FCB",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16365,7 +16346,7 @@
     "company": "Vistex Poland-CEE",
     "location": "Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443584?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=873288B1621053FD10155B1B5E4F41C0B33AAD11",
+    "url": "https://www.adzuna.pl/land/ad/5852443584?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=873288B1621053FD10155B1B5E4F41C0B33AAD11",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16398,7 +16379,7 @@
     "company": "ITDS",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443586?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=CDE2075BB6A645DBF0B134FAF6D4615757501239",
+    "url": "https://www.adzuna.pl/land/ad/5852443586?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=CDE2075BB6A645DBF0B134FAF6D4615757501239",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16431,7 +16412,7 @@
     "company": "ITDS",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443533?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=2654D763F4D0AA1EDB25E1A3188D9B03D67BBBD7",
+    "url": "https://www.adzuna.pl/land/ad/5852443533?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=2654D763F4D0AA1EDB25E1A3188D9B03D67BBBD7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16464,7 +16445,7 @@
     "company": "dmTECH Polska",
     "location": "Warszawa, Poland / Łódź, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443520?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=049CFF945DE729346018338CC3549392CBD06E8D",
+    "url": "https://www.adzuna.pl/land/ad/5852443520?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=049CFF945DE729346018338CC3549392CBD06E8D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16497,7 +16478,7 @@
     "company": "INFOPLUS TECHNOLOGIES",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443528?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=0903F819BCA15F834FCFD7144A68C70700705E1A",
+    "url": "https://www.adzuna.pl/land/ad/5852443528?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=0903F819BCA15F834FCFD7144A68C70700705E1A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16530,7 +16511,7 @@
     "company": "Neontri",
     "location": "Warszawa, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852443504?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=4843FB9A55FC57B4E09633FB8A17350DD1473478",
+    "url": "https://www.adzuna.pl/land/ad/5852443504?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=4843FB9A55FC57B4E09633FB8A17350DD1473478",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16563,7 +16544,7 @@
     "company": "Andersen",
     "location": "Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852442837?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=757438CCB0EB5B24015B418668780F6DD121C875",
+    "url": "https://www.adzuna.pl/land/ad/5852442837?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=757438CCB0EB5B24015B418668780F6DD121C875",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -16596,7 +16577,7 @@
     "company": "Antal Sp. z o.o.",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5852442345?se=vsBCxB-e8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=AD99E97DBCBD09971C5AB7ED54FAEC7163B131D2",
+    "url": "https://www.adzuna.pl/land/ad/5852442345?se=pNLZPSGe8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=AD99E97DBCBD09971C5AB7ED54FAEC7163B131D2",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17223,7 +17204,7 @@
     "company": "Kaufland",
     "location": "Lindau (Bodensee), Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467920?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=09CB9E598E11E8CF16886C622C2A5CE556807D7B",
+    "url": "https://www.adzuna.de/land/ad/5852467920?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=09CB9E598E11E8CF16886C622C2A5CE556807D7B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17256,7 +17237,7 @@
     "company": "Kaufland",
     "location": "Möckmühl, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467921?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=3E5650C0D9E34A70D653BCBA23EE4E395F2DC5F1",
+    "url": "https://www.adzuna.de/land/ad/5852467921?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3E5650C0D9E34A70D653BCBA23EE4E395F2DC5F1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17289,7 +17270,7 @@
     "company": "Kaufland",
     "location": "Herrenberg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467919?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6A052D972E288660F26EE88A6670CB487E16DBF6",
+    "url": "https://www.adzuna.de/land/ad/5852467919?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6A052D972E288660F26EE88A6670CB487E16DBF6",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17322,7 +17303,7 @@
     "company": "Kaufland",
     "location": "Geisenfeld, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467916?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=68DC440D143907AA8FCA76F28B114E4FD60BD133",
+    "url": "https://www.adzuna.de/land/ad/5852467916?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=68DC440D143907AA8FCA76F28B114E4FD60BD133",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17355,7 +17336,7 @@
     "company": "Jobiqo",
     "location": "Seeon-Seebruck, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467918?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=FB806776D0857CA43B7B9C05BDFB44FCBD950E22",
+    "url": "https://www.adzuna.de/land/ad/5852467918?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=FB806776D0857CA43B7B9C05BDFB44FCBD950E22",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17388,7 +17369,7 @@
     "company": "Kaufland",
     "location": "Zossen, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467906?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=23B46AF922D98594A2A37D74CA21426528B32D73",
+    "url": "https://www.adzuna.de/land/ad/5852467906?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=23B46AF922D98594A2A37D74CA21426528B32D73",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17421,7 +17402,7 @@
     "company": "Stuttgarter Lebensversicherung a.G.",
     "location": "Stuttgart, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467904?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=6C9D0733E738AB43538CD635F1F7993C15B56A74",
+    "url": "https://www.adzuna.de/land/ad/5852467904?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=6C9D0733E738AB43538CD635F1F7993C15B56A74",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17454,7 +17435,7 @@
     "company": "Klinik am Birkenwald GmbH",
     "location": "Nürnberg, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467905?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=64A33EDD4B80B01A28C0AC5FA93C755036740340",
+    "url": "https://www.adzuna.de/land/ad/5852467905?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=64A33EDD4B80B01A28C0AC5FA93C755036740340",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17487,7 +17468,7 @@
     "company": "Praxis für Ergotherapie & Handrehabilitation Karl Schwarzmeier",
     "location": "Bad Nauheim, Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5852467903?se=QnfswR-e8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=5F6255E767BD038FE0DF08E7CB970F97963EA93B",
+    "url": "https://www.adzuna.de/land/ad/5852467903?se=wjLDMCGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=5F6255E767BD038FE0DF08E7CB970F97963EA93B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17520,7 +17501,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470374?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=F34F00C21C9B80A163B6A7626A2388E75626FF81",
+    "url": "https://www.adzuna.nl/land/ad/5852470374?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=F34F00C21C9B80A163B6A7626A2388E75626FF81",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17553,7 +17534,7 @@
     "company": "Effect",
     "location": "Doetinchem, Netherlands +3 more locations",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470279?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=097B76677B7F8B1B7EEBDD58F0AA329720F9CCE6",
+    "url": "https://www.adzuna.nl/land/ad/5852470279?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=097B76677B7F8B1B7EEBDD58F0AA329720F9CCE6",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17584,9 +17565,9 @@
     "id": "b16d67c1880bae99",
     "title": "Grondwerker | Dutch speaking only",
     "company": "Effect",
-    "location": "Hengelo, Netherlands",
+    "location": "Hengelo, Netherlands / Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470298?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=D79A42B3F40E537E670A7660565AED92978CD18E",
+    "url": "https://www.adzuna.nl/land/ad/5852470298?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=D79A42B3F40E537E670A7660565AED92978CD18E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17619,7 +17600,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470245?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=F1BC15609E8557F0C633B55BBB00E828E59386D1",
+    "url": "https://www.adzuna.nl/land/ad/5852470245?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=F1BC15609E8557F0C633B55BBB00E828E59386D1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17650,9 +17631,9 @@
     "id": "d82d05cb1d7833db",
     "title": "Productiemedewerker | Dutch speaking only",
     "company": "Effect",
-    "location": "Neede, Netherlands",
+    "location": "Neede, Netherlands / Nieuw-Amsterdam, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470312?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=E8FC15F35E9AD42D8F1ADB89C95C13C7077A9019",
+    "url": "https://www.adzuna.nl/land/ad/5852470312?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=E8FC15F35E9AD42D8F1ADB89C95C13C7077A9019",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17685,7 +17666,7 @@
     "company": "Effect",
     "location": "Rijssen, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470223?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=2A5BEEC051712F3D62E7470A2AD4EDD32EC91978",
+    "url": "https://www.adzuna.nl/land/ad/5852470223?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=2A5BEEC051712F3D62E7470A2AD4EDD32EC91978",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17718,7 +17699,7 @@
     "company": "Effect",
     "location": "Groenlo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470229?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=0C74BDF51B4D3E5AD5456BC11918E668136CF6C0",
+    "url": "https://www.adzuna.nl/land/ad/5852470229?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=0C74BDF51B4D3E5AD5456BC11918E668136CF6C0",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17751,7 +17732,7 @@
     "company": "Effect",
     "location": "Lichtenvoorde, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470104?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=58E552E00888497DF284A6FB77518F0E31FF3F3C",
+    "url": "https://www.adzuna.nl/land/ad/5852470104?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=58E552E00888497DF284A6FB77518F0E31FF3F3C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17784,7 +17765,7 @@
     "company": "Effect",
     "location": "Enschede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470059?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=31C3FF485BE10AAFCC12147D10902946C792281B",
+    "url": "https://www.adzuna.nl/land/ad/5852470059?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=31C3FF485BE10AAFCC12147D10902946C792281B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17817,7 +17798,7 @@
     "company": "Effect",
     "location": "Oldenzaal, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470090?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=360B8CA0B358B5731F2A1F744DC8E8BC47C914E9",
+    "url": "https://www.adzuna.nl/land/ad/5852470090?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=360B8CA0B358B5731F2A1F744DC8E8BC47C914E9",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17850,7 +17831,7 @@
     "company": "Effect",
     "location": "Oldenzaal, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470098?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=FBD333016DA6D589E5A84AA8FBE05CDB3A3EBD9D",
+    "url": "https://www.adzuna.nl/land/ad/5852470098?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=FBD333016DA6D589E5A84AA8FBE05CDB3A3EBD9D",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17881,9 +17862,9 @@
     "id": "42e3a0d4c9882232",
     "title": "Montagemedewerker prefab | Dutch speaking only",
     "company": "Effect",
-    "location": "Almelo, Netherlands",
+    "location": "Almelo, Netherlands / Raalte, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469959?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=741A95EF086804C56B46A033C8E1C6567DACC81E",
+    "url": "https://www.adzuna.nl/land/ad/5852469959?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=741A95EF086804C56B46A033C8E1C6567DACC81E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17916,7 +17897,7 @@
     "company": "Effect",
     "location": "Enschede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469993?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=A34FAF19EDEBB10DA2F6DEAAD1A85B9CB0AE66C7",
+    "url": "https://www.adzuna.nl/land/ad/5852469993?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=A34FAF19EDEBB10DA2F6DEAAD1A85B9CB0AE66C7",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17949,7 +17930,7 @@
     "company": "Effect",
     "location": "Neede, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852470025?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=45AFF57C199C130DD616991F8281B7F73DCF8D5C",
+    "url": "https://www.adzuna.nl/land/ad/5852470025?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=45AFF57C199C130DD616991F8281B7F73DCF8D5C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -17982,7 +17963,7 @@
     "company": "Effect",
     "location": "Losser, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469875?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=CDAE82B9299008F54CA35D683B98D6699D6ACE66",
+    "url": "https://www.adzuna.nl/land/ad/5852469875?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=CDAE82B9299008F54CA35D683B98D6699D6ACE66",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18015,7 +17996,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469940?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=14E55889E67FB8A78160FB5669A3F8DE0CB42D2E",
+    "url": "https://www.adzuna.nl/land/ad/5852469940?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=14E55889E67FB8A78160FB5669A3F8DE0CB42D2E",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18048,7 +18029,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469899?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=52BE16426857AB5F8EDBB1376FEAF7FB805B162A",
+    "url": "https://www.adzuna.nl/land/ad/5852469899?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=52BE16426857AB5F8EDBB1376FEAF7FB805B162A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18081,7 +18062,7 @@
     "company": "Effect",
     "location": "Hardenberg, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469918?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=07BA941C26D65CBE1683A43D7FE112835984CA38",
+    "url": "https://www.adzuna.nl/land/ad/5852469918?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=07BA941C26D65CBE1683A43D7FE112835984CA38",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18114,7 +18095,7 @@
     "company": "Effect",
     "location": "Ootmarsum, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469896?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=77B42046AECFE71379B338B12DFC265362228DAC",
+    "url": "https://www.adzuna.nl/land/ad/5852469896?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=77B42046AECFE71379B338B12DFC265362228DAC",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18147,7 +18128,7 @@
     "company": "Effect",
     "location": "Emmer-Compascuum, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469834?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=691F70E1AD4F7943DAD81C05901CF84F67AF0296",
+    "url": "https://www.adzuna.nl/land/ad/5852469834?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=691F70E1AD4F7943DAD81C05901CF84F67AF0296",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18180,7 +18161,7 @@
     "company": "Effect",
     "location": "Almelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469814?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=FD8C25C551E27C143709EE1F27C98BDE479A9C51",
+    "url": "https://www.adzuna.nl/land/ad/5852469814?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=FD8C25C551E27C143709EE1F27C98BDE479A9C51",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18213,7 +18194,7 @@
     "company": "Effect",
     "location": "Hengelo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469864?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=BE721A055DBE99AAD038166CF9EF50D2DD6EBC32",
+    "url": "https://www.adzuna.nl/land/ad/5852469864?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=BE721A055DBE99AAD038166CF9EF50D2DD6EBC32",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18246,7 +18227,7 @@
     "company": "Effect",
     "location": "Dinxperlo, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469792?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=A8484DE4441888E666B633B660A14C708B030531",
+    "url": "https://www.adzuna.nl/land/ad/5852469792?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=A8484DE4441888E666B633B660A14C708B030531",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18279,7 +18260,7 @@
     "company": "Effect",
     "location": "Vriezenveen, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469761?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=9EDA63188429959BBFBCF4BCE4C19930A304560A",
+    "url": "https://www.adzuna.nl/land/ad/5852469761?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=9EDA63188429959BBFBCF4BCE4C19930A304560A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18312,7 +18293,7 @@
     "company": "Effect",
     "location": "Duiven, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469778?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=5073F96E68FDB64CB0085F4F0A2B8B8043304032",
+    "url": "https://www.adzuna.nl/land/ad/5852469778?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=5073F96E68FDB64CB0085F4F0A2B8B8043304032",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18345,7 +18326,7 @@
     "company": "Effect",
     "location": "Lemelerveld, Netherlands",
     "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5852469752?se=MNkTwx-e8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=4967F468BCA44B48F538244FF4145ABA0B461E6A",
+    "url": "https://www.adzuna.nl/land/ad/5852469752?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=4967F468BCA44B48F538244FF4145ABA0B461E6A",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -18403,7 +18384,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "c525883f1925c4e9",
@@ -18436,7 +18417,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "ddcc1e426bd9b960",
@@ -18469,7 +18450,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "bebc17ffc35252ab",
@@ -18502,7 +18483,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "bf7d0a3b10ffc022",
@@ -18535,7 +18516,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "206537fb52e0a485",
@@ -18568,7 +18549,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "fa7a215d0f4f1649",
@@ -18601,7 +18582,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "c57cc4387eedc132",
@@ -18634,7 +18615,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "0efd36a95640c7b4",
@@ -18667,7 +18648,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "db3190c54c1ec613",
@@ -18700,7 +18681,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "a6d088ea072759e6",
@@ -18733,7 +18714,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "1ebd0d69d1a1ac10",
@@ -18766,7 +18747,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "5c2e2b5188636fa4",
@@ -18799,7 +18780,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "89ba2561abf0ce97",
@@ -18832,7 +18813,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "1813caf23116c03d",
@@ -18865,7 +18846,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "62db0f51b9d7fffa",
@@ -18898,7 +18879,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "e573fe25ed33d501",
@@ -18931,7 +18912,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "4b3408efa5f0950d",
@@ -18964,7 +18945,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "a31239115d4d5ddb",
@@ -18997,7 +18978,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "5b2224ad457bc10e",
@@ -19030,7 +19011,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "df0f8304514a6ba2",
@@ -19063,7 +19044,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "149bf5e042a6c942",
@@ -20833,6 +20814,633 @@
     "salary_inr": "not stated",
     "employment_type": "not stated",
     "description": "Join Proton and build a better internet where privacy is the default At Proton, we believe that privacy is a fundamental human right and the cornerstone of democracy. Since our inception in 2014, founded by a team of scientists from CERN, we have dedicated ourselves to providing free and open-source technology to millions worldwide, ensuring access to privacy, security, and freedom online. Our journey began with Proton Mail, the largest secure email service globally, and has since expanded to include Proton VPN, Proton Calendar, Proton Drive, and Proton Pass. These tools empower individuals and organizations to take control of their personal data, break away from Big Tech’s invasive practices, and defeat censorship. Our work impacts hundreds of millions of lives, from activists on the front lines defending freedom to leaders in governments protecting sensitive information. In some cases, Proton’s services have even been instrumental in saving lives by enabling secure and private communications in high-risk situations. Proton is a profitable company that does not rely upon VC funding, supporting over 100 million user accounts with a growing team of over 500 people from over 50 different countries, from the world's top companies and universities. We value intelligence, learning potential, and ambition in our hiring process. Adaptability is key as we navigate uncharted territories and redefine how business is conducted online. Hiring at Proton is highly selective, with less than 1% of candidates hired. We believe smaller teams of exceptional talent will always prevail over larger teams with lower talent density. You will have the opportunity work with many of the world's top minds in their fields, ranging from former international math and science olympiad winners to chess champions. We have a global mindset and big ambitions but remain a start-up at heart. We value empowerment and flexibility and keep our structure flat to keep moving fast and avoid unnecessary politics. Tired of blending into the crowd? Join us and do work you can truly be proud of.&nbsp; Check our&nbsp; open-source&nbsp; projects&nbsp; here ! The Team: We’re looking for a visionary security professional who combines deep expertise with genuine passion; to drive meaningful change across our growing organisation. This role sits at the heart of what Proton stands for and fulfills the trust our users place in us&nbsp;every day. You’ll be encouraged to challenge the status quo, innovate efficiently, and collaborate daily with some of the brightest minds who truly care about protecting privacy and building secure products. Tech Stack and Tools: Proton currently offers the following products: Mail, Calendar, VPN, Pass, Drive, each of which is available on multiple platforms, including Windows, MacOS, iOS and Linux.&nbsp; Our infrastructure is entirely composed of Linux machines.&nbsp; Wherever we can, we make use of open-source technologies. About the role: You will be leading our efforts to ensure that Proton's applications are secure What you will be doing: Set the north star&nbsp;– Define a compelling vision and roadmap for product security that inspires the whole organisation. Build the function – Find the best people to work with you and build your dream product security team Be the go-to hero-in&nbsp;– Serve as go-to person for product security across the entire company, influencing strategy, design, and delivery. Architect secure products&nbsp;– Partner with product managers, designers, and developers to embed security from day one, turning risk-aware thinking into a habit. Create playbooks &amp; policies&nbsp;– Design clear, developer-friendly security guidelines and automated workflows that keep code secure without killing velocity. Empower engineers&nbsp;– Build the tools, processes, and culture that let developers ship fast&nbsp;and&nbsp;safe. Lead the bug bounty program&nbsp;– Turn the global security community into an extension of our own team. Influence roadmaps&nbsp;– Sit at the table with product leads, shaping priorities and ensuring security considerations are baked into every release. What we are looking for: 5+ years in application security (SaaS or privacy-focused) Proven record&nbsp;leading security projects&nbsp;from concept to production Leadership style&nbsp;that blends constructive challenge with collaboration Hands-on experience with&nbsp;code reviews, penetration testing, or security tooling Track record&nbsp;defining and executing remediation plans Ability to translate technical detail into clear,&nbsp;actionable guidance for any audience. Quick grasp of&nbsp;large, complex systems Nice to have: Experience with B2B product security features Knowledge of&nbsp;infrastructure security&nbsp;(hardware, networking, OS, file systems). Experience with&nbsp;cryptographic protocols, or prior work at privacy-centric organizations. Experience with utilizing&nbsp;open-source code at scale Even if you don’t meet all the requirements listed above, but feel you could still be a great fit, please still apply. What We Offer Office First: &nbsp;Collaboration is easier and more effective in person, which is why we have offices in Geneva, Zurich, Prague, Barcelona, Paris, London, Vilnius, Skopje, and Taipei. You can also enjoy working from home up to 30% of the time, while enjoying great company during our three core days in the office. Depending on the role, fully remote positions may also be available. Technology: &nbsp;We provide all the devices and software you need to excel in your role, ensuring you have the best tools at your disposal to achieve your goals. Food: &nbsp;Lunch and snacks are provided by Proton every day at our offices. Transport:&nbsp; We will always support our employees with transport costs through subsidizing public transport, bike allowances, or parking spaces based on your office location. Stock Options: &nbsp;At Proton, we are all owners of the company and you get stock options when you join us. Flexible Working:&nbsp; You can define your own working hours as long as it works with team meetings. Learning and Development: &nbsp;We are committed to your professional growth. Proton offers various learning opportunities, including training programs, conferences and events, and continual learning. Employee Benefits: &nbsp;Comprehensive health insurance plans, competitive retirement savings options, generous vacation and leave policies, and wellness programs. Work that Matters: &nbsp;Proton is a community-first organization, started with the support of a crowdfunding campaign and built with community input. To this day, Proton’s only source of revenue is user subscriptions. Over 100 million people trust and support Proton, and we put our users and community first in everything we do. Read more about our impact &nbsp;here . Our Commitment to Diversity and Inclusion At Proton, we believe diversity drives innovation and strengthens our mission to provide privacy as a default for all. We are committed to fostering an inclusive environment where all individuals, regardless of race, ethnicity, gender, age, sexual orientation, physical ability, or socio-economic background, feel valued and empowered. We strive to create equal opportunities, promote open dialogue, and support continuous learning to ensure every voice is heard and respected. If you need any extra support or reasonable adjustments during the hiring process, please let your talent partner know. Candidate Privacy Notice When you apply for a position, refer a candidate, or are considered for a role at Proton Technologies AG (Proton, we, us, or our), your information is stored in Greenhouse, in accordance with their&nbsp; Service Privacy Policy. &nbsp;This information is used to evaluate your suitability for the posted position. We also retain this information for consideration for future roles that you may apply for or that we believe may align with your background and skills. If we no longer have a legitimate business need to process your information, we will either delete or anonymize it. Should you have any inquiries about how we use or manage your information, or if you wish to access, correct, or delete your data, please contact our privacy team at careers@proton.ch. Proton does not accept unsolicited resumes from any sources other than directly from candidates. We will not pay a fee for any placement resulting from an unsolicited offer, even if the candidate is subsequently hired by Proton. To learn more about our privacy policy, please visit&nbsp; our privacy policy page . #LI-Onsite",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "37032b2261e7c981",
+    "title": "Einstieg Projektleitung Marketing/Kommunikation",
+    "company": "PULSCOM !",
+    "location": "Risch, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5852473263?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Der ideale Einstieg nach Ihrem Studium: Als Projektleiterin oder Projektleiter Marketing wirken Sie in einer vielseitigen Marketing- und Kommunikationsagentur aktiv mit und übernehmen früh Verantwortung für spannende Projekte. Praktikum Projektleitung Marketing/Kommunikation Arbeitsort: Rotkreuz (ZG) PULSCOM! ist eine Marketing- und Kommunikationsagentur mit Kunden in der Schweiz, Deutschland und Österreich. Wir arbeiten für innovative Unternehmen verschiedenster Branchen – von regional bis nat…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "6b826d5ad8f6876c",
+    "title": "Nebenjob Front Office (m/w/d)",
+    "company": "crewhub FlexCo",
+    "location": "Innere Stadt, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5852473196?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "37024-46800",
+    "salary_min": 37024.0,
+    "salary_max": 46800.0,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "≈ ₹41.4 L–52.3 L year",
+    "employment_type": "not stated",
+    "description": "Willst du Teil von crewhub werden und in den schönsten Hotels der Stadt arbeiten? Willst du einen Job, der wirklich zu deinem Leben passt? Dann bewirb dich jetzt für unseren Studentenjob und erlebe unvergessliche Events hautnah! Aufgaben Flexible Einsätze in der (Luxus) Hotellerie & als Host bei Events Bei Check-Ins, Check-Outs und als Night Audit hilfst du mit, besondere Momente zu schaffen! Gäste begrüßen, Anfragen professionell beantworten & Garderobendienste bei Events Qualifikation Freundl…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "d016ffb71bd1a9c3",
+    "title": "LKW-Disponent/in (m/w/d)",
+    "company": "hofmann & neffe gmbh",
+    "location": "Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5852473198?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "34800-34800",
+    "salary_min": 34800.0,
+    "salary_max": 34800.0,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "≈ ₹38.9 L–38.9 L year",
+    "employment_type": "not stated",
+    "description": "hofmann & neffe gmbh führt seit über 100 Jahren Transport- und Speditionsaufträge in Österreich und im grenzüberschreitenden Verkehr durch. Wir suchen zum sofortigen Eintritt eine engagierte Persönlichkeit als LKW-Disponent/in (m/w/d) , die unser Team tatkräftig unterstützt. Aufgaben • Planung und Disposition unserer LKW • Tourenplanung und laufende Transportüberwachung • Koordination unserer FahrerInnen • Abstimmung mit Kunden und Partnern • Schnelle und lösungsorientierte Reaktion bei Änderun…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "8e91d760bc022c9f",
+    "title": "Independent working Chef -I",
+    "company": "BlendHouse",
+    "location": "Utrecht, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/details/5852473139?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "32400-38400",
+    "salary_min": 32400.0,
+    "salary_max": 38400.0,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "≈ ₹36.2 L–42.9 L year",
+    "employment_type": "not stated",
+    "description": "At Blend House, we strive to make you feel at home by providing a warm and welcoming atmosphere, paired with comforting Indian food made with care and authenticity.Our commitment extends to using no food colours or preservatives, ensuring each dish is thoughtfully prepared using fresh ingredients and traditional cooking techniques. Just like in our own kitchen, we blend spices in the same way we would at home, bringing the rich flavours and warmth of authentic Indian food to every plate.From cl…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "bf479fa155439289",
+    "title": "Servicemonteur Koeltechniek | Dutch speaking only",
+    "company": "Effect",
+    "location": "Hengelo, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470377?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=AF8322DE586A9B80321A99B5D4E9C3466EC6A9F8",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Servicemonteur Koeltechniek Organisatie: Effect Locatie: Hengelo Salaris: €2.600 - €3.500 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1ef-f5de-7086-9e26-a602724a0991 Bronpagina: https://wearemorrow.nl/vacature/servicemonteur-koeltechniek/ Hé vakman! …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "bb280330493f7097",
+    "title": "(junior) Accountmanager | Dutch speaking only",
+    "company": "Effect",
+    "location": "Oldenzaal, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470353?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=5F68F6771DD12BAC15EB32359D4C4F94AC9EED5E",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: (junior) Accountmanager Organisatie: Effect Locatie: Oldenzaal Salaris: €2.700 - €3.600 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd139-2c88-708b-afa2-7d530418d5c1 Bronpagina: https://wearemorrow.nl/vacature/junior-accountmanager-2/ Bij Effect in Old…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "312a551ae4dce1f7",
+    "title": "Mechanisch Monteur | Dutch speaking only",
+    "company": "Effect",
+    "location": "Almelo, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470379?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=DCC632F5EB4A08B14C75AF7A4F5AA4794E7394F3",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Mechanisch Monteur Organisatie: Effect Locatie: Almelo Salaris: €3.100 - €4.200 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1f7-8b3e-70af-9982-8d31f234214f Bronpagina: https://wearemorrow.nl/vacature/mechanisch-monteur-10/ Je hebt een goed oog voor d…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "6a313d00eb1eb6db",
+    "title": "Assistent dakdekker | Dutch speaking only",
+    "company": "Effect",
+    "location": "Vorden, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470264?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=9C4D1FB0111BF114C98DF820966A771C4FF5A87A",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Assistent dakdekker Organisatie: Effect Locatie: Vorden Salaris: €2.800 - €3.200 Opleiding: HBO Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fb221-04ee-72a8-bb3f-59046564972e Bronpagina: https://wearemorrow.nl/vacature/assistent-dakdekker-2/ Ben jij op …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "71ccf2a9fd4a73ef",
+    "title": "Logistiek medewerker | Dutch speaking only",
+    "company": "Effect",
+    "location": "Albergen, Netherlands / Almelo, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470270?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=841BA0F986F15EE38CA066A138D31F7593049506",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Logistiek medewerker Organisatie: Effect Locatie: Albergen Salaris: €2.600 - €3.000 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd0d8-c30d-718f-a0b2-cf0dbeb43d92 Bronpagina: https://wearemorrow.nl/vacature/logistiek-medewerker-39/ Logistiek medewerker …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "986676147a269d38",
+    "title": "Assemblagemedewerker Prefab | Dutch speaking only",
+    "company": "Effect",
+    "location": "Enschede, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470165?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=B2700A83E0B031025BDCF2D75F9988587E5A4942",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Assemblagemedewerker Prefab Organisatie: Effect Locatie: Enschede Salaris: €2.900 - €3.750 Werkuren: 37-37 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1ff-6dd1-71ae-9925-15c3b184adbb Bronpagina: https://wearemorrow.nl/vacature/assemblagemedewerker-prefab-4/ Assembla…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "2622e6d5201041c8",
+    "title": "Machinist onkruidbrander | Dutch speaking only",
+    "company": "Effect",
+    "location": "Hengelo, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470146?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=AFE7F5F26FE263F97300E6BC5DAAEDA0528A2FDF",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Machinist onkruidbrander Organisatie: Effect Locatie: Hengelo OV Salaris: €2.600 - €3.200 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1f7-8d21-7139-9163-8aff281be286 Bronpagina: https://wearemorrow.nl/vacature/machinist-onkruidbrander-4/ Machinist on…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "ebbd24999a883d34",
+    "title": "Magazijnmedewerker | Dutch speaking only",
+    "company": "Effect",
+    "location": "Dedemsvaart, Netherlands +2 more locations",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470197?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=5E6DF6B1212C777CBD459469FAC170AA1BB36410",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Magazijnmedewerker Organisatie: Effect Locatie: Dedemsvaart Salaris: €2.800 - €3.200 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd0d8-c263-72f9-b0a6-e53186d58867 Bronpagina: https://wearemorrow.nl/vacature/magazijnmedewerker-17/ Op zoek naar een afwis…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "e1e86d5622c936a8",
+    "title": "Productiemedewerker binnendienst | Dutch speaking only",
+    "company": "Effect",
+    "location": "Enschede, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470211?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=58AB9412CC088E42F4D92F0B6C3ADBECB56A219C",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Productiemedewerker binnendienst Organisatie: Effect Locatie: Enschede Salaris: €2.800 - €3.000 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1e3-e776-73dc-81e9-5528b9503122 Bronpagina: https://wearemorrow.nl/vacature/productiemedewerker-binnendienst/ …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "16eda04776c67229",
+    "title": "Heftruckchauffeur 2-ploeg | Dutch speaking only",
+    "company": "Effect",
+    "location": "Vriezenveen, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470178?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=680E92BA501CEEDE862125D87F1B87600AD0EBA5",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Heftruckchauffeur 2-ploeg Organisatie: Effect Locatie: Vriezenveen Salaris: €2.600 - €3.000 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1ff-70c2-7283-9628-de6c44e7a36c Bronpagina: https://wearemorrow.nl/vacature/heftruckchauffeur-2-ploeg-3/ Is de hel…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "a17300d73ed5a11d",
+    "title": "Productiemedewerker prefab beton | Dutch speaking only",
+    "company": "Effect",
+    "location": "Coevorden, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470081?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=4427AA3E6153CD17FCD3819902C6DD1CD53D0B59",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Productiemedewerker prefab beton Organisatie: Effect Locatie: Coevorden Salaris: €2.600 - €3.100 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd0d8-c21f-71c4-aad1-5fc0fe80094f Bronpagina: https://wearemorrow.nl/vacature/productiemedewerker-prefab-beton/…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "2dda9e361af7d299",
+    "title": "Productiemedewerker 5-ploeg | Dutch speaking only",
+    "company": "Effect",
+    "location": "Hardenberg, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852470019?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=E10D07C9F843317197ACE86B123A90BE09522132",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Productiemedewerker 5-ploeg Organisatie: Effect Locatie: Hardenberg Salaris: €3.100 - €3.800 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1f7-8cd5-7322-afae-060ae92d483d Bronpagina: https://wearemorrow.nl/vacature/productiemedewerker-5-ploeg/ Lekker v…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "63fbad5fd2bceb41",
+    "title": "Orderpicker | Dutch speaking only",
+    "company": "Effect",
+    "location": "Almelo, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852469840?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=36A86A78B9E5CBE6B419296A034915512C654677",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Orderpicker Organisatie: Effect Locatie: Almelo Salaris: €2.600 - €2.900 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1e7-a395-703d-8b9c-4faf48719261 Bronpagina: https://wearemorrow.nl/vacature/orderpicker-3/ Ben jij opzoek naar een baan vol actie en …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "5e584150bb5f1b6a",
+    "title": "Automonteur | Dutch speaking only",
+    "company": "Effect",
+    "location": "Oldenzaal, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5852469835?se=poCfNiGe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=ceaf5c9d&v=0A9E08221B8247B3AF3397D91B3360B99F7106C9",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Benieuwd hoe goed deze vacature bij jou past? Solliciteer via Morrow en beantwoord vervolgens een aantal vragen om te zien hoe goed jij matcht met deze job! Vacaturegegevens Titel: Automonteur Organisatie: Effect Locatie: Oldenzaal Salaris: €2.600 - €3.400 Werkuren: 40-40 uur per week Sollicitatielink: https://app.wearemorrow.nl/snel-registreren/start?vacature=019fd1ef-f5ba-715d-9120-507ddaac01b0 Bronpagina: https://wearemorrow.nl/vacature/automonteur/ Hé automonteur! Vind jij het leuk om aan …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "missing_runs": 0
+  },
+  {
+    "id": "1b4efbb60dbc6385",
+    "title": "AWS Platform Security Engineer",
+    "company": "Swisscom",
+    "location": "Rotterdam, Netherlands",
+    "country": "NL",
+    "url": "https://sdcrotterdam.swisscom.ch/o/aws-platform-security-engineer",
+    "source": "recruitee",
+    "source_type": "api",
+    "posted_date": "2026-06-10",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime Permanent",
+    "description": "AWS Platform Security Engineer Think like an attacker, build like an engineer, help us find and fix the cracks in our platforms before someone else does.&nbsp; Your responsibilities You work in an internal and geographically distributed team with cultural diversity, collaborating closely with platform engineers, DevOps teams and product owners across Swisscom. You play a vital role in our agile environment, not just defending the platform, but actively challenging it. With your background in offensive security, you bring a hacker's mindset to Swisscom's internal cloud platform. You don't wait for vulnerabilities to be reported, you go looking for them. Through hands-on technical assessments, penetration testing and red team exercises, you identify weaknesses in iAWS, Swisscom's well-architected AWS Landing Zone, and unlike a traditional pen tester who hands over a report and walks away, you stay involved. Where the fix is within your reach, you own it, writing the code, updating the controls and closing the gap yourself. But this role is more than breaking things. You act as a trusted security advisor to our internal platform and product teams, guiding them on how to build securely from the ground up. For findings that span multiple teams or require broader platform changes, you work alongside our engineers to drive remediation, providing the technical context, the recommended approach and the hands-on support needed to get it done properly. You help shape the way we approach security across the ICP ART, from improving our engagement with the SOC, to refining our security processes, to ensuring that the platform we offer to all Swisscom internal DevOps teams is not just functional, but genuinely hardened. You collaborate across multiple teams and solution trains within Swisscom, bridging the gap between offensive security expertise and the day-to-day realities of a fast-moving cloud platform. Thanks to you, security is not an afterthought, it's built in. This role would be excellently suited to someone who has been doing a lot of offensive security work, but would like to branch out to both advisory and engineering positions without losing all the offensive fun! In your daily work, you will get in touch with the following tools, services and technologies. The more you are already familiar with the better. Everything else you will learn on the job: Offensive Security &amp; Assessment Tools Penetration testing tools and methodologies (e.g. Burp Suite, nmap, Metasploit or similar) Cloud-specific attack frameworks and enumeration tools (e.g. Pacu, ScoutSuite, Prowler) Kubernetes security assessment tools and attack techniques (e.g. kube-bench, kube-hunter, Trivy) Vulnerability scanning and red team tooling&nbsp; OWASP testing methodologies AWS Security Services CloudWatch, CloudTrail, Amazon Inspector AWS Config, Security Hub, GuardDuty AWS Shield, WAF, Firewall Manager IAM, SCPs, Resource Control Policies AWS Network Firewall, VPC Flow Logs Infrastructure as Code CDK Terraform Beneficial Programming / Scripting Languages Python TypeScript of Java is a plus What we expect 4+ years of experience working with AWS , with a strong focus on security Hands-on experience conducting penetration tests or red team assessments, ideally in cloud environments A solid understanding of both how attacks work and how to defend against them Experience working in agile, cross-functional teams &nbsp; Nice to have Offensive security certifications such as OSCP, CRTO, or similar AWS security certifications (AWS Certified Security — Specialty) Experience with SOC processes, threat detection or incident response Familiarity with compliance frameworks relevant to AWS telco workloads Bachelor's Degree ( B.Sc .) with comparable experience in Computer Science Excellent problem-solving skills to develop quick and sound solutions that resolve complex issues Team-oriented, very adaptable, a flair for continuous improvement High level of English Want to know more about us? We are serving the Swiss market as Switzerland’s leading IT &amp; Telecom company. Thus, we are actively driving digitalization and networking, and tapping new paths for our customers and our employees. Our values are sparking passion, aiming high and standing true. Since 2019, we have been building up the coolest DevOps Center with a wonderful office at the World Trade Center in the heart of Rotterdam. We are currently recruiting IT passionate professionals who are keen on developing high-quality software, have an agile mindset and appreciate the collaboration with motivated colleagues from all over the world. What's in it for you? Work environment Agile way of working, multi-cultural work environment promoting work-life balance Autonomy, flexibility, opportunity and growth Cool office space in the World Trade Center Rotterdam! Are you coming to the office by bike or car? You can park right here at the office Be a part of our&nbsp;events to build a stronger Swisscom community - for example,&nbsp;culture lunches, fun quizzes, game nights and a lot&nbsp; more!&nbsp; Allowances Full relocation support (Housing, settling in, etc.) for you and your family 200 euros per month&nbsp;Telephone/internet allowance&nbsp; 275 euros per month&nbsp;contribution to health insurance&nbsp; 5 Paid training days and access to Swisscom learning platforms Travel allowance reimbursement 500 euros&nbsp;home office allowance Gym subscription, Tax advice, and language course Salary range: 65,000 to 72,000 euros gross per year including holiday allowance Leaves policy Work from abroad possibility for one month per year Care, bereavement, maternity and paternity leaves 25 days paid vacation days plus Dutch national holidays Contract terms To begin with you will receive a fixed term contract (one year), after 6 months of your employment with us, after a feedback meeting with the team, there is a possibility of extending the contract The salary ranges mentioned in our Job Descriptions are base annual gross salaries&nbsp;including the 8% holiday allowance",
     "score": null,
     "score_reason": "",
     "skills": [],
