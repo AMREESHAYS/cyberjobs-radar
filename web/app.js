@@ -1,14 +1,83 @@
 import { filterJobs } from "./filters.js";
 
-const LS = { saved: "cjr_saved", applied: "cjr_applied" };
-const getSet = k => new Set(JSON.parse(localStorage.getItem(k) || "[]"));
-const putSet = (k, s) => localStorage.setItem(k, JSON.stringify([...s]));
+const LS = { saved: "cjr_saved", applied: "cjr_applied", tracking: "cjr_tracking" };
+
+// Saved/applied live in one document that syncs to the Worker, so a phone and a
+// laptop agree. Each entry records when it changed; the newer change wins.
+let TRACKING = { saved: {}, applied: {}, notes: {}, updated_at: 0 };
+let syncTimer = null;
+
+function loadTracking() {
+  try {
+    const doc = JSON.parse(localStorage.getItem(LS.tracking) || "null");
+    if (doc && typeof doc === "object") return { saved: {}, applied: {}, notes: {}, ...doc };
+  } catch { /* fall through to the pre-sync format */ }
+  // migrate the original id-array format so nothing saved before this is lost
+  const doc = { saved: {}, applied: {}, notes: {}, updated_at: 0 };
+  for (const key of ["saved", "applied"]) {
+    try {
+      for (const id of JSON.parse(localStorage.getItem(LS[key]) || "[]")) {
+        doc[key][id] = { on: true, ts: 1 };   // ts 1: any later change wins
+      }
+    } catch { /* nothing stored */ }
+  }
+  return doc;
+}
+
+function saveTracking() {
+  localStorage.setItem(LS.tracking, JSON.stringify(TRACKING));
+}
+
+function activeIds(section) {
+  return new Set(Object.entries(section || {}).filter(([, v]) => v && v.on).map(([id]) => id));
+}
+
+function mergeInto(mine, theirs) {
+  const pick = (a, b) => (!a ? b : !b ? a : ((b.ts || 0) > (a.ts || 0) ? b : a));
+  const out = { saved: {}, applied: {}, notes: {},
+                updated_at: Math.max(mine.updated_at || 0, theirs.updated_at || 0) };
+  for (const key of ["saved", "applied", "notes"]) {
+    for (const id of new Set([...Object.keys(mine[key] || {}), ...Object.keys(theirs[key] || {})])) {
+      out[key][id] = pick((mine[key] || {})[id], (theirs[key] || {})[id]);
+    }
+  }
+  return out;
+}
+
+async function pullTracking() {
+  try {
+    const remote = await fetch("api/state", { headers: { accept: "application/json" } })
+      .then(r => (r.ok ? r.json() : null));
+    if (remote) {
+      TRACKING = mergeInto(TRACKING, remote);
+      saveTracking();
+    }
+  } catch { /* offline: the local copy stands until the next sync */ }
+}
+
+function pushTracking() {
+  clearTimeout(syncTimer);   // one request per burst of taps, not one per tap
+  syncTimer = setTimeout(() => {
+    fetch("api/state", {
+      method: "PUT",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(TRACKING),
+    }).then(r => (r.ok ? r.json() : null))
+      .then(merged => { if (merged) { TRACKING = mergeInto(TRACKING, merged); saveTracking(); } })
+      .catch(() => { /* stays local; the next change or reload retries */ });
+  }, 800);
+}
 // rows stored before the pipeline started stripping tags still hold raw HTML
 const plain = s => (s || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 const esc = s => (s || "").replace(/[&<>"]/g, m => ({ "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;" }[m]));
 
 let JOBS = [];
-const state = { view: "all", country: "", source: "", remoteOnly: false, minScore: 0, query: "" };
+const state = {
+  view: "all", country: "", source: "", query: "",
+  remoteOnly: false, sponsorshipOnly: false, internshipOnly: false,
+  fullTextOnly: false, searchDescriptions: false,
+  minScore: 0, maxYears: null,
+};
 
 let loadFailed = false;
 let META = null;
@@ -47,6 +116,8 @@ async function boot() {
     fetch("data/meta.json" + bust).then(r => r.json()).catch(() => null),
   ]);
   showFreshness();
+  TRACKING = loadTracking();
+  await pullTracking();
   fillSelect("country", [...new Set(JOBS.map(j => j.country))].sort());
   fillSelect("source", [...new Set(JOBS.map(j => j.source))].sort());
   wire();
@@ -63,7 +134,15 @@ function wire() {
   document.getElementById("q").addEventListener("input", e => { state.query = e.target.value; render(); });
   document.getElementById("country").addEventListener("change", e => { state.country = e.target.value; render(); });
   document.getElementById("source").addEventListener("change", e => { state.source = e.target.value; render(); });
-  document.getElementById("remoteOnly").addEventListener("change", e => { state.remoteOnly = e.target.checked; render(); });
+  for (const id of ["remoteOnly", "sponsorshipOnly", "internshipOnly", "fullTextOnly", "searchDescriptions"]) {
+    document.getElementById(id).addEventListener("change", e => { state[id] = e.target.checked; render(); });
+  }
+  document.getElementById("maxYears").addEventListener("input", e => {
+    const v = +e.target.value;
+    state.maxYears = v >= 10 ? null : v;   // the top of the range means "any"
+    document.getElementById("maxYearsVal").textContent = state.maxYears === null ? "any" : v;
+    render();
+  });
   document.getElementById("minScore").addEventListener("input", e => {
     state.minScore = +e.target.value;
     document.getElementById("minScoreVal").textContent = e.target.value;
@@ -77,7 +156,7 @@ function wire() {
 }
 
 function render() {
-  const saved = getSet(LS.saved), applied = getSet(LS.applied);
+  const saved = activeIds(TRACKING.saved), applied = activeIds(TRACKING.applied);
   const rows = filterJobs(JOBS, { ...state, savedIds: [...saved], appliedIds: [...applied] });
   document.getElementById("count").textContent =
     JOBS.length ? `${rows.length} of ${JOBS.length} roles`
@@ -157,13 +236,18 @@ function card(j, saved, applied) {
       <button class="save ${saved.has(j.id) ? "on" : ""}">${saved.has(j.id) ? "★ Saved" : "☆ Save"}</button>
       <button class="applied ${applied.has(j.id) ? "on" : ""}">${applied.has(j.id) ? "✓ Applied" : "Applied?"}</button>
     </div>`;
-  el.querySelector(".save").addEventListener("click", () => toggle(LS.saved, j.id));
-  el.querySelector(".applied").addEventListener("click", () => toggle(LS.applied, j.id));
+  el.querySelector(".save").addEventListener("click", () => toggle("saved", j.id));
+  el.querySelector(".applied").addEventListener("click", () => toggle("applied", j.id));
   return el;
 }
 
-function toggle(key, id) {
-  const s = getSet(key); s.has(id) ? s.delete(id) : s.add(id); putSet(key, s); render();
+function toggle(section, id) {
+  const current = TRACKING[section][id];
+  TRACKING[section][id] = { on: !(current && current.on), ts: Date.now() };
+  TRACKING.updated_at = Date.now();
+  saveTracking();
+  pushTracking();
+  render();
 }
 
 boot();

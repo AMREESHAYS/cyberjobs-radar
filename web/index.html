@@ -26,7 +26,7 @@
         <p id="freshness" class="freshness"></p>
       </div>
     </div>
-    <input id="q" type="search" placeholder="Search title or company" autocomplete="off">
+    <input id="q" type="search" placeholder="Search title, company, skills, city" autocomplete="off">
     <nav id="tabs" class="tabs" role="tablist">
       <button data-view="all" class="active" role="tab">All</button>
       <button data-view="saved" role="tab">Saved</button>
@@ -36,6 +36,11 @@
       <select id="country" aria-label="Country"><option value="">All countries</option></select>
       <select id="source" aria-label="Source"><option value="">All sources</option></select>
       <label class="chip"><input type="checkbox" id="remoteOnly"> Remote only</label>
+      <label class="chip"><input type="checkbox" id="sponsorshipOnly"> Sponsorship stated</label>
+      <label class="chip"><input type="checkbox" id="internshipOnly"> Internship</label>
+      <label class="chip"><input type="checkbox" id="fullTextOnly"> Full ad only</label>
+      <label class="chip"><input type="checkbox" id="searchDescriptions"> Search ad text</label>
+      <label class="chip range">Max years <input type="range" id="maxYears" min="0" max="10" value="10"><b id="maxYearsVal">any</b></label>
       <label class="chip range">Min score <input type="range" id="minScore" min="0" max="100" value="0"><b id="minScoreVal">0</b></label>
     </section>
   </header>

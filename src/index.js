@@ -1,7 +1,11 @@
 // Gate in front of the static site. Cloudflare Access would be the nicer
 // answer, but it needs Zero Trust enabled on the account; this needs nothing
 // beyond a Worker secret, and keeps the job list off the open internet.
+import { EMPTY, isValidState, mergeState } from "./state.js";
+
 const COOKIE = "cjr_key";
+const STATE_KEY = "tracking";
+const MAX_STATE_BYTES = 256 * 1024;   // KV's own limit is 25 MB; this is a sane list
 const YEAR = 60 * 60 * 24 * 365;
 
 // constant-time-ish compare: same cost whatever the mismatch, so the response
@@ -60,6 +64,41 @@ const LOCKED = `<!doctype html><meta charset="utf-8">
 <form method="GET"><input name="k" type="password" autofocus placeholder="Access key"
  autocomplete="current-password"><button type="submit">Open</button></form></div>`;
 
+async function readState(env) {
+  if (!env.STATE) return EMPTY;
+  const stored = await env.STATE.get(STATE_KEY, "json");
+  return isValidState(stored) ? { ...EMPTY, ...stored } : EMPTY;
+}
+
+async function handleState(request, env) {
+  const json = (body, status = 200) =>
+    new Response(JSON.stringify(body), {
+      status, headers: { "content-type": "application/json", "cache-control": "no-store" },
+    });
+
+  if (!env.STATE) return json({ error: "state storage not configured" }, 501);
+
+  if (request.method === "GET") {
+    return json(await readState(env));
+  }
+  if (request.method === "PUT") {
+    const raw = await request.text();
+    if (raw.length > MAX_STATE_BYTES) return json({ error: "state too large" }, 413);
+    let incoming;
+    try {
+      incoming = JSON.parse(raw);
+    } catch {
+      return json({ error: "invalid json" }, 400);
+    }
+    if (!isValidState(incoming)) return json({ error: "invalid state" }, 400);
+    // merge rather than overwrite, so a stale device cannot erase the other one
+    const merged = mergeState(await readState(env), incoming);
+    await env.STATE.put(STATE_KEY, JSON.stringify(merged));
+    return json(merged);
+  }
+  return json({ error: "method not allowed" }, 405);
+}
+
 export default {
   async fetch(request, env) {
     const verdict = authorize(request, env.SITE_KEY);
@@ -68,6 +107,10 @@ export default {
         status: 401,
         headers: { "content-type": "text/html;charset=utf-8", "cache-control": "no-store" },
       });
+    }
+    const url = new URL(request.url);
+    if (url.pathname === "/api/state") {
+      return handleState(request, env);
     }
     if (verdict.setCookie) {
       // drop the key out of the URL so it stops appearing in history and referrers

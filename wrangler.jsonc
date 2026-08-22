@@ -11,5 +11,9 @@
     // without this, assets are served straight from the edge and the Worker
     // never runs — the gate would be dead code and the site public
     "run_worker_first": true
-  }
+  },
+  // saved/applied/notes, so a phone and a laptop agree
+  "kv_namespaces": [
+    { "binding": "STATE", "id": "605aa87e925845a3942530b0bc50c130" }
+  ]
 }
