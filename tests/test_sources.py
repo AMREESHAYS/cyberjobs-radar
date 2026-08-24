@@ -49,22 +49,8 @@ def test_jobtech_normalizes():
     assert j.source == "jobtech" and j.source_type == "api"
     assert "Secure our platform" in j.description
 
-from pipeline.sources import nav
 
-def test_nav_normalizes_with_token():
-    payload = json.load(open("tests/fixtures/nav_feed.json"))
-    cfg = {"secrets": {"NAV_TOKEN": "tok"}}
-    jobs = nav.fetch(cfg, get=_fixture_get(payload))
-    j = jobs[0]
-    assert j.country == "NO"
-    assert j.company == "Oslo Sikkerhet AS"
-    assert j.url.endswith("/stilling/no-1")
-    assert j.source == "nav" and j.source_type == "scraper"
 
-def test_nav_no_token_and_no_public_token_returns_empty():
-    def failing_get(url, params=None, headers=None, timeout=20):
-        raise RuntimeError("no token endpoint")
-    assert nav.fetch({"secrets": {}}, get=failing_get) == []
 
 from pipeline.sources import remote_apis
 
@@ -310,13 +296,12 @@ def test_adzuna_query_requires_a_security_word_and_excludes_senior_titles():
 
 def test_source_names_do_not_collide():
     from pipeline.sources import fetch_all
-    from pipeline.sources import adzuna, jobtech, nav
+    from pipeline.sources import adzuna, jobtech
     stats = {}
-    # all three define a function literally called `fetch`
+    # both define a function literally called `fetch`
     fetch_all({"secrets": {}, "search_terms": ["security"]},
-              adapters=[adzuna.fetch, jobtech.fetch, nav.fetch],
-              stats=stats)
-    assert set(stats) == {"adzuna", "jobtech", "nav"}, stats
+              adapters=[adzuna.fetch, jobtech.fetch], stats=stats)
+    assert set(stats) == {"adzuna", "jobtech"}, stats
 
 def test_adzuna_keeps_going_when_one_country_errors():
     calls = []
@@ -338,3 +323,13 @@ def test_himalayas_survives_an_epoch_pubdate():
                          "pubDate": 1787000000}]}   # an int, which used to crash the adapter
     jobs = remote_apis.fetch_himalayas({"search_terms": ["security"]}, get=_fixture_get(payload))
     assert len(jobs) == 1 and jobs[0].posted_date == "1787000000"[:10]
+
+def test_norway_is_fetched_from_eures():
+    payload = json.load(open("tests/fixtures/eures_search.json"))
+    calls = []
+    jobs = eures.fetch_norway({"search_terms": ["security engineer"]},
+                              get=_post_capture(payload, calls),
+                              fetch=_details_get("Oslo", "NO"))
+    assert calls[0]["locationCodes"] == ["no"]
+    assert jobs and jobs[0].source == "eures-no"
+    assert jobs[0].location == "Oslo, Norway"

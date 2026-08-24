@@ -9,7 +9,7 @@ from . import fx, health, liveness, relevance, store
 log = logging.getLogger("run")
 
 # import adapter modules so they register themselves
-from .sources import (adzuna, ats, jobtech, nav, remote_apis, crypto_boards,  # noqa: E402,F401
+from .sources import (adzuna, ats, jobtech, remote_apis, crypto_boards,  # noqa: E402,F401
                       eures)  # noqa: E402,F401
 
 def prefilter(jobs, cfg):

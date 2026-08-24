@@ -6,10 +6,12 @@ from .base import employment_label, format_location, get_json, post_json, strip_
 from .remote_apis import _keyword_match, _terms
 from urllib.parse import quote
 
-# Denmark and Finland via EURES, the EU's official job mobility portal, which
-# aggregates the national employment services (Jobnet for DK, Työmarkkinatori
-# for FI). Their own APIs are not usable here: Jobnet's search sits behind
-# MitID login, and the Finnish API needs credentials tied to a business ID.
+# Denmark, Finland and Norway via EURES, the EU's official job mobility portal,
+# which aggregates the national employment services. Their own APIs are not
+# usable here: Jobnet's search sits behind MitID login, the Finnish API needs
+# credentials tied to a business ID, and NAV publishes a chronological feed that
+# starts in 2023 with no way to seek backwards from the end — reaching today's
+# postings would mean walking thousands of pages every run.
 SEARCH_URL = "https://europa.eu/eures/api/jv-searchengine/public/jv-search/search"
 DETAILS_URL = "https://europa.eu/eures/portal/jv-se/jv-details/"
 DETAILS_API = "https://europa.eu/eures/api/jv-searchengine/public/jv/id/"
@@ -101,5 +103,9 @@ def fetch_denmark(cfg, get=post_json, fetch=get_json):
 def fetch_finland(cfg, get=post_json, fetch=get_json):
     return _search(cfg, "fi", get, fetch)
 
+def fetch_norway(cfg, get=post_json, fetch=get_json):
+    return _search(cfg, "no", get, fetch)
+
 register(fetch_denmark)
 register(fetch_finland)
+register(fetch_norway)

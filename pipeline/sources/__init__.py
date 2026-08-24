@@ -12,7 +12,7 @@ def register(fn):
     return fn
 
 def _source_name(adapter) -> str:
-    """adzuna, jobtech and nav each define a plain `fetch`, so the module name
+    """adzuna and jobtech each define a plain `fetch`, so the module name
     identifies them; the multi-source modules name their functions instead."""
     fn = getattr(adapter, "__name__", "") or "unknown"
     if fn in ("fetch", "unknown"):

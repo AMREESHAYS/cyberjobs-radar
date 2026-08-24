@@ -45,8 +45,7 @@ only condenses text that was actually fetched, and any field the ad didn't state
 |---|---|---|
 | Switzerland, Germany, Austria, Benelux, Poland, France, Italy, Spain | Adzuna | `ADZUNA_APP_ID` + `ADZUNA_APP_KEY` |
 | Sweden | JobTech (Arbetsförmedlingen) | no |
-| Norway | NAV | no (public token) |
-| Denmark, Finland | EURES | no |
+| Denmark, Finland, Norway | EURES | no |
 | Remote / EU | Arbeitnow, Jobicy, RemoteOK, Himalayas | no |
 | Crypto & web3 | CryptoValley, CryptoJobsList | no |
 | Crypto & web3 | web3.career | `WEB3CAREER_TOKEN` |
@@ -83,7 +82,6 @@ Secrets go in **Settings → Secrets and variables → Actions**.
 |---|---|
 | `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` | Switzerland/Germany onsite roles ([free](https://developer.adzuna.com)) |
 | `WEB3CAREER_TOKEN` | web3.career ([free](https://web3.career/web3-jobs-api)) |
-| `NAV_TOKEN` | optional; Norway falls back to a public token |
 | `AI_API_KEY`, `AI_BASE_URL`, `AI_MODEL` | any OpenAI-compatible provider |
 | `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `DIGEST_TO` | the email digest ([app password](https://myaccount.google.com/apppasswords), not your login) |
 
