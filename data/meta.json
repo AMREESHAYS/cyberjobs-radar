@@ -1,11 +1,11 @@
 {
   "total": 408,
-  "new": 2,
-  "scored": 7,
+  "new": 0,
+  "scored": 2,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 132,
-  "off_topic": 97,
+  "above_level": 139,
+  "off_topic": 0,
   "duplicates": 3,
-  "generated_at": "2026-08-24T08:44:15+00:00"
+  "generated_at": "2026-08-24T08:53:46+00:00"
 }
