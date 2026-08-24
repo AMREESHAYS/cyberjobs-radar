@@ -7,7 +7,7 @@
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 22,
+    "last_count": 14,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -43,13 +43,13 @@
   },
   "greenhouse": {
     "errored": false,
-    "last_count": 5,
+    "last_count": 3,
     "last_ok": "greenhouse",
     "quiet_runs": 0
   },
   "himalayas": {
     "errored": false,
-    "last_count": 3,
+    "last_count": 1,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 126,
+    "last_count": 124,
     "last_ok": "workable",
     "quiet_runs": 0
   }
