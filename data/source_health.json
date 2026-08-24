@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 38,
+    "last_count": 43,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -37,7 +37,7 @@
   },
   "finland": {
     "errored": false,
-    "last_count": 11,
+    "last_count": 12,
     "last_ok": "finland",
     "quiet_runs": 0
   },
@@ -49,13 +49,13 @@
   },
   "himalayas": {
     "errored": false,
-    "last_count": 4,
+    "last_count": 0,
     "last_ok": "himalayas",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "jobicy": {
     "errored": false,
-    "last_count": 34,
+    "last_count": 36,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 124,
+    "last_count": 125,
     "last_ok": "workable",
     "quiet_runs": 0
   }
