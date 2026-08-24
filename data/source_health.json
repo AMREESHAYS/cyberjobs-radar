@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 37,
+    "last_count": 38,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -82,6 +82,12 @@
     "last_count": 0,
     "last_ok": null,
     "quiet_runs": 2
+  },
+  "norway": {
+    "errored": false,
+    "last_count": 6,
+    "last_ok": "norway",
+    "quiet_runs": 0
   },
   "recruitee": {
     "errored": false,
