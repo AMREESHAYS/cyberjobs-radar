@@ -136,3 +136,25 @@ def test_merge_marks_jobs_no_source_listed_this_run(tmp_path):
     by_id = {j.id: j for j in all_jobs}
     assert by_id["old"].missing_runs == 2          # absent again
     assert by_id["new"].missing_runs == 0 and by_id["new"].last_seen == "2026-08-21"
+
+def test_run_records_source_counts_and_names_quiet_sources(tmp_path):
+    from pipeline.models import Job
+    data, meta = str(tmp_path / "jobs.json"), str(tmp_path / "meta.json")
+    hp = str(tmp_path / "health.json")
+    live = Job(id="a", title="Security Analyst", company="c", location="l", country="CH",
+               url="https://b.test/a", source="s", source_type="api", description="security")
+
+    def fetch(cfg, stats=None):
+        if stats is not None:
+            stats.update({"workable": 1, "adzuna": 0})
+        return [live]
+
+    args = dict(fetch=fetch, client_factory=lambda cfg: (None, "m"),
+                rates_loader=lambda: {}, prune_fn=lambda jobs: (jobs, []),
+                meta_path=meta, health_path=hp, today="2026-08-24")
+    first = run({"countries": ["CH"]}, {}, data, **args)
+    assert first["sources"] == {"workable": 1, "adzuna": 0}
+    assert first["quiet_sources"] == []            # one empty run is not an alarm
+    second = run({"countries": ["CH"]}, {}, data, **args)
+    assert second["quiet_sources"] == ["adzuna"]   # twice running is
+    assert json.load(open(meta))["quiet_sources"] == ["adzuna"]

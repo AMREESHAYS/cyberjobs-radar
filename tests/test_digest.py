@@ -118,3 +118,10 @@ def test_render_without_a_run_stamp_says_nothing_about_freshness():
     j = Job(id="f", title="Security Analyst", company="Acme", location="l", country="CH",
             url="https://b.test/f", source="s", source_type="api", description="d")
     assert "Data refreshed" not in render_html([j])
+
+def test_render_warns_when_a_source_has_gone_quiet():
+    j = Job(id="q", title="Security Analyst", company="Acme", location="l", country="CH",
+            url="https://b.test/q", source="s", source_type="api", description="d")
+    html = render_html([j], "2026-08-24T09:00:00+00:00", ["adzuna", "nav"])
+    assert "Not answering: adzuna, nav" in html
+    assert "Not answering" not in render_html([j], "2026-08-24T09:00:00+00:00", [])

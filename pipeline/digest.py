@@ -66,7 +66,7 @@ def _work_mode(j: Job) -> str:
     return "On site" if j.remote is False else NOT_STATED
 
 
-def render_html(jobs: list[Job], generated_at: str = "") -> str:
+def render_html(jobs: list[Job], generated_at: str = "", quiet_sources=None) -> str:
     # email clients drop backdrop-filter, so glass is faked with solid dark cards
     # + an aurora gradient banner (linear-gradient renders in most clients).
     rows = []
@@ -129,7 +129,9 @@ def render_html(jobs: list[Job], generated_at: str = "") -> str:
             {body}
             <tr><td style="padding:8px 4px 0;color:#5a6690;font-size:11px;">
               Every link goes to the real posting. Fields the ad didn't state show "not stated".
-              {('<br>Data refreshed ' + _esc(generated_at)) if generated_at else ''}</td></tr>
+              {('<br>Data refreshed ' + _esc(generated_at)) if generated_at else ''}
+              {('<br><span style="color:#f0be5a;">Not answering: ' + _esc(", ".join(quiet_sources))
+                + ' — these sources have returned nothing for two runs.</span>') if quiet_sources else ''}</td></tr>
           </table>
         </td></tr>
       </table></body></html>"""
@@ -161,13 +163,15 @@ def run_digest(cfg: dict, data_path: str, state_path: str, *, send_fn=send_email
         return {"sent": 0, "reason": "nothing new"}
 
     subject = f"CyberJobs Radar — {len(picks)} new match{'es' if len(picks) != 1 else ''}"
-    generated_at = ""
+    generated_at, quiet = "", []
     try:
         with open(state_path.replace("digest_state.json", "meta.json"), encoding="utf-8") as f:
-            generated_at = json.load(f).get("generated_at", "")
+            meta = json.load(f)
+            generated_at = meta.get("generated_at", "")
+            quiet = meta.get("quiet_sources") or []
     except (OSError, ValueError):
         pass
-    send_fn(render_html(picks, generated_at), subject, to, sender, password)
+    send_fn(render_html(picks, generated_at, quiet), subject, to, sender, password)
     save_emailed(state_path, emailed | {j.id for j in picks})
     return {"sent": len(picks)}
 

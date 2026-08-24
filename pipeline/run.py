@@ -4,7 +4,7 @@ from datetime import date, timezone, datetime
 from .config import load_config, load_profile
 from .sources import fetch_all
 from .ai import ANALYSIS_VERSION, analyze, build_client
-from . import fx, liveness, relevance, store
+from . import fx, health, liveness, relevance, store
 
 log = logging.getLogger("run")
 
@@ -18,10 +18,17 @@ def prefilter(jobs, cfg):
 
 def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
         client_factory=build_client, analyze_fn=analyze, rates_loader=fx.load_rates,
-        prune_fn=liveness.prune, meta_path="data/meta.json", now=None, today=None):
+        prune_fn=liveness.prune, meta_path="data/meta.json",
+        health_path="data/source_health.json", now=None, today=None):
     now = now or datetime.now(timezone.utc)
     today = today or now.date().isoformat()
-    fetched, out_of_reach = relevance.drop_out_of_reach(prefilter(fetch(cfg), cfg), cfg)
+    source_counts = {}
+    try:
+        raw = fetch(cfg, stats=source_counts)
+    except TypeError:      # a caller passing a plain fetch function, e.g. in tests
+        raw = fetch(cfg)
+    _, quiet_sources = health.check(source_counts, health_path) if source_counts else ({}, [])
+    fetched, out_of_reach = relevance.drop_out_of_reach(prefilter(raw, cfg), cfg)
     if out_of_reach:
         log.info("skipped %d postings above entry level", len(out_of_reach))
     existing = store.load(data_path)
@@ -63,6 +70,8 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
                "removed": len(removed), "aged_out": aged_out,
                "above_level": len(out_of_reach) + len(stale_seniority),
                "off_topic": len(off_topic),
+               "sources": source_counts,
+               "quiet_sources": quiet_sources,
                "duplicates": len(duplicates)}
     store.save_meta(meta_path, {**summary, "generated_at": now.replace(microsecond=0).isoformat()})
     return summary

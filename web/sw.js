@@ -1,5 +1,5 @@
 // web/sw.js — cache last-viewed data for offline
-const CACHE = "cjr-v7";
+const CACHE = "cjr-v8";
 const ASSETS = ["./", "index.html", "style.css", "app.js", "filters.js", "sections.js", "titles.js", "manifest.webmanifest",
   "data/jobs.json", "data/meta.json", "icons/logo.svg", "icons/logo-small.svg", "icons/logo-192.png"];
 

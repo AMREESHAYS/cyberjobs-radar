@@ -6,16 +6,16 @@ const LS = { saved: "cjr_saved", applied: "cjr_applied", tracking: "cjr_tracking
 
 // Saved/applied live in one document that syncs to the Worker, so a phone and a
 // laptop agree. Each entry records when it changed; the newer change wins.
-let TRACKING = { saved: {}, applied: {}, notes: {}, updated_at: 0 };
+let TRACKING = { saved: {}, applied: {}, hidden: {}, notes: {}, updated_at: 0 };
 let syncTimer = null;
 
 function loadTracking() {
   try {
     const doc = JSON.parse(localStorage.getItem(LS.tracking) || "null");
-    if (doc && typeof doc === "object") return { saved: {}, applied: {}, notes: {}, ...doc };
+    if (doc && typeof doc === "object") return { saved: {}, applied: {}, hidden: {}, notes: {}, ...doc };
   } catch { /* fall through to the pre-sync format */ }
   // migrate the original id-array format so nothing saved before this is lost
-  const doc = { saved: {}, applied: {}, notes: {}, updated_at: 0 };
+  const doc = { saved: {}, applied: {}, hidden: {}, notes: {}, updated_at: 0 };
   for (const key of ["saved", "applied"]) {
     try {
       for (const id of JSON.parse(localStorage.getItem(LS[key]) || "[]")) {
@@ -36,9 +36,9 @@ function activeIds(section) {
 
 function mergeInto(mine, theirs) {
   const pick = (a, b) => (!a ? b : !b ? a : ((b.ts || 0) > (a.ts || 0) ? b : a));
-  const out = { saved: {}, applied: {}, notes: {},
+  const out = { saved: {}, applied: {}, hidden: {}, notes: {},
                 updated_at: Math.max(mine.updated_at || 0, theirs.updated_at || 0) };
-  for (const key of ["saved", "applied", "notes"]) {
+  for (const key of ["saved", "applied", "hidden", "notes"]) {
     for (const id of new Set([...Object.keys(mine[key] || {}), ...Object.keys(theirs[key] || {})])) {
       out[key][id] = pick((mine[key] || {})[id], (theirs[key] || {})[id]);
     }
@@ -77,7 +77,7 @@ let JOBS = [];
 const state = {
   view: "all", country: "", source: "", query: "",
   remoteOnly: false, sponsorshipOnly: false, internshipOnly: false,
-  fullTextOnly: false, searchDescriptions: false,
+  fullTextOnly: false, searchDescriptions: false, showHidden: false,
   minScore: 0, maxYears: null,
   dimension: "level", section: null,   // browse screen until a section is picked
 };
@@ -106,7 +106,10 @@ function showFreshness() {
   const bits = [`Updated ${since(META.generated_at)}`];
   if (META.new) bits.push(`${META.new} new`);
   if (META.removed) bits.push(`${META.removed} closed`);
+  const quiet = META.quiet_sources || [];
+  if (quiet.length) bits.push(`⚠ ${quiet.join(", ")} not answering`);
   el.textContent = bits.join(" · ");
+  el.classList.toggle("warn", quiet.length > 0);
   el.title = when.toLocaleString();  // exact date and time on hover/long-press
 }
 
@@ -150,7 +153,8 @@ function wire() {
   document.getElementById("q").addEventListener("input", e => { state.query = e.target.value; render(); });
   document.getElementById("country").addEventListener("change", e => { state.country = e.target.value; render(); });
   document.getElementById("source").addEventListener("change", e => { state.source = e.target.value; render(); });
-  for (const id of ["remoteOnly", "sponsorshipOnly", "internshipOnly", "fullTextOnly", "searchDescriptions"]) {
+  for (const id of ["remoteOnly", "sponsorshipOnly", "internshipOnly", "fullTextOnly",
+                    "searchDescriptions", "showHidden"]) {
     document.getElementById(id).addEventListener("change", e => { state[id] = e.target.checked; render(); });
   }
   document.getElementById("maxYears").addEventListener("input", e => {
@@ -202,9 +206,11 @@ function render() {
 
 function renderBrowse() {
   const wrap = document.getElementById("browse");
+  const hidden = activeIds(TRACKING.hidden);
+  const pool = JOBS.filter(j => !hidden.has(j.id));
   const dims = [["level", "By level", LEVELS], ["domain", "By focus", DOMAINS]];
   wrap.innerHTML = dims.map(([dim, heading]) => {
-    const tiles = sectionCounts(JOBS, dim)
+    const tiles = sectionCounts(pool, dim)
       .filter(s => s.count > 0)          // never offer an empty section
       .map(s => `
         <button class="tile" data-dim="${dim}" data-id="${s.id}">
@@ -214,8 +220,10 @@ function renderBrowse() {
         </button>`).join("");
     return `<h2 class="browse-head">${heading}</h2><div class="tiles">${tiles}</div>`;
   }).join("");
-  document.getElementById("count").textContent =
-    JOBS.length ? `${JOBS.length} roles — pick a section` : "No jobs yet";
+  const dismissed = JOBS.length - pool.length;
+  document.getElementById("count").textContent = JOBS.length
+    ? `${pool.length} roles — pick a section${dismissed ? ` · ${dismissed} dismissed` : ""}`
+    : "No jobs yet";
   wrap.querySelectorAll(".tile").forEach(t => t.addEventListener("click", () => {
     openSection(t.dataset.dim, t.dataset.id);
   }));
@@ -245,10 +253,12 @@ function sectionFromHash() {
 
 function renderList() {
   const saved = activeIds(TRACKING.saved), applied = activeIds(TRACKING.applied);
+  const hidden = activeIds(TRACKING.hidden);
   const pool = state.section
     ? JOBS.filter(j => inSection(j, state.dimension, state.section))
     : JOBS;
-  visibleRows = filterJobs(pool, { ...state, savedIds: [...saved], appliedIds: [...applied] });
+  visibleRows = filterJobs(pool, { ...state, savedIds: [...saved], appliedIds: [...applied],
+                                   hiddenIds: [...hidden] });
   const defs = state.dimension === "level" ? LEVELS : DOMAINS;
   const current = defs.find(d => d.id === state.section);
   document.getElementById("crumb").textContent =
@@ -363,11 +373,13 @@ function card(j, saved, applied) {
     <div class="draft" hidden></div>
     <div class="actions">
       <button class="make-draft">Draft application</button>
+      <button class="hide">${TRACKING.hidden[j.id] && TRACKING.hidden[j.id].on ? "Restore" : "Not interested"}</button>
       <a class="apply" href="${esc(j.url)}" target="_blank" rel="noopener">Open posting ↗</a>
       <button class="save ${saved.has(j.id) ? "on" : ""}">${saved.has(j.id) ? "★ Saved" : "☆ Save"}</button>
       <button class="applied ${applied.has(j.id) ? "on" : ""}">${applied.has(j.id) ? "✓ Applied" : "Applied?"}</button>
     </div>`;
   el.querySelector(".make-draft").addEventListener("click", ev => makeDraft(j, el, ev.target));
+  el.querySelector(".hide").addEventListener("click", () => toggle("hidden", j.id));
   el.querySelector(".save").addEventListener("click", () => toggle("saved", j.id));
   el.querySelector(".applied").addEventListener("click", () => toggle("applied", j.id));
   return el;

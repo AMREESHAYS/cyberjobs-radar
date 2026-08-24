@@ -67,3 +67,17 @@ test("without a KV binding the api says so rather than failing silently", async 
   const res = await worker.fetch(authed("/api/state"), { SITE_KEY: KEY });
   assert.equal(res.status, 501);
 });
+
+test("dismissals sync and merge like everything else", async () => {
+  const env = fakeEnv();
+  await worker.fetch(authed("/api/state", { method: "PUT",
+    body: JSON.stringify({ hidden: { a: { on: true, ts: 5 } } }) }), env);
+  const res = await worker.fetch(authed("/api/state"), env);
+  assert.deepEqual(activeIds((await res.json()).hidden), ["a"]);
+});
+
+test("restoring on one device beats a stale dismissal from another", () => {
+  const merged = mergeState({ hidden: { a: { on: true, ts: 1 } } },
+                            { hidden: { a: { on: false, ts: 9 } } });
+  assert.deepEqual(activeIds(merged.hidden), []);
+});

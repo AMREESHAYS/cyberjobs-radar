@@ -32,7 +32,11 @@ export function filterJobs(jobs, c = {}) {
   const q = (c.query || "").toLowerCase();
   const saved = new Set(c.savedIds || []);
   const applied = new Set(c.appliedIds || []);
+  const hidden = new Set(c.hiddenIds || []);
   let out = jobs.filter(j => {
+    // "not interested" removes a job from every view until it is restored
+    if (hidden.has(j.id) && !c.showHidden) return false;
+    if (c.showHidden && !hidden.has(j.id)) return false;
     if (c.country && j.country !== c.country) return false;
     if (c.source && j.source !== c.source) return false;
     if (c.remoteOnly && !isRemoteJob(j)) return false;

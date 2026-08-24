@@ -116,3 +116,16 @@ test("fullTextOnly works off the flag once the payload is slim", () => {
                 job({ id: "teaser", description: "short preview" })];
   assert.deepEqual(filterJobs(jobs, { fullTextOnly: true }).map(j => j.id), ["full"]);
 });
+
+test("a dismissed job disappears from every view", () => {
+  const jobs = [job({ id: "keep" }), job({ id: "nope" })];
+  const ids = c => filterJobs(jobs, c).map(j => j.id);
+  assert.deepEqual(ids({ hiddenIds: ["nope"] }), ["keep"]);
+  assert.deepEqual(ids({ hiddenIds: ["nope"], view: "saved", savedIds: ["nope", "keep"] }), ["keep"]);
+  assert.deepEqual(ids({ hiddenIds: ["nope"], query: "security" }), ["keep"]);
+});
+
+test("dismissed-only shows exactly what was dismissed, so it can be undone", () => {
+  const jobs = [job({ id: "keep" }), job({ id: "nope" })];
+  assert.deepEqual(filterJobs(jobs, { hiddenIds: ["nope"], showHidden: true }).map(j => j.id), ["nope"]);
+});
