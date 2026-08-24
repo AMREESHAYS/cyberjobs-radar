@@ -307,3 +307,13 @@ def test_adzuna_query_requires_a_security_word_and_excludes_senior_titles():
     assert "senior" in captured["what_exclude"] and "sales" in captured["what_exclude"]
     assert captured["sort_by"] == "date"
     assert "what" not in captured                    # the old single-term filter is gone
+
+def test_source_names_do_not_collide():
+    from pipeline.sources import fetch_all
+    from pipeline.sources import adzuna, jobtech, nav
+    stats = {}
+    # all three define a function literally called `fetch`
+    fetch_all({"secrets": {}, "search_terms": ["security"]},
+              adapters=[adzuna.fetch, jobtech.fetch, nav.fetch],
+              stats=stats)
+    assert set(stats) == {"adzuna", "jobtech", "nav"}, stats

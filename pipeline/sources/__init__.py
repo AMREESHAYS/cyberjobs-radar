@@ -11,6 +11,14 @@ def register(fn):
     ADAPTERS.append(fn)
     return fn
 
+def _source_name(adapter) -> str:
+    """adzuna, jobtech and nav each define a plain `fetch`, so the module name
+    identifies them; the multi-source modules name their functions instead."""
+    fn = getattr(adapter, "__name__", "") or "unknown"
+    if fn in ("fetch", "unknown"):
+        return (getattr(adapter, "__module__", "") or "unknown").rsplit(".", 1)[-1]
+    return fn.replace("fetch_", "")
+
 def fetch_all(cfg: dict, adapters=None, stats=None) -> list:
     """Fetch every source. `stats` collects per-source counts for health checks.
 
@@ -20,7 +28,7 @@ def fetch_all(cfg: dict, adapters=None, stats=None) -> list:
     adapters = ADAPTERS if adapters is None else adapters
     out = []
     for adapter in adapters:
-        name = getattr(adapter, "__name__", repr(adapter)).replace("fetch_", "") or "unknown"
+        name = _source_name(adapter)
         try:
             jobs = adapter(cfg) or []
             log.info("%s -> %d jobs", name, len(jobs))
