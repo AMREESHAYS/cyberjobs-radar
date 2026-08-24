@@ -4,19 +4,24 @@
 import { yearsRequired } from "./filters.js";
 
 export const LEVELS = [
-  { id: "beginner",     label: "Beginner",     hint: "internships, graduate, junior" },
+  { id: "internship",   label: "Internships",  hint: "intern, praktikum, werkstudent, ausbildung" },
+  { id: "beginner",     label: "Beginner",     hint: "junior, graduate, entry level" },
   { id: "intermediate", label: "Intermediate", hint: "roughly 2-4 years" },
   { id: "advanced",     label: "Advanced",     hint: "roughly 5-8 years" },
   { id: "expert",       label: "Expert",       hint: "9+ years, principal, lead" },
   { id: "unstated",     label: "Not stated",   hint: "the ad never says" },
 ];
 
-const ENTRY_WORDS = /\b(intern|internship|praktik|werkstudent|graduate|junior|jr\.?|trainee|apprentic|entry[- ]level|einsteiger|student)\b/i;
+// kept apart from the junior/graduate wording, since an internship is a
+// different application entirely — different timing, pay and visa route
+const INTERN_WORDS = /(praktik|werkstudent|studentenjob|duales studium|ausbildung|azubi|stagiair|stagiaire)|\b(intern|internship|apprentice|apprenticeship|lehre|lehrstelle|placement|working student)\b/i;
+const ENTRY_WORDS = /\b(graduate|junior|jr\.?|trainee|entry[- ]level|einsteiger|starter|student)\b/i;
 const EXPERT_WORDS = /\b(principal|lead|head|chief|director|architect|staff|expert)\b/i;
 const SENIOR_WORDS = /\b(senior|sr\.?|experienced|erfahren)\b/i;
 
 export function levelOf(job) {
   const title = `${job.title || ""} ${job.employment_type || ""}`;
+  if (INTERN_WORDS.test(title)) return "internship";    // its own track, checked first
   if (ENTRY_WORDS.test(title)) return "beginner";       // an explicit marker wins
   const years = yearsRequired(job);
   if (years != null) {
@@ -28,7 +33,8 @@ export function levelOf(job) {
   if (EXPERT_WORDS.test(title)) return "expert";
   if (SENIOR_WORDS.test(title)) return "advanced";
   const fit = (job.seniority_fit || "").toLowerCase();
-  if (fit.includes("intern") || fit.includes("junior")) return "beginner";
+  if (fit.includes("intern")) return "internship";
+  if (fit.includes("junior")) return "beginner";
   if (fit.includes("mid")) return "intermediate";
   if (fit.includes("senior")) return "advanced";
   return "unstated";

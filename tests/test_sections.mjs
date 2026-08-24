@@ -4,10 +4,18 @@ import { levelOf, domainOf, sectionCounts, inSection, LEVELS, DOMAINS } from "..
 
 const job = (o = {}) => ({ id: "x", title: "Security Analyst", skills: [], description: "", ...o });
 
+test("internships are their own track, not lumped in with junior roles", () => {
+  for (const t of ["Cybersecurity Intern", "Werkstudent Security", "Praktikum IT-Sicherheit",
+                   "Duales Studium Cybersicherheit", "Lehre als IT Systemtechniker:in",
+                   "Internship - Security Operations", "Stagiair Security"]) {
+    assert.equal(levelOf(job({ title: t })), "internship", t);
+  }
+});
+
 test("an explicit entry marker beats everything else", () => {
-  assert.equal(levelOf(job({ title: "Cybersecurity Intern" })), "beginner");
-  assert.equal(levelOf(job({ title: "Werkstudent Security" })), "beginner");
+  assert.equal(levelOf(job({ title: "Graduate Cyber Analyst" })), "beginner");
   assert.equal(levelOf(job({ title: "Junior SOC Analyst", experience_required: "8 years" })), "beginner");
+  assert.equal(levelOf(job({ title: "Cybersecurity Intern", experience_required: "3 years" })), "internship");
 });
 
 test("stated years drive the level", () => {
@@ -24,6 +32,7 @@ test("an ad that says nothing lands in Not stated, never a guess", () => {
 
 test("the AI's read is used only when the ad itself is silent", () => {
   assert.equal(levelOf(job({ seniority_fit: "junior" })), "beginner");
+  assert.equal(levelOf(job({ seniority_fit: "intern" })), "internship");
   assert.equal(levelOf(job({ seniority_fit: "senior", experience_required: "2 years" })), "intermediate");
 });
 
@@ -53,7 +62,7 @@ test("counts cover every job exactly once, in both dimensions", () => {
 
 test("inSection filters, and no section means everything", () => {
   const intern = job({ title: "Security Intern" });
-  assert.equal(inSection(intern, "level", "beginner"), true);
-  assert.equal(inSection(intern, "level", "advanced"), false);
+  assert.equal(inSection(intern, "level", "internship"), true);
+  assert.equal(inSection(intern, "level", "beginner"), false);   // its own section now
   assert.equal(inSection(intern, "level", null), true);
 });
