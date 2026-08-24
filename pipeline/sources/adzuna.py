@@ -3,6 +3,7 @@ from ..models import Job, make_id, NOT_STATED
 from . import register
 from .base import (CURRENCY_BY_COUNTRY, employment_label, format_location,
                    get_json, strip_html)
+from .remote_apis import _keyword_match, _terms
 
 _COUNTRY_MAP = {  # our code -> adzuna country slug
     "CH": "ch", "DE": "de", "AT": "at", "NL": "nl", "BE": "be",
@@ -21,10 +22,10 @@ def fetch(cfg, get=get_json):
     app_id, app_key = sec.get("ADZUNA_APP_ID"), sec.get("ADZUNA_APP_KEY")
     if not app_id or not app_key:
         return []
-    # what: a single required phrase — using only the first search term made the
-    # other sixteen dead config. what_or matches any of the words, and
-    # what_exclude lets the board drop senior postings before they cost us
-    # anything, which is most of what a generic security query returns.
+    # what_or matches ANY of the words given, so feeding it the entry-level
+    # vocabulary ("junior", "intern", "trainee") pulled in apprentice roles from
+    # every industry — nurses, chefs, machine operators. what_and forces the
+    # security word to be present; what_or then broadens within that.
     terms = cfg.get("search_terms") or ["cybersecurity"]
     what_or = " ".join(dict.fromkeys(" ".join(terms).lower().split()))
     jobs: list[Job] = []
@@ -34,9 +35,11 @@ def fetch(cfg, get=get_json):
             continue
         data = get(BASE.format(c=slug), params={
             "app_id": app_id, "app_key": app_key,
+            "what_and": cfg.get("adzuna_require", "security"),
             "what_or": what_or,
             "what_exclude": cfg.get("adzuna_exclude",
-                                    "senior lead principal head director chief manager architect"),
+                                    "senior lead principal head director chief manager architect "
+                                    "sales vertrieb verkauf recruiter"),
             "max_days_old": cfg.get("max_days_old", 45),
             "sort_by": "date",
             "results_per_page": 50, "content-type": "application/json",
@@ -49,6 +52,10 @@ def fetch(cfg, get=get_json):
             # area runs country-first, most specific last
             city = area[-1] if len(area) > 1 else ""
             low, high = r.get("salary_min"), r.get("salary_max")
+            blob = f"{r.get('title', '')} {r.get('description', '')}"
+            # the API is only as good as its index; verify locally too
+            if not _keyword_match(blob, _terms(cfg)):
+                continue
             jobs.append(Job(
                 id=make_id("adzuna", str(r.get("id")), url),
                 title=r.get("title", "").strip(),

@@ -33,6 +33,34 @@ def drop_out_of_reach(jobs, cfg):
         (dropped if is_out_of_reach(j.title, patterns) else kept).append(j)
     return kept, dropped
 
+# A spell of Adzuna queries that matched any of "junior/intern/trainee" filled the
+# store with nurses, chefs and machine operators. The query is fixed, but stored
+# rows need clearing too, and a source can always drift again.
+def _security_terms(cfg):
+    terms = cfg.get("search_terms") or ["security"]
+    words = set()
+    for term in terms:
+        words.update(w for w in re.split(r"\W+", term.lower()) if len(w) > 3)
+    # the words that actually make a posting a security posting
+    return words & {"security", "cybersecurity", "cyber", "infosec", "pentest",
+                    "penetration", "soc", "siem", "devsecops", "sicherheit",
+                    "informationssicherheit", "veiligheid"} or {"security"}
+
+_ON_TOPIC = re.compile(
+    r"(security|cyber ?security|infosec|pentest|penetration test|red team|blue team|"
+    r"soc\b|siem|devsecops|sicherheit|beveiliging|sécurité|sikkerhet|säkerhet|"
+    r"bezpieczeństwa|turvallisuus)", re.I)
+
+def is_on_topic(job) -> bool:
+    """Does this posting mention security at all, in any of our languages?"""
+    return bool(_ON_TOPIC.search(f"{job.title} {job.description}"))
+
+def drop_off_topic(jobs):
+    kept, dropped = [], []
+    for j in jobs:
+        (kept if is_on_topic(j) else dropped).append(j)
+    return kept, dropped
+
 # --- duplicates -----------------------------------------------------------
 # One posting is often listed once per city: "Security Awareness Specialist"
 # appeared 10 times from one employer, differing only in location.

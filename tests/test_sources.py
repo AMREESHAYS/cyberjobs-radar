@@ -21,7 +21,8 @@ def _fixture_get(payload):
 
 def test_adzuna_normalizes(tmp_path):
     payload = json.load(open("tests/fixtures/adzuna.json"))
-    cfg = {"countries": ["CH"], "search_terms": ["security"],
+    # "SOC analyst" is one of the real configured terms; the fixture ad is a SOC role
+    cfg = {"countries": ["CH"], "search_terms": ["security", "SOC analyst"],
            "secrets": {"ADZUNA_APP_ID": "a", "ADZUNA_APP_KEY": "b"}}
     jobs = adzuna.fetch(cfg, get=_fixture_get(payload))
     j = jobs[0]
@@ -281,7 +282,20 @@ def test_parse_salary_text_reads_ranges_and_refuses_prose():
     assert parse_salary_text("105000-230000 USD year") == (105000.0, 230000.0, "USD")
     assert parse_salary_text("competitive salary") == (None, None, "")
 
-def test_adzuna_query_uses_every_term_and_excludes_senior_titles():
+def test_adzuna_drops_results_that_never_mention_what_we_searched_for():
+    # the API once returned nurses and chefs because what_or matched "junior"
+    payload = {"results": [
+        {"id": 1, "title": "Chef de Partie", "description": "Prepare desserts.",
+         "redirect_url": "https://adzuna.test/1", "location": {"area": ["Switzerland", "Bern"]}},
+        {"id": 2, "title": "Junior SOC Analyst", "description": "Monitor security alerts.",
+         "redirect_url": "https://adzuna.test/2", "location": {"area": ["Switzerland", "Zurich"]}},
+    ]}
+    cfg = {"countries": ["CH"], "search_terms": ["security"],
+           "secrets": {"ADZUNA_APP_ID": "a", "ADZUNA_APP_KEY": "b"}}
+    jobs = adzuna.fetch(cfg, get=_fixture_get(payload))
+    assert [j.title for j in jobs] == ["Junior SOC Analyst"]
+
+def test_adzuna_query_requires_a_security_word_and_excludes_senior_titles():
     captured = {}
     def get(url, params=None, headers=None, timeout=20):
         captured.update(params)
@@ -289,6 +303,7 @@ def test_adzuna_query_uses_every_term_and_excludes_senior_titles():
     adzuna.fetch({"countries": ["CH"], "search_terms": ["cybersecurity", "SOC analyst"],
                   "secrets": {"ADZUNA_APP_ID": "a", "ADZUNA_APP_KEY": "b"}}, get=get)
     assert "soc" in captured["what_or"] and "cybersecurity" in captured["what_or"]
-    assert "senior" in captured["what_exclude"]      # dropped before it costs us
+    assert captured["what_and"] == "security"        # every hit must be a security ad
+    assert "senior" in captured["what_exclude"] and "sales" in captured["what_exclude"]
     assert captured["sort_by"] == "date"
     assert "what" not in captured                    # the old single-term filter is gone

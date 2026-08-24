@@ -32,6 +32,7 @@
       <button data-view="saved" role="tab">Saved</button>
       <button data-view="applied" role="tab">Applied</button>
     </nav>
+    <button id="crumb" class="crumb" hidden>← All sections</button>
     <section id="filters" class="filters">
       <select id="country" aria-label="Country"><option value="">All countries</option></select>
       <select id="source" aria-label="Source"><option value="">All sources</option></select>
@@ -49,6 +50,7 @@
     <span class="pulse" aria-hidden="true"></span>
     <p>Loading jobs…</p>
   </div>
+  <section id="browse" class="browse" hidden></section>
   <main id="list" aria-live="polite"></main>
 
   <script type="module" src="filters.js"></script>

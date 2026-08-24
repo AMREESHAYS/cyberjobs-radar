@@ -29,6 +29,9 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
     # apply the same two rules to what is already stored, so tightening the
     # filters cleans the backlog instead of only affecting future fetches
     all_jobs, stale_seniority = relevance.drop_out_of_reach(all_jobs, cfg)
+    all_jobs, off_topic = relevance.drop_off_topic(all_jobs)
+    if off_topic:
+        log.info("dropped %d postings that never mention security", len(off_topic))
     all_jobs, duplicates = relevance.dedupe(all_jobs)
     new_jobs = [j for j in new_jobs if j in all_jobs]
 
@@ -59,6 +62,7 @@ def run(cfg, profile, data_path="data/jobs.json", *, fetch=fetch_all,
     summary = {"total": len(kept), "new": len(new_jobs), "scored": scored,
                "removed": len(removed), "aged_out": aged_out,
                "above_level": len(out_of_reach) + len(stale_seniority),
+               "off_topic": len(off_topic),
                "duplicates": len(duplicates)}
     store.save_meta(meta_path, {**summary, "generated_at": now.replace(microsecond=0).isoformat()})
     return summary

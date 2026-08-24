@@ -167,6 +167,32 @@ main { padding: 1rem; display: grid; gap: 0.8rem; max-width: 720px; margin: 0 au
 .visa.no { background: rgba(255, 111, 133, 0.14); border-color: rgba(255, 111, 133, 0.4); color: #ff97a8; }
 .visa.unknown { background: rgba(154, 167, 199, 0.12); border-color: rgba(154, 167, 199, 0.3); color: var(--mut); }
 
+/* the hidden attribute must beat the display rules below it */
+[hidden] { display: none !important; }
+
+.browse { padding: 0.6rem 0.9rem 2rem; }
+.browse-head {
+  margin: 1rem 0 0.5rem; font-size: 0.72rem; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--mut); font-weight: 600;
+}
+.tiles { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.6rem; }
+.tile {
+  display: grid; gap: 0.15rem; text-align: left; cursor: pointer;
+  padding: 0.85rem 0.9rem; border-radius: 16px; color: #eaf0ff;
+  background: linear-gradient(160deg, rgba(23,32,66,0.92), rgba(13,20,45,0.92));
+  border: 1px solid var(--stroke);
+}
+.tile:active { transform: scale(0.985); }
+.tile b { font-size: 0.9rem; font-weight: 650; }
+.tile-count { color: var(--cyan); font-size: 1.35rem; font-weight: 700; line-height: 1.1; }
+.tile-hint { color: var(--mut); font-size: 0.68rem; }
+.crumb {
+  align-self: start; margin: 0.1rem 0 0.2rem; padding: 0.3rem 0.7rem; cursor: pointer;
+  border-radius: 999px; border: 1px solid var(--stroke); background: rgba(139,123,255,0.14);
+  color: #cfc7ff; font-size: 0.75rem;
+}
+@media (min-width: 620px) { .tiles { grid-template-columns: repeat(3, 1fr); } }
+
 .loading { display: grid; place-items: center; gap: 0.7rem; padding: 3rem 1rem; color: var(--mut); }
 .loading p { margin: 0; font-size: 0.85rem; }
 .loading .pulse {

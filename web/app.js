@@ -1,4 +1,5 @@
 import { filterJobs } from "./filters.js";
+import { LEVELS, DOMAINS, sectionCounts, inSection } from "./sections.js";
 
 const LS = { saved: "cjr_saved", applied: "cjr_applied", tracking: "cjr_tracking" };
 
@@ -77,6 +78,7 @@ const state = {
   remoteOnly: false, sponsorshipOnly: false, internshipOnly: false,
   fullTextOnly: false, searchDescriptions: false,
   minScore: 0, maxYears: null,
+  dimension: "level", section: null,   // browse screen until a section is picked
 };
 
 let loadFailed = false;
@@ -155,6 +157,11 @@ function wire() {
     document.getElementById("minScoreVal").textContent = e.target.value;
     render();
   });
+  document.getElementById("crumb").addEventListener("click", () => {
+    state.section = null;
+    window.scrollTo(0, 0);
+    render();
+  });
   document.querySelectorAll("#tabs button").forEach(b =>
     b.addEventListener("click", () => {
       document.querySelectorAll("#tabs button").forEach(x => x.classList.remove("active"));
@@ -170,8 +177,49 @@ let shown = 0;
 let sentinelObserver = null;
 
 function render() {
+  const browsing = !state.section && state.view === "all";
+  document.getElementById("browse").hidden = !browsing;
+  document.getElementById("list").hidden = browsing;
+  document.getElementById("filters").hidden = browsing;
+  document.getElementById("crumb").hidden = !state.section;
+  if (browsing) return renderBrowse();
+  renderList();
+}
+
+function renderBrowse() {
+  const wrap = document.getElementById("browse");
+  const dims = [["level", "By level", LEVELS], ["domain", "By focus", DOMAINS]];
+  wrap.innerHTML = dims.map(([dim, heading]) => {
+    const tiles = sectionCounts(JOBS, dim)
+      .filter(s => s.count > 0)          // never offer an empty section
+      .map(s => `
+        <button class="tile" data-dim="${dim}" data-id="${s.id}">
+          <b>${esc(s.label)}</b>
+          <span class="tile-count">${s.count}</span>
+          <span class="tile-hint">${esc(s.hint)}</span>
+        </button>`).join("");
+    return `<h2 class="browse-head">${heading}</h2><div class="tiles">${tiles}</div>`;
+  }).join("");
+  document.getElementById("count").textContent =
+    JOBS.length ? `${JOBS.length} roles — pick a section` : "No jobs yet";
+  wrap.querySelectorAll(".tile").forEach(t => t.addEventListener("click", () => {
+    state.dimension = t.dataset.dim;
+    state.section = t.dataset.id;
+    window.scrollTo(0, 0);
+    render();
+  }));
+}
+
+function renderList() {
   const saved = activeIds(TRACKING.saved), applied = activeIds(TRACKING.applied);
-  visibleRows = filterJobs(JOBS, { ...state, savedIds: [...saved], appliedIds: [...applied] });
+  const pool = state.section
+    ? JOBS.filter(j => inSection(j, state.dimension, state.section))
+    : JOBS;
+  visibleRows = filterJobs(pool, { ...state, savedIds: [...saved], appliedIds: [...applied] });
+  const defs = state.dimension === "level" ? LEVELS : DOMAINS;
+  const current = defs.find(d => d.id === state.section);
+  document.getElementById("crumb").textContent =
+    current ? `← All sections · ${current.label}` : "← All sections";
   document.getElementById("count").textContent =
     JOBS.length ? `${visibleRows.length} of ${JOBS.length} roles`
                 : loadFailed ? "Could not load jobs" : "No jobs yet — run the pipeline";

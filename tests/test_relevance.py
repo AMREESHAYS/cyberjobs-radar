@@ -4,7 +4,7 @@ from pipeline.models import Job
 P = _patterns({})
 
 def _job(jid, title="Security Analyst", company="Acme", country="CH",
-         location="Zurich", score=None, desc="d", version=0):
+         location="Zurich", score=None, desc="security work", version=0):
     return Job(id=jid, title=title, company=company, location=location, country=country,
                url=f"https://b.test/{jid}", source="s", source_type="api",
                description=desc, score=score, analysis_version=version)
@@ -52,3 +52,23 @@ def test_dedupe_does_not_merge_across_countries():
 def test_dedupe_leaves_different_jobs_alone():
     kept, _ = dedupe([_job("a", "Security Analyst"), _job("b", "Cloud Security Engineer")])
     assert len(kept) == 2
+
+from pipeline.relevance import is_on_topic, drop_off_topic
+
+def test_off_topic_postings_are_recognised():
+    # these all reached the store when adzuna's what_or matched "junior"
+    for title in ["Chef de Partie", "Pflegefachkraft für den Nachtdienst",
+                  "Machine Operator Leeuwarden", "Konditor - Backwaren"]:
+        assert is_on_topic(_job("x", title, desc="Prepare food.")) is False, title
+
+def test_security_postings_survive_in_every_language_we_fetch():
+    for title, desc in [("SOC Analyst", "monitor alerts"),
+                        ("Junior Cyber Analyst", "cyber security team"),
+                        ("Informatiker", "IT-Sicherheit und Netzwerke"),
+                        ("Medewerker", "informatiebeveiliging en netwerk")]:
+        assert is_on_topic(_job("y", title, desc=desc)) is True, title
+
+def test_drop_off_topic_splits_the_list():
+    kept, dropped = drop_off_topic([_job("a", "SOC Analyst", desc="security"),
+                                    _job("b", "Chef de Partie", desc="desserts")])
+    assert [j.id for j in kept] == ["a"] and [j.id for j in dropped] == ["b"]
