@@ -1,4 +1,10 @@
 {
+  "adzuna": {
+    "errored": true,
+    "last_count": null,
+    "last_ok": null,
+    "quiet_runs": 1
+  },
   "arbeitnow": {
     "errored": false,
     "last_count": 22,
@@ -51,7 +57,7 @@
     "errored": true,
     "last_count": null,
     "last_ok": null,
-    "quiet_runs": 1
+    "quiet_runs": 2
   },
   "jobicy": {
     "errored": false,
@@ -59,11 +65,23 @@
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
+  "jobtech": {
+    "errored": false,
+    "last_count": 4,
+    "last_ok": "jobtech",
+    "quiet_runs": 0
+  },
   "lever": {
     "errored": false,
     "last_count": 1,
     "last_ok": "lever",
     "quiet_runs": 0
+  },
+  "nav": {
+    "errored": false,
+    "last_count": 0,
+    "last_ok": null,
+    "quiet_runs": 1
   },
   "recruitee": {
     "errored": false,
