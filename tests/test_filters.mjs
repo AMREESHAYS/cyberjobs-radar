@@ -103,3 +103,16 @@ test("isRemoteJob and hasFullText stay honest about unknowns", () => {
   assert.equal(isRemoteJob(job({ remote: "not stated", country: "REMOTE" })), true);
   assert.equal(hasFullText(job({ description: "" })), false);
 });
+
+test("hasFullText trusts the flag the build sets, not the truncated preview", () => {
+  // the list copy carries a 160-char preview, so length alone would lie
+  assert.equal(hasFullText({ description: "x".repeat(160), full_text: true }), true);
+  assert.equal(hasFullText({ description: "x".repeat(160), full_text: false }), false);
+  assert.equal(hasFullText({ description: "x".repeat(900) }), true);   // no flag: fall back
+});
+
+test("fullTextOnly works off the flag once the payload is slim", () => {
+  const jobs = [job({ id: "full", description: "short preview", full_text: true }),
+                job({ id: "teaser", description: "short preview" })];
+  assert.deepEqual(filterJobs(jobs, { fullTextOnly: true }).map(j => j.id), ["full"]);
+});

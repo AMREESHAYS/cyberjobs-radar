@@ -107,7 +107,13 @@ function showFreshness() {
   el.title = when.toLocaleString();  // exact date and time on hover/long-press
 }
 
+function showLoading(on) {
+  const el = document.getElementById("loading");
+  if (el) el.hidden = !on;
+}
+
 async function boot() {
+  showLoading(true);
   // behind Cloudflare Access an expired session answers with the sign-in page,
   // so a parse failure here means "sign in again", not "no jobs"
   const bust = "?" + Date.now();
@@ -122,6 +128,7 @@ async function boot() {
   fillSelect("source", [...new Set(JOBS.map(j => j.source))].sort());
   wire();
   render();
+  showLoading(false);
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
 }
 
@@ -155,18 +162,57 @@ function wire() {
     }));
 }
 
+// A card per job meant 3000 nodes on open. Only a screenful is built; the rest
+// arrive as you scroll, so filtering stays instant however long the list gets.
+const PAGE = 24;
+let visibleRows = [];
+let shown = 0;
+let sentinelObserver = null;
+
 function render() {
   const saved = activeIds(TRACKING.saved), applied = activeIds(TRACKING.applied);
-  const rows = filterJobs(JOBS, { ...state, savedIds: [...saved], appliedIds: [...applied] });
+  visibleRows = filterJobs(JOBS, { ...state, savedIds: [...saved], appliedIds: [...applied] });
   document.getElementById("count").textContent =
-    JOBS.length ? `${rows.length} of ${JOBS.length} roles`
+    JOBS.length ? `${visibleRows.length} of ${JOBS.length} roles`
                 : loadFailed ? "Could not load jobs" : "No jobs yet — run the pipeline";
+
   const list = document.getElementById("list");
-  list.innerHTML = rows.length ? ""
+  list.innerHTML = visibleRows.length ? ""
     : loadFailed
       ? "<p class='empty'>Could not load the job list. If the session expired, <a href='./'>reload to sign in</a>.</p>"
       : "<p class='empty'>Nothing matches these filters yet. Loosen them or check back after the next refresh.</p>";
-  for (const j of rows) list.appendChild(card(j, saved, applied));
+  shown = 0;
+  appendPage(list, saved, applied);
+}
+
+function appendPage(list, saved, applied) {
+  const slice = visibleRows.slice(shown, shown + PAGE);
+  const batch = document.createDocumentFragment();   // one reflow, not twenty-four
+  for (const j of slice) batch.appendChild(card(j, saved, applied));
+  const old = list.querySelector(".sentinel");
+  if (old) old.remove();
+  list.appendChild(batch);
+  shown += slice.length;
+
+  if (shown < visibleRows.length) {
+    const sentinel = document.createElement("div");
+    sentinel.className = "sentinel";
+    sentinel.textContent = `${visibleRows.length - shown} more…`;
+    list.appendChild(sentinel);
+    watchSentinel(sentinel, list, saved, applied);
+  }
+}
+
+function watchSentinel(sentinel, list, saved, applied) {
+  if (sentinelObserver) sentinelObserver.disconnect();
+  if (typeof IntersectionObserver !== "function") {
+    sentinel.addEventListener("click", () => appendPage(list, saved, applied));
+    return;   // older browsers get a tap-to-continue instead
+  }
+  sentinelObserver = new IntersectionObserver(entries => {
+    if (entries.some(e => e.isIntersecting)) appendPage(list, saved, applied);
+  }, { rootMargin: "600px" });   // fetch the next screenful before it is reached
+  sentinelObserver.observe(sentinel);
 }
 
 // only claim "Remote" when a source actually said so — everything else keeps

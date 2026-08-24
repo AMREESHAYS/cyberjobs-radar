@@ -23,6 +23,8 @@ export function isRemoteJob(job) {
 }
 
 export function hasFullText(job) {
+  // the list copy carries a preview, so the flag is authoritative when present
+  if (typeof job.full_text === "boolean") return job.full_text;
   return (job.description || "").length > 520;
 }
 

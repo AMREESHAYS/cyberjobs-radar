@@ -123,6 +123,11 @@ async function handleDraft(request, env) {
   if (cached) return json({ ...cached, cached: true });
 
   const profile = await readProfile(env);
+  // the client only holds a truncated preview; draft from the whole ad
+  const full = await readFullJob(env, job.id);
+  if (full && (full.description || "").length > (job.description || "").length) {
+    job = { ...job, description: full.description, skills: full.skills || job.skills };
+  }
   const base = (env.AI_BASE_URL || "https://api.groq.com/openai/v1").replace(/\/$/, "");
   // injectable so tests can stub one call without touching a shared global
   const callAI = env.FETCH || fetch;
@@ -158,6 +163,17 @@ async function handleDraft(request, env) {
 
   await writeDraft(env, job.id, draft);
   return json({ ...draft, cached: false });
+}
+
+async function readFullJob(env, jobId) {
+  try {
+    const res = await env.ASSETS.fetch(new Request("https://internal/data/jobs.full.json"));
+    if (!res.ok) return null;
+    const jobs = await res.json();
+    return jobs.find(j => j.id === jobId) || null;
+  } catch {
+    return null;   // fall back to whatever the client sent
+  }
 }
 
 async function readProfile(env) {
