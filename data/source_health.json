@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 38,
+    "last_count": 37,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -35,15 +35,9 @@
     "last_ok": "denmark",
     "quiet_runs": 0
   },
-  "fetch": {
-    "errored": false,
-    "last_count": 0,
-    "last_ok": null,
-    "quiet_runs": 1
-  },
   "finland": {
     "errored": false,
-    "last_count": 11,
+    "last_count": 10,
     "last_ok": "finland",
     "quiet_runs": 0
   },
@@ -77,12 +71,6 @@
     "last_ok": "lever",
     "quiet_runs": 0
   },
-  "nav": {
-    "errored": false,
-    "last_count": 0,
-    "last_ok": null,
-    "quiet_runs": 2
-  },
   "norway": {
     "errored": false,
     "last_count": 6,
@@ -115,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 128,
+    "last_count": 125,
     "last_ok": "workable",
     "quiet_runs": 0
   }

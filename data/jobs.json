@@ -31,7 +31,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2595d3ad66e1a358",
@@ -65,7 +65,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "de171b3879297693",
@@ -99,7 +99,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -133,7 +133,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "ad921f0040d8793e",
@@ -167,7 +167,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "1b335ce87e775fbd",
@@ -201,7 +201,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "c0fe0fe84e369725",
@@ -241,7 +241,75 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
+  },
+  {
+    "id": "caced87e577282ce",
+    "title": "System Engineer IT Security",
+    "company": "BOLL Engineering AG",
+    "location": "Wettingen, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/land/ad/5817390095?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=32D8509C61F29725D57D305C9EBF93EEFE88E75E",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-27",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Die BOLL Engineering AG ist ein auf Cyber Security spezialisiertes IT-Unternehmen. Als Value-Added-Distributor gehören wir zu den führenden Adressen im Channel-Business. Wir vertreiben wegweisende IT-Security-Lösungen weltweit führender Hersteller, ausschliesslich über spezialisierte Fachhändler. Dabei bieten wir unseren Channel Partnern umfassende Services an, die weit über die üblichen Distributionsleistungen hinausgehen. Unser kontinuierliches Wachstum bedingt ausserordentliche Mitarbeitende…",
+    "score": 55,
+    "score_reason": "Generic security engineering role in a target country but no entry‑level or sponsorship signals.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "System Engineer IT Security",
+    "experience_required": "not stated",
+    "role_summary": "The role involves working at a cyber security‑focused IT company that distributes and provides services for security solutions to channel partners.",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "2f12772a9fcf57e2",
+    "title": "Junior Cybersecurity und Netzwerk Engineer 80-100%",
+    "company": "ONAX AG - it solutions",
+    "location": "Chur, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5747722832?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-06-01",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Sie suchen eine neue Herausforderung? Als Cybersecurity-Dienstleister im Kanton Graubünden bieten wir sichere Anstellungsverhältnisse, einen modernen Arbeitsplatz und interessante Projekte. Zur Verstärkung unseres Teams suchen wir einen Junior Cybersecurity und Netzwerk Engineer. Aufgaben Mitarbeit in Cybersecurity-Projekten (Pentest, Security Audit, Security Awareness, usw.) Mitarbeit in Netzwerk-Projekten Mithilfe in Helpdesk Troubleshooting und Fehleranalysen Warten und Überwachen der IT-Inf…",
+    "score": 55,
+    "score_reason": "Good role and junior level match, but no sponsorship or remote-from-India indication and on-site in Switzerland.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Junior Cybersecurity and Network Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Assist in cybersecurity projects (pentest, security audit, security awareness) and network projects, helpdesk troubleshooting, error analysis, and monitoring IT infrastructure.",
+    "expectations": "The candidate is expected to contribute to cybersecurity and network projects, perform helpdesk troubleshooting, conduct error analyses, and maintain and monitor IT infrastructure.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
   },
   {
     "id": "38ecc777f2d2760c",
@@ -275,353 +343,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "019f01bf4b5cdf25",
-    "title": "100% IT Security Engineer",
-    "company": "Ville de Pully",
-    "location": "Pully, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5846662266?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-18",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Pully, the 7th largest city in the Canton with its 19,500 inhabitants, stands out as a major player in the regional development of eastern Lausanne. Its municipal administration is likewise a dynamic entity of 250 employees, notably encouraging continuous training, preventive health actions, and sustainable mobility. To complete the staff of the Information Systems Department, the Municipality of the City of Pully is advertising a position for a 100% IT Security Engineer Mission: Management, mo…",
-    "score": 45,
-    "score_reason": "Security role in a target country matches, but no sponsorship info and unclear entry‑level requirements lower the fit.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "The IT Security Engineer will manage the municipality's information systems security.",
-    "expectations": "The candidate is expected to handle security management tasks for the city's IT department.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "caced87e577282ce",
-    "title": "System Engineer IT Security",
-    "company": "BOLL Engineering AG",
-    "location": "Wettingen, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5817390095?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=32D8509C61F29725D57D305C9EBF93EEFE88E75E",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-27",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Die BOLL Engineering AG ist ein auf Cyber Security spezialisiertes IT-Unternehmen. Als Value-Added-Distributor gehören wir zu den führenden Adressen im Channel-Business. Wir vertreiben wegweisende IT-Security-Lösungen weltweit führender Hersteller, ausschliesslich über spezialisierte Fachhändler. Dabei bieten wir unseren Channel Partnern umfassende Services an, die weit über die üblichen Distributionsleistungen hinausgehen. Unser kontinuierliches Wachstum bedingt ausserordentliche Mitarbeitende…",
-    "score": 45,
-    "score_reason": "Generic security role with no clear entry-level or sponsorship info, moderate fit.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Works at a cyber security focused IT firm that distributes security solutions and provides extensive services to channel partners.",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "2f12772a9fcf57e2",
-    "title": "Junior Cybersecurity und Netzwerk Engineer 80-100%",
-    "company": "ONAX AG - it solutions",
-    "location": "Chur, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5747722832?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-06-01",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Sie suchen eine neue Herausforderung? Als Cybersecurity-Dienstleister im Kanton Graubünden bieten wir sichere Anstellungsverhältnisse, einen modernen Arbeitsplatz und interessante Projekte. Zur Verstärkung unseres Teams suchen wir einen Junior Cybersecurity und Netzwerk Engineer. Aufgaben Mitarbeit in Cybersecurity-Projekten (Pentest, Security Audit, Security Awareness, usw.) Mitarbeit in Netzwerk-Projekten Mithilfe in Helpdesk Troubleshooting und Fehleranalysen Warten und Überwachen der IT-Inf…",
-    "score": 45,
-    "score_reason": "Good role and junior level match but no sponsorship or remote option.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Assist in cybersecurity projects (pentest, security audit, awareness), network projects, helpdesk troubleshooting, error analysis, and monitoring IT infrastructure.",
-    "expectations": "The candidate should support cybersecurity and network projects, perform helpdesk troubleshooting, conduct error analyses, and help monitor IT systems.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "9a80ae04c03c6f5c",
-    "title": "IT Auditor 80-100%",
-    "company": "LGT",
-    "location": "Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5825677801?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=36611DCC8C5C1739083720A4918D23265A45B8B9",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-02",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "IT Auditor 80-100% (w/m/d) Über uns Die LGT ist die weltweit grösste Private Banking und Asset Management Gruppe im Besitz einer Unternehmerfamilie. Als Family Office des Fürstenhauses von Liechtenstein überzeugen wir Sie mit langjähriger Erfahrung in der Verwaltung grosser Vermögen. Ihr Aufgabengebiet In dieser Rolle sind Sie Teil eines IT-Audit-Teams und führen risikobasierte Prüfungen in den Bereichen Informatik, Datenschutz und Informationssicherheit durch - in modernen IT-Umgebungen mit Cl…",
-    "score": 45,
-    "score_reason": "Partial role match (IT audit) but no sponsorship info and seniority unclear.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "You will be part of an IT audit team conducting risk‑based audits in IT, data protection and information security.",
-    "expectations": "They expect you to perform risk‑based audits in the areas of Informatics, data protection and information security within modern IT environments.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "d3965ea1a4c02eab",
-    "title": "Cyber Security Specialist (m/w/d) im Umfeld Nutzfahrzeuge & IoT",
-    "company": "Octrion GmbH",
-    "location": "Siegen, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5842732012?se=4s5r7xGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3FFA0FDF6A30EE1F4EB0C8C68610315D531E2952",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-15",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "OCTRION macht Abfallsammelfahrzeuge intelligenter, sicherer und effizienter. Als Unternehmen der international agierenden KIRCHHOFF Gruppe entwickeln wir digitale Plattformen, die Sicherheitssysteme, Dokumentationslösungen und Flottensteuerung in einer zentralen Lösung verbindet. Für die nächste Generation vernetzter Nutzfahrzeuge suchen wir für unser dynamisches Team ab sofort einen Cyber Security Specialist (m/w/d) im Umfeld Nutzfahrzeuge & IoT Aufgaben Sicherheitsanalysen: Sie analysieren IT…",
-    "score": 45,
-    "score_reason": "Matches cyber security focus but no sponsorship or remote options mentioned.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Conduct security analyses of IT systems for connected commercial vehicles and IoT.",
-    "expectations": "You will analyze IT security aspects for the next generation of connected commercial vehicles and join the dynamic team immediately.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "507c647b9a2dfdb9",
-    "title": "Informatik Spezialist/-in Security Operation Center",
-    "company": "Kantonspolizei Zürich",
-    "location": "Zürich, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5847068936?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=50EF0F4D6F21DCE18D23F5278FEA931B7DAF8275",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-18",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Informatik Spezialist/-in Security Operation Center (Schwerpunkt Infrastruktur und Threat Management) Die Kantonspolizei Zürich übernimmt mit ihren rund 4000 Mitarbeiterinnen und Mitarbeitern Verantwortung für die Sicherheit im Kanton. Haben Sie Erfahrung im Bereich IT-Security, Interesse beim Betrieb und der Weiterentwicklung des Security Operation Centers (SOC) aktiv mitzuwirken und Ihr Wissen und Ihre Erfahrung einzubringen? Dann werden Sie Teil eines jungen, dynamischen und motivierten IT-T…",
-    "score": 45,
-    "score_reason": "Matches SOC role but lacks remote or sponsorship info and may need more experience than a junior candidate has.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Operate and further develop the Security Operation Center focusing on infrastructure and threat management.",
-    "expectations": "The candidate should have experience in IT security, be interested in operating and advancing the SOC, and be able to contribute knowledge and experience.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "80c22a7537713ce7",
-    "title": "SOC Analist",
-    "company": "not stated",
-    "location": "Spaubeek, Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5803469506?se=LgSy8BGe8RG86Oflwfyx5Q&utm_medium=api&utm_source=ceaf5c9d&v=526FACCB7E1A628E806252B2474D768B2B2773BA",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-16",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Ligt jouw passie ook bij cybersecurity en vind jij het leuk om samen met collega’s de eerste verdedigingslinie te zijn bij cyberaanvallen? Dan ben jij de SOC Analist die wij ter uitbreiding zoeken! Jouw functie als SOC Analist Als SOC analist bij ilionx is geen dag hetzelfde. Binnen onze SOC afdeling hebben wij verschillende focusgebieden. Denk hierbij aan: threat hunting, purple teaming, malware analyse, vulnerability management en engineering. Er zijn verschillende onderdelen van cybersecurit…",
-    "score": 45,
-    "score_reason": "Good role match and entry-level fit, but no sponsorship, relocation, or remote options mentioned.",
-    "skills": [
-      "Threat hunting",
-      "Purple teaming",
-      "Malware analysis",
-      "Vulnerability management",
-      "Engineering"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Work in the SOC handling threat hunting, purple teaming, malware analysis, vulnerability management and engineering as part of the first line of defense.",
-    "expectations": "They expect you to be passionate about cybersecurity and to contribute to the SOC's defensive activities, including threat hunting, purple teaming, malware analysis, vulnerability management and engineering.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "6c358b564f0fe65b",
-    "title": "IT Security & Identity Engineer (m/w/d)",
-    "company": "Vusion",
-    "location": "Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5842138584?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-14",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Job Description IT Security & Identity Engineer (m/w/d) As an IT Security & Identity Engineer, you will play a key role in protecting Vusion's global digital environment by securing identities, applications, cloud services and privileged access. You will collaborate with Infrastructure, Cloud, Digital Workplace, HR and Application teams to ensure secure access to business resources while supporting the company's Zero Trust strategy. Responsibilities Design, implement and continuously improve Id…",
-    "score": 45,
-    "score_reason": "Moderate role match (identity/cloud security) but no sponsorship info and unclear experience requirements for a junior candidate.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Design, implement and continuously improve identity security solutions while collaborating with infrastructure, cloud, digital workplace, HR and application teams to support a Zero Trust strategy.",
-    "expectations": "The candidate is expected to secure identities, applications, cloud services and privileged access, and work with multiple teams to ensure secure access to business resources.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "bcbc8689b56ddf88",
-    "title": "Cybersecurity Analyst",
-    "company": "Garda Capital Partners",
-    "location": "Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5794832016?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-10",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Garda Capital Partners (Garda) is a multi-billion dollar alternative investment firm with over 22 years of experience deploying relative value strategies across fixed income markets for institutional investors. We hire, grow, and mentor great talent and remain steadfast in our commitment to building a culture that helps them succeed. Garda is more than a workplace. We are built on trust, integrity, and a shared vision for how we work together, the enduring relationships we build, and the consis…",
-    "score": 45,
-    "score_reason": "Location matches and analyst role aligns, but description lacks sponsorship, remote, or entry‑level details.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
-  },
-  {
-    "id": "73dd215b79d7b6d7",
-    "title": "Cybersecurity Engineer",
-    "company": "Olympia",
-    "location": "Venlo, Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/details/5734666195?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-05-20",
-    "remote": "not stated",
-    "salary": "60000-60000",
-    "salary_min": 60000.0,
-    "salary_max": 60000.0,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "≈ ₹67.1 L–67.1 L year",
-    "employment_type": "not stated",
-    "description": "Als Cybersecurity Engineer zorg jij ervoor dat de digitale omgeving van de organisatie veilig blijft. Jij beschermt netwerken, systemen en data tegen dreigingen van buitenaf en interne risico’s. Je werkt aan het ontwerpen, beheren en verbeteren van de IT-beveiliging en bent betrokken bij het signaleren van kwetsbaarheden en het reageren op incidenten. Je werkt nauw samen met andere IT-teams en ondersteunt ook het management bij het nemen van de juiste beveiligingsmaatregelen. Je werkzaamheden b…",
-    "score": 45,
-    "score_reason": "Generic cybersecurity engineer role with no sponsorship or remote options and unclear entry‑level requirements.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "mid",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Protect networks, systems and data, design and improve IT security, detect vulnerabilities and respond to incidents.",
-    "expectations": "Work closely with IT teams and management to implement security measures and handle incident response.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fd8a4612739c1de5",
@@ -655,7 +377,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e4c5fdc224a98690",
@@ -689,7 +411,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "cb39bb0c2fc49fe7",
@@ -723,7 +445,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e5fa894602c488ff",
@@ -757,7 +479,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -791,7 +513,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "71a36bb696e98ee1",
@@ -827,7 +549,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -861,7 +583,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c8e3b61e7ad82840",
@@ -895,7 +617,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "73e7d133877f0bbe",
@@ -929,7 +651,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "3952d4e83d732af7",
@@ -963,7 +685,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "4cdb857444cfb299",
@@ -1006,7 +728,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a4b20f18a0a369ba",
@@ -1047,7 +769,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "23298f072950a9a6",
@@ -1081,7 +803,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "0d8ecd0957406d67",
@@ -1122,7 +844,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -1159,7 +881,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -1193,7 +915,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "56417291cb8dd0ab",
@@ -1227,7 +949,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "f741f6d3e0557d86",
@@ -1269,7 +991,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "405d17edd0856752",
@@ -1303,7 +1025,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "8e2341bce1ee3800",
@@ -1342,7 +1064,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "6f56c8683fcd4ec0",
@@ -1383,7 +1105,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "3a92e95b47203e99",
@@ -1417,7 +1139,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "d3aa0707d62a6af0",
@@ -1459,7 +1181,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "5a70272f5048b012",
@@ -1502,7 +1224,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "807857290d85cdd6",
@@ -1536,7 +1258,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "6ea9a9439204fcc1",
@@ -1620,7 +1342,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "3259345fcbfde1f8",
@@ -1654,7 +1376,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "8cda8d21535f2463",
@@ -1688,7 +1410,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "b84b199d728c3d54",
@@ -1722,7 +1444,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "7092a5699be1bfb0",
@@ -1756,7 +1478,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c912053be2fdadd1",
@@ -1790,7 +1512,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2d5a76f24121ddf4",
@@ -1824,7 +1546,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -1858,7 +1580,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c164466e4d97beb5",
@@ -1892,7 +1614,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2976652a37da1f0d",
@@ -1935,7 +1657,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "d895bd56cb8e8e7d",
@@ -2010,7 +1732,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "8008b79da52fcf75",
@@ -2044,7 +1766,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "24b143beae454291",
@@ -2078,7 +1800,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "e663a9ba8b6a0c06",
@@ -2112,7 +1834,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -2151,7 +1873,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a5023110bce9f6b8",
@@ -2221,7 +1943,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "6a24ab7df67918eb",
@@ -2255,7 +1977,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -2289,7 +2011,41 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
+  },
+  {
+    "id": "019f01bf4b5cdf25",
+    "title": "100% IT Security Engineer",
+    "company": "Ville de Pully",
+    "location": "Pully, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5846662266?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-18",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Pully, the 7th largest city in the Canton with its 19,500 inhabitants, stands out as a major player in the regional development of eastern Lausanne. Its municipal administration is likewise a dynamic entity of 250 employees, notably encouraging continuous training, preventive health actions, and sustainable mobility. To complete the staff of the Information Systems Department, the Municipality of the City of Pully is advertising a position for a 100% IT Security Engineer Mission: Management, mo…",
+    "score": 30,
+    "score_reason": "Generic security role with unclear seniority and no sponsorship info, low fit for junior candidate.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "IT Security Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Manages IT security tasks for the municipality's information systems department.",
+    "expectations": "The candidate is expected to carry out security management duties as defined in the mission.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
   },
   {
     "id": "42edbf689da38d09",
@@ -2323,7 +2079,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -2357,7 +2113,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "e04ebe29a453b0de",
@@ -2400,7 +2156,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "5b798dff2178cc87",
@@ -2434,7 +2190,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "cd1fc3ded981dc2d",
@@ -2468,7 +2224,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "79da6ae49db0e879",
@@ -2545,7 +2301,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "a144f46ee4833856",
@@ -2579,7 +2335,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "cf87750c996e5ba3",
@@ -2613,7 +2369,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "11dd98fd10d0a79d",
@@ -2647,7 +2403,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f8b893d4dcf31c6f",
@@ -2681,7 +2437,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "d706ad37f78319bc",
@@ -2715,7 +2471,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e820fe49f46f7c50",
@@ -2749,7 +2505,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "bc9c587ce30270b3",
@@ -2783,7 +2539,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "ff4d8b531b5a5db3",
@@ -2817,7 +2573,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "260ea34e1abe0694",
@@ -2894,7 +2650,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "1b1734de6c951b45",
@@ -2928,7 +2684,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "284ef22fbb9421c0",
@@ -2962,7 +2718,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fd9175550109dfba",
@@ -2996,7 +2752,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "0047779a30cdf267",
@@ -3030,7 +2786,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "8bece923e2e7190c",
@@ -3064,7 +2820,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "c5d71a36cb209952",
@@ -3098,7 +2854,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "ec9bf9a63c8bfaad",
@@ -3132,7 +2888,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "5a3697f5f9b97f6b",
@@ -3166,7 +2922,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -3200,7 +2956,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "191c2c400808e938",
@@ -3234,7 +2990,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2307d28c4811f7b8",
@@ -3268,7 +3024,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "5181c28df94a6263",
@@ -3302,7 +3058,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fdd98c194af2b1d8",
@@ -3336,7 +3092,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -3370,7 +3126,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "d9d2fd15609abde7",
@@ -3409,7 +3165,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "a8039868d519a083",
@@ -3443,7 +3199,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "b333e11f4e4d507d",
@@ -3479,7 +3235,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "bd47c592200aa70c",
@@ -3521,7 +3277,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "d94a1fe270ef0984",
@@ -3555,7 +3311,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -3589,7 +3345,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -3623,7 +3379,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "3aac25d374a4d221",
@@ -3666,7 +3422,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "604caf2eeefc482e",
@@ -3703,7 +3459,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "060145e073cddc6d",
@@ -3744,7 +3500,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "083b20551778e021",
@@ -3778,7 +3534,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "e11f74245ad46e12",
@@ -3812,7 +3568,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "9595952a81ac891d",
@@ -3892,7 +3648,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "325c8016309eb60b",
@@ -3969,7 +3725,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "659e548585cd2e42",
@@ -4003,7 +3759,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "e42a540da8214e31",
@@ -4037,7 +3793,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "0c9459fbf5817847",
@@ -4113,7 +3869,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "92ed9099bde68df7",
@@ -4152,7 +3908,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "a2febe5aa099a81b",
@@ -4193,7 +3949,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "d896235fe6f292dc",
@@ -4227,7 +3983,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "66f89db6c114d0b9",
@@ -4261,7 +4017,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "dcc883d52a454cd6",
@@ -4295,7 +4051,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "eed918fd33e49444",
@@ -4335,7 +4091,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "58e805f87c37160f",
@@ -4378,7 +4134,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "85df7ac1edf16577",
@@ -4455,7 +4211,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "2ecaf2e25399e115",
@@ -4489,7 +4245,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "9aece813e2d051f0",
@@ -4523,7 +4279,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "5e5b210208912cd3",
@@ -4557,7 +4313,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "45e89d2fd2bee0ca",
@@ -4591,7 +4347,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "352c303e8ee6c869",
@@ -4625,7 +4381,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "0d932d0134eb63b4",
@@ -4659,7 +4415,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "9438fc06a05a8465",
@@ -4736,7 +4492,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -4770,7 +4526,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f0725c056e6ea3a8",
@@ -4804,7 +4560,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "d94faa22744837d5",
@@ -4838,7 +4594,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "1c3bf4d9a9e569d5",
@@ -4872,7 +4628,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "ee548f992527e954",
@@ -4906,7 +4662,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "1c82d76114693c53",
@@ -4940,7 +4696,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "cec8b3ac66109141",
@@ -4974,7 +4730,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "8297697c0b68f485",
@@ -5051,7 +4807,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a4b3082c51fc239c",
@@ -5085,7 +4841,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "28bb4b2fd8cffbec",
@@ -5119,7 +4875,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "440562817c717302",
@@ -5153,7 +4909,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "42134c1aec29a7ae",
@@ -5187,7 +4943,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "1804b4ce93756b21",
@@ -5223,7 +4979,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "0eff96b6d03fe02c",
@@ -5257,7 +5013,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "7143db87b27883f0",
@@ -5291,7 +5047,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "42b5375cea91e1da",
@@ -5325,7 +5081,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2661b767c6421eaa",
@@ -5359,7 +5115,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2e7f8d2ea0be544c",
@@ -5399,7 +5155,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "eae0a9bb65c94def",
@@ -5438,7 +5194,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fdc54eb5c3105f25",
@@ -5480,7 +5236,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -5519,7 +5275,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "11cd449d77493dda",
@@ -5553,7 +5309,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "7190bbcee872de2a",
@@ -5587,7 +5343,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -5621,7 +5377,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "2be399176e1ce304",
@@ -5663,7 +5419,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "09a492b18788314a",
@@ -5697,7 +5453,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "469d11f1797792a0",
@@ -5731,7 +5487,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "5390f8be20209026",
@@ -5765,7 +5521,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "be3ba1b5124a1c16",
@@ -5799,7 +5555,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "16e8386d275e643e",
@@ -5914,7 +5670,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "b55640c1f733595a",
@@ -5948,7 +5704,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fc3b66b561c80863",
@@ -5982,7 +5738,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "01239214d8bc5030",
@@ -6016,7 +5772,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "b8156df2259f9f32",
@@ -6050,7 +5806,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "d5b0319a1dc3a486",
@@ -6084,7 +5840,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "bf0820f135a1f703",
@@ -6118,7 +5874,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f91d8f03026eb2f4",
@@ -6152,7 +5908,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "52a9a2f62d3c5420",
@@ -6186,7 +5942,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -6220,7 +5976,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "5038524d61bf7ad3",
@@ -6261,7 +6017,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "ae0d6c57cd8197ae",
@@ -6295,7 +6051,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "472f6d72ac7d168c",
@@ -6329,7 +6085,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -6372,7 +6128,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "0c896e97e6d5c122",
@@ -6455,7 +6211,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "a1b1a2f35799079b",
@@ -6495,7 +6251,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "161642a79d9f5f75",
@@ -6538,7 +6294,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "039e735f5c8670e1",
@@ -6581,7 +6337,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "fe4ef31dae1f7a38",
@@ -6701,7 +6457,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "53e1775d2e6ab76d",
@@ -6735,7 +6491,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a1f54d0979e83c7e",
@@ -6778,7 +6534,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "f4c2a23292e91f27",
@@ -6906,7 +6662,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "674a2558bffc5fb4",
@@ -6940,7 +6696,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "724a92de271fe52c",
@@ -7014,7 +6770,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c208c122436a1971",
@@ -7048,7 +6804,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "651cf430a57772f3",
@@ -7082,7 +6838,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "49e76312a5be416a",
@@ -7116,7 +6872,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e78489d73b8098b5",
@@ -7155,7 +6911,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "32a59ab96f0f9ae7",
@@ -7189,7 +6945,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "f7221d03635156da",
@@ -7223,7 +6979,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c51b61ee70918035",
@@ -7257,7 +7013,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "278ef211af354382",
@@ -7291,7 +7047,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -7325,7 +7081,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -7409,7 +7165,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "2dbeab30a1df3688",
@@ -7493,7 +7249,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "ac4f2e9556c23d82",
@@ -7527,7 +7283,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "9e641b8deecef414",
@@ -7561,7 +7317,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "d54ac133526865fa",
@@ -7602,7 +7358,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "24f80d9526012a45",
@@ -7645,7 +7401,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "0b70758a5c803f74",
@@ -7686,7 +7442,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -7727,7 +7483,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "60e7fd97deadf7ab",
@@ -7767,7 +7523,251 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 45
+    "missing_runs": 46
+  },
+  {
+    "id": "9a80ae04c03c6f5c",
+    "title": "IT Auditor 80-100%",
+    "company": "LGT",
+    "location": "Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/land/ad/5825677801?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=36611DCC8C5C1739083720A4918D23265A45B8B9",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-02",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "IT Auditor 80-100% (w/m/d) Über uns Die LGT ist die weltweit grösste Private Banking und Asset Management Gruppe im Besitz einer Unternehmerfamilie. Als Family Office des Fürstenhauses von Liechtenstein überzeugen wir Sie mit langjähriger Erfahrung in der Verwaltung grosser Vermögen. Ihr Aufgabengebiet In dieser Rolle sind Sie Teil eines IT-Audit-Teams und führen risikobasierte Prüfungen in den Bereichen Informatik, Datenschutz und Informationssicherheit durch - in modernen IT-Umgebungen mit Cl…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "d3965ea1a4c02eab",
+    "title": "Cyber Security Specialist (m/w/d) im Umfeld Nutzfahrzeuge & IoT",
+    "company": "Octrion GmbH",
+    "location": "Siegen, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5842732012?se=4s5r7xGe8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=3FFA0FDF6A30EE1F4EB0C8C68610315D531E2952",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-15",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "OCTRION macht Abfallsammelfahrzeuge intelligenter, sicherer und effizienter. Als Unternehmen der international agierenden KIRCHHOFF Gruppe entwickeln wir digitale Plattformen, die Sicherheitssysteme, Dokumentationslösungen und Flottensteuerung in einer zentralen Lösung verbindet. Für die nächste Generation vernetzter Nutzfahrzeuge suchen wir für unser dynamisches Team ab sofort einen Cyber Security Specialist (m/w/d) im Umfeld Nutzfahrzeuge & IoT Aufgaben Sicherheitsanalysen: Sie analysieren IT…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "507c647b9a2dfdb9",
+    "title": "Informatik Spezialist/-in Security Operation Center",
+    "company": "Kantonspolizei Zürich",
+    "location": "Zürich, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/land/ad/5847068936?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=50EF0F4D6F21DCE18D23F5278FEA931B7DAF8275",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-18",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Informatik Spezialist/-in Security Operation Center (Schwerpunkt Infrastruktur und Threat Management) Die Kantonspolizei Zürich übernimmt mit ihren rund 4000 Mitarbeiterinnen und Mitarbeitern Verantwortung für die Sicherheit im Kanton. Haben Sie Erfahrung im Bereich IT-Security, Interesse beim Betrieb und der Weiterentwicklung des Security Operation Centers (SOC) aktiv mitzuwirken und Ihr Wissen und Ihre Erfahrung einzubringen? Dann werden Sie Teil eines jungen, dynamischen und motivierten IT-T…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "80c22a7537713ce7",
+    "title": "SOC Analist",
+    "company": "not stated",
+    "location": "Spaubeek, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5803469506?se=LgSy8BGe8RG86Oflwfyx5Q&utm_medium=api&utm_source=ceaf5c9d&v=526FACCB7E1A628E806252B2474D768B2B2773BA",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-16",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Ligt jouw passie ook bij cybersecurity en vind jij het leuk om samen met collega’s de eerste verdedigingslinie te zijn bij cyberaanvallen? Dan ben jij de SOC Analist die wij ter uitbreiding zoeken! Jouw functie als SOC Analist Als SOC analist bij ilionx is geen dag hetzelfde. Binnen onze SOC afdeling hebben wij verschillende focusgebieden. Denk hierbij aan: threat hunting, purple teaming, malware analyse, vulnerability management en engineering. Er zijn verschillende onderdelen van cybersecurit…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [
+      "Threat hunting",
+      "Purple teaming",
+      "Malware analysis",
+      "Vulnerability management",
+      "Engineering"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "6c358b564f0fe65b",
+    "title": "IT Security & Identity Engineer (m/w/d)",
+    "company": "Vusion",
+    "location": "Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5842138584?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-14",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Job Description IT Security & Identity Engineer (m/w/d) As an IT Security & Identity Engineer, you will play a key role in protecting Vusion's global digital environment by securing identities, applications, cloud services and privileged access. You will collaborate with Infrastructure, Cloud, Digital Workplace, HR and Application teams to ensure secure access to business resources while supporting the company's Zero Trust strategy. Responsibilities Design, implement and continuously improve Id…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "bcbc8689b56ddf88",
+    "title": "Cybersecurity Analyst",
+    "company": "Garda Capital Partners",
+    "location": "Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5794832016?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-10",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Garda Capital Partners (Garda) is a multi-billion dollar alternative investment firm with over 22 years of experience deploying relative value strategies across fixed income markets for institutional investors. We hire, grow, and mentor great talent and remain steadfast in our commitment to building a culture that helps them succeed. Garda is more than a workplace. We are built on trust, integrity, and a shared vision for how we work together, the enduring relationships we build, and the consis…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
+  },
+  {
+    "id": "73dd215b79d7b6d7",
+    "title": "Cybersecurity Engineer",
+    "company": "Olympia",
+    "location": "Venlo, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/details/5734666195?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-05-20",
+    "remote": "not stated",
+    "salary": "60000-60000",
+    "salary_min": 60000.0,
+    "salary_max": 60000.0,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "≈ ₹67.1 L–67.1 L year",
+    "employment_type": "not stated",
+    "description": "Als Cybersecurity Engineer zorg jij ervoor dat de digitale omgeving van de organisatie veilig blijft. Jij beschermt netwerken, systemen en data tegen dreigingen van buitenaf en interne risico’s. Je werkt aan het ontwerpen, beheren en verbeteren van de IT-beveiliging en bent betrokken bij het signaleren van kwetsbaarheden en het reageren op incidenten. Je werkt nauw samen met andere IT-teams en ondersteunt ook het management bij het nemen van de juiste beveiligingsmaatregelen. Je werkzaamheden b…",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "mid",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 35
   },
   {
     "id": "2ffca3238c45c221",
@@ -7810,7 +7810,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "83da98b3fb07fc09",
@@ -7878,7 +7878,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "4843633d16d653e7",
@@ -7912,7 +7912,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "9e4364264e5e5427",
@@ -7946,7 +7946,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "7cd86f344e99a1a8",
@@ -7986,7 +7986,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "261799f9389ecc83",
@@ -8020,7 +8020,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "ae1ed54b02d17ca6",
@@ -8054,7 +8054,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2da3a883eb20a956",
@@ -8088,7 +8088,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "254aa5c1f051e892",
@@ -8122,7 +8122,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "716012ff2e45c815",
@@ -8156,7 +8156,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -8190,7 +8190,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "6934b9f8c8f1d6da",
@@ -8224,7 +8224,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e97742717ed8d3fb",
@@ -8258,7 +8258,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a3f36af8084cc068",
@@ -8292,7 +8292,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e932a8bd7500ab8a",
@@ -8330,7 +8330,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "69b1ff11a646af51",
@@ -8364,7 +8364,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "d24a5b4cd8b5767b",
@@ -8398,7 +8398,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "33ebeb90f15c38d4",
@@ -8432,7 +8432,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 37
+    "missing_runs": 38
   },
   {
     "id": "22692eaae38299bf",
@@ -8466,7 +8466,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "a925f297df4476f9",
@@ -8500,7 +8500,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "ea539b63fa53d645",
@@ -8575,7 +8575,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -8609,7 +8609,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "57c17fa660d7eee3",
@@ -8643,7 +8643,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "eb14b2d934ef4f1b",
@@ -8677,7 +8677,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "37b051d9ee0311f6",
@@ -8717,7 +8717,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e15c5442b76fe774",
@@ -8751,7 +8751,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "245c79eb56c53cec",
@@ -8785,7 +8785,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "9d003521671be9c0",
@@ -8819,7 +8819,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c4f276bb34176883",
@@ -8853,7 +8853,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "afe62b02dc015988",
@@ -8902,7 +8902,7 @@
     "id": "9c79bd3d719ab0bc",
     "title": "Cybersecurity / Information Security Engineer (m/w/d)",
     "company": "MUSE Electronics GmbH",
-    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria",
+    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria",
     "country": "AT",
     "url": "https://www.adzuna.at/details/5841115108?utm_medium=api&utm_source=ceaf5c9d",
     "source": "adzuna",
@@ -8930,7 +8930,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "4ccbcea4861b434d",
@@ -8972,7 +8972,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "c65cb530d5eb56b3",
@@ -9008,7 +9008,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "5ae3dbc652d5a942",
@@ -9042,7 +9042,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "42550275ef09e998",
@@ -9076,7 +9076,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "9daa6a17cc13e7d8",
@@ -9110,7 +9110,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "899f0bbd2aa8c336",
@@ -9187,7 +9187,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "c610b87716750571",
@@ -9221,7 +9221,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "62f78051b877db5a",
@@ -9255,7 +9255,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "014f111ccfd193c8",
@@ -9289,7 +9289,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "a434d2c2211f001e",
@@ -9323,7 +9323,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "43895121521a15d9",
@@ -9357,7 +9357,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "7a64ae009c5ecdce",
@@ -9391,7 +9391,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "914c02820936e419",
@@ -9425,7 +9425,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "7df7167b00dd47cf",
@@ -9459,7 +9459,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "375d943288db746a",
@@ -9493,7 +9493,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2dd9ab446aadf9f3",
@@ -9527,7 +9527,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f0b7cebe2eca3163",
@@ -9561,7 +9561,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "6d25ac2a44c18cba",
@@ -9595,7 +9595,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "4dd44b03c68c0630",
@@ -9629,7 +9629,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "8d0fa64e60043046",
@@ -9697,7 +9697,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "a65f096f9cbfc185",
@@ -9731,7 +9731,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "06f62ee7eb1dc961",
@@ -9765,7 +9765,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "ebc1315b58495c08",
@@ -9799,7 +9799,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "49350bf06811310d",
@@ -9867,7 +9867,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "a26061baf7ddd290",
@@ -9901,7 +9901,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "0744fa446bb88b8c",
@@ -9935,7 +9935,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "7ed8e3549688981b",
@@ -9969,7 +9969,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "149bf5e042a6c942",
@@ -10547,7 +10547,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "9a296628c7f7cd65",
@@ -10921,7 +10921,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "aa1a50c50e0f1b51",
@@ -11125,7 +11125,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "0e0e563fe4979db0",
@@ -11159,7 +11159,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "e6fd93e66ca79d9e",
@@ -11227,7 +11227,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "29a20c20d2af7136",
@@ -11873,7 +11873,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "c3d60db5bd04d95a",
@@ -11907,7 +11907,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "09d837f634921342",
@@ -11941,7 +11941,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "b8e9c7502e790ef1",
@@ -11975,7 +11975,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "690fa4f08ea8fc71",
@@ -12009,7 +12009,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "a51b8ab2ca2b3e36",
@@ -12043,7 +12043,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "75b2a66d37de7447",
@@ -12077,7 +12077,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "d72c03955f841948",
@@ -12111,7 +12111,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "47e72ff3f8bf9be7",
@@ -12145,7 +12145,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "c7c3283828ecdd6f",
@@ -12179,7 +12179,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "a89ae22e57eb929b",
@@ -12213,7 +12213,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "8c1db89432bc9f7e",
@@ -12247,7 +12247,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "85f8062ba959aad9",
@@ -12281,7 +12281,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "cadf1bf830fd8b59",
@@ -12315,7 +12315,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "d90dcff72feaaa74",
@@ -12349,7 +12349,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "bad10a59bb3071ef",
@@ -12357,7 +12357,7 @@
     "company": "Axians ICT Austria GmbH",
     "location": "Innsbruck, Austria / Mutters, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852697010?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
+    "url": "https://www.adzuna.at/land/ad/5852697010?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12417,7 +12417,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "65f85e9f492c3d60",
@@ -12451,7 +12451,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 26
+    "missing_runs": 27
   },
   {
     "id": "76d29a943de5c0c8",
@@ -12485,7 +12485,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 26
+    "missing_runs": 27
   },
   {
     "id": "9941b57300c20d19",
@@ -12553,7 +12553,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "e57c091f5b824f0d",
@@ -12621,7 +12621,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "01bb1a82e6e02026",
@@ -12655,7 +12655,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "5bc0b9ba73d7d492",
@@ -12689,7 +12689,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "af8beacce9007c00",
@@ -12723,7 +12723,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "993c74164feabc2d",
@@ -12757,7 +12757,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "69711d595db8cdc2",
@@ -12791,7 +12791,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "a82bbe43ff7f8e41",
@@ -12825,7 +12825,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "fbd4da93ebce907d",
@@ -12859,7 +12859,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "8826fa6a7998a2fa",
@@ -12893,7 +12893,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "d13af5b45fcddbb0",
@@ -12961,7 +12961,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "d390533573c8114f",
@@ -12995,7 +12995,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "fe2244151e4f39d9",
@@ -13029,7 +13029,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "cf3c92fe89349492",
@@ -13063,7 +13063,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "f59dab1de3382cbd",
@@ -13097,7 +13097,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "42d870004b8ac70d",
@@ -13131,7 +13131,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a2c62d87fbd84ff2",
@@ -13165,7 +13165,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "c4b564184e3c73f5",
@@ -13199,7 +13199,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "3a303ed53df3552f",
@@ -13233,7 +13233,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "bd8ba5f505f1af46",
@@ -13267,7 +13267,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "99f670599ac9bedb",
@@ -13301,7 +13301,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "24852fed48469c5e",
@@ -13335,7 +13335,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "f4df0f2ebacc9eb3",
@@ -13369,7 +13369,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "9a10dca6bb5cbec4",
@@ -13403,7 +13403,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "569d9d8eafe5548b",
@@ -13437,7 +13437,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "102b785e577f1bb6",
@@ -13471,7 +13471,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "70ac35bfd88b207c",
@@ -13539,7 +13539,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "a8cfac1b2102305f",
@@ -13573,7 +13573,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "83d7ec82dcfeb879",
@@ -13607,7 +13607,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "8a905ad5c1940194",
@@ -13641,7 +13641,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "1630859514b06093",
@@ -13709,7 +13709,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "3e8bfc0008a58360",
@@ -13717,7 +13717,7 @@
     "company": "ITDS",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5853592493?se=uNpSz56f8RGWdLh70QG5CA&utm_medium=api&utm_source=ceaf5c9d&v=1735BB1F19E8BCCD5EA95618F9247419ECA44646",
+    "url": "https://www.adzuna.pl/land/ad/5853592493?se=8MyUkKOf8RGU6LIjyaRnwA&utm_medium=api&utm_source=ceaf5c9d&v=1735BB1F19E8BCCD5EA95618F9247419ECA44646",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-23",
@@ -13777,7 +13777,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "2ca1083995890368",
@@ -13811,7 +13811,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "0de5574ca42c8135",
@@ -13845,7 +13845,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "519f152d64b2ef7d",
@@ -13879,7 +13879,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "bbb599e9c795d81a",
@@ -13913,7 +13913,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "8f03a772450cf910",
@@ -13947,7 +13947,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "8f2c76f872c19d4c",
@@ -13981,7 +13981,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "ffa03d2fae56138a",
@@ -14015,7 +14015,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "e9a0848727b842de",
@@ -14049,7 +14049,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "0dee59cca9ad001b",
@@ -14069,7 +14069,7 @@
     "salary_period": "",
     "salary_inr": "not stated",
     "employment_type": "Student, Working Student, Part Time",
-    "description": "YOUR TASKS You support the preparation and execution of projects related to Risk Management, Identity &amp; Access Management, DevSecOps, and AI Security for our clients You contribute to the development and implementation of security strategies and solutions You participate in internal research and development projects in the field of cybersecurity You document security measures, prepare reports, and present results You support the team in the practical development of innovative ideas and topics within cybersecurity You conduct research tasks to prepare client presentations and proposals YOUR PROFIL You are currently enrolled in a degree program with an IT focus, such as (Business) Informatics, Software Engineering, Data Science, Data Engineering, or a related discipline You have solid knowledge in the field of IT security Ideally, you have gained initial experience with common security tools and relevant regulatory frameworks (e.g., NIS2, DORA, eIDAS 2.0) You demonstrate strong analytical thinking and problem-solving skills You work independently and in a structured manner You are passionate about cybersecurity and digital identity You are a team player, highly motivated, adaptable, communicative, and proactive You enjoy interdisciplinary collaboration and taking responsibility You possess excellent German and English language skills (minimum C1 level in both languages) YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership &amp; Responsibility: From day one, you will take on exciting tasks with real responsibility – whether on your project or by contributing to internal initiatives. You actively help shape our organization. Clear Career Development Paths: You will find an environment that supports, challenges, and advances your professional growth. We offer clearly defined career paths and transparent requirements for each level. Creative Work Environment: We give you the freedom and time to develop creative solutions and provide the best and most modern hardware (Apple or Windows) to support your work. Flexible Working &amp; Vacation Policy: Work remotely and adjust your working hours flexibly to fit around your studies. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "YOUR TASKS You support the preparation and execution of projects related to Risk Management, Identity &amp; Access Management, DevSecOps, and AI Security for our clients You contribute to the development and implementation of security strategies and solutions You participate in internal research and development projects in the field of cybersecurity You document security measures, prepare reports, and present results You support the team in the practical development of innovative ideas and topics within cybersecurity You conduct research tasks to prepare client presentations and proposals YOUR PROFIL You are currently enrolled in a degree program with an IT focus, such as (Business) Informatics, Software Engineering, Data Science, Data Engineering, or a related discipline You have solid knowledge in the field of IT security Ideally, you have gained initial experience with common security tools and relevant regulatory frameworks (e.g., NIS2, DORA, eIDAS 2.0) You demonstrate strong analytical thinking and problem-solving skills You work independently and in a structured manner You are passionate about cybersecurity and digital identity You are a team player, highly motivated, adaptable, communicative, and proactive You enjoy interdisciplinary collaboration and taking responsibility You possess excellent German and English language skills (minimum C1 level in both languages) YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership &amp; Responsibility: From day one, you will take on exciting tasks with real responsibility – whether on your project or by contributing to internal initiatives. You actively help shape our organization. Clear Career Development Paths: You will find an environment that supports, challenges, and advances your professional growth. We offer clearly defined career paths and transparent requirements for each level. Creative Work Environment: We give you the freedom and time to develop creative solutions and provide the best and most modern hardware (Apple or Windows) to support your work. Flexible Working &amp; Vacation Policy: Work remotely and adjust your working hours flexibly to fit around your studies. Find Jobs in Germany on Arbeitnow",
     "score": null,
     "score_reason": "",
     "skills": [],
@@ -14103,7 +14103,7 @@
     "salary_period": "",
     "salary_inr": "not stated",
     "employment_type": "Student, Intern, Full Time",
-    "description": "YOUR TASKS You will assist in the preparation and execution of projects related to risk management, identity and access management, the EUDI wallet, digital identities, DevSecOps, and AI security for our clients You will contribute to the development and implementation of security strategies and solutions You will work on internal research and development projects in the field of cybersecurity You will support the team in the practical development of innovative ideas and topics in the field of cybersecurity You will conduct research to prepare client presentations and proposals You will document security measures, prepare reports, and present findings YOUR PROFIL You are currently studying or already have a background in one of the following fields: (Business) Computer Science, Economics, Software Development, Data Science, Data Engineering, or a comparable discipline You have some experience or knowledge in the areas of digital identities, Identity &amp; Access Management (IAM), and the EUDI Wallet Preferably, you have gained initial experience with common security tools as well as relevant cybersecurity regulations (e.g., NIS2 and DORA) You have a solid foundational understanding of IT security and are passionate about digital identities You possess analytical thinking skills and problem-solving abilities You work independently and in a structured manner You are a team player, motivated, hardworking, flexible, communicative, and proactive You enjoy interdisciplinary collaboration and taking on responsibility You have very good German and English language skills (at least C1 in both languages) YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us - we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership &amp; Responsibility: From day one, you will take on exciting tasks with real responsibility – whether on your project or by contributing to internal initiatives. You help shape the way we work. Clear Career Development Paths: You will find an environment that supports, challenges, and advances your professional growth. We offer clearly defined career paths and a transparent competency framework for every level. Creative Work Environment: We give you the freedom and time to develop creative solutions and provide the best, most modern hardware to support you (Apple or Windows). Employee Benefits: Flexible working models, a BahnCard, JobRad, Spendit card, Wellpass, and a company pension scheme contribute to your well-being. In addition, you’ll enjoy the best coffee from our new espresso machine and a fully stocked soft drinks fridge in the office. Attractive Vacation Policy: You benefit from 30 days of paid vacation per year and the flexibility to work from home. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "YOUR TASKS You will assist in the preparation and execution of projects related to risk management, identity and access management, the EUDI wallet, digital identities, DevSecOps, and AI security for our clients You will contribute to the development and implementation of security strategies and solutions You will work on internal research and development projects in the field of cybersecurity You will support the team in the practical development of innovative ideas and topics in the field of cybersecurity You will conduct research to prepare client presentations and proposals You will document security measures, prepare reports, and present findings YOUR PROFIL You are currently studying or already have a background in one of the following fields: (Business) Computer Science, Economics, Software Development, Data Science, Data Engineering, or a comparable discipline You have some experience or knowledge in the areas of digital identities, Identity &amp; Access Management (IAM), and the EUDI Wallet Preferably, you have gained initial experience with common security tools as well as relevant cybersecurity regulations (e.g., NIS2 and DORA) You have a solid foundational understanding of IT security and are passionate about digital identities You possess analytical thinking skills and problem-solving abilities You work independently and in a structured manner You are a team player, motivated, hardworking, flexible, communicative, and proactive You enjoy interdisciplinary collaboration and taking on responsibility You have very good German and English language skills (at least C1 in both languages) YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us - we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership &amp; Responsibility: From day one, you will take on exciting tasks with real responsibility – whether on your project or by contributing to internal initiatives. You help shape the way we work. Clear Career Development Paths: You will find an environment that supports, challenges, and advances your professional growth. We offer clearly defined career paths and a transparent competency framework for every level. Creative Work Environment: We give you the freedom and time to develop creative solutions and provide the best, most modern hardware to support you (Apple or Windows). Employee Benefits: Flexible working models, a BahnCard, JobRad, Spendit card, Wellpass, and a company pension scheme contribute to your well-being. In addition, you’ll enjoy the best coffee from our new espresso machine and a fully stocked soft drinks fridge in the office. Attractive Vacation Policy: You benefit from 30 days of paid vacation per year and the flexibility to work from home. Find Jobs in Germany on Arbeitnow",
     "score": null,
     "score_reason": "",
     "skills": [],
@@ -14185,7 +14185,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "7b8a1b61dd965038",
@@ -14219,7 +14219,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "e35dd01496a67bd2",
@@ -14253,7 +14253,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "b97509e94209ab4c",
@@ -14287,7 +14287,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "92fb6ad33c2a2fc2",
@@ -14321,7 +14321,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "f332821a5e809ba7",
@@ -14559,7 +14559,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "e2c9757435385e2e",
@@ -14593,7 +14593,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "f01cb1b74619bc22",
@@ -14627,7 +14627,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "b1160d9e4c444ab0",
@@ -14771,7 +14771,7 @@
     "company": "Stadtwerke Klagenfurt AG",
     "location": "Klagenfurt, Austria / Klagenfurt am Wörthersee, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5853766887?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
+    "url": "https://www.adzuna.at/land/ad/5853766887?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-23",
@@ -14805,7 +14805,7 @@
     "company": "SVD Büromanagement GmbH",
     "location": "Wien, Austria / Brigittenau, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852122634?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
+    "url": "https://www.adzuna.at/land/ad/5852122634?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -14839,7 +14839,7 @@
     "company": "PS3 Personalservice GmbH",
     "location": "Wien, Austria / Innere Stadt, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5851331171?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
+    "url": "https://www.adzuna.at/land/ad/5851331171?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14873,7 +14873,7 @@
     "company": "EMOLUTION KG",
     "location": "Austria / Döbling, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5850603851?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
+    "url": "https://www.adzuna.at/land/ad/5850603851?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14907,7 +14907,7 @@
     "company": "Job World GmbH",
     "location": "Wels, Austria +3 more locations",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5849826003?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
+    "url": "https://www.adzuna.at/land/ad/5849826003?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -14941,7 +14941,7 @@
     "company": "IMBA Institut für Molekulare Biotechnologie GmbH",
     "location": "Wien, Austria / Landstraße, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5848543464?se=7FQgzJ6f8RGP8YX6YFpY8g&utm_medium=api&utm_source=ceaf5c9d&v=C2F919941CD2F0581D75B8F91DB8EC370E70AEFE",
+    "url": "https://www.adzuna.at/land/ad/5848543464?se=gn-XiqOf8RGuZ4Zz3S8IXQ&utm_medium=api&utm_source=ceaf5c9d&v=C2F919941CD2F0581D75B8F91DB8EC370E70AEFE",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-19",
@@ -15077,7 +15077,7 @@
     "company": "Consult & Pepper AG",
     "location": "Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5854265555?se=YG13yp6f8RG82YiSSnhRWg&utm_medium=api&utm_source=ceaf5c9d&v=0FE15131607548B96EAB20B3075EEBA27F41496C",
+    "url": "https://www.adzuna.ch/land/ad/5854265555?se=PlemiKOf8RGSb8VpDRDiVA&utm_medium=api&utm_source=ceaf5c9d&v=0FE15131607548B96EAB20B3075EEBA27F41496C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-24",
@@ -15090,6 +15090,210 @@
     "salary_inr": "not stated",
     "employment_type": "not stated",
     "description": "IT System- & Cyber Security Engineer (a) Security beyond limits: NOX SYSTEMS schützt Menschen und Werte mit integrierten Sicherheitslösungen, denen nur die höchsten Ansprüche genügen. Als führender Anbieter von Plattformtechnologien entwickelt und fertigt NOX in Liechtenstein skalierbare, zertifizierte Hard- und Softwarelösungen für Zutrittskontrollen, Einbruchmeldesysteme, All-in-One-Management, Integrationen und mobile Lösungen. Seit 2001 vertrauen namhafte Partner wie Siemens, Aras Security …",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "missing_runs": 0
+  },
+  {
+    "id": "788ed37e73e6127b",
+    "title": "Incorporating distribution grids in multiscale stochastic energy system models",
+    "company": "NTNU SENTRALADMINISTRASJONEN",
+    "location": "TRONDHEIM, Norway",
+    "country": "NO",
+    "url": "https://europa.eu/eures/portal/jv-se/jv-details/YjVmOGI5MjUtOWRjNi00NDkzLWEyNWItYmU5ZmI4OTEzZTlmIDI2MQ?lang=en",
+    "source": "eures-no",
+    "source_type": "api",
+    "posted_date": "2026-08-20",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime, Temporary",
+    "description": "This is NTNU NTNU is a broad-based university with a&nbsp;technical-scientific profile and a focus&nbsp;in professional education. The university is located in three cities with headquarters in Trondheim. At NTNU, 9,000 employees and 43,000 students work to create knowledge for a better world. You will find more information about working at NTNU and the application process here. &nbsp;&nbsp;&nbsp; Video: https://youtu.be/Xt-yHCN5QS0 Background - PhD Candidate at FME SecurEL – Incorporating distribution grids in multiscale stochastic energy system models &nbsp; There is a temporary PhD position for 3 years available at the Department of Industrial Economics and Technology Management – Section Health, Safety and Environmental Management. The position is resident at NTNUs campus in Trondheim. This is an educational position, which will provide promising research recruits the opportunity for professional development through studies towards a PhD-degree. The position is connected to the PhD program at the Faculty of Economics and Management and the faculty will be your employer. The PhD position will be part of FME SecurEL. The Centre will facilitate a secure, resilient, and sustainable electricity distribution grid that ensures both the security of electricity supply and a path to a net-zero-emissions society. See https://securel.no/ &nbsp; About the centre The PhD position will be part of FME SecurEL. The Centre will facilitate a secure, resilient, and sustainable electricity distribution grid that ensures both the security of electricity supply and a path to a net-zero-emissions society. See https://securel.no/ &nbsp; SecurEL is a Centre for Environment-friendly Energy Research, facilitating a secure, resilient, and sustainable electricity distribution grid that ensures both the security of electricity supply and a path to a net-zero-emissions society. SecurEL aims to develop new knowledge addressing research challenges arising from accelerated electrification and increased use of the existing grid. Reaching these goals requires strong interdisciplinary collaboration among research institutions, user partners, and experts with diverse areas of expertise. The Centre brings together experts from fields such as electrical engineering, energy systems, information and communication technology, cybersecurity, engineering cybernetics, industrial economics, as well as humanities and social sciences, to develop effective solutions for the power grid. SecurEL is a consortium of 42 partners, including 7 research partners. The centre period is 2025-2032, and the total budget is 398 million Norwegian kroner (NOK). NTNU is represented as a partner mainly by the Department of Electric Energy (IEL) and the Department of Industrial Economics and Technology Management (IØT). Recruitment and research education is an important part of the mission of SecurEL. The PhD candidates funded by the Centre will contribute with cutting-edge knowledge and research. Overall, the Centre will directly finance 17 PhD and postdoc positions, and also have several associated PhDs from closely related projects. As a SecurEL-funded PhD candidate, you will be employed by NTNU, a university partner in the Centre, and take active part in the research activities. Through the Centre, you will have access to a forum with other PhD candidates affiliated with the Centre, and opportunities for research stays with partners, both nationally and abroad, through its international network. Read more about the Centre and its research at the website https://www.securel.no/ . &nbsp;&nbsp; About the position Energy system models are widely used by researchers and analysts for investigating how policies and technology developments may impact our energy futures. These models often cover large geographical areas, several energy carriers and sometimes also multiple time scales. Therefore, it is unavoidable to make trade-offs between modelling detail and computational efficiency/tractability. Local energy resources and demands are typically aggregated to country-level, while local constraints, such as distribution grids, are usually not considered at all. However, with the changing energy landscape with increasing focus on distributed assets and flexibility, the role of the power grid, and more directly the distribution grid, becomes more critical. To account for the changes seen in the power grid in long-term investment planning, we need to understand how the development of power grid impacts the long-term investments and operation of the whole energy system. &nbsp; &nbsp; Therefore, this PhD will contribute to the field by exploring new methods and modelling frameworks for inclusion of power grids, with a focus on distribution grids and distributed resources in multiscale energy system models with a special focus on capturing security of supply aspects of the distribution grid in the energy system modelling. The models may be multiscale in the time dimension including for example investments (years), operations (hours) and balancing (minutes). The models may also be multiscale in the geographical resolution by representing the spatial location as a country (Norway), while other locations are modelled in detail with physical location of distributed generation and grids.&nbsp; The modeling framework should be stochastic to represent variations in demand and renewable generation.&nbsp;&nbsp; Methodologically, the project will be based on novel models and decomposition methods for multiscale stochastic problems. Examples of relevant methods may be Stochastic Dual Dynamic Programming, Alternating direction method of multipliers (ADMM) composition and similar decomposition approaches. We are searching for candidates that have interest both in energy systems and power system modeling, and that are familiarized with optimization methods.&nbsp; &nbsp; The project will be a cooperation between NTNU, SINTEF, IFE as well as the industrial partnership of the FME SecurEL. &nbsp; You will report to your supervisor.&nbsp; Duties of the position Execute a PhD project within 3 years (including obtaining own data for research, analysis and dissemination).&nbsp; Plan and execute the empirical work and data collection targeted to address the research objectives.&nbsp; Complete the necessary doctoral coursework as per NTNU’s guidelines. Attend project meetings and develop a collaboration network with project partners. Disseminate research findings through national/international academic conferences and open access scientific journals that meet the requirements for the PhD position. Required selection criteria The PhD-position's main objective is to qualify for work in research positions. The qualification requirement is completion of a master’s degree or second degree (equivalent to 120 credits) in operations research and optimization or equivalent education. Applicants should have a strong academic background with a grade of B or better in terms of NTNU’s grading scale . Applicants with no letter grades from previous studies must have an equally good academic foundation. &nbsp; The position requires excellent English oral and writing skills.&nbsp; Preferred selection criteria In addition, the following qualifications will contribute positively to the evaluation of the applicant: Background and/or experience relevant to the project topic &nbsp; Scandinavian language skills Documented experience with stochastic optimization Documented experience with energy system analysis&nbsp; Good knowledge of digital tools like Julia, Python, etc. &nbsp; Personal characteristics A high level of personal responsibility and initiative Ability to work independently as well as part of a team in accordance with the project objectives Ability to work in interdisciplinary projects and teams Suitable candidates should have good communication skills, be flexible and solution-oriented In the evaluation of which candidate is best qualified, emphasis will be placed on education, experience and personal suitability, in terms of the qualification requirements specified in the advertisement. We offer Exciting and stimulating tasks in a strong international academic environment&nbsp; Career guidance and follow-up during the PhD period Open and inclusive working environment with committed colleagues Working capital that can be used to implement the project As a public employee, you have favourable benefits as a member of the Norwegian Public Service Pension Fund (SPK) You will be employed as a PhD Candidate at NTNU and will have access to&nbsp; employee benefits and discounts .&nbsp; Information about Working and living in Norway can be found at the following link: http://www.nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/ Diversity Diversity is a strength, and at NTNU we aim to be an employer that reflects the diversity in society and that makes use of the potential of the population's collective skills. Our vision is&nbsp; Knowledge for a better world &nbsp;and&nbsp; our values ​​are creative, critical, constructive and respectful . We believe that an organization that is equal, diverse and gender-balanced is essential for us to achieve our goals.&nbsp; We strive to attract employees with different skills, life experiences and perspectives to contribute to even better problem solving of our societal mission in research and education.&nbsp; If you think this position is relevant and interesting, we encourage you to apply, regardless of gender, functional ability and cultural background, or whether you have been out of work for a period of time. Salary and conditions PhD candidates are remunerated in code 1017, at gross NOK 536.200,- per annum before tax. From the salary, 2% is deducted as a contribution to the Norwegian Public Service Pension Fund. The period of employment is 3 years. The position is connected to the PhD program at the Faculty of Economics and Management and the faculty will be your employer. Appointment to a PhD position requires that you are admitted to the PhD programme in Industrial Economics and Technology Management within three months of employment, and that you participate in an organized PhD programme during the employment period. Your work place will be at the Department of Industrial Economics and Technology Management . The appointment is to be made in accordance with&nbsp; NTNUs guidelines for recruitment positions and&nbsp; Regulations for the degrees philosophiae doctor (ph.d.) and philosophiae doctor (ph.d.) in artistic development work at the Norwegian University of Science and Technology (NTNU) for general criteria for the position. The appointment is carried out in accordance with the principles of the State Employees Act , and Export control (legislation that regulates the export of knowledge, technology and services). Candidates who, after assessment of the application and attachments, are considered to be in conflict with the criteria in the latter act, will not be able to be employed. After the appointment you must assume that there may be changes in the area of work. As an employee at NTNU, it is important that you keep yourself up to date with academic and organizational changes and adapt to them. The position is subject to external funding. For the necessary academic and social interaction, it is a prerequisite that you are physically present and available to the institution on a daily basis. About the application The application and supporting documentation to be used as the basis for the assessment must be in English. Publications and other scientific work must follow the application. Please note that your application will be considered based solely on information submitted by the application deadline. You must therefore ensure that your application clearly demonstrates how your skills and experience fulfil the criteria specified above. Incomplete applications will not be considered.&nbsp; 1)&nbsp;&nbsp;&nbsp;&nbsp;Application letter concerning your motivation for completing a PhD 2)&nbsp;&nbsp;&nbsp;&nbsp;A CV with information on education, previous research experience, together with authorized documentation of certificates and study records.&nbsp; 3)&nbsp;&nbsp;&nbsp;&nbsp;Academic work (not master thesis). Joint work will be evaluated. If it is difficult to identify the contributions from individuals in a joint piece of work, applicants should enclose a short descriptive summary of what she/he contributed to the work.&nbsp; 4)&nbsp;&nbsp;&nbsp;&nbsp;Name and address of three references If all, or parts, of your education has been taken abroad, we also ask you to attach documentation of the scope and quality of your entire education, both bachelor's and master's education, in addition to other higher education. Description of the documentation required can be found here . Please note that diploma Supplement is required to attach for European Master Diplomas outside Norway. Chinese applicants are required to provide confirmation of Master Diploma from China Credentials Verification (CHSI ).&nbsp; If you already have a statement from Norwegian Directorate for Higher Education and Skills (HK-dir) , please attach this as well.&nbsp; In the evaluation of which candidate is best qualified, emphasis will be placed on education, experience and personal and interpersonal qualities. Motivation, ambitions, and potential for research will also count in the assessment of the candidates.&nbsp; NTNU recognizes a wide range of academic contributions and has committed itself to The San Francisco Declaration on Research Assessment and CoARA (responsible assessment of research and recognition of a greater breadth of academic contributions in accordance with NTNU's social mission). Please submit your application electronically via jobbnorge.no with your CV, diplomas and certificates. Applications submitted elsewhere will not be considered. General information For practical information about&nbsp; working at NTNU, please visit this webpage.&nbsp; The city of Trondheim is a modern European city with a rich cultural scene. Trondheim is the innovation capital of Norway with a population of 200,000. The Norwegian welfare state, including healthcare, schools, kindergartens and overall equality, is probably the best of its kind in the world. Professional subsidized day-care for children is easily available. Furthermore, Trondheim offers great opportunities for education (including international schools) and possibilities to enjoy nature, culture and family life and has low crime rates and clean air quality. A public list of applicants with name, age, job title and municipality of residence is prepared after the application deadline. If you wish to be exempt from entry on the public applicant list, this must be justified. Assessment will be made in accordance with current legislation. You will be notified if the exemption is not granted. Questions about the position can be directed to Professor Asgeir Tomasgard email Asgeir.tomasgard@ntnu.no or phone + 47 930 58 771. &nbsp;If you have any questions about the recruitment process, please contact HR Advisor Hilde Selli Egelie, e-mail: hilde.s.egelie@ntnu.no. Application deadline: 30.08.2026 Om arbeidsgiveren: NTNU - knowledge for a better world The Norwegian University of Science and Technology (NTNU) creates knowledge for a better world and solutions that can change everyday life. Department of Industrial Economics and Technology Management We conduct research and teaching at an international level in the interface between technology/natural sciences and economics, management, and HSE (health, safety and the environment). Our goal is sustainable creation of value within technology-based areas in industry, business and the public sector in Norway. We have academic groups in Trondheim and Gjøvik. The Department of Industrial Economics and Technology Management is one of four departments in the Faculty of Economics and Management .&nbsp;",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "missing_runs": 0
+  },
+  {
+    "id": "d643dfadeaa65593",
+    "title": "PhD Candidate in Political Science/Public Policy and Administration",
+    "company": "NTNU SENTRALADMINISTRASJONEN",
+    "location": "TRONDHEIM, Norway",
+    "country": "NO",
+    "url": "https://europa.eu/eures/portal/jv-se/jv-details/NmMzYWFiNzYtNGE2Ni00Y2Y4LWIxZTYtMDQ2ZTliN2YwNjE4IDI2MQ?lang=en",
+    "source": "eures-no",
+    "source_type": "api",
+    "posted_date": "2026-06-24",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime, Contract",
+    "description": "This is NTNU NTNU is a broad-based university with a&nbsp;technical-scientific profile and a focus&nbsp;in professional education. The university is located in three cities with headquarters in Trondheim. At NTNU, 9,000 employees and 43,000 students work to create knowledge for a better world. You will find more information about working at NTNU and the application process here. &nbsp;&nbsp;&nbsp; Video: https://youtu.be/Xt-yHCN5QS0 About the position Are you motivated to take a step towards a doctorate which opens up exciting career opportunities? As a PhD Candidate at the Department of Sociology and Political Science you will work to achieve your doctorate, and at the same time gain valuable experience that qualifies you for a further career in higher education and research, both within and outside academia. This PhD position in Political Science offers an excellent opportunity for scientific development through designing, conducting, and disseminating research on a contemporary topic. The goal of the PhD. position is to complete doctoral-level education and to complete a doctoral degree. The position is 4 years, including one year of promotion work such as teaching. The candidate will be part of the active research group Public Policy and Administration at the Department of Sociology and Political Science and be part of a broader international network of researchers working in the field of Public Administration &amp; Management and Digital Government. For more information about the research group, see Public Policy and Administration - NTNU . Your immediate leader will be the Head of Department. &nbsp; About the project Cybersecurity Governance in Critical Public Infrastructures The PhD project will investigate how sector specific institutional contexts shape the governance of cybersecurity in critical public infrastructures. Candidates may focus on selected sectors—such as energy, transport, education, or health—to analyze why governance models differ and how variations in administrative capacity, regulatory design, risk exposure, and public–private collaboration contribute to these differences. The project aims to identify institutional arrangements that enable effective coordination between governmental authorities and private actors and to develop a comparative framework for understanding alternative pathways to effective cybersecurity governance. Applicants are expected to develop a proposal that contributes to this comparative agenda, drawing on relevant theoretical perspectives from public administration, governance, or digital government studies. Qualitative or mixed methods approaches are welcome. Duties of the position Complete the doctoral education until obtaining a doctorate. Carry out research of high academic quality within the framework described above, and develop your own approach to the project. Academic publications and popular science dissemination Be an active participant in the research group Public Policy and Administration. Participate in international activities such as conferences, workshops, PhD courses and/or research stays at foreign educational institutions. Teaching in relevant study programs at the Department. Be prepared for changes to your work duties after employment. The PhD is obliged to conform with the regulations concerning changes and developments within the position, and/or the organizational changes concerning activities at NTNU. &nbsp; Required selection criteria To be qualified for this position you must fulfill the following criteria. You must have a master's degree in Political Science, Social Science interdisciplinary digitalisation‑oriented programmes such as Organisation, Digitalisation, Administration and Work (MODAA), Public Management, Public Governance, Public Administration, or equivalent. Your education must correspond to a five-year Norwegian course, where normally 120 ECTS credits have been obtained at master's level included a master’s thesis or equivalent work with a scope of at least 30 ECTS credits. Master's students can apply, but the master's degree must be obtained and documented before starting the position. You must have a strong academic background from your previous studies and have an average grade from your Master's degree study, or equivalent education, which is equal to B or better compared to NTNU's grading scale . If you do not have letter grades from previous studies, you must have an equally good academic foundation. If you have a weaker grade background, you maybe considered if you can document that you are particularly suitable for a PhD education. You must meet the requirements for admission to t he faculty's Doctoral Programme in Social Science . Good quality of the project proposal. Experience with qualitative research as the main methodological approach, with the ability to engage in quantitative statistical analysis when relevant. Good written and oral skills in English.&nbsp; The appointment is to be made in accordance with NTNUs guidelines for recruitment positions for general criteria for the position. Preferred selection criteria Demonstrated experience with qualitative data collection, including interviews. Familiarity with qualitative coding and analysis using tools such as NVivo, Atlas.ti, or similar. Ability to design and conduct rigorous qualitative research, including sampling strategies, interview protocols, and ethical considerations. Beneficial additional competence includes knowledge of digital transformation/digital government, especially an interest in or experience with cybersecurity. The position is ascribed one year of promotion work such as teaching, and good written and oral language skills in Norwegian or another Scandinavian language is an advantage.&nbsp; Personal characteristics To complete a doctoral degree (PhD), it is important that you are able to:&nbsp; show curiosity and a strong motivation for the subject&nbsp; work independently and structured set goals and make plans to reach them,&nbsp; creatively approach your subject matter, and present and discuss your research and constructively engage with feedback from colleagues. &nbsp; Emphasis will be placed on personal qualities. We offer Evaluate and remove/add what is relevant for the position. An exciting job with an important mission in society Developing tasks in a strong and international professional environment Career guidance and follow-up during the PhD period Open and inclusive working environment with committed colleagues Working expenses funding that can be used to implement the project Mentor programme as a new employee at NTNU As a public employee, you have favorable benefits as a member of the Norwegian Public Service Pension Fund (SPK) Free Norwegian language training at a basic level (A2) As a PhD Candidate at NTNU, you will have access to employee benefits . Diversity Diversity is a strength, and at NTNU we aim to be an employer that reflects the diversity in society and that makes use of the potential of the population's collective skills. Our vision is&nbsp; Knowledge for a better world &nbsp;and&nbsp; our values ​​are creative, critical, constructive and respectful . We believe that an organization that is equal, diverse and gender-balanced is essential for us to achieve our goals.&nbsp; We strive to attract employees with different skills, life experiences and perspectives to contribute to even better problem solving of our societal mission in research and education.&nbsp; If you think this position is relevant and interesting, we encourage you to apply, regardless of gender, functional ability and cultural background, or whether you have been out of work for a period of time. Salary and conditions In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,-per annum depending on qualifications and seniority. A 2% statutory contribution to the State Pension Fund is deducted from the salary.&nbsp; The employment period is 4 years including 1 year of career promotion work such as teaching.&nbsp; For employment as a PhD Candidate, it is a prerequisite that you gain admission to the PhD programme in Social Sciences – specialization Political Science within three months of your employment contract start date, and that you participate in an organized doctoral programme through out the period of employment. As an employee at NTNU, it is important that you keep yourself up to date with academic and organizational changes and adapt to them. For the necessary professional and social interaction, it is a prerequisite that you are physically present and available to the institution on a daily basis. The appointment is carried out in accordance with the principles of the State Employees Act , and Export control (legislation that regulates the export of knowledge, technology and services). Candidates who, after assessment of the application and attachments, are considered to be in conflict with the criteria in the latter act, will not be able to be employed. About the application The attachments (including a description of your scientific work) must accompany the application as these documents form the basis of the application assessment. The documents must be in Norwegian/a Scandinavian language or English.&nbsp; Please note: the application will only be assessed on the basis of the information we have received by the application deadline. Therefore, make sure that your application clearly shows how your skills and experience meet the criteria described above. The application and all attachments must be sent electronically via Jobbnorge.no. If you are invited to an interview, you must bring certified copies of certificates and diplomas upon request. The application must include: Transcripts and diplomas for Bachelor's and Master's degrees CV&nbsp; Copy of Master's thesis. If you have recently submitted your Master's thesis, you can attach a draft of the thesis. Documentation of a completed Master's degree must be presented before taking up the position. Project outline containing proposals for an overall description of research questions, theoretical perspectives, methodological design for the project and progress plan (maximum 1500 words/4 pages)&nbsp; Possibly certificates, publications etc. other relevant research work Names and contact information of three relevant referees In addition, applicants are required to answer the position-related screening questions in Jobbnorge when submitting their application. If all, or parts, of your education has been taken abroad, we also ask you to attach documentation of the scope and quality of your entire education, both Bachelor's and Master's education, in addition to other higher education. If your institution uses “diploma supplement” (normal for most European institutions), you must attach this. A description of the documentation required can also be found here . If you already have a statement from Norwegian Directorate for Higher Education and Skills (HK-dir) , please attach this as well. Joint work will be considered. If it is difficult to identify your contribution to joint work, you must attach a brief description of your participation. When assessing the best qualified, we emphasize necessary qualifications such as education, experience and personal suitability. Motivation for the position, ambitions, and potential for research will also count when assessing the candidates. NTNU recognizes a wide range of academic contributions and has committed itself to The San Francisco Declaration on Research Assessment and CoARA (responsible assessment of research and recognition of a greater breadth of academic contributions in accordance with NTNU's social mission). General information A public list of applicants with name, age, job title and municipality of residence is prepared after the application deadline. If you wish to be exempt from entry on the public applicant list, this must be justified. Assessment will be made in accordance with&nbsp; current legislation . You will be notified if the exemption is not granted. If you think this position looks interesting and in line with your qualifications, you are welcome to apply. If you have any questions about the position, please contact Associate Professor Barbara Zyzak, telephone: +47 96744330, e-mail: barbara.k.zyzak@ntnu.no. If you have any questions about the recruitment process, please contact HR Advisor Renate Lillian Johansen, e-mail: renate.johansen@ntnu.no. &nbsp; Application deadline: 01.09.2026 For practical information about&nbsp; working at NTNU, please visit this webpage.&nbsp; &nbsp; The city of Trondheim is a modern European city with a rich cultural scene.&nbsp; Trondheim is the tech capital of Norway with a population of 200,000.&nbsp;The Norwegian welfare state, including healthcare, schools, kindergartens and overall equality, is probably the best of its kind in the world. Professional subsidized day-care for children is easily available. Furthermore, Trondheim offers great opportunities for education (including international schools) and possibilities to enjoy nature, culture and family life and has low crime rates and clean air quality.&nbsp; Om arbeidsgiveren: NTNU - knowledge for a better world The Norwegian University of Science and Technology (NTNU) creates knowledge for a better world and solutions that can change everyday life. &nbsp; Department of Sociology and Political Science We conduct research, teaching and dissemination in sociology, political science, media, communication and information technology, and sport sciences. The Department offers five-year master’s programmes in teacher education (lektorutdanning) in social sciences as well as in physical education and sports. As a social science department we have a special obligation to contribute to the public debate on important social issues. The Department of Sociology and Political Science is one of six departments in the Faculty of Social and Educational Sciences.",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "missing_runs": 0
+  },
+  {
+    "id": "d2445cf94dae10f7",
+    "title": "Sikkerhet- og beredskaprådgiver",
+    "company": "POLITIETS IT-ENHET AVD HOVEDKONTOR",
+    "location": "OSLO, Norway",
+    "country": "NO",
+    "url": "https://europa.eu/eures/portal/jv-se/jv-details/NDU3NzZkMjItYzkxMC00NTY4LWI3M2MtMmM0MmQxMWE3MTVkIDI2MQ?lang=en",
+    "source": "eures-no",
+    "source_type": "api",
+    "posted_date": "2026-08-07",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime, Directhire",
+    "description": "Om stillingen&nbsp; Vil du gjøre sikkerhetsarbeid med samfunnsmessig betydning?&nbsp; Vi trenger deg som har kommet godt i gang med sikkerhetsfaget eller deg som er blant de mer erfarne. Du kan bli en del av et større fagmiljø som jobber med å beskytte noen av samfunnets mest kritiske funksjoner. Hvis politiets systemer angripes, er det ikke bare omdømme som står på spill – det er politiets evne til å beskytte innbyggernes rettsikkerhet, trygghet og velferd.&nbsp; Parallelt med satsningen for å digitalisere politiet, styrker vi miljøet vårt innen beredskap, sikkerhetskultur, teknisk sikkerhet, sikkerhetsstyring, sikkerhetsarkitektur og analyse, SOC, plattformsikkerhet og overvåkning. Hos oss finner du også JustisCERT – justissektorens sikkerhets- og responsmiljø og partner i Nasjonalt cybersikkerhetssenter. Vi trenger sikkerhet- og beredskapsrådgiver til å hjelpe oss med:&nbsp; Sikkerhet i anskaffelser og utvikling Bidra til at politiet anskaffer, utvikler og forvalter sikre løsninger og teknologier. Dette omfatter blant annet sentrale satsinger som nytt nødnett, kroppskameraer og andre samfunnskritiske systemer og tjenester. Du vil bidra med sikkerhetskrav, risikovurderinger og sikkerhetsfaglige råd Sikkerhetsstyring og graderte plattformer Du kan være med på å videreutvikle styring og etterlevelse av sikkerhetsarbeidet i politiet. Dette inkluderer arbeid med styringssystem for informasjonssikkerhet, sikkerhetsloven, risikostyring, internkontroll og rådgivning til ledere og fagmiljøer. Du kan også være med på å etablere, drifte og forvalte nasjonale plattformer for sikkerhetsgradert informasjon. Du kan jobbe med alt fra teknisk implementering og drift til styring, forvaltning og videreutvikling på nasjonalt nivå Sikkerhetskultur og sikkerhetskompetanse Bidra til å styrke sikkerhetsbevisstheten i organisasjonen gjennom opplæring, rådgivning, kulturbygging og kompetanseutvikling. Du vil jobbe med personellsikkerhet i hele livsløpet til en medarbeider, tett med ledere og støttefunksjoner for å gjøre sikkerhet til en integrert del av hverdagen Forebygging og hendelseshåndtering&nbsp; Jobb med forebygging og håndtering av sikkerhetshendelser Vi søker primært etter fagfolk, men for rette kandidater kan vi tilby faglig ledende roller uten personalansvar. Hvis du ønsker å jobbe innenfor et spesifikt område, ber vi deg om å spesifisere det i søknaden. I Politiets IT-enhet er vi over 850 ansatte. Vi skaper verdi for innbyggerne, samarbeidspartnere og kollegaer i politiet. Som en del av politiets viktige samfunnsoppdrag skal vi forebygge og bekjempe kriminalitet, skape trygghet og ivareta rettssikkerheten. Vi er på jobb for et trygt Norge. Arbeidsoppgaver Som rådgiver innen sikkerhet og beredskap vil oppgavene kunne være: Premissgivende – du skal bidra med å sette krav og føringer for utviklingsteam og andre ansatte i PIT og politiet innen IT-sikkerhet Utøvende – du skal gjennomføre analyser, bistå i hendelseshåndtering, saksbehandling, lage kurs og opplæringsmateriell Rådgivende – du skal gi sikkerhetsfaglig rådgivning knyttet til krav, regelverk, metoder og beste praksis, samt anbefale risikoreduserende tiltak og bidra til løsning av komplekse sikkerhetsfaglige problemstillinger Kontrollene – du skal kontrollere at krav blir etterlevd. Det kan innebære alt fra å følge opp at dokumentasjonskravet blir oppfylt, til test Arbeidsstedet ditt blir på vårt hovedkontor på Majorstuen. Kvalifikasjoner Relevant utdanning på bachelor- eller masternivå innen IT, sikkerhet, politi eller forsvar. Relevant erfaring kan kompensere for manglende formell utdanning. Vitnemål fra høyere utdanning, fagbrev og relevante attester skal legges ved søknaden Minst 3 års relevant arbeidserfaring God teknisk forståelse Du kan kommunisere godt på både norsk og engelsk. Arbeidsspråket er norsk Du må ha plettfri vandel og være skikket for tjeneste i politiet. Ved å søke på stillingen samtykker du til at det gjøres en skikkethetsvurdering av deg. Vurdering av skikket- og egnethet vil bli vektlagt. Politiattest (uttømmende og utvidet) må innhentes ved ev. ansettelse jfr. politiloven § 18 og politiregisterloven § 41. Les mer på politiet.no/jobbipit.&nbsp; Du må kunne sikkerhetsklareres på nivå HEMMELIG og autoriseres før tiltredelse. Les mer her: https://nsm.no/fagomrader/personellsikkerhet/sikkerhetsklarering/slik-blir-du-sikkerhetsklarert/ . For å bli vurdert som søker til stillingen, må du oppfylle alle kravene over. I tillegg er det en fordel om du har erfaring innenfor én eller flere av følgende disipliner: Teknisk sikkerhet og sikker programvareutvikling, DevSecOps Sikkerhet i anskaffelser, utvikling og livssyklusstyring av IT-løsninger Informasjonssikkerhet, databeskyttelse og informasjonsklassifisering Forvaltning av graderte systemer eller løsninger underlagt sikkerhetsloven Sikkerhetskultur, kompetanseutvikling og sikkerhetsbevisstgjøring Personellsikkerhet og forebyggende sikkerhetsarbeid Revisjonsarbeid Erfaring fra samfunnskritisk virksomhet Personlige egenskaper Trygg og relasjonssterk Tillitsskapende og komfortabel i møte med ulike mennesker Tar gode vurderinger selv, men forstår at man leverer som team Robust og motstandsdyktig&nbsp; Håndterer press, endringer og utfordringer på en konstruktiv måte Beholder roen og evnen til å levere også når det er en hendelse Selvstendig og initiativrik&nbsp; Tar ansvar for egne oppgaver og driver arbeidet fremover uten tett oppfølging Ser hva som må gjøres og følger opp på eget initiativ og er løsningsorientert i møte med omverden Vi legger vekt på personlige egenskaper i rekrutteringen av vår nye teknisk sikkerhet- og beredskapsrådgiver. Som medarbeider i politiet har du høy etisk bevissthet, du kjennetegnes av å være modig og helhetsorientert, du viser respekt og er tett på. Du kan lese mer om våre etiske retningslinjer og medarbeiderplattform på politiet.no/jobbipit . Dette kan vi tilby om du velger oss Stillingen lønnes som rådgiver (stillingskode 1434)/ seniorrådgiver (stillingskode 1364) med årslønn fra kr 600.000-950.000. For særlig kvalifiserte søkere kan høyere lønn vurderes Medlemskap i Statens pensjonskasse, med blant annet gode pensjons- og forsikringsordninger. Les mer her Gode arbeidsbetingelser (fast avsatt tid til kompetanseheving, fleksibel arbeidstid, mulighet for noe hjemmekontor, mulighet for trening i arbeidstiden) Les mer om godene du får som ansatt og bli bedre kjent med oss på politiet.no/jobbipit &nbsp; Mangfold i politiet Vi tror at mangfold bidrar til bedre oppgaveløsning, og søker derfor medarbeidere med ulik bakgrunn, erfaring, perspektiv og kompetanse. Dersom du har behov for tilrettelegging i rekrutteringsprosessen eller arbeidshverdagen, vil vi gjøre vårt beste for å gi deg det du trenger. Har du funksjonsnedsettelse, innvandrerbakgrunn eller hull i CV-en, kan du krysse av for dette i søknaden. Er du kvalifisert for stillingen, vil du bli vurdert for positiv særbehandling.&nbsp;Det betyr at minst én søker fra hver av disse gruppene blir innkalt til intervju. Les mer om positiv særbehandling når du søker jobb i staten på arbeidsgiver.dfo.no . Opplysningene du gir brukes til å utarbeide anonymisert statistikk som alle statlige virksomheter rapporterer i sine årsrapporter. Video: https://www.youtube.com/watch?v=uUTjHmSB_Wc Slik søker du Du søker ved å fylle ut CV i Jobbnorges CV-skjema og skrive en kort søknad. I tillegg må du legge ved relevante vitnemål og attester. Kvalifiserte kandidater vil bli kalt inn til intervju. Sett deg raskt inn i hva som skjer når du søker jobb hos oss. Rekrutteringsprosessen finner du på politiet.no/jobbipit. I søknadsportalen Jobbnorge kan du krysse av for å ikke komme på den offentlige søkerlisten. Vi vil ta kontakt med deg hvis vi ikke godkjenner ønsket ditt. Om arbeidsgiveren: Et kriminalitetsbilde i endring, den sikkerhetspolitiske situasjonen og den raske digitaliseringen gjør at politiet må rigge seg bedre. Vi må rigge oss for å stå i kontinuering utvikling og for å opprettholde et trygt Norge. I fremtiden må politiet levere tjenester på andre måter, derfor må vi tenke nytt om hvordan fag og teknologi virker sammen. Politiets IT-enhet har det helhetlige ansvaret for teknologiutviklingen i politiet. Produktene vi lager skal gi verdi for innbyggerne, samarbeidspartnere og kollegaene våre i politiet. Vi lærer underveis, videreutvikler og måler at vi er på rett vei. Verdien skaper vi skritt for skritt. Vi jobber i tverrfaglige team og tett med brukerne våre. Sammen skaper vi et mer digitalt og tilgjengelig politi.&nbsp; Vi jobber for å se hverandres perspektiver og dele kunnskap med hverandre. Ikke minst eier vi helheten sammen. Les mer om hvordan vi jobber på politiet.no/jobbipit . Bli bedre kjent med retningene våre på politiet.github.io&nbsp;",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "missing_runs": 0
+  },
+  {
+    "id": "08bd203b56d3cdb7",
+    "title": "Teleplan Consulting søker erfaren konsulent innen skytjenester til ledende fagmiljø",
+    "company": "TELEPLAN CONSULTING AS",
+    "location": "LYSAKER, Norway",
+    "country": "NO",
+    "url": "https://europa.eu/eures/portal/jv-se/jv-details/Y2YzYWQwMDgtNDk1Ny00MDE4LTg1NmEtZTkwYTQwZjM4YjkyIDI2MQ?lang=en",
+    "source": "eures-no",
+    "source_type": "api",
+    "posted_date": "2026-08-03",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime, Directhire",
+    "description": "Samfunnskritiske prosjekter | Moderne teknologi | Reell påvirkning Vil du bruke cloud-kompetansen din på prosjekter som faktisk betyr noe? Teleplan Consulting søker erfarne konsulenter som vil jobbe i skjæringspunktet mellom teknologi, rådgivning og samfunnsnytte. Hos oss får du bidra i noen av Norges mest kritiske digitaliseringsprosjekter – innen forsvar, beredskap, helse, samferdsel og andre virksomheter med høye krav til sikkerhet, kvalitet og stabilitet. &nbsp; Rollen Dette er rollen for deg som ønsker mer enn bare “enda et skyprosjekt”. Som Senior Konsulent innen cloud og skyarkitektur vil du hjelpe kunder med å ta riktige teknologivalg og gjennomføre krevende moderniseringsløp på en trygg og effektiv måte. Du vil typisk jobbe med: rådgivning innen Azure, AWS eller GCP design av sikre og skalerbare skyplattformer landing zones, governance, IAM og sikkerhet modernisering av applikasjoner og plattformer migrering fra on-prem til cloud, hybrid eller multicloud DevSecOps, CI/CD og Infrastructure as Code teknisk rådgivning inn mot ledelse, arkitekturråd og styringsgrupper skystrategi, kostnadsstyring og optimalisering bruk av AI- og dataplattformer der det gir reell verdi Rollen kan tilpasses din profil – enten du er mest rådgiver, arkitekt eller mer hands-on teknolog. &nbsp; Vi tror du kjenner deg igjen i noe av dette: 5+ års erfaring innen cloud, infrastruktur, arkitektur eller modernisering erfaring med Azure, AWS og/eller GCP god forståelse for sikkerhet, governance og moderne plattformtankegang erfaring med Terraform, Bicep, CI/CD eller DevOps-praksis er en fordel evne til å kommunisere godt med både tekniske og ikke-tekniske miljøer trives i konsulentrollen og liker å skape verdi hos kunde høyere utdanning er positivt, men relevant erfaring kan kompensere Det er en forutsetning at du må kunne sikkerhetsklareres. &nbsp; Hvorfor Teleplan Consulting? Teleplan Consulting er en del av Teleplan-konsernet, et norsk teknologimiljø etablert i 1959. I flere tiår har vi bidratt til utvikling av samfunnskritiske løsninger og teknologi for noen av Norges viktigste virksomheter. Du får jobbe med meningsfulle oppdrag i virksomheter som er viktige for Norge. Du blir del av et sterkt miljø innen arkitektur, teknologi og rådgivning. Våre konsulenter har reell påvirkning med kort vei til beslutninger og stor mulighet til å forme både leveranser og fagretning. Vi tilbyr trygghet og fleksibilitet i et solid norsk selskap med lange kunderelasjoner og fleksibel arbeidshverdag. Muligheten for faglig utvikling, kurs og sertifisering. Konkurransedyktig lønn, bonusordninger, sterke pensjons- og forsikringsordninger, firmahytter og moderne lokaler på Fornebu. &nbsp; Hvis du vil høre mer om denne muligheten er du velkommen til å ta kontakt for en hyggelig og uforpliktende prat. Vi behandler alle henvendelser konfidensielt. Om arbeidsgiveren: null",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "missing_runs": 0
+  },
+  {
+    "id": "99cdbbc03c8d3dda",
+    "title": "Vil styrke arbeidet med sikkerhet knyttet til kunstig intelligens?",
+    "company": "FORSVARSSTABEN FST",
+    "location": "OSLO, Norway",
+    "country": "NO",
+    "url": "https://europa.eu/eures/portal/jv-se/jv-details/N2E1OWMyNGUtMDNiNC00ZGNjLTgzODktYWZjMWY0M2FlNGMzIDI2MQ?lang=en",
+    "source": "eures-no",
+    "source_type": "api",
+    "posted_date": "2026-07-31",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime, Directhire",
+    "description": "Vil du bidra til Forsvarets digitale transformasjon og styrke arbeidet med sikkerhet knyttet til kunstig intelligens? I en periode med rivende teknologisk utvikling og økt anvendelse av disruptive teknologier som blant annet kunstig intelligens, har Stortinget vedtatt et historisk forsvarsløft som inkluderer en tydelig satsing på teknologi, cyber og IKT. Forsvaret har Norges mest omfattende, komplekse, høyteknologiske og samfunnskritiske teknologi- cyber- og IKT-portefølje, som skal tilpasse seg og virke selv når alt annet ikke virker. Porteføljen stiller de aller høyeste krav til balansering av interoperabilitet, sikkerhet, integritet og tilgjengelighet for å kunne levere på et krevende samfunnsoppdrag i samvirke med NATO, allierte og totalforsvaret.&nbsp; Stillingen som seniorrådgiver IKT- og KI-sikkerhet er lokalisert Forsvarsstaben (FST), i avdeling for Teknologi, Cyber og IKT. FST skal som Forsvarssjefens strategiske stab omsette politiske føringer og målsettinger, samt gjennomføre oppdrag, tiltak og strategiske initiativ gitt fra høyere nivå. FST skal gjennom strategisk styring av Forsvarets virksomhet bestemme hva som skal være Forsvarets mål, og gjennom virksomhetsstyring sørge for at disse nås. Hva skal du ha ansvar for og jobbe med? Støtte Forsvarets CISO i å lede den strategiske utviklingen og styringen av sikkerhet relatert til kunstig intelligens. Spesielt i skjæringspunktet mellom å anvende KI-teknologier for å styrke Forsvarets evne til deteksjon og respons i cyberdomenet, og det å etablere rammeverk for sikker og forsvarlig bruk av KI-systemer i Forsvarets IKT-infrastruktur På vegne av CISO forvalte og videreutvikle styringsområde for IKT-sikkerhet på strategisk nivå, innenfor rammen av Forsvarets IKT-styringsmodell På vegne av CISO utøve faglig ansvar for styring, koordinering og kvalitetssikring av leveranser på strategisk nivå innen cyber- og IKT-sikkerhet Følge opp og rapportere sikkerhetsrisiko og forsvarlig sikkerhetsnivå på strategisk nivå for IKT-porteføljen Støtte CISO i etablering av strategiske mål og planer innenfor IKT-sikkerhet i tråd med Forsvarets sikkerhetskapabiliteter, Forsvarets strategiske mål og gjeldende sikkerhetskrav Koordinere, rådgi og utøve prosessledelse innenfor strategisk IKT-sikkerhetsstyring, og være pådriver i overgangen fra systemsentrisk til datasentrisk sikkerhetsstyring Omsette overordnede strategier til konkrete krav og oppgaver for Forsvarets fagmiljøer gjennom IKT-sikkerhetsfaglig ledelse Sikre at styringsområde IKT-sikkerhet utvikles i tråd med gjeldende datasentriske krav og støtter driftsenhetenes leveranser og effektrealisering, gjennom sikkerhetsstyring i IKT-porteføljestyringen og relevante beslutningsarenaer Hvilke kvalifikasjoner trenger du for stillingen? Høyere utdanning, fortrinnsvis innen informasjonsteknologi og IKT-sikkerhet eller sikkerhetsarkitektur. Relevant erfaring med god resultatoppnåelse vil etter vurdering kunne kompensere for manglende formell utdanning. Erfaring fra arbeid med informasjonssikkerhet og tilsvarende type oppgaver i større virksomhet med omfattende teknologi og IKT-portefølje Du må ha interesse for eller relevant erfaring innen kunstig intelligens og maskinlæring Evne til å omsette teknisk innsikt om KI til strategiske beslutninger, risikovurderinger og styringsrammeverk for IKT- og informasjonssikkerhet Kunnskap om relevante lover (som sikkerhetsloven), forskrifter, retningslinjer og sikkerhetsrammeverk Du må kunne norsk og engelsk godt, og ha god muntlig og skriftlig fremstillingsevne på begge språk Du må i tillegg kunne sikkerhetsklareres til HEMMELIG og NATO SECRET før tiltredelse (for mer informasjon om sikkerhetsklarering, se www.nsm.no ) Det er i tillegg ønskelig at du kan vise til en eller flere av følgende kvalifikasjoner: praktisk erfaring med implementering av KI-baserte sikkerhetsverktøy eller utvikling av retningslinjer for sikker bruk av KI i en kompleks organisasjon erfaring med strategisk sikkerhets- og risikostyring inkludert verdi- og skadevurdering evnen til å omsette teknisk risiko til beslutningsgrunnlag for militærstrategisk og ikke-teknisk ledelse. praktisk erfaring innen områder som DevSecOps, datasentrisk sikkerhet, tilgangsstyring, zero-trust, skyløsninger, operasjonell teknologi og arkitektur Forsvaret benytter elektronisk søknadsbehandling. Attester og vitnemål må legges ved søknaden. Hvis du har fullført høyere utdanning utenfor Norge, må denne være godkjent av Direktoratet for høyere utdanning og kompetanse (NOKUT godkjennes også), og du må dokumentere godkjenningen. Det blir gjennomført bakgrunnssjekk når sikkerhetsklareringen gjennomføres. Hvem er du? Stillingen krever at du er motivert, fleksibel, positiv og initiativrik, samt at du har gode analytiske evner og helhetsoversikt. Du trives med å lede og koordinere arbeid i tverrfaglige team i en kompleks organisasjon under stadig endring, og har evne til å løse arbeidsoppgavene selvstendig. I tillegg er du flink til å formidle og skape gode relasjoner med interne og eksterne miljøer. Du er lydhør, samarbeider godt med fageksperter og bidrar til et godt fagmiljø. Du arbeider dessuten godt sammen med og gjennom andre, og er en energisk prosessdriver som kan jobbe i grenseflatene mellom politikk, strategi, styring og gjennomføring. Personlig egnethet vil bli vektlagt Aktuelle kandidater vil bli kalt inn til intervju. Hvorfor skal du velge oss? Vi tilbyr våre ansatte ordninger og aktiviteter som er ment til å bidra til økt arbeidsglede og motivasjon Spennende arbeidsoppgaver med stor mulighet til å påvirke utviklingen av Forsvaret Medlemskap i Statens pensjonskasse med gode låne-, pensjons- og forsikringsordninger (se spk.no) Arbeidssted sentralt i Oslo sentrum Akershus festning Mulighet for fleksibel arbeidstid og trening i arbeidstiden med tilgang til treningsanlegg Mulighet for hjemmekontor Du vil få lønn som seniorrådgiver, med årslønn innenfor spennet 850 000-950 000 brutto pr. år avhengig av kvalifikasjoner. For spesielt godt kvalifiserte kandidater vil høyere avlønning kunne vurderes. Av lønnen trekkes 2 % lovbestemt innskudd til Statens pensjonskasse. Ønsker du å bidra til Forsvarets digitale transformasjon? Da oppfordrer vi deg til å søke. Vi ser frem til å motta din søknad! Kontaktinformasjon Morten Nilsen Skogvik,&nbsp;IKT Sikkerhetssjef/CISO,&nbsp;90515055 Arbeidssted Glacisgata 1 0150&nbsp;OSLO Nøkkelinformasjon: Arbeidsgiver: Forsvaret Referansenr.: 5155634633 Stillingsprosent: 100% Fast Søknadsfrist: 24.08.2026 Om arbeidsgiveren: En jobb i Forsvaret er noe mer enn en jobb. Forsvarets viktigste oppgave er å skape sikkerhet for Norge og trygghet for befolkningen. Uansett hvilken stilling du har, er du med på å ivareta landets og fellesskapets interesser. For å verne om alt vi har og alt vi er, må vi selv leve ut de verdiene vi er satt til å forsvare. Vi ønsker derfor ansatte som bidrar til en god kultur ved å vise respekt og ta ansvar for hverandre, og ha mot til å handle riktig og våge å si ifra. Forsvarsstaben (FST) har på vegne av forsvarssjefen utøvende myndighet for ledelse, styring og utvikling av Forsvaret. FST skal sørge for at oppdrag, mål og resultater blir fulgt opp. Forsvarssjefen har i enkelte sammenhenger også ansvar for hele forsvarssektoren, for eksempel innen investeringer, IKT, modernisering og effektivisering. I tillegg skal FST støtte forsvarssjefen i hans utøvelse av kommando og kontroll samt krisehåndtering. I Forsvaret er det ønskelig at arbeidsstyrken i størst mulig grad skal gjenspeile mangfoldet i befolkningen. Vi oppfordrer kvalifiserte kandidater til å søke, uavhengig av kjønn, kulturell bakgrunn,&nbsp;hull i CV-en eller funksjonsevne. Vi vil sørge for tilrettelegging på arbeidsplassen hvis det er behov for dette. Noen av Forsvarets stillinger kan ha egne helsekrav og krav til fysisk skikkethet. I henhold til offentlighetsloven § 25 andre ledd kan opplysninger om søkeren bli offentliggjort selv om søkeren har anmodet om ikke å bli oppført på søkerlisten. Det er egne regler for militære stillinger. Forsvaret benytter elektronisk søknadsbehandling. Attester og vitnemål må legges ved søknaden. Høyere utdanning gjennomført utenfor Norge må være offentlig godkjent av NOKUT eller&nbsp; Direktoratet for høyere utdanning og kompetanse . Godkjenningen må dokumenteres. Det blir gjennomført bakgrunnssjekk når sikkerhetsklareringen gjennomføres. Les mer om jobb i Forsvaret.",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "missing_runs": 0
+  },
+  {
+    "id": "9fca0464b56bac67",
+    "title": "Vi søker plattformingeniør",
+    "company": "BRØNNØYSUNDREGISTRENE HAVNEGATA",
+    "location": "BRØNNØYSUND, Norway",
+    "country": "NO",
+    "url": "https://europa.eu/eures/portal/jv-se/jv-details/NmZhZmUyN2QtOWI5MS00YWZkLTk2YzYtMDUzZDNjNjkwYjNjIDI2MQ?lang=en",
+    "source": "eures-no",
+    "source_type": "api",
+    "posted_date": "2026-07-07",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Fulltime, Directhire",
+    "description": "Om stillingen Hos Brønnøysundregistrene får du jobbe med teknologi som gjør det enklere, tryggere og mer effektivt å etablere, drive og utvikle virksomheter i Norge. IT-avdelingen vår har 140 engasjerte og dyktige fagpersoner som sammen utgjør et av Norges viktigste teknologimiljøer. Du får være med i plattformteamet som jobber med vår private skyplattform. Teamet forvalter og videreutvikler skyplattformen som er basert på Red Hat OpenShift Container Platform. Plattformen blir administrert og orkestrert med Kubernetes og er den digitale grunnmuren vår. Plattformen kjører on-prem og er delt inn i flere produktlinjer. Dette legger til rette for at utviklingsteamene våre får gode selvbetjeningsløsninger for å utvikle, bygge og drifte tjenestene på en sikker og effektiv måte. Har du erfaring med teknologiene våre, er du godt kvalifisert som senior Plattformingeniør. Du får dele erfaringen og kompetansen din med resten av teamet og ta faglig ledelse innenfor et eller flere fagområder. Nyutdannede med interesse innenfor fagområdet kan også søke på stillingen. Du får opplæringen du trenger og egen faglig mentor. Arbeidssted for stillingene er Brønnøysund, men det kan være mulighet for å jobbe fra andre steder i landet dersom du har lang og relevant erfaring. Arbeidsdagen din hos oss &nbsp;Som Plattformingeniør vil du være sentral i å bygge og vedlikeholde plattformen vår. Dette innebærer at du jobber med drift og forvalting og videreutvikling av en eller flere av produktlinjene våre. Du blir en del av et team, får utfordrende oppgaver i et trivelig arbeidsmiljø og har det gøy på jobb. En vanlig dag kan bestå av noen av disse oppgavene: ivareta og forbedre vår Red Hat Openshift Platform for å sikre stabilitet og sikkerhet tilrettelegge for logging og monitorering og bruk av Elastic kontinuerlig jobbe med automatisering og forbedringer bistå utviklingsteamene med å effektivt ta i bruk plattformen skape gode relasjoner, samarbeide effektivt, og være sparringspartner for kollegaer bistå når nye produkter skal inn i plattformen Les mer om IT-miljøet vår her . Kvalifikasjoner For å være aktuell som Plattformingeniør, må du: ha 3 - 5 års høyere utdanning innenfor IT. Lang relevant erfaring kan i spesielle tilfeller dekke hele eller deler av utdanningskravet ha interesse for plattformbygging og DevOps beherske norsk flytende, både skriftlig og muntlig Det er positivt om du har erfaring innen et eller flere av disse områdene Red Hat OpenShift Container Platform, Kubernetes eller tilsvarende bruk av Ceph til lagring Red Hat Linux Elasticsearch for å ivareta logging, monitorering og sikkerhet DevSecOps-metodikk og Open Source-teknologi Pipeline og CI/CD, ArgoCD, Ansible, Helm innebygd sikkerhet som del av Plattformen Du må kunne autoriseres for BEGRENSET etter sikkerhetsloven. Er du utenlandsk statsborger, skal autorisasjonsansvarlig hos oss vurdere om din tilknytning til hjemlandet og hjemlandets sikkerhetsmessige betydning utgjør en risiko knyttet til stillingen. I noen tilfeller må det innhentes samtykke fra Sivil klareringsmyndighet. Personlige egenskaper Vi ser etter deg som har disse egenskapene du har sterke samarbeidsevner og trives med å jobbe i team&nbsp; du ser helheten i systemer, integrasjoner og arbeidsprosesser&nbsp; du er nysgjerrig og har en genuin interesse for teknologi&nbsp; du er ansvarsbevisst, initiativrik, analytisk, jobber selvstendig og strukturert&nbsp; er pådriver for en delings- og læringskultur trives i et faglig sterkt miljø med humor og stor takhøyde Dette får du hos oss fast stilling som rådgiver med årslønn fra kr 570 000 - 750 000 eller seniorrådgiver med årslønn fra kr 700 000 – 1 000 000, avhengig av dine kvalifikasjoner. For særlig kvalifiserte kandidater kan vi vurdere noe høyere lønnsnivå - det diskuterer vi når vi kommer så langt. spennende oppgaver innen teknologi, digitalisering og forenkling av Norge&nbsp; gode muligheter for faglig utvikling fleksibel arbeidstid og mulighet for hjemmekontor når arbeidsoppgavene tilsier det gode velferdsordninger i alle livsfaser og mulighet for trening i arbeidstiden medlemskap i Statens pensjonskasse som har en av landets beste pensjonsordninger, med gunstig boliglån og gode forsikringsordninger moderne kontorlokaler med fantastisk utsikt over Helgelandskysten.&nbsp; Les mer om vår flotte arbeidsplass og byen vi bor i. Flytter du til Brønnøysund, tilbyr vi hjelp med å skaffe bolig og kan dekke flyttekostnader etter nærmere avtale. Vi kan dekke husleie de første 6 månedene med inntil kr 10 000,-. Dette er skattepliktig inntekt. Vi har et rekrutteringssamarbeid med Brønnøy kommune og Digitaliseringsdirektoratet. Har du en partner som har behov for jobb kan vi formidle kontakt med disse. Inkludering og mangfold er viktig for oss Vi ønsker å være en inkluderende arbeidsplass, der vi gjenspeiler mangfoldet i befolkningen. Vi trenger medarbeidere med ulik erfaring, bakgrunn, kompetanse og kvalifikasjoner for å løse samfunnsoppdraget vårt.&nbsp; Har du hull i CV-en din,&nbsp;nedsatt funksjonsevne eller innvandrerbakgrunn oppfordrer vi deg til å krysse av for dette når du søker stillingen hos oss. Vi innkaller minst én kvalifisert søker fra hver av disse gruppene til intervju. Vi tilrettelegger for medarbeidere som har behov for det. &nbsp; Bo i Brønnøysund Brønnøysund er en trivelig liten kystby sør på Helgeland. Vi har korte avstander til det meste og masse vær – uansett årstid! Er du glad i naturopplevelser har vi et utall av muligheter. Mulighetene er mange også for deg som heller foretrekker en tur på kafe eller restaurant, er opptatt av kultur eller ulike treningsmuligheter innendørs. Har du studielån og bor i Brønnøy kommune, kan du få nedskrevet lånet hvert år til det er nedbetalt. Les mer om ny ordning for nedskriving av studielån på regjereringen.no&nbsp; &nbsp; Hvordan er det å jobbe hos oss sånn egentlig? Vi vil at du skal føle deg trygg på valget når du takker ja til å jobbe hos oss. Dersom du er aktuell for stillingen, tilbyr vi deg en omvendt referansesjekk. Det betyr at du får ringe noen av våre medarbeidere og stille de spørsmålene du måtte ønske for å finne bedre ut om vi er en god match. Verdt å merke seg før du søker Når du søker på denne stillingen, trenger du ikke å skrive et søknadsbrev. For oss er det mer nyttig at du leverer en beskrivende CV der du får frem hva du har gjort tidligere som gjør deg kvalifisert til jobben. Når du søker jobb hos oss, vil navnet ditt stå på en offentlig søkerliste. Ønsker du å bli unntatt fra den offentlige søkerlisten, må du begrunne hvorfor. Vi tar kontakt med deg dersom vi ikke tar ønsket ditt til følge, og du får mulighet til å trekke søknaden din. For å bli vurdert som søker, må du legge ved relevante attester og vitnemål. Vitnemål for utdanning tatt i Norge laster du opp fra Vitnemålsportalen. Har du utdanning fra utlandet legger du ved godkjenning fra Direktoratet for høyere utdanning og kompetanse/NOKUT.&nbsp; Om arbeidsgiveren: Vi satser først og fremst på folk, og det har gjort oss til etaten med best omdømme i Norge. Hos oss får du utvikle deg faglig samtidig som du har en god balanse mellom jobb og fritid. Vi vet at de beste løsningene skapes av mennesker som trives både på og utenfor jobb. Bli med på laget som gjør det enklere å drive virksomhet i Norge og som leverer dataene som holder samfunnet i gang. Nå kan du bli en av våre 470 kolleger på Norges vakreste arbeidsplass.",
     "score": null,
     "score_reason": "",
     "skills": [],
