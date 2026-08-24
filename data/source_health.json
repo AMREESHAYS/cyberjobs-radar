@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 44,
+    "last_count": 45,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -55,7 +55,7 @@
   },
   "jobicy": {
     "errored": false,
-    "last_count": 36,
+    "last_count": 34,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 125,
+    "last_count": 126,
     "last_ok": "workable",
     "quiet_runs": 0
   }
