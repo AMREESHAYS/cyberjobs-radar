@@ -7,7 +7,7 @@
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 14,
+    "last_count": 11,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -49,7 +49,7 @@
   },
   "himalayas": {
     "errored": false,
-    "last_count": 1,
+    "last_count": 4,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
@@ -73,7 +73,7 @@
   },
   "norway": {
     "errored": false,
-    "last_count": 6,
+    "last_count": 7,
     "last_ok": "norway",
     "quiet_runs": 0
   },
