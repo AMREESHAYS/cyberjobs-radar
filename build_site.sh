@@ -14,7 +14,7 @@ jobs = json.load(open("data/jobs.json"))
 # the drafting endpoint, which reads the unabridged file server-side.
 FIELDS = ("id title company location country url source source_type score score_reason "
           "skills salary salary_inr employment_type experience_required remote "
-          "visa_sponsorship role_summary expectations hiring_process last_seen "
+          "visa_sponsorship role_summary expectations hiring_process seniority_fit last_seen "
           "first_seen").split()
 PREVIEW = 160
 slim = []

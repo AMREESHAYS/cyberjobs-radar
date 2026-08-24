@@ -46,10 +46,19 @@ def _security_terms(cfg):
                     "penetration", "soc", "siem", "devsecops", "sicherheit",
                     "informationssicherheit", "veiligheid"} or {"security"}
 
+# The local words for "safety" and "security" are the same, so a bare match on
+# them pulled in cooks ("Hygiene- und Sicherheitsstandards") and care workers.
+# Each language therefore has to name the IT sense explicitly.
 _ON_TOPIC = re.compile(
-    r"(security|cyber ?security|infosec|pentest|penetration test|red team|blue team|"
-    r"soc\b|siem|devsecops|sicherheit|beveiliging|sécurité|sikkerhet|säkerhet|"
-    r"bezpieczeństwa|turvallisuus)", re.I)
+    r"(security|cyber ?security|infosec|information security|pentest|"
+    r"penetration test|red team|blue team|soc\b|siem|devsecops|"
+    r"(it|cyber|informations|daten|netzwerk|anwendungs)[ -]?sicherheit|"
+    r"sicherheitsanalyst|sicherheitsingenieur|"
+    r"(informatie|cyber|it)[ -]?beveiliging|"
+    r"(cyber)?sécurité (informatique|des systèmes)|cybersécurité|"
+    r"(it|informasjons|cyber)[ -]?sikkerhet|(it|informations|cyber)[ -]?säkerhet|"
+    r"cyberbezpieczeństwa|bezpieczeństwa (it|informacji|sieci)|"
+    r"tietoturva|kyberturvallisuus)", re.I)
 
 def is_on_topic(job) -> bool:
     """Does this posting mention security at all, in any of our languages?"""
