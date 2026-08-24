@@ -1,0 +1,98 @@
+{
+  "arbeitnow": {
+    "errored": false,
+    "last_count": 22,
+    "last_ok": "arbeitnow",
+    "quiet_runs": 0
+  },
+  "ashby": {
+    "errored": false,
+    "last_count": 2,
+    "last_ok": "ashby",
+    "quiet_runs": 0
+  },
+  "cryptojobslist": {
+    "errored": false,
+    "last_count": 8,
+    "last_ok": "cryptojobslist",
+    "quiet_runs": 0
+  },
+  "cryptovalley": {
+    "errored": false,
+    "last_count": 5,
+    "last_ok": "cryptovalley",
+    "quiet_runs": 0
+  },
+  "denmark": {
+    "errored": false,
+    "last_count": 3,
+    "last_ok": "denmark",
+    "quiet_runs": 0
+  },
+  "fetch": {
+    "errored": false,
+    "last_count": 0,
+    "last_ok": null,
+    "quiet_runs": 1
+  },
+  "finland": {
+    "errored": false,
+    "last_count": 11,
+    "last_ok": "finland",
+    "quiet_runs": 0
+  },
+  "greenhouse": {
+    "errored": false,
+    "last_count": 5,
+    "last_ok": "greenhouse",
+    "quiet_runs": 0
+  },
+  "himalayas": {
+    "errored": true,
+    "last_count": null,
+    "last_ok": null,
+    "quiet_runs": 1
+  },
+  "jobicy": {
+    "errored": false,
+    "last_count": 34,
+    "last_ok": "jobicy",
+    "quiet_runs": 0
+  },
+  "lever": {
+    "errored": false,
+    "last_count": 1,
+    "last_ok": "lever",
+    "quiet_runs": 0
+  },
+  "recruitee": {
+    "errored": false,
+    "last_count": 1,
+    "last_ok": "recruitee",
+    "quiet_runs": 0
+  },
+  "remoteok": {
+    "errored": false,
+    "last_count": 1,
+    "last_ok": "remoteok",
+    "quiet_runs": 0
+  },
+  "smartrecruiters": {
+    "errored": false,
+    "last_count": 2,
+    "last_ok": "smartrecruiters",
+    "quiet_runs": 0
+  },
+  "web3career": {
+    "errored": false,
+    "last_count": 80,
+    "last_ok": "web3career",
+    "quiet_runs": 0
+  },
+  "workable": {
+    "errored": false,
+    "last_count": 128,
+    "last_ok": "workable",
+    "quiet_runs": 0
+  }
+}
