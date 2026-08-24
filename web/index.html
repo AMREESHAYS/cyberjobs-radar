@@ -32,8 +32,11 @@
       <button data-view="saved" role="tab">Saved</button>
       <button data-view="applied" role="tab">Applied</button>
     </nav>
-    <button id="crumb" class="crumb" hidden>← All sections</button>
-    <section id="filters" class="filters">
+    <div class="bar">
+      <button id="crumb" class="crumb" hidden>← All sections</button>
+      <button id="filterToggle" class="crumb" aria-expanded="false">Filters</button>
+    </div>
+    <section id="filters" class="filters" hidden>
       <select id="country" aria-label="Country"><option value="">All countries</option></select>
       <select id="source" aria-label="Source"><option value="">All sources</option></select>
       <label class="chip"><input type="checkbox" id="remoteOnly"> Remote only</label>

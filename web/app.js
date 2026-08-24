@@ -129,6 +129,12 @@ async function boot() {
   fillSelect("country", [...new Set(JOBS.map(j => j.country))].sort());
   fillSelect("source", [...new Set(JOBS.map(j => j.source))].sort());
   wire();
+  const deep = sectionFromHash();
+  if (deep) {
+    state.dimension = deep.dimension;
+    state.section = deep.section;
+    history.replaceState(deep, "", location.hash);
+  }
   render();
   showLoading(false);
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
@@ -157,10 +163,16 @@ function wire() {
     document.getElementById("minScoreVal").textContent = e.target.value;
     render();
   });
-  document.getElementById("crumb").addEventListener("click", () => {
-    state.section = null;
-    window.scrollTo(0, 0);
-    render();
+  document.getElementById("crumb").addEventListener("click", () => history.back());
+  window.addEventListener("popstate", e => applyHistory(e.state || sectionFromHash()));
+
+  const toggle = document.getElementById("filterToggle");
+  toggle.addEventListener("click", () => {
+    const filters = document.getElementById("filters");
+    const open = filters.hidden;
+    filters.hidden = !open;
+    toggle.setAttribute("aria-expanded", String(open));
+    toggle.textContent = open ? "Hide filters" : "Filters";
   });
   document.querySelectorAll("#tabs button").forEach(b =>
     b.addEventListener("click", () => {
@@ -180,7 +192,8 @@ function render() {
   const browsing = !state.section && state.view === "all";
   document.getElementById("browse").hidden = !browsing;
   document.getElementById("list").hidden = browsing;
-  document.getElementById("filters").hidden = browsing;
+  document.getElementById("filterToggle").hidden = browsing;
+  if (browsing) document.getElementById("filters").hidden = true;
   document.getElementById("crumb").hidden = !state.section;
   if (browsing) return renderBrowse();
   renderList();
@@ -203,11 +216,30 @@ function renderBrowse() {
   document.getElementById("count").textContent =
     JOBS.length ? `${JOBS.length} roles — pick a section` : "No jobs yet";
   wrap.querySelectorAll(".tile").forEach(t => t.addEventListener("click", () => {
-    state.dimension = t.dataset.dim;
-    state.section = t.dataset.id;
-    window.scrollTo(0, 0);
-    render();
+    openSection(t.dataset.dim, t.dataset.id);
   }));
+}
+
+// Entering a section is a navigation step. Without a history entry, Android's
+// back button leaves the app instead of returning to the sections screen.
+function openSection(dimension, id) {
+  state.dimension = dimension;
+  state.section = id;
+  history.pushState({ dimension, section: id }, "", `#${dimension}/${id}`);
+  window.scrollTo(0, 0);
+  render();
+}
+
+function applyHistory(entry) {
+  state.dimension = (entry && entry.dimension) || "level";
+  state.section = (entry && entry.section) || null;
+  window.scrollTo(0, 0);
+  render();
+}
+
+function sectionFromHash() {
+  const m = (location.hash || "").match(/^#(level|domain)\/([\w-]+)$/);
+  return m ? { dimension: m[1], section: m[2] } : null;
 }
 
 function renderList() {

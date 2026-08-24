@@ -61,21 +61,22 @@ body {
 /* ---------- header ---------- */
 header {
   position: sticky; top: 0; z-index: 5;
-  margin: 0; padding: calc(env(safe-area-inset-top) + 0.9rem) 1rem 0.9rem;
-  border-radius: 0 0 24px 24px;
-  display: flex; flex-direction: column; gap: 0.75rem;
+  margin: 0; padding: calc(env(safe-area-inset-top) + 0.6rem) 0.9rem 0.6rem;
+  border-radius: 0 0 20px 20px;
+  display: flex; flex-direction: column; gap: 0.5rem;
+  max-height: 62vh; overflow-y: auto;   /* never swallow the whole screen */
 }
 .brand { display: flex; align-items: center; gap: 0.7rem; }
-.brand h1 { font-family: var(--font); font-size: 1.25rem; font-weight: 700; letter-spacing: -0.02em; margin: 0; }
+.brand h1 { font-family: var(--font); font-size: 1.1rem; font-weight: 700; letter-spacing: -0.02em; margin: 0; }
 .count { margin: 0.1rem 0 0; color: var(--mut); font-size: 0.78rem; }
 
 .mark {
-  width: 40px; height: 40px; flex: 0 0 auto; border-radius: 12px;
+  width: 32px; height: 32px; flex: 0 0 auto; border-radius: 10px;
   box-shadow: 0 0 18px rgba(79, 214, 224, 0.28);
 }
 
 #q {
-  width: 100%; padding: 0.72rem 0.95rem; font-size: 0.95rem; color: var(--fg);
+  width: 100%; padding: 0.58rem 0.9rem; font-size: 0.92rem; color: var(--fg);
   background: var(--glass-2); border: 1px solid var(--stroke); border-radius: 999px;
   outline: none; transition: border-color 0.2s, box-shadow 0.2s;
 }
@@ -88,7 +89,7 @@ header {
   background: var(--glass-2); border: 1px solid var(--stroke-soft); border-radius: 999px;
 }
 .tabs button {
-  flex: 1; padding: 0.5rem; border: 0; border-radius: 999px; cursor: pointer;
+  flex: 1; padding: 0.38rem; border: 0; border-radius: 999px; cursor: pointer;
   background: transparent; color: var(--mut); font: 600 0.85rem/1 var(--body);
   transition: color 0.2s, background 0.2s;
 }
@@ -169,6 +170,8 @@ main { padding: 1rem; display: grid; gap: 0.8rem; max-width: 720px; margin: 0 au
 
 /* the hidden attribute must beat the display rules below it */
 [hidden] { display: none !important; }
+
+.bar { display: flex; gap: 0.4rem; align-items: center; }
 
 .browse { padding: 0.6rem 0.9rem 2rem; }
 .browse-head {
