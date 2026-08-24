@@ -317,3 +317,24 @@ def test_source_names_do_not_collide():
               adapters=[adzuna.fetch, jobtech.fetch, nav.fetch],
               stats=stats)
     assert set(stats) == {"adzuna", "jobtech", "nav"}, stats
+
+def test_adzuna_keeps_going_when_one_country_errors():
+    calls = []
+    def get(url, params=None, headers=None, timeout=20):
+        calls.append(url)
+        if "/de/" in url:
+            raise RuntimeError("500 Server Error")   # this happened in production
+        return {"results": [{"id": 9, "title": "Security Analyst", "description": "security work",
+                             "redirect_url": "https://adzuna.test/9",
+                             "location": {"area": ["Switzerland", "Zurich"]}}]}
+    jobs = adzuna.fetch({"countries": ["CH", "DE", "AT"], "search_terms": ["security"],
+                         "secrets": {"ADZUNA_APP_ID": "a", "ADZUNA_APP_KEY": "b"}}, get=get)
+    assert len(calls) == 3                 # every country still attempted
+    assert len(jobs) == 2                  # CH and AT survive Germany's failure
+
+def test_himalayas_survives_an_epoch_pubdate():
+    payload = {"jobs": [{"guid": "g", "title": "Security Engineer", "companyName": "Acme",
+                         "applicationLink": "https://himalayas.app/j", "description": "security",
+                         "pubDate": 1787000000}]}   # an int, which used to crash the adapter
+    jobs = remote_apis.fetch_himalayas({"search_terms": ["security"]}, get=_fixture_get(payload))
+    assert len(jobs) == 1 and jobs[0].posted_date == "1787000000"[:10]

@@ -1,4 +1,5 @@
 from __future__ import annotations
+import logging
 from ..models import Job, make_id, NOT_STATED
 from . import register
 from .base import (CURRENCY_BY_COUNTRY, employment_label, format_location,
@@ -17,6 +18,21 @@ def _salary(r):
         return f"{int(lo)}-{int(hi)}"
     return NOT_STATED
 
+log = logging.getLogger("adzuna")
+
+def _country_page(get, slug, app_id, app_key, what_or, cfg):
+    return get(BASE.format(c=slug), params={
+        "app_id": app_id, "app_key": app_key,
+        "what_and": cfg.get("adzuna_require", "security"),
+        "what_or": what_or,
+        "what_exclude": cfg.get("adzuna_exclude",
+                                "senior lead principal head director chief manager architect "
+                                "sales vertrieb verkauf recruiter"),
+        "max_days_old": cfg.get("max_days_old", 45),
+        "sort_by": "date",
+        "results_per_page": 50, "content-type": "application/json",
+    })
+
 def fetch(cfg, get=get_json):
     sec = cfg.get("secrets", {})
     app_id, app_key = sec.get("ADZUNA_APP_ID"), sec.get("ADZUNA_APP_KEY")
@@ -27,23 +43,20 @@ def fetch(cfg, get=get_json):
     # every industry — nurses, chefs, machine operators. what_and forces the
     # security word to be present; what_or then broadens within that.
     terms = cfg.get("search_terms") or ["cybersecurity"]
-    what_or = " ".join(dict.fromkeys(" ".join(terms).lower().split()))
+    # a very long what_or has been answered with a 500; keep it to the words that
+    # actually broaden the search
+    words = [w for w in dict.fromkeys(" ".join(terms).lower().split()) if len(w) > 2]
+    what_or = " ".join(words[:12])
     jobs: list[Job] = []
     for code in cfg.get("countries", []):
         slug = _COUNTRY_MAP.get(code)
         if not slug:
             continue
-        data = get(BASE.format(c=slug), params={
-            "app_id": app_id, "app_key": app_key,
-            "what_and": cfg.get("adzuna_require", "security"),
-            "what_or": what_or,
-            "what_exclude": cfg.get("adzuna_exclude",
-                                    "senior lead principal head director chief manager architect "
-                                    "sales vertrieb verkauf recruiter"),
-            "max_days_old": cfg.get("max_days_old", 45),
-            "sort_by": "date",
-            "results_per_page": 50, "content-type": "application/json",
-        })
+        try:
+            data = _country_page(get, slug, app_id, app_key, what_or, cfg)
+        except Exception as e:  # noqa: BLE001 - one country must not lose the other eight
+            log.warning("adzuna %s failed: %s", slug, e)
+            continue
         for r in data.get("results", []):
             url = r.get("redirect_url")
             if not url:
