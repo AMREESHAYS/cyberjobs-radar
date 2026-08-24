@@ -1,17 +1,17 @@
 {
-  "total": 411,
-  "new": 0,
+  "total": 427,
+  "new": 17,
   "scored": 1,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 139,
+  "above_level": 141,
   "off_topic": 0,
   "sources": {
     "arbeitnow": 22,
     "jobicy": 34,
     "remoteok": 1,
-    "himalayas": null,
-    "adzuna": null,
+    "himalayas": 3,
+    "adzuna": 37,
     "workable": 128,
     "greenhouse": 5,
     "ashby": 2,
@@ -27,8 +27,8 @@
     "finland": 11
   },
   "quiet_sources": [
-    "himalayas"
+    "nav"
   ],
-  "duplicates": 3,
-  "generated_at": "2026-08-24T09:14:37+00:00"
+  "duplicates": 17,
+  "generated_at": "2026-08-24T09:21:19+00:00"
 }

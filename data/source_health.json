@@ -1,9 +1,9 @@
 {
   "adzuna": {
-    "errored": true,
-    "last_count": null,
-    "last_ok": null,
-    "quiet_runs": 1
+    "errored": false,
+    "last_count": 37,
+    "last_ok": "adzuna",
+    "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
@@ -54,10 +54,10 @@
     "quiet_runs": 0
   },
   "himalayas": {
-    "errored": true,
-    "last_count": null,
-    "last_ok": null,
-    "quiet_runs": 2
+    "errored": false,
+    "last_count": 3,
+    "last_ok": "himalayas",
+    "quiet_runs": 0
   },
   "jobicy": {
     "errored": false,
@@ -81,7 +81,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": null,
-    "quiet_runs": 1
+    "quiet_runs": 2
   },
   "recruitee": {
     "errored": false,
