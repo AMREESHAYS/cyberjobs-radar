@@ -32,9 +32,12 @@ def update(previous: dict, counts: dict) -> dict:
             "last_ok": name if count else was.get("last_ok"),
             "errored": count is None,
         }
-    # keep sources that did not run this time, so their history is not lost
-    for name, was in previous.items():
-        report.setdefault(name, was)
+    # A source missing from a run that fetched nothing at all is a run-level
+    # failure, so history is kept. But when other sources did report, a missing
+    # name means the adapter is gone — drop it rather than flag it forever.
+    if not counts:
+        for name, was in previous.items():
+            report.setdefault(name, was)
     return report
 
 def failing(report: dict, threshold: int = QUIET_RUNS_BEFORE_ALARM) -> list:

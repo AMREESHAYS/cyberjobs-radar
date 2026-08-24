@@ -1,4 +1,4 @@
-countries: [CH, DE, AT, NL, BE, PL, SE, NO, DK, FI, REMOTE]
+countries: ["CH", "DE", "AT", "NL", "BE", "PL", "SE", "NO", "DK", "FI", "REMOTE"]
 search_terms:
   - cybersecurity
   - "security engineer"

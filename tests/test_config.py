@@ -13,3 +13,11 @@ def test_profile_loads(tmp_path):
     p.write_text("experience: junior\nneeds_sponsorship: true\nroles: [soc, pentest]\n")
     prof = load_profile(str(p))
     assert prof["needs_sponsorship"] is True
+
+def test_country_codes_survive_yaml_truthiness():
+    """YAML 1.1 reads bare NO as false; Norway was silently dropped for weeks."""
+    cfg = load_config("config.yaml")
+    codes = cfg["countries"]
+    assert all(isinstance(c, str) for c in codes), codes
+    for code in ("NO", "CH", "DE", "SE", "DK", "FI"):
+        assert code in codes, f"{code} missing from {codes}"

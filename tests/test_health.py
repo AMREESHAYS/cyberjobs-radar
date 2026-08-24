@@ -24,10 +24,12 @@ def test_an_errored_source_is_distinguished_from_an_empty_one():
     assert report["jobtech"]["errored"] is False
     assert report["eures-dk"]["quiet_runs"] == 1   # still counts toward the alarm
 
-def test_history_survives_a_run_that_skipped_a_source():
-    previous = {"lever": {"last_count": 3, "quiet_runs": 0}}
+def test_a_source_that_stops_being_registered_is_forgotten():
+    """Retiring an adapter must not leave it flagged as broken forever."""
+    previous = {"nav": {"last_count": 3, "quiet_runs": 2}}
     report = health.update(previous, {"adzuna": 7})
-    assert report["lever"]["last_count"] == 3      # not forgotten
+    assert "nav" not in report and health.failing(report) == []
+
 
 def test_check_persists_and_reports(tmp_path):
     path = str(tmp_path / "health.json")
@@ -35,3 +37,14 @@ def test_check_persists_and_reports(tmp_path):
     report, down = health.check({"adzuna": 0}, path)
     assert down == ["adzuna"]
     assert json.load(open(path))["adzuna"]["quiet_runs"] == 2
+
+def test_a_retired_adapter_stops_being_flagged():
+    quiet = health.update(health.update({}, {"nav": 0, "adzuna": 5}), {"nav": 0, "adzuna": 5})
+    assert health.failing(quiet) == ["nav"]
+    after_removal = health.update(quiet, {"adzuna": 5})   # nav no longer registered
+    assert "nav" not in after_removal
+    assert health.failing(after_removal) == []
+
+def test_a_run_that_fetched_nothing_keeps_the_history():
+    previous = {"adzuna": {"last_count": 5, "quiet_runs": 0}}
+    assert health.update(previous, {})["adzuna"]["last_count"] == 5
