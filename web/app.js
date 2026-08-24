@@ -1,5 +1,6 @@
 import { filterJobs } from "./filters.js";
 import { LEVELS, DOMAINS, sectionCounts, inSection } from "./sections.js";
+import { displayTitle, originalTitle, workloadOf } from "./titles.js";
 
 const LS = { saved: "cjr_saved", applied: "cjr_applied", tracking: "cjr_tracking" };
 
@@ -331,7 +332,7 @@ function card(j, saved, applied) {
   el.innerHTML = `
     <div class="top">
       <span class="score ${hasScore ? "" : "na"}">${hasScore ? j.score : "—"}</span>
-      <h2>${esc(j.title)}</h2>
+      <h2>${esc(displayTitle(j))}</h2>
     </div>
     <p class="co">
       ${esc(j.company)}
@@ -346,6 +347,7 @@ function card(j, saved, applied) {
       <li><span>Type</span>${esc(j.employment_type || "not stated")}</li>
       <li><span>Salary</span>${esc(salaryText(j))}</li>
       <li><span>Experience</span>${esc(factOrTeaser(j, j.experience_required))}</li>
+      ${workloadOf(j) ? `<li><span>Workload</span>${esc(workloadOf(j))}</li>` : ""}
     </ul>
     <p class="role"><span>Must have</span>${esc(mustHave(j) === "not stated" ? factOrTeaser(j, "") : mustHave(j))}</p>
     <p class="role"><span>Role</span>${esc(j.role_summary || "not stated")}</p>
@@ -355,6 +357,7 @@ function card(j, saved, applied) {
       <summary>Details</summary>
       <p><strong>Hiring:</strong> ${esc(j.hiring_process || "not stated")}</p>
       <p><strong>Last listed:</strong> ${esc(j.last_seen || j.first_seen || "not stated")}</p>
+      ${originalTitle(j) ? `<p><strong>Original title:</strong> ${esc(originalTitle(j))}</p>` : ""}
       <p class="desc">${esc(plain(j.description).slice(0, 600))}</p>
     </details>
     <div class="draft" hidden></div>

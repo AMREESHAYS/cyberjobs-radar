@@ -15,6 +15,7 @@ def load(path: str) -> list[Job]:
 # what the AI writes, plus when we first saw the job: never overwritten by a refetch
 _ENRICHED = ("score", "score_reason", "skills", "hiring_process", "seniority_fit",
              "role_summary", "expectations", "visa_sponsorship", "experience_required",
+             "title_en",
              "analysis_version", "first_seen")
 
 def merge(existing, fetched, today: str):

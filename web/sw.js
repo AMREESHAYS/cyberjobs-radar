@@ -1,6 +1,6 @@
 // web/sw.js — cache last-viewed data for offline
-const CACHE = "cjr-v6";
-const ASSETS = ["./", "index.html", "style.css", "app.js", "filters.js", "manifest.webmanifest",
+const CACHE = "cjr-v7";
+const ASSETS = ["./", "index.html", "style.css", "app.js", "filters.js", "sections.js", "titles.js", "manifest.webmanifest",
   "data/jobs.json", "data/meta.json", "icons/logo.svg", "icons/logo-small.svg", "icons/logo-192.png"];
 
 // Behind Cloudflare Access an expired session answers with the sign-in page —

@@ -1,5 +1,5 @@
 import json
-from pipeline.ai import analyze, build_client, _coerce
+from pipeline.ai import analyze, build_client, _coerce, PROMPT
 from pipeline.models import Job, make_id, NOT_STATED
 
 class FakeResp:
@@ -122,3 +122,16 @@ def test_condense_drops_marketing_prose_from_the_tail():
 def test_condense_leaves_short_ads_alone():
     ad = "Security analyst wanted. 3 years of experience required."
     assert condense(ad) == ad
+
+def test_prompt_demands_english_and_a_translated_title():
+    assert "ALWAYS answer in English" in PROMPT
+    assert "title_en" in PROMPT
+    assert "gender tag" in PROMPT
+
+def test_coerce_keeps_the_english_title():
+    job = _job()
+    _coerce(job, {"score": 60, "title_en": "IT Security Specialist"})
+    assert job.title_en == "IT Security Specialist"
+    j2 = _job()
+    _coerce(j2, {"score": 60})
+    assert j2.title_en == ""      # nothing invented when the model omits it

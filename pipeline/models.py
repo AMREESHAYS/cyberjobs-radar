@@ -34,6 +34,7 @@ class Job:
     skills: list[str] = field(default_factory=list)
     hiring_process: str = NOT_STATED
     seniority_fit: str = ""
+    title_en: str = ""                   # English title when the ad is not in English
     experience_required: str = NOT_STATED  # years/level the ad asks for
     role_summary: str = NOT_STATED       # what the role actually is
     expectations: str = NOT_STATED       # what they expect from the candidate

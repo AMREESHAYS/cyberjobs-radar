@@ -6,7 +6,7 @@ from .models import Job, NOT_STATED
 
 # bump when the prompt starts producing a field older rows do not have: run.py
 # re-analyses anything below this, so existing jobs pick the new fields up
-ANALYSIS_VERSION = 5
+ANALYSIS_VERSION = 6
 
 PROMPT = """You rank cybersecurity job postings for a specific candidate.
 
@@ -33,6 +33,10 @@ Return ONLY a JSON object with these keys:
             "internship"; exactly "not stated" if the ad never says,
   "hiring_process": how they hire IF the description states it, else exactly "not stated",
   "seniority_fit": short tag e.g. "intern", "junior", "mid", "senior",
+  "title_en": the job title in English. If the title is already English, repeat it
+           unchanged. Translate it plainly — do not embellish or add seniority the
+           title does not carry. Drop the gender tag ((m/w/d), (m/f/x), (all genders))
+           and any workload percentage, which are boilerplate, not part of the title.
   "role_summary": one sentence saying what the job actually is day to day,
                   drawn only from the description,
   "expectations": one or two sentences on what they expect from the candidate
@@ -44,6 +48,8 @@ Return ONLY a JSON object with these keys:
        "not stated" - the description says nothing either way.
 
 HARD RULES:
+- ALWAYS answer in English, whatever language the posting is written in. The
+  candidate reads English only. Translate faithfully; never add or drop meaning.
 - Use ONLY the description text above. Never invent skills, salary, or process.
 - If a field is not present in the description, output exactly "not stated"
   (for skills, an empty list). Do not guess or sugarcoat.
@@ -109,6 +115,7 @@ def _coerce(job: Job, data: dict) -> None:
     job.skills = [str(s) for s in sk] if isinstance(sk, list) else []
     job.hiring_process = str(data.get("hiring_process") or NOT_STATED) or NOT_STATED
     job.seniority_fit = str(data.get("seniority_fit") or "")
+    job.title_en = str(data.get("title_en") or "").strip()
     job.experience_required = str(data.get("experience_required") or NOT_STATED) or NOT_STATED
     job.role_summary = str(data.get("role_summary") or NOT_STATED) or NOT_STATED
     job.expectations = str(data.get("expectations") or NOT_STATED) or NOT_STATED
