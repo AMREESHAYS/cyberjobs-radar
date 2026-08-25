@@ -1,6 +1,6 @@
 {
-  "total": 477,
-  "new": 7,
+  "total": 480,
+  "new": 3,
   "scored": 10,
   "removed": 0,
   "aged_out": 0,
@@ -11,7 +11,7 @@
     "jobicy": 32,
     "remoteok": 1,
     "himalayas": 3,
-    "adzuna": 59,
+    "adzuna": 44,
     "workable": 126,
     "greenhouse": 3,
     "ashby": 2,
@@ -27,6 +27,6 @@
     "norway": 5
   },
   "quiet_sources": [],
-  "duplicates": 31,
-  "generated_at": "2026-08-24T22:14:26+00:00"
+  "duplicates": 18,
+  "generated_at": "2026-08-25T00:35:51+00:00"
 }
