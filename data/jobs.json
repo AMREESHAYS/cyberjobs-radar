@@ -31,7 +31,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e820fe49f46f7c50",
@@ -65,7 +65,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c164466e4d97beb5",
@@ -99,7 +99,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -133,7 +133,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2595d3ad66e1a358",
@@ -167,7 +167,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "de171b3879297693",
@@ -201,7 +201,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -235,7 +235,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "ad921f0040d8793e",
@@ -269,7 +269,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "1b335ce87e775fbd",
@@ -303,7 +303,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "c0fe0fe84e369725",
@@ -343,7 +343,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "caced87e577282ce",
@@ -377,7 +377,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2f12772a9fcf57e2",
@@ -411,7 +411,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a4b20f18a0a369ba",
@@ -452,7 +452,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "0d8ecd0957406d67",
@@ -486,7 +486,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -523,7 +523,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -557,7 +557,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "56417291cb8dd0ab",
@@ -591,7 +591,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "7092a5699be1bfb0",
@@ -625,7 +625,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "5909b779819a505b",
@@ -659,7 +659,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 60
+    "missing_runs": 61
   },
   {
     "id": "ec9bf9a63c8bfaad",
@@ -693,7 +693,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a5023110bce9f6b8",
@@ -770,7 +770,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "fd8a4612739c1de5",
@@ -804,7 +804,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f741f6d3e0557d86",
@@ -846,7 +846,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "6ea9a9439204fcc1",
@@ -923,7 +923,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "8cda8d21535f2463",
@@ -957,7 +957,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c912053be2fdadd1",
@@ -991,7 +991,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "d895bd56cb8e8e7d",
@@ -1068,7 +1068,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "0047779a30cdf267",
@@ -1102,7 +1102,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 60
+    "missing_runs": 61
   },
   {
     "id": "d94a1fe270ef0984",
@@ -1136,7 +1136,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -1170,7 +1170,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -1204,7 +1204,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "060145e073cddc6d",
@@ -1245,7 +1245,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "e11f74245ad46e12",
@@ -1279,7 +1279,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c63a1bb43cf5203d",
@@ -1318,7 +1318,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "fc4823ecbd0885cf",
@@ -1352,7 +1352,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "4cdb857444cfb299",
@@ -1395,7 +1395,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "6f56c8683fcd4ec0",
@@ -1436,7 +1436,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "3a92e95b47203e99",
@@ -1470,7 +1470,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "cd1fc3ded981dc2d",
@@ -1504,7 +1504,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -1538,7 +1538,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "0c9459fbf5817847",
@@ -1606,7 +1606,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "d3aa0707d62a6af0",
@@ -1647,7 +1647,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "8008b79da52fcf75",
@@ -1681,7 +1681,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "d706ad37f78319bc",
@@ -1715,7 +1715,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "b333e11f4e4d507d",
@@ -1749,7 +1749,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "518b66566e72f965",
@@ -1783,7 +1783,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2976652a37da1f0d",
@@ -1824,7 +1824,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "24b143beae454291",
@@ -1858,7 +1858,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "5a70272f5048b012",
@@ -1901,7 +1901,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "807857290d85cdd6",
@@ -1935,7 +1935,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "b3422309512a8bfe",
@@ -1969,7 +1969,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "b84b199d728c3d54",
@@ -2003,7 +2003,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "23298f072950a9a6",
@@ -2037,7 +2037,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "cb39bb0c2fc49fe7",
@@ -2071,7 +2071,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "019f01bf4b5cdf25",
@@ -2105,7 +2105,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "42edbf689da38d09",
@@ -2139,7 +2139,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -2173,7 +2173,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "62e9e54e2420585d",
@@ -2207,7 +2207,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "cf87750c996e5ba3",
@@ -2241,7 +2241,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "11dd98fd10d0a79d",
@@ -2275,7 +2275,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f8b893d4dcf31c6f",
@@ -2309,7 +2309,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "ff4d8b531b5a5db3",
@@ -2343,7 +2343,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "aa5be1f6ad52d7ff",
@@ -2377,7 +2377,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "284ef22fbb9421c0",
@@ -2411,7 +2411,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "8bece923e2e7190c",
@@ -2445,7 +2445,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "c5d71a36cb209952",
@@ -2479,7 +2479,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "191c2c400808e938",
@@ -2513,7 +2513,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2307d28c4811f7b8",
@@ -2550,7 +2550,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "d9d2fd15609abde7",
@@ -2590,7 +2590,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "3aac25d374a4d221",
@@ -2633,7 +2633,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "9595952a81ac891d",
@@ -2710,7 +2710,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "e994083684a225fc",
@@ -2752,7 +2752,41 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
+  },
+  {
+    "id": "45e89d2fd2bee0ca",
+    "title": "Cybersecurity Experte (m/w/d)",
+    "company": "Kontron Transportation",
+    "location": "Wien, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5707650458?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-04-23",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Kontron Transportation ist ein international führender Anbieter von End-to-End-Kommunikationslösungen für Mission-Critical Networks. Unser Unternehmensfokus liegt in der zuverlässigen, effizienten und nachhaltigen Produktion, Vermittlung und Verarbeitung von Sprach-, Daten- und Videoinformationen. Wir beschäftigen über 700 Mitarbeiter*innen an 11 Standorten in Europa. Unser Headquarter befindet sich in Wien. Die Zufriedenheit unserer Mitarbeiter*innen liegt uns am Herzen! Wir fördern Teamarbeit…",
+    "score": 30,
+    "score_reason": "Generic cybersecurity role in Austria with no remote or sponsorship info; entry-level fit uncertain.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "Cybersecurity Expert",
+    "experience_required": "not stated",
+    "role_summary": "The position is at a company delivering end‑to‑end communication solutions for mission‑critical networks.",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 46
   },
   {
     "id": "604caf2eeefc482e",
@@ -2789,7 +2823,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "083b20551778e021",
@@ -2823,7 +2857,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "325c8016309eb60b",
@@ -2900,7 +2934,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "fdd98c194af2b1d8",
@@ -2934,7 +2968,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a8039868d519a083",
@@ -2968,7 +3002,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "bd47c592200aa70c",
@@ -3010,7 +3044,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "1b1734de6c951b45",
@@ -3044,7 +3078,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "5a3697f5f9b97f6b",
@@ -3078,7 +3112,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "6a24ab7df67918eb",
@@ -3112,7 +3146,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -3146,7 +3180,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "2d5a76f24121ddf4",
@@ -3180,7 +3214,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -3214,7 +3248,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "66f89db6c114d0b9",
@@ -3248,7 +3282,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 60
+    "missing_runs": 61
   },
   {
     "id": "dcc883d52a454cd6",
@@ -3282,7 +3316,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "58e805f87c37160f",
@@ -3304,241 +3338,27 @@
     "employment_type": "not stated",
     "description": "<div>\n<p>The Project Engineer serves as a technical delivery resource responsible for executing complex mid- to large-scale IT projects. This role collaborates closely with project engineers, project managers, and cross-functional teams to deliver high-quality outcomes aligned with organizational standards and client expectations. The role emphasizes ownership of technical delivery, structured execution, and the use of AI and automation to improve efficiency, consistency, and overall project quality.</p>\n<h3>Project Delivery</h3>\n<ul>\n<li>Execute complex project implementations with limited oversight.</li>\n<li>Lead technical analysis, solution implementation, system integration, and infrastructure deployment.</li>\n<li>Coordinate planning, testing, documentation, and deployment activities to ensure successful delivery.</li>\n<li>Develop detailed project plans, schedules, and resource requirements.</li>\n<li>Manage assigned tasks and ensure work is completed and formally closed out.</li>\n<li>Conduct discovery to define requirements and scope.</li>\n<li>Work with vendors, partners, and internal teams to support full lifecycle delivery.</li>\n</ul>\n<h3>Technical Leadership</h3>\n<ul>\n<li>Act as a technical escalation point for project delivery challenges.</li>\n<li>Collaborate with engineering teams and functional groups to design and implement solutions.</li>\n<li>Contribute to the development and refinement of technical documentation, standards, and best practices.</li>\n<li>Support continuous improvement of project delivery processes and technical quality.</li>\n</ul>\n<h3>Client Engagement &amp; Stakeholder Management</h3>\n<ul>\n<li>Gather technical and business requirements from clients and internal stakeholders.</li>\n<li>Act as a primary point of contact for project-related communication.</li>\n<li>Facilitate project meetings, status updates, and stakeholder reviews.</li>\n<li>Manage client expectations and ensure alignment with agreed deliverables.</li>\n<li>Coordinate with third-party vendors and technology providers.</li>\n</ul>\n<h3>Quality Assurance &amp; Standards</h3>\n<ul>\n<li>Contribute to structured QA processes across project delivery.</li>\n<li>Validate implementations against defined standards and requirements.</li>\n<li>Support development and refinement of QA checklists and validation methods.</li>\n<li>Promote consistency and repeatability across projects through standardized practices.</li>\n</ul>\n<h3>AI-Native &amp; Automation Expectations</h3>\n<ul>\n<li>Operate with an AI-native delivery model, integrating AI and automation tools throughout the project lifecycle.</li>\n<li>Leverage AI-assisted tools to accelerate documentation creation, requirements analysis, and technical validation.</li>\n<li>Utilize automation frameworks, scripts, and orchestration tools to reduce manual effort and improve consistency.</li>\n<li>Contribute to the creation and maintenance of reusable automation playbooks that standardize common project tasks.</li>\n<li>Apply AI tools to analyze project environments, identify risks, and suggest remediation or optimization opportunities.</li>\n<li>Support integration between systems, APIs, and automation platforms to enable scalable and repeatable deployments.</li>\n<li>Maintain awareness of emerging AI and automation capabilities and apply them pragmatically while ensuring data security and governance standards.</li>\n</ul>\n</div><h3>Qualifications</h3><ul>\n<li>3–6+ years of experience in project engineering, technical project delivery, or infrastructure roles.</li>\n<li>Experience delivering infrastructure, cloud, or IT transformation projects.</li>\n<li>Strong understanding of Microsoft technologies, cloud platforms, and enterprise environments including: Microsoft 365 (Exchange Online, SharePoint Online, Teams, Intune and endpoint management), Identity services including Active Directory and Entra ID (Azure AD), Group Policy, DNS, Windows Server, Azure cloud architecture</li>\n<li>Virtualization platforms including VMware, Hyper-V, Citrix, and Azure Virtual Desktop, Backup, disaster recovery, and business continuity solutions</li>\n<li>Experience working in MSP or client-facing environments preferred.</li>\n<li>Familiarity with project management methodologies (Agile, Waterfall, PRINCE2, etc.).</li>\n<li>Strong communication, coordination, and documentation skills.</li>\n<h3>Preferred Certifications</h3>\n<li>Microsoft Certified: Azure Administrator Associate (AZ-104)</li>\n<li>Microsoft Certified: Azure Solutions Architect Expert (AZ-305)</li>\n<li>Microsoft 365 Certified: Enterprise Administrator Expert (MS-102)</li>\n<li>Microsoft Certified: Identity and Access Administrator (SC-300)</li>\n<li>Microsoft Certified: Azure Security Engineer Associate (AZ-500)</li>\n<li>VMware Certified Professional (VCP-DCV or equivalent cloud-focused track)</li>\n<li>PMI, PRINCE2 or similar project management certifications</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
     "score": 20,
-    "score_reason": "Requires 3-6+ years experience and does not mention sponsorship, while candidate is junior and needs visa support.",
+    "score_reason": "Requires 3–6+ years experience and offers no sponsorship, while the candidate is junior and needs sponsorship.",
     "skills": [
-      "project delivery",
-      "technical analysis",
-      "solution implementation",
-      "system integration",
-      "infrastructure deployment",
-      "communication",
-      "coordination",
-      "documentation"
+      "Project engineering",
+      "Technical delivery",
+      "Infrastructure",
+      "Cloud",
+      "Communication",
+      "Coordination",
+      "Documentation"
     ],
     "hiring_process": "not stated",
     "seniority_fit": "mid",
-    "title_en": "",
-    "experience_required": "3–6+ years",
-    "role_summary": "Execute and lead technical delivery of complex IT projects, handling analysis, implementation, integration, and stakeholder coordination.",
-    "expectations": "The candidate must have 3–6+ years of experience in project engineering or technical delivery, deliver infrastructure/cloud projects, and possess strong communication, coordination, and documentation abilities.",
+    "title_en": "Project Engineer",
+    "experience_required": "3–6+ years of experience",
+    "role_summary": "Executes complex IT projects, leading technical analysis, solution implementation, system integration, and infrastructure deployment while coordinating with stakeholders.",
+    "expectations": "Candidates must have 3–6+ years of experience in project engineering or technical delivery, experience delivering infrastructure or cloud transformation projects, and strong communication, coordination, and documentation skills.",
     "visa_sponsorship": "not stated",
-    "analysis_version": 5,
+    "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
-  },
-  {
-    "id": "85df7ac1edf16577",
-    "title": "Product Security Engineer",
-    "company": "Hashgraph",
-    "location": "Remote from within Europe",
-    "country": "REMOTE",
-    "url": "https://web3.career/r/2ITO0QTM__M6cv5b",
-    "source": "web3career",
-    "source_type": "api",
-    "posted_date": null,
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "About Hashgraph: Hashgraph is a fast-growing software company committed to supporting, developing and servicing Hedera, an open source, proof-of-stake platform. Hedera is EVM-compatible and has been specifically built to meet the needs of enterprise and Web3 applications, which require speed, security, stability and sustainability. Hedera’s public network is governed by industry-leading organizations, spanning 11 sectors and 14 regions who oversee the development and direction of the decentralized platform. You may find yourself doing all of the following: Conduct comprehensive product security assessments of blockchain-based systems, with a strong focus on Web3 security, smart contracts, and protocol-level risks Design and write malicious smart contracts and adversarial test cases to exploit and identify vulnerabilities in Hedera Blockchain and EVM-compatible systems Develop, implement, and continuously improve security strategies, architectures, and best practices for Hedera blockchain protocols, smart contracts, bridges, and associated services Partner closely with engineering teams to embed security into design, development, and deployment workflows Design and execute penetration testing, threat modeling, and vulnerability assessments across blockchain networks, nodes, APIs, and supporting infrastructure Identify, track, and stay ahead of emerging blockchain and Web3 threats, exploits, and attack patterns; provide actionable mitigation guidance Build and contribute to security tooling, frameworks, and automation tailored for blockchain environments, including CI/CD integrations Leverage AI/LLMs and automation to enhance product security reviews, vulnerability discovery, threat modeling, and security testing workflows Assist in incident response and post-incident analysis related to blockchain security events, including root cause analysis and remediation guidance Educate engineers and internal stakeholders on blockchain security principles, secure coding practices, and real-world attack scenarios Participate in and contribute to security awareness and secure development training programs across the organization Qualification Requirements: Must be available to work within the EU time zones Bachelor’s or Master’s degree in Computer Science, Information Security, Cryptography, Blockchain, or a related field (or equivalent practical experience) 8+ years of experience in product security, application security, or penetration testing, including 2+ years focused on blockchain security, smart contract auditing, or Web3 security Solid understanding of EVM internals, smart contract execution, and common Web3 architectures; knowledge of Hedera Blockchain is a strong plus Deep knowledge of Web3 technologies and protocols, such as Ethereum, gossip-based networks, IPFS, and related decentralized systems Proven experience with blockchain-specific security assessment tools, methodologies, and manual testing techniques Strong understanding of blockchain attack vectors and vulnerability classes, including gas fees, authorization control flaws, fungible and non-fungible tokens issues, and bridge exploits Working knowledge of cryptographic principles and protocols relevant to blockchain systems (hashing, signatures, key management, consensus assumptions) Hands-on experience with static analysis, dynamic analysis, fuzzing, and custom security testing tools Strong understanding of secure coding practices, particularly in Java and Rust Excellent analytical, problem-solving, and communication skills, with the ability to collaborate effectively across engineering and product teams Programming experience and understanding code in any language. Other skills that are great to bring with you but that we can help you develop: Industry-recognized security certifications such as OSCP, OSEP, OSWA, OSWE; blockchain security certifications are a plus Experience in bug bounty programs, security research, CVE publications, red teaming, or attack surface management Red Team experience, ideally in web3 Experience securing or operating systems in cloud environments (AWS, GCP, Azure), including IAM and key management Proficiency in scripting and general-purpose programming languages such as Python, Bash, or PowerShell for tooling and automation Experience with containerization and orchestration technologies (Docker, Kubernetes) and their associated security best practices Familiarity with DevSecOps pipelines, CI/CD security controls, and infrastructure-as-code security Coding experience in Java, Rust, and/or Python AI tool building When applying, mention the word CANDYSHOP to show you read the job post completely.",
-    "score": 20,
-    "score_reason": "Senior-level role requiring 8+ years and no sponsorship, not suitable for junior candidate.",
-    "skills": [
-      "Product security",
-      "Penetration testing",
-      "Blockchain security",
-      "Smart contract auditing",
-      "EVM internals",
-      "Cryptography",
-      "Static analysis",
-      "Dynamic analysis"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "title_en": "",
-    "experience_required": "8+ years",
-    "role_summary": "Conduct product security assessments and penetration testing of blockchain-based systems, design malicious smart contracts, and embed security into development workflows.",
-    "expectations": "8+ years of product or application security experience, including 2+ years focused on blockchain/security of smart contracts, strong knowledge of EVM internals, cryptographic principles, and hands‑on static/dynamic analysis, plus the ability to collaborate across engineering teams.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-25",
-    "missing_runs": 0
-  },
-  {
-    "id": "03e791b6c4422839",
-    "title": "IT-Security Sales Consultant (m|w|d)",
-    "company": "Voith GmbH & Co. KGaA",
-    "location": "Ulm, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5846839667?se=ZlLQlyGd8RGlKKIcDlNizg&utm_medium=api&utm_source=ceaf5c9d&v=126669797FE24BF475E6C2953354C560E0889510",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-18",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Aufgaben Profil Wir bieten Job ID 76444 | an unserem Science Park am Standort Ulm Ihre Aufgaben Beratung von Neu- und Bestandskunden zu IT-Security-Lösungen. Übersetzung technischer Anforderungen in verständliche, kundenorientierte Lösungen. Enge Zusammenarbeit mit Technik- und Consulting-Teams zur Angebotserstellung. Eigenständige Betreuung des gesamten Vertriebsprozesses – von der Bedarfsermittlung bis zum Vertragsabschluss. Unterstützung bei Ausschreibungen, Proof-of-Concepts und technischen…",
-    "score": 20,
-    "score_reason": "Sales‑focused role with no entry‑level or sponsorship signals, low alignment with candidate’s technical security interests",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Advises new and existing customers on IT‑security solutions, translates technical requirements into customer‑oriented proposals, and manages the full sales process from needs assessment to contract signing while supporting tenders and proof‑of‑concepts.",
-    "expectations": "The candidate should consult customers on IT‑security offerings, collaborate with technical and consulting teams to create proposals, independently handle the sales cycle, and assist with tenders and proof‑of‑concepts.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 63
-  },
-  {
-    "id": "2ecaf2e25399e115",
-    "title": "PTC Windchill Administrator (m/w/d)",
-    "company": "Octrion GmbH",
-    "location": "Mainz, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5844203582?se=ZlLQlyGd8RGlKKIcDlNizg&utm_medium=api&utm_source=ceaf5c9d&v=8BF3C2A0091720144C80BCB32E0F356528DAFE62",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-16",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Müllfahrzeuge für Kommunen sind systemrelevant. Das macht KIRCHHOFF Ecotec zu einem krisenfesten, planbaren Arbeitgeber, unabhängig von Konjunktur und Antriebswende. An mehreren Standorten entwickeln und konstruieren unsere Teams komplexe Sonderfahrzeuge, unterstützt durch ein zentrales PTC Windchill PLM-System. Zur Verstärkung unseres Teams suchen wir ab sofort einen PTC Windchill Administrator (m/w/d) Aufgaben Entwicklung, Umsetzung und kontinuierliche Weiterentwicklung der Cybersecurity-Stra…",
-    "score": 20,
-    "score_reason": "Low role match (PLM admin) and no sponsorship or remote signals.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Administer the PTC Windchill PLM system and develop, implement, and continuously improve its cybersecurity strategy.",
-    "expectations": "The candidate is expected to develop, implement and continuously advance the cybersecurity strategy for the Windchill system.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 63
-  },
-  {
-    "id": "9aece813e2d051f0",
-    "title": "Business Information Security Officer Private Bank Switzerland",
-    "company": "Barclays",
-    "location": "Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5826137857?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-03",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Job Description Purpose of the role To provide a primary liaison service between the business, technology, and security functions. In order to ensure the confidentiality, integrity and availability of information, and support the mitigation of security risk. Accountabilities Collaboration with stakeholders to understand their security requirements in business processes and IT projects, to enhance overall risk management. Execution of risk assessments to identify and prioritise potential cyberse…",
-    "score": 20,
-    "score_reason": "Senior-level Business Information Security Officer role with no sponsorship info, not entry‑level.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "Provide a primary liaison between business, technology, and security functions to ensure confidentiality, integrity, and availability of information and support risk mitigation.",
-    "expectations": "Collaborate with stakeholders to understand security requirements and conduct risk assessments to enhance overall risk management.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 54
-  },
-  {
-    "id": "5e5b210208912cd3",
-    "title": "Lehre als IT Systemtechniker:in",
-    "company": "Barracuda Networks AG",
-    "location": "Innsbruck, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5795100832?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-10",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Werde Teil von Barracuda Networks – und mach' die digitale Welt sicherer! Barracuda Networks ist ein international führendes Unternehmen im Bereich IT-Security. Unsere innovativen Cloud- und Netzwerksicherheitslösungen schützen E-Mails, Netzwerke, Daten und Anwendungen von über 200.000 Unternehmen weltweit. Am Standort Innsbruck arbeiten engagierte Teams in einem internationalen Umfeld an zukunftsweisenden Technologien. Du interessierst dich für IT, Netzwerke und Sicherheit? Dann starte deine b…",
-    "score": 20,
-    "score_reason": "Entry-level apprenticeship in Austria with no sponsorship or remote options, low fit for an Indian candidate needing sponsorship.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "intern",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "You will support IT, network and security tasks as part of an international team at Barracuda's Innsbruck location.",
-    "expectations": "The candidate should be interested in IT, networks and security and be ready to start an apprenticeship. No specific experience or qualifications are listed.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 45
-  },
-  {
-    "id": "45e89d2fd2bee0ca",
-    "title": "Cybersecurity Experte (m/w/d)",
-    "company": "Kontron Transportation",
-    "location": "Wien, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5707650458?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-04-23",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Kontron Transportation ist ein international führender Anbieter von End-to-End-Kommunikationslösungen für Mission-Critical Networks. Unser Unternehmensfokus liegt in der zuverlässigen, effizienten und nachhaltigen Produktion, Vermittlung und Verarbeitung von Sprach-, Daten- und Videoinformationen. Wir beschäftigen über 700 Mitarbeiter*innen an 11 Standorten in Europa. Unser Headquarter befindet sich in Wien. Die Zufriedenheit unserer Mitarbeiter*innen liegt uns am Herzen! Wir fördern Teamarbeit…",
-    "score": 20,
-    "score_reason": "Location matches but description lacks role, experience, entry-level, and sponsorship details.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 64
   },
   {
     "id": "352c303e8ee6c869",
@@ -3560,96 +3380,19 @@
     "employment_type": "not stated",
     "description": "(Senior) Security Consultant Werde Teil unserer Organisation und bereichere uns mit deiner Expertise. Wir leben die flache Hierarchie – deine Stimme und Passion zählen. (Senior) Security Consultant Was dich erwartet Unterstützung unserer Kunden bei der Analyse, Konzeption und der Umsetzung von Projekten in den Themenschwerpunkten Security & Compliance Fachliche Beratung unserer Kunden im Bereich Cyber Security, Compliance und Risk Management Mitarbeit in Projekten in der Konzeption neuer Lösung…",
     "score": 20,
-    "score_reason": "Senior role in Switzerland with no sponsorship info, not entry‑level for a junior candidate.",
+    "score_reason": "Senior role in Switzerland with no sponsorship or remote options, not entry‑level for a junior candidate.",
     "skills": [],
     "hiring_process": "not stated",
     "seniority_fit": "senior",
-    "title_en": "",
+    "title_en": "Security Consultant",
     "experience_required": "not stated",
-    "role_summary": "Consulting clients on analysis, design and implementation of security and compliance projects, including cyber security, compliance and risk management.",
-    "expectations": "Support customers in the analysis, conception and implementation of security & compliance projects and provide cyber security, compliance and risk management advice.",
+    "role_summary": "Provide consulting to clients on security, compliance, and risk management, supporting analysis, design, and implementation of projects.",
+    "expectations": "They expect candidates to advise customers on cyber security, compliance and risk management and to contribute to project conception and implementation.",
     "visa_sponsorship": "not stated",
-    "analysis_version": 5,
+    "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
-  },
-  {
-    "id": "0d932d0134eb63b4",
-    "title": "Cybersecurity Engineer (m/w/d)",
-    "company": "CYQUEO GmbH",
-    "location": "München, München (Kreis)",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5837094183?se=-gORveKb8RGvGrvTGRxIcA&utm_medium=api&utm_source=ceaf5c9d&v=81E4848D532738F3D0404283B7C53DC0A9A69FE5",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-11",
-    "remote": false,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Bonjour, Servus, Grüezi und Hallo, wir sind SPIE Germany Switzerland Austria. Wir - das sind 20.000 Technikbegeisterte an 250 Standorten in Deutschland, der Schweiz, Österreich und darüber hinaus, die sich gemeinsam mit unseren Kunden für eine klimafreundliche und digitale Zukunft stark machen. Mit unserer umfassenden Expertise und Begeisterung für technische Dienstleistung geben wir das Beste für unsere Kunden - jeden Tag, in jedem Projekt. SPIE Germany Switzerland Austria ist eine Unternehmen…",
-    "score": 20,
-    "score_reason": "The posting provides no details on role, experience level, or sponsorship, resulting in minimal fit.",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 63
-  },
-  {
-    "id": "9438fc06a05a8465",
-    "title": "Application Security Engineer",
-    "company": "Nebius",
-    "location": "Europe,  Israel",
-    "country": "REMOTE",
-    "url": "https://jobicy.com/jobs/146769-application-security-engineer-2",
-    "source": "jobicy",
-    "source_type": "api",
-    "posted_date": "2026-08-18",
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. The role The Security Engineering Team within the Platform Security organization is responsible for the strategic selection, implementation, management, and optimization of cybersecurity tools and technologies that improve security capabilities of the organization's platform. This team is instrumental in fortifying the security posture, proactively identifying and responding to security threats, ensuring the resilience and protection of critical data, systems, and services. We are looking for an Application Security Engineer who will ensure the security of our software by identifying and mitigating vulnerabilities, implementing best security practices, and collaborating with development teams. The ideal candidate will have a strong background in secure coding, vulnerability assessment, and penetration testing. Your responsibilities will include: Build and maintain ASPM tools and their rules. Identify, analyze, and remediate application security vulnerabilities using tools like ASPM. Collaborate with development teams to integrate security best practices into the software development lifecycle (SDLC). Conduct manual and automated penetration testing of applications. Develop and maintain secure coding guidelines for development teams. Facilitate threat modeling and risk assessments on new and existing applications. Stay updated on the latest security threats, vulnerabilities, and mitigation techniques. Serve as an application security subject matter expert to other teams. We expect you to have: 4+ years of experience in application security. Strong knowledge of common application security risks (e.g. OWASP Top 10) and how to mitigate them. Experience with secure coding practices in languages such as Python, Go, Java, or JavaScript. Proficiency in a common programming language (such as Go or Python) with a willingness to learn Go, if necessary. Hands-on experience with security testing tools (Burp Suite, ZAP, Semgrep, etc.). Understanding of authentication protocols like SAML or OIDC. Experience in conducting threat-modeling sessions. Strong problem-solving and analytical skills. Good written and verbal communication skills in English. Willingness to learn new things. Being comfortable working independently. It would be an added bonus if you had: Confidence in presenting your ideas and opinions in a manner that can be challenged, while responding well to feedback. Experience in designing, building, and maintaining security automation. Experience in translating compliance and regulation requirements into technical specifications. Experience in exploiting vulnerabilities in web applications, Linux kernels, containers, and networks. Security certifications such as OSCP or OSWE. We conduct coding interviews as part of the process. Pay Transparency We offer competitive compensation and benefits packages. Actual compensation will be determined based on job-related factors, including experience, skills, qualifications, the level at which the candidate is hired, and geographic location, consistent with applicable law. Base Compensation Range €75.000—€240.000 EUR Benefits &amp; Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know.",
-    "score": 20,
-    "score_reason": "Requires 4+ years experience and gives no sponsorship info, while candidate is junior and needs sponsorship.",
-    "skills": [
-      "Python",
-      "Go",
-      "Java",
-      "JavaScript",
-      "Burp Suite",
-      "ZAP",
-      "Semgrep",
-      "threat modeling"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "senior",
-    "title_en": "",
-    "experience_required": "4+ years",
-    "role_summary": "Ensures software security by identifying and remediating vulnerabilities, building and maintaining application security tools, and collaborating with development teams throughout the SDLC.",
-    "expectations": "The candidate must have 4+ years of application security experience, secure coding skills in Python/Go/Java/JavaScript, hands‑on use of tools like Burp Suite, ZAP, Semgrep, conduct threat‑modeling, and develop security automation and guidelines.",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-25",
-    "missing_runs": 0
+    "missing_runs": 46
   },
   {
     "id": "c139a3f39fd13c85",
@@ -3683,7 +3426,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -3717,7 +3460,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f0725c056e6ea3a8",
@@ -3751,7 +3494,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "d94faa22744837d5",
@@ -3785,7 +3528,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "1c3bf4d9a9e569d5",
@@ -3819,7 +3562,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "ee548f992527e954",
@@ -3853,7 +3596,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "1c82d76114693c53",
@@ -3887,7 +3630,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "cec8b3ac66109141",
@@ -3921,7 +3664,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "8297697c0b68f485",
@@ -3998,7 +3741,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a4b3082c51fc239c",
@@ -4032,7 +3775,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "28bb4b2fd8cffbec",
@@ -4066,7 +3809,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "440562817c717302",
@@ -4100,7 +3843,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "42134c1aec29a7ae",
@@ -4134,7 +3877,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "1804b4ce93756b21",
@@ -4170,7 +3913,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "0eff96b6d03fe02c",
@@ -4204,7 +3947,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "7143db87b27883f0",
@@ -4238,7 +3981,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "42b5375cea91e1da",
@@ -4272,7 +4015,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2661b767c6421eaa",
@@ -4306,7 +4049,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2e7f8d2ea0be544c",
@@ -4346,7 +4089,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "eae0a9bb65c94def",
@@ -4385,7 +4128,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "fdc54eb5c3105f25",
@@ -4427,7 +4170,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -4466,7 +4209,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "11cd449d77493dda",
@@ -4500,7 +4243,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "7190bbcee872de2a",
@@ -4534,7 +4277,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -4568,7 +4311,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "2be399176e1ce304",
@@ -4610,7 +4353,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "09a492b18788314a",
@@ -4644,7 +4387,152 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
+  },
+  {
+    "id": "85df7ac1edf16577",
+    "title": "Product Security Engineer",
+    "company": "Hashgraph",
+    "location": "Remote from within Europe",
+    "country": "REMOTE",
+    "url": "https://web3.career/r/2ITO0QTM__M6cv5b",
+    "source": "web3career",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "About Hashgraph: Hashgraph is a fast-growing software company committed to supporting, developing and servicing Hedera, an open source, proof-of-stake platform. Hedera is EVM-compatible and has been specifically built to meet the needs of enterprise and Web3 applications, which require speed, security, stability and sustainability. Hedera’s public network is governed by industry-leading organizations, spanning 11 sectors and 14 regions who oversee the development and direction of the decentralized platform. You may find yourself doing all of the following: Conduct comprehensive product security assessments of blockchain-based systems, with a strong focus on Web3 security, smart contracts, and protocol-level risks Design and write malicious smart contracts and adversarial test cases to exploit and identify vulnerabilities in Hedera Blockchain and EVM-compatible systems Develop, implement, and continuously improve security strategies, architectures, and best practices for Hedera blockchain protocols, smart contracts, bridges, and associated services Partner closely with engineering teams to embed security into design, development, and deployment workflows Design and execute penetration testing, threat modeling, and vulnerability assessments across blockchain networks, nodes, APIs, and supporting infrastructure Identify, track, and stay ahead of emerging blockchain and Web3 threats, exploits, and attack patterns; provide actionable mitigation guidance Build and contribute to security tooling, frameworks, and automation tailored for blockchain environments, including CI/CD integrations Leverage AI/LLMs and automation to enhance product security reviews, vulnerability discovery, threat modeling, and security testing workflows Assist in incident response and post-incident analysis related to blockchain security events, including root cause analysis and remediation guidance Educate engineers and internal stakeholders on blockchain security principles, secure coding practices, and real-world attack scenarios Participate in and contribute to security awareness and secure development training programs across the organization Qualification Requirements: Must be available to work within the EU time zones Bachelor’s or Master’s degree in Computer Science, Information Security, Cryptography, Blockchain, or a related field (or equivalent practical experience) 8+ years of experience in product security, application security, or penetration testing, including 2+ years focused on blockchain security, smart contract auditing, or Web3 security Solid understanding of EVM internals, smart contract execution, and common Web3 architectures; knowledge of Hedera Blockchain is a strong plus Deep knowledge of Web3 technologies and protocols, such as Ethereum, gossip-based networks, IPFS, and related decentralized systems Proven experience with blockchain-specific security assessment tools, methodologies, and manual testing techniques Strong understanding of blockchain attack vectors and vulnerability classes, including gas fees, authorization control flaws, fungible and non-fungible tokens issues, and bridge exploits Working knowledge of cryptographic principles and protocols relevant to blockchain systems (hashing, signatures, key management, consensus assumptions) Hands-on experience with static analysis, dynamic analysis, fuzzing, and custom security testing tools Strong understanding of secure coding practices, particularly in Java and Rust Excellent analytical, problem-solving, and communication skills, with the ability to collaborate effectively across engineering and product teams Programming experience and understanding code in any language. Other skills that are great to bring with you but that we can help you develop: Industry-recognized security certifications such as OSCP, OSEP, OSWA, OSWE; blockchain security certifications are a plus Experience in bug bounty programs, security research, CVE publications, red teaming, or attack surface management Red Team experience, ideally in web3 Experience securing or operating systems in cloud environments (AWS, GCP, Azure), including IAM and key management Proficiency in scripting and general-purpose programming languages such as Python, Bash, or PowerShell for tooling and automation Experience with containerization and orchestration technologies (Docker, Kubernetes) and their associated security best practices Familiarity with DevSecOps pipelines, CI/CD security controls, and infrastructure-as-code security Coding experience in Java, Rust, and/or Python AI tool building When applying, mention the word CANDYSHOP to show you read the job post completely.",
+    "score": 15,
+    "score_reason": "Senior-level role requiring 8+ years, remote only from Europe, no sponsorship mentioned.",
+    "skills": [
+      "product security",
+      "penetration testing",
+      "blockchain security",
+      "smart contract auditing",
+      "EVM internals",
+      "cryptography",
+      "static analysis",
+      "Java"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "title_en": "Product Security Engineer",
+    "experience_required": "8+ years",
+    "role_summary": "Conduct product security assessments, design malicious smart contracts, and embed security into blockchain development workflows.",
+    "expectations": "8+ years of product/application security or penetration testing experience, including 2+ years focused on blockchain security; strong knowledge of EVM, smart contracts, cryptographic principles, and ability to design tests, tooling, and guide engineering teams.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-25",
+    "missing_runs": 0
+  },
+  {
+    "id": "2ecaf2e25399e115",
+    "title": "PTC Windchill Administrator (m/w/d)",
+    "company": "Octrion GmbH",
+    "location": "Mainz, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5844203582?se=ZlLQlyGd8RGlKKIcDlNizg&utm_medium=api&utm_source=ceaf5c9d&v=8BF3C2A0091720144C80BCB32E0F356528DAFE62",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-16",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Müllfahrzeuge für Kommunen sind systemrelevant. Das macht KIRCHHOFF Ecotec zu einem krisenfesten, planbaren Arbeitgeber, unabhängig von Konjunktur und Antriebswende. An mehreren Standorten entwickeln und konstruieren unsere Teams komplexe Sonderfahrzeuge, unterstützt durch ein zentrales PTC Windchill PLM-System. Zur Verstärkung unseres Teams suchen wir ab sofort einen PTC Windchill Administrator (m/w/d) Aufgaben Entwicklung, Umsetzung und kontinuierliche Weiterentwicklung der Cybersecurity-Stra…",
+    "score": 15,
+    "score_reason": "Low role match (PLM admin) and no sponsorship or remote work information for an Indian junior candidate.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "PTC Windchill Administrator",
+    "experience_required": "not stated",
+    "role_summary": "Administer and continuously develop the PTC Windchill PLM system, including its cybersecurity aspects.",
+    "expectations": "The candidate is expected to develop, implement, and continuously improve the cybersecurity strategy for the Windchill system.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 64
+  },
+  {
+    "id": "9aece813e2d051f0",
+    "title": "Business Information Security Officer Private Bank Switzerland",
+    "company": "Barclays",
+    "location": "Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5826137857?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-03",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Job Description Purpose of the role To provide a primary liaison service between the business, technology, and security functions. In order to ensure the confidentiality, integrity and availability of information, and support the mitigation of security risk. Accountabilities Collaboration with stakeholders to understand their security requirements in business processes and IT projects, to enhance overall risk management. Execution of risk assessments to identify and prioritise potential cyberse…",
+    "score": 15,
+    "score_reason": "Senior security officer role with no entry‑level fit and no sponsorship information.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "title_en": "Business Information Security Officer Private Bank Switzerland",
+    "experience_required": "not stated",
+    "role_summary": "Acts as the primary liaison between business, technology and security functions to ensure confidentiality, integrity and availability of information and support risk mitigation.",
+    "expectations": "Collaborate with stakeholders to understand security requirements in business processes and IT projects, and execute risk assessments to identify and prioritize potential cyber risks.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 55
+  },
+  {
+    "id": "5e5b210208912cd3",
+    "title": "Lehre als IT Systemtechniker:in",
+    "company": "Barracuda Networks AG",
+    "location": "Innsbruck, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5795100832?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-10",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Werde Teil von Barracuda Networks – und mach' die digitale Welt sicherer! Barracuda Networks ist ein international führendes Unternehmen im Bereich IT-Security. Unsere innovativen Cloud- und Netzwerksicherheitslösungen schützen E-Mails, Netzwerke, Daten und Anwendungen von über 200.000 Unternehmen weltweit. Am Standort Innsbruck arbeiten engagierte Teams in einem internationalen Umfeld an zukunftsweisenden Technologien. Du interessierst dich für IT, Netzwerke und Sicherheit? Dann starte deine b…",
+    "score": 15,
+    "score_reason": "Apprenticeship in Austria with no sponsorship or remote options, unlikely to meet the candidate's need for sponsorship and remote work from India.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "intern",
+    "title_en": "Apprenticeship as IT System Technician",
+    "experience_required": "not stated",
+    "role_summary": "Work with international teams in Innsbruck on future‑facing IT security technologies.",
+    "expectations": "The candidate should be interested in IT, networks and security and be ready to start an apprenticeship.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 46
   },
   {
     "id": "e42a540da8214e31",
@@ -4678,7 +4566,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a2febe5aa099a81b",
@@ -4721,7 +4609,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "a144f46ee4833856",
@@ -4755,7 +4643,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e04ebe29a453b0de",
@@ -4797,7 +4685,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "5b798dff2178cc87",
@@ -4831,7 +4719,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "469d11f1797792a0",
@@ -4865,7 +4753,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "5390f8be20209026",
@@ -4899,7 +4787,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "be3ba1b5124a1c16",
@@ -4933,7 +4821,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "16e8386d275e643e",
@@ -5048,7 +4936,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "b55640c1f733595a",
@@ -5082,7 +4970,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "fc3b66b561c80863",
@@ -5116,7 +5004,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "01239214d8bc5030",
@@ -5150,7 +5038,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "b8156df2259f9f32",
@@ -5184,7 +5072,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "d5b0319a1dc3a486",
@@ -5218,7 +5106,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "bf0820f135a1f703",
@@ -5252,7 +5140,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f91d8f03026eb2f4",
@@ -5286,7 +5174,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "52a9a2f62d3c5420",
@@ -5320,7 +5208,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -5354,7 +5242,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "5038524d61bf7ad3",
@@ -5395,7 +5283,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "ae0d6c57cd8197ae",
@@ -5429,7 +5317,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 56
+    "missing_runs": 57
   },
   {
     "id": "472f6d72ac7d168c",
@@ -5463,7 +5351,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -5506,7 +5394,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "0c896e97e6d5c122",
@@ -5589,7 +5477,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "a1b1a2f35799079b",
@@ -5629,7 +5517,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "161642a79d9f5f75",
@@ -5672,7 +5560,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "039e735f5c8670e1",
@@ -5715,7 +5603,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "fe4ef31dae1f7a38",
@@ -5835,7 +5723,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "53e1775d2e6ab76d",
@@ -5869,7 +5757,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a1f54d0979e83c7e",
@@ -5912,7 +5800,75 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
+  },
+  {
+    "id": "03e791b6c4422839",
+    "title": "IT-Security Sales Consultant (m|w|d)",
+    "company": "Voith GmbH & Co. KGaA",
+    "location": "Ulm, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5846839667?se=ZlLQlyGd8RGlKKIcDlNizg&utm_medium=api&utm_source=ceaf5c9d&v=126669797FE24BF475E6C2953354C560E0889510",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-18",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Aufgaben Profil Wir bieten Job ID 76444 | an unserem Science Park am Standort Ulm Ihre Aufgaben Beratung von Neu- und Bestandskunden zu IT-Security-Lösungen. Übersetzung technischer Anforderungen in verständliche, kundenorientierte Lösungen. Enge Zusammenarbeit mit Technik- und Consulting-Teams zur Angebotserstellung. Eigenständige Betreuung des gesamten Vertriebsprozesses – von der Bedarfsermittlung bis zum Vertragsabschluss. Unterstützung bei Ausschreibungen, Proof-of-Concepts und technischen…",
+    "score": 10,
+    "score_reason": "Sales-focused role in Germany with no sponsorship info, not matching candidate's technical junior profile.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "IT-Security Sales Consultant",
+    "experience_required": "not stated",
+    "role_summary": "Advises new and existing customers on IT security solutions and manages the sales process from needs assessment to contract signing.",
+    "expectations": "The candidate should translate technical requirements into customer‑oriented solutions, collaborate with technical and consulting teams, and support tenders, proof‑of‑concepts, and technical aspects of sales.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 64
+  },
+  {
+    "id": "0d932d0134eb63b4",
+    "title": "Cybersecurity Engineer (m/w/d)",
+    "company": "CYQUEO GmbH",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5837094183?se=-gORveKb8RGvGrvTGRxIcA&utm_medium=api&utm_source=ceaf5c9d&v=81E4848D532738F3D0404283B7C53DC0A9A69FE5",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-11",
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Bonjour, Servus, Grüezi und Hallo, wir sind SPIE Germany Switzerland Austria. Wir - das sind 20.000 Technikbegeisterte an 250 Standorten in Deutschland, der Schweiz, Österreich und darüber hinaus, die sich gemeinsam mit unseren Kunden für eine klimafreundliche und digitale Zukunft stark machen. Mit unserer umfassenden Expertise und Begeisterung für technische Dienstleistung geben wir das Beste für unsere Kunden - jeden Tag, in jedem Projekt. SPIE Germany Switzerland Austria ist eine Unternehmen…",
+    "score": 10,
+    "score_reason": "Job description provides no details on role, required experience, or sponsorship, making fit unclear.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "Cybersecurity Engineer",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 64
   },
   {
     "id": "92ed9099bde68df7",
@@ -5951,7 +5907,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "f4c2a23292e91f27",
@@ -6079,7 +6035,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "674a2558bffc5fb4",
@@ -6113,7 +6069,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "724a92de271fe52c",
@@ -6187,7 +6143,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c208c122436a1971",
@@ -6221,7 +6177,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "651cf430a57772f3",
@@ -6255,7 +6211,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "49e76312a5be416a",
@@ -6289,7 +6245,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e78489d73b8098b5",
@@ -6328,7 +6284,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "32a59ab96f0f9ae7",
@@ -6362,7 +6318,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "f7221d03635156da",
@@ -6396,7 +6352,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c51b61ee70918035",
@@ -6430,7 +6386,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "278ef211af354382",
@@ -6464,7 +6420,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -6498,7 +6454,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -6582,7 +6538,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "2dbeab30a1df3688",
@@ -6666,7 +6622,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "ac4f2e9556c23d82",
@@ -6700,7 +6656,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "9e641b8deecef414",
@@ -6734,7 +6690,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "d54ac133526865fa",
@@ -6775,7 +6731,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "24f80d9526012a45",
@@ -6818,7 +6774,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "0b70758a5c803f74",
@@ -6859,7 +6815,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -6900,7 +6856,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "60e7fd97deadf7ab",
@@ -6940,7 +6896,50 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 56
+    "missing_runs": 57
+  },
+  {
+    "id": "9438fc06a05a8465",
+    "title": "Application Security Engineer",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "country": "REMOTE",
+    "url": "https://jobicy.com/jobs/146769-application-security-engineer-2",
+    "source": "jobicy",
+    "source_type": "api",
+    "posted_date": "2026-08-18",
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. The role The Security Engineering Team within the Platform Security organization is responsible for the strategic selection, implementation, management, and optimization of cybersecurity tools and technologies that improve security capabilities of the organization's platform. This team is instrumental in fortifying the security posture, proactively identifying and responding to security threats, ensuring the resilience and protection of critical data, systems, and services. We are looking for an Application Security Engineer who will ensure the security of our software by identifying and mitigating vulnerabilities, implementing best security practices, and collaborating with development teams. The ideal candidate will have a strong background in secure coding, vulnerability assessment, and penetration testing. Your responsibilities will include: Build and maintain ASPM tools and their rules. Identify, analyze, and remediate application security vulnerabilities using tools like ASPM. Collaborate with development teams to integrate security best practices into the software development lifecycle (SDLC). Conduct manual and automated penetration testing of applications. Develop and maintain secure coding guidelines for development teams. Facilitate threat modeling and risk assessments on new and existing applications. Stay updated on the latest security threats, vulnerabilities, and mitigation techniques. Serve as an application security subject matter expert to other teams. We expect you to have: 4+ years of experience in application security. Strong knowledge of common application security risks (e.g. OWASP Top 10) and how to mitigate them. Experience with secure coding practices in languages such as Python, Go, Java, or JavaScript. Proficiency in a common programming language (such as Go or Python) with a willingness to learn Go, if necessary. Hands-on experience with security testing tools (Burp Suite, ZAP, Semgrep, etc.). Understanding of authentication protocols like SAML or OIDC. Experience in conducting threat-modeling sessions. Strong problem-solving and analytical skills. Good written and verbal communication skills in English. Willingness to learn new things. Being comfortable working independently. It would be an added bonus if you had: Confidence in presenting your ideas and opinions in a manner that can be challenged, while responding well to feedback. Experience in designing, building, and maintaining security automation. Experience in translating compliance and regulation requirements into technical specifications. Experience in exploiting vulnerabilities in web applications, Linux kernels, containers, and networks. Security certifications such as OSCP or OSWE. We conduct coding interviews as part of the process. Pay Transparency We offer competitive compensation and benefits packages. Actual compensation will be determined based on job-related factors, including experience, skills, qualifications, the level at which the candidate is hired, and geographic location, consistent with applicable law. Base Compensation Range €75.000—€240.000 EUR Benefits &amp; Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know.",
+    "score": null,
+    "score_reason": "AI unavailable",
+    "skills": [
+      "Python",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Burp Suite",
+      "ZAP",
+      "Semgrep",
+      "threat modeling"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "senior",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 5,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-25",
+    "missing_runs": 0
   },
   {
     "id": "eed918fd33e49444",
@@ -6980,7 +6979,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "bc9c587ce30270b3",
@@ -7014,7 +7013,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "260ea34e1abe0694",
@@ -7134,7 +7133,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -7173,7 +7172,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "405d17edd0856752",
@@ -7207,7 +7206,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 60
+    "missing_runs": 61
   },
   {
     "id": "8e2341bce1ee3800",
@@ -7246,7 +7245,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "e4c5fdc224a98690",
@@ -7280,7 +7279,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e5fa894602c488ff",
@@ -7314,7 +7313,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -7348,7 +7347,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "71a36bb696e98ee1",
@@ -7384,7 +7383,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -7418,7 +7417,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c8e3b61e7ad82840",
@@ -7452,7 +7451,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "73e7d133877f0bbe",
@@ -7486,7 +7485,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "3952d4e83d732af7",
@@ -7520,7 +7519,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "9a80ae04c03c6f5c",
@@ -7554,7 +7553,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "d3965ea1a4c02eab",
@@ -7588,7 +7587,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "507c647b9a2dfdb9",
@@ -7622,7 +7621,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "80c22a7537713ce7",
@@ -7662,7 +7661,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "6c358b564f0fe65b",
@@ -7696,7 +7695,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "bcbc8689b56ddf88",
@@ -7730,7 +7729,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "73dd215b79d7b6d7",
@@ -7764,7 +7763,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2ffca3238c45c221",
@@ -7807,7 +7806,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "83da98b3fb07fc09",
@@ -7875,7 +7874,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "4843633d16d653e7",
@@ -7909,7 +7908,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "9e4364264e5e5427",
@@ -7943,7 +7942,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "7cd86f344e99a1a8",
@@ -7983,7 +7982,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "261799f9389ecc83",
@@ -8017,7 +8016,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "ae1ed54b02d17ca6",
@@ -8051,7 +8050,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2da3a883eb20a956",
@@ -8085,7 +8084,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "254aa5c1f051e892",
@@ -8119,7 +8118,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "716012ff2e45c815",
@@ -8153,7 +8152,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -8187,7 +8186,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "6934b9f8c8f1d6da",
@@ -8221,7 +8220,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e97742717ed8d3fb",
@@ -8255,7 +8254,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a3f36af8084cc068",
@@ -8289,7 +8288,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e932a8bd7500ab8a",
@@ -8327,7 +8326,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "69b1ff11a646af51",
@@ -8361,7 +8360,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "d24a5b4cd8b5767b",
@@ -8395,7 +8394,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "33ebeb90f15c38d4",
@@ -8429,7 +8428,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 48
+    "missing_runs": 49
   },
   {
     "id": "22692eaae38299bf",
@@ -8463,7 +8462,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "a925f297df4476f9",
@@ -8497,7 +8496,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "ea539b63fa53d645",
@@ -8572,7 +8571,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -8606,7 +8605,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "57c17fa660d7eee3",
@@ -8640,7 +8639,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "eb14b2d934ef4f1b",
@@ -8674,7 +8673,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "37b051d9ee0311f6",
@@ -8714,7 +8713,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "e15c5442b76fe774",
@@ -8748,7 +8747,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "245c79eb56c53cec",
@@ -8782,7 +8781,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "9d003521671be9c0",
@@ -8816,7 +8815,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c4f276bb34176883",
@@ -8850,7 +8849,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "afe62b02dc015988",
@@ -8899,7 +8898,7 @@
     "id": "9c79bd3d719ab0bc",
     "title": "Cybersecurity / Information Security Engineer (m/w/d)",
     "company": "MUSE Electronics GmbH",
-    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria",
+    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria",
     "country": "AT",
     "url": "https://www.adzuna.at/details/5841115108?utm_medium=api&utm_source=ceaf5c9d",
     "source": "adzuna",
@@ -8927,7 +8926,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "4ccbcea4861b434d",
@@ -8969,7 +8968,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "c65cb530d5eb56b3",
@@ -9005,7 +9004,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "5ae3dbc652d5a942",
@@ -9039,7 +9038,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "42550275ef09e998",
@@ -9073,7 +9072,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "9daa6a17cc13e7d8",
@@ -9107,12 +9106,12 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "899f0bbd2aa8c336",
     "title": "Ubuntu Security Engineer",
-    "company": "Canonical Ltd.",
+    "company": "Canonical",
     "location": "Anywhere",
     "country": "REMOTE",
     "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
@@ -9184,7 +9183,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "c610b87716750571",
@@ -9218,7 +9217,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "62f78051b877db5a",
@@ -9252,7 +9251,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "014f111ccfd193c8",
@@ -9286,7 +9285,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "a434d2c2211f001e",
@@ -9320,7 +9319,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "43895121521a15d9",
@@ -9354,7 +9353,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "7a64ae009c5ecdce",
@@ -9388,7 +9387,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "914c02820936e419",
@@ -9422,7 +9421,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "7df7167b00dd47cf",
@@ -9456,7 +9455,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "375d943288db746a",
@@ -9490,7 +9489,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "2dd9ab446aadf9f3",
@@ -9524,7 +9523,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f0b7cebe2eca3163",
@@ -9558,7 +9557,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "6d25ac2a44c18cba",
@@ -9592,7 +9591,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "4dd44b03c68c0630",
@@ -9626,7 +9625,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "8d0fa64e60043046",
@@ -9660,7 +9659,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "dc23cdeefe773f13",
@@ -9694,7 +9693,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "a65f096f9cbfc185",
@@ -9728,7 +9727,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "06f62ee7eb1dc961",
@@ -9762,7 +9761,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "ebc1315b58495c08",
@@ -9796,7 +9795,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "49350bf06811310d",
@@ -9864,7 +9863,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "a26061baf7ddd290",
@@ -9898,7 +9897,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "0744fa446bb88b8c",
@@ -9932,7 +9931,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "7ed8e3549688981b",
@@ -9966,7 +9965,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "149bf5e042a6c942",
@@ -10544,7 +10543,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "9a296628c7f7cd65",
@@ -10918,7 +10917,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "aa1a50c50e0f1b51",
@@ -11122,7 +11121,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "0e0e563fe4979db0",
@@ -11156,7 +11155,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "e6fd93e66ca79d9e",
@@ -11224,7 +11223,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "29a20c20d2af7136",
@@ -11870,7 +11869,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "c3d60db5bd04d95a",
@@ -11904,7 +11903,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "09d837f634921342",
@@ -11938,7 +11937,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "b8e9c7502e790ef1",
@@ -11972,7 +11971,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "690fa4f08ea8fc71",
@@ -12006,7 +12005,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "a51b8ab2ca2b3e36",
@@ -12040,7 +12039,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "75b2a66d37de7447",
@@ -12074,7 +12073,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "d72c03955f841948",
@@ -12108,7 +12107,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "47e72ff3f8bf9be7",
@@ -12142,7 +12141,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "c7c3283828ecdd6f",
@@ -12176,7 +12175,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "a89ae22e57eb929b",
@@ -12210,7 +12209,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "8c1db89432bc9f7e",
@@ -12244,7 +12243,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "85f8062ba959aad9",
@@ -12278,7 +12277,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "cadf1bf830fd8b59",
@@ -12312,7 +12311,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "d90dcff72feaaa74",
@@ -12346,7 +12345,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 33
+    "missing_runs": 34
   },
   {
     "id": "bad10a59bb3071ef",
@@ -12354,7 +12353,7 @@
     "company": "Axians ICT Austria GmbH",
     "location": "Innsbruck, Austria / Mutters, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852697010?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
+    "url": "https://www.adzuna.at/land/ad/5852697010?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12414,7 +12413,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "65f85e9f492c3d60",
@@ -12448,7 +12447,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 37
+    "missing_runs": 38
   },
   {
     "id": "76d29a943de5c0c8",
@@ -12482,7 +12481,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 37
+    "missing_runs": 38
   },
   {
     "id": "9941b57300c20d19",
@@ -12550,7 +12549,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e57c091f5b824f0d",
@@ -12618,7 +12617,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "01bb1a82e6e02026",
@@ -12652,7 +12651,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "5bc0b9ba73d7d492",
@@ -12686,7 +12685,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "af8beacce9007c00",
@@ -12720,7 +12719,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "993c74164feabc2d",
@@ -12754,7 +12753,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "69711d595db8cdc2",
@@ -12788,7 +12787,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 33
+    "missing_runs": 34
   },
   {
     "id": "a82bbe43ff7f8e41",
@@ -12822,7 +12821,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "fbd4da93ebce907d",
@@ -12856,7 +12855,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "8826fa6a7998a2fa",
@@ -12890,7 +12889,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 33
+    "missing_runs": 34
   },
   {
     "id": "d13af5b45fcddbb0",
@@ -12958,7 +12957,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "d390533573c8114f",
@@ -12992,7 +12991,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "fe2244151e4f39d9",
@@ -13026,7 +13025,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "cf3c92fe89349492",
@@ -13060,7 +13059,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "f59dab1de3382cbd",
@@ -13094,7 +13093,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "42d870004b8ac70d",
@@ -13128,7 +13127,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "a2c62d87fbd84ff2",
@@ -13162,7 +13161,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "c4b564184e3c73f5",
@@ -13196,7 +13195,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "3a303ed53df3552f",
@@ -13230,7 +13229,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "bd8ba5f505f1af46",
@@ -13264,7 +13263,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "99f670599ac9bedb",
@@ -13298,7 +13297,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 30
+    "missing_runs": 31
   },
   {
     "id": "24852fed48469c5e",
@@ -13332,7 +13331,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 29
+    "missing_runs": 30
   },
   {
     "id": "f4df0f2ebacc9eb3",
@@ -13366,7 +13365,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "9a10dca6bb5cbec4",
@@ -13400,7 +13399,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 28
+    "missing_runs": 29
   },
   {
     "id": "569d9d8eafe5548b",
@@ -13434,7 +13433,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "102b785e577f1bb6",
@@ -13468,7 +13467,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "70ac35bfd88b207c",
@@ -13502,7 +13501,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "5b9b90baff3fff26",
@@ -13536,7 +13535,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "a8cfac1b2102305f",
@@ -13570,7 +13569,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "83d7ec82dcfeb879",
@@ -13604,7 +13603,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 26
+    "missing_runs": 27
   },
   {
     "id": "8a905ad5c1940194",
@@ -13638,7 +13637,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "1630859514b06093",
@@ -13706,7 +13705,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "3e8bfc0008a58360",
@@ -13714,7 +13713,7 @@
     "company": "ITDS",
     "location": "Kraków, Poland",
     "country": "PL",
-    "url": "https://www.adzuna.pl/land/ad/5853592493?se=ypJKXz2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=1735BB1F19E8BCCD5EA95618F9247419ECA44646",
+    "url": "https://www.adzuna.pl/land/ad/5853592493?se=BMedxE2g8RGrVrVxixdQVg&utm_medium=api&utm_source=ceaf5c9d&v=1735BB1F19E8BCCD5EA95618F9247419ECA44646",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-23",
@@ -13774,7 +13773,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "2ca1083995890368",
@@ -13808,7 +13807,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "0de5574ca42c8135",
@@ -13842,7 +13841,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "519f152d64b2ef7d",
@@ -13876,7 +13875,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "bbb599e9c795d81a",
@@ -13910,7 +13909,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "8f03a772450cf910",
@@ -13944,7 +13943,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "8f2c76f872c19d4c",
@@ -13978,7 +13977,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "ffa03d2fae56138a",
@@ -14012,7 +14011,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "e9a0848727b842de",
@@ -14046,7 +14045,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "0dee59cca9ad001b",
@@ -14080,7 +14079,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "276fac613a35fb1a",
@@ -14114,7 +14113,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "a90fe9ff2bdfd2a2",
@@ -14148,7 +14147,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "eb3cbdcfa4f18b62",
@@ -14182,7 +14181,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "7b8a1b61dd965038",
@@ -14216,7 +14215,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "e35dd01496a67bd2",
@@ -14250,7 +14249,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "b97509e94209ab4c",
@@ -14284,7 +14283,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "92fb6ad33c2a2fc2",
@@ -14318,7 +14317,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "f332821a5e809ba7",
@@ -14352,7 +14351,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "90659b887b76685b",
@@ -14386,7 +14385,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "2a32d8593e5d6660",
@@ -14420,7 +14419,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "7e8cdcc00ecb151b",
@@ -14522,7 +14521,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "8e6915b5af26497d",
@@ -14556,7 +14555,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "e2c9757435385e2e",
@@ -14590,7 +14589,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "f01cb1b74619bc22",
@@ -14624,7 +14623,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "b1160d9e4c444ab0",
@@ -14726,7 +14725,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "f7951ac60834207c",
@@ -14760,7 +14759,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "b1b17135798bca0f",
@@ -14768,7 +14767,7 @@
     "company": "Stadtwerke Klagenfurt AG",
     "location": "Klagenfurt, Austria +2 more locations",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5853766887?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
+    "url": "https://www.adzuna.at/land/ad/5853766887?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-23",
@@ -14802,7 +14801,7 @@
     "company": "SVD Büromanagement GmbH",
     "location": "Wien, Austria / Brigittenau, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852122634?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
+    "url": "https://www.adzuna.at/land/ad/5852122634?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -14836,7 +14835,7 @@
     "company": "PS3 Personalservice GmbH",
     "location": "Wien, Austria / Innere Stadt, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5851331171?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
+    "url": "https://www.adzuna.at/land/ad/5851331171?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14870,7 +14869,7 @@
     "company": "EMOLUTION KG",
     "location": "Austria / Döbling, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5850603851?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
+    "url": "https://www.adzuna.at/land/ad/5850603851?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14904,7 +14903,7 @@
     "company": "Job World GmbH",
     "location": "Wels, Austria +3 more locations",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5849826003?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
+    "url": "https://www.adzuna.at/land/ad/5849826003?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -14936,9 +14935,9 @@
     "id": "f112cbbd2a969637",
     "title": "Infrastructure Security Engineer (Security / Hardening / SIEM) (m/w/d)",
     "company": "IMBA Institut für Molekulare Biotechnologie GmbH",
-    "location": "Wien, Austria / Landstraße, Austria",
+    "location": "Wien, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5848543464?se=im2eXD2g8RGSrcYAvJruZw&utm_medium=api&utm_source=ceaf5c9d&v=C2F919941CD2F0581D75B8F91DB8EC370E70AEFE",
+    "url": "https://www.adzuna.at/land/ad/5848543464?se=ZsGjwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=C2F919941CD2F0581D75B8F91DB8EC370E70AEFE",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-19",
@@ -15066,7 +15065,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "a3eb5afe8fb65599",
@@ -15074,7 +15073,7 @@
     "company": "Consult & Pepper AG",
     "location": "Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5854265555?se=epBQWz2g8RGLZZiuaUCfOw&utm_medium=api&utm_source=ceaf5c9d&v=0FE15131607548B96EAB20B3075EEBA27F41496C",
+    "url": "https://www.adzuna.ch/land/ad/5854265555?se=hDV3wE2g8RGLZZiuaUCfOw&utm_medium=api&utm_source=ceaf5c9d&v=0FE15131607548B96EAB20B3075EEBA27F41496C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-24",
@@ -15270,7 +15269,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "9fca0464b56bac67",
@@ -15304,7 +15303,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "d6c5315b636b5c98",
@@ -15406,7 +15405,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "b69c537416e2c552",
@@ -15440,7 +15439,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "80ba7432de709ac3",
@@ -15542,7 +15541,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "d781b5c89b8576e3",
@@ -15644,7 +15643,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "718331ffb60b41fe",
@@ -15678,7 +15677,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "11d7dcc9f5b3a54b",
@@ -15712,7 +15711,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "8ba564eac53a883d",
@@ -15746,7 +15745,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "fd1d5b5ba73382b9",
@@ -15780,7 +15779,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "d5afb2e5f003557a",
@@ -15848,13 +15847,13 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "855d907a9eae82b2",
     "title": "Cyber Security Engineer II",
     "company": "Pingidentity",
-    "location": "not stated / London, England, United Kingdom",
+    "location": "not stated",
     "country": "REMOTE",
     "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/cyber-security-engineer-ii-385761",
     "source": "arbeitnow",
@@ -15950,7 +15949,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "ade7fdf6f647f2a5",
@@ -15984,7 +15983,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "14cd461ae84f690d",
@@ -16018,7 +16017,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "203f66c26401b8d7",
@@ -16052,7 +16051,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "b732214ee7417ea1",
@@ -16128,7 +16127,7 @@
     "company": "LGA IT",
     "location": "Heuvelland, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5854455202?se=uOOxXj2g8RGoxpN31Vp7kA&utm_medium=api&utm_source=ceaf5c9d&v=47D6B6CD16E1180AC7B5B7513588F24B96CF7C83",
+    "url": "https://www.adzuna.be/land/ad/5854455202?se=XDLvw02g8RGKm9IRhCOu4w&utm_medium=api&utm_source=ceaf5c9d&v=47D6B6CD16E1180AC7B5B7513588F24B96CF7C83",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-24",
@@ -16256,7 +16255,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "b3efd785b8c221a8",
@@ -16290,7 +16289,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "93d24f1b9ea92599",
@@ -16324,7 +16323,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "d667582b21ea9672",
@@ -16392,7 +16391,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "fee13598955d673d",
@@ -16426,7 +16425,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "4ce4a2e68a766479",
@@ -16460,7 +16459,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "de41a9f10f89e2b2",
@@ -16494,7 +16493,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "1214ab502605e450",
@@ -16528,7 +16527,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "f4bd6c00c39d3e0c",
@@ -16596,7 +16595,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "b58bf7c494cee742",
@@ -16630,7 +16629,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "734c4a7ef2e1f1b3",
@@ -16664,7 +16663,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "3024eb34918abec4",
@@ -16800,7 +16799,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "c52fbc096d8d23ad",
@@ -16834,7 +16833,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b4aedd099119790a",
@@ -16868,7 +16867,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "c7ec74daf7ba0b8e",
@@ -16888,7 +16887,7 @@
     "salary_period": "",
     "salary_inr": "not stated",
     "employment_type": "Full Time",
-    "description": "Our Mission At Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails , and pull in Finance, Legal, Security, and IT just to get something approved. We’ve raised $75M from Khosla Ventures, Insight Partners, and Accel to change that. Our AI-native platform connects every person, step, and system so buying is fast, safe, and efficient – one place to request, automated approvals and renewals, real-time supplier risk, and complete spend visibility. The opportunity is massive. Every enterprise on the planet has this problem and nobody has solved it . We’ve 10x’d ARR to double-digit millions in 18 months and are trusted by global enterprises like Spotify, MongoDB, Monzo, and Albertsons. We’re now the 4th fastest growing startup in Europe &amp; the Sunday Times' #1 Best Medium Sized Tech Company To Work for. Our team previously scaled Tessian ( cybersecurity tech, backed by Sequoia, Balderton, Accel , acquired post-Series C), and our team includes ex-founders operators who’ve grown unicorns, shipped world-class products, and executed at the highest levels. You’ll work alongside leaders like Ben , Abs , Sabrina , and Rebe . Find out more about the team and life at Omnea here . What We’re Looking For We're looking for a commercially sharp, tenacious operator who is exceptional at building relationships to further accelerate our Technology Partnerships motion. This role is based in London. You'll build, operationalise and deepen our critical external relationships and help turn technology partnerships into a repeatable, scalable source of revenue. We've seen early success with partner-led growth — and are now scaling this into a core growth engine. What You Can Expect This role is highly execution-oriented, with direct ownership over Omnea's technology partnerships motion: You'll build new technology partner relationships — defining your priorities based on customer &amp; prospect needs, finding creative ways in, and articulating the mutual benefits You'll operationalise our existing technology partnerships — managing the relationship day-to-day, developing joint go-to-market motions with partners serving the same businesses, and ensuring partners see consistent value from working with Omnea You'll organise community building events for the technology ecosystem You'll be accountable for partner-sourced and partner-influenced pipeline, helping unlock new opportunities and improve win rates across deals You'll work hands-on with the Sales team on live deals and work with partners to build unfair advantages to drive joint wins, then codifying what works into repeatable playbooks You'll build trusted relationships with technology partners — keeping their sales teams in lockstep with ours and equipped to confidently recommend Omnea to their clients You'll build that same trust internally — giving our Sales and Customer Success teams the understanding and the incentive to recommend our technology partners to their customers and prospects, so the value flows both ways About you You have 4–6+ years of experience in fast-moving, high-performance environments You have commercial experience in a high-growth startup or scale-up in a quota-carrier, account management or partnerships role You've got a track record of exceptional performance, whether it's in academia, work, sport, or whatever else you've put your mind to You're deeply commercial and outcome-oriented, able to move between relationship management and execution to drive measurable impact You have the communication skills and polish to work confidently with a variety of stakeholders internally and across technology partners You're intellectually sharp and able to quickly understand complex products, simplifying problems into clear next steps, deal strategy, or product feedback You're ambitious and competitive, thrive on responsibility, and are motivated by building something meaningful in a high-ownership environment You perform best in environments that demand speed, accountability, and autonomy, and you care deeply about building something that lasts At Omnea, we embrace diversity. To build a product that's loved by everyone, we're best served by a team with all sorts of backgrounds, experiences, and perspectives. We encourage you to apply even if your experience doesn't quite match the full job spec! And regardless of your race, religion, colour, gender, or anything else! If you think you could be a good fit for Omnea, please reach out. A few things to note: We offer competitive geo-localised benefits, and you can check out our UK Benefits Package here and our US Benefits Package here . We work Tuesdays, Wednesdays &amp; Thursdays in-person at our offices. At this early stage of our company life-cycle it's important to us that we get this together-time, and you can read more about why we believe this is a winning move here We're commercial, ambitious and we don't pretend otherwise! We're actively seeking folks looking to make the most of a career-defining opportunity, with the hunger to be part of building something really impressive . You can see our values here and our Omnea Future Founder's fund here ! We sometimes use AI note-takers to help us transcribe interview notes, so we can be more present in your interview. If you'd like to opt out of us using automatic transcribers, please note this in the free text field in your application, otherwise we'll take your application as confirmation that you're happy for us to use notetakers (whether added to video calls or in the background). We are proud to be recognised for both our culture and product, and we are just getting started. Join us as we grow! Legal note: if you are viewing this posting outside of the Omnea careers' page, this may be an auto-generated advertisement and may lack the full range of advertised information - please click through to the posting at https://jobs.ashbyhq.com/omnea to view additional advertised information on this posting. Additionally, where roles have hard-specified requirements (e.g. [x] days in office, unable to provide visas, etc), if in your application you provide deterministic check-box confirmation that you do not meet the hard-specified requirements, deterministic (not AI or subjective) automatic rejection criteria are in place. Find Jobs in United Kingdom on Arbeitnow",
+    "description": "Our Mission At Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails , and pull in Finance, Legal, Security, and IT just to get something approved. We’ve raised $75M from Khosla Ventures, Insight Partners, and Accel to change that. Our AI-native platform connects every person, step, and system so buying is fast, safe, and efficient – one place to request, automated approvals and renewals, real-time supplier risk, and complete spend visibility. The opportunity is massive. Every enterprise on the planet has this problem and nobody has solved it . We’ve 10x’d ARR to double-digit millions in 18 months and are trusted by global enterprises like Spotify, MongoDB, Monzo, and Albertsons. We’re now the 4th fastest growing startup in Europe &amp; the Sunday Times' #1 Best Medium Sized Tech Company To Work for. Our team previously scaled Tessian ( cybersecurity tech, backed by Sequoia, Balderton, Accel , acquired post-Series C), and our team includes ex-founders operators who’ve grown unicorns, shipped world-class products, and executed at the highest levels. You’ll work alongside leaders like Ben , Abs , Sabrina , and Rebe . Find out more about the team and life at Omnea here . What We’re Looking For We're looking for a commercially sharp, tenacious operator who is exceptional at building relationships to further accelerate our Technology Partnerships motion. This role is based in London. You'll build, operationalise and deepen our critical external relationships and help turn technology partnerships into a repeatable, scalable source of revenue. We've seen early success with partner-led growth — and are now scaling this into a core growth engine. What You Can Expect This role is highly execution-oriented, with direct ownership over Omnea's technology partnerships motion: You'll build new technology partner relationships — defining your priorities based on customer &amp; prospect needs, finding creative ways in, and articulating the mutual benefits You'll operationalise our existing technology partnerships — managing the relationship day-to-day, developing joint go-to-market motions with partners serving the same businesses, and ensuring partners see consistent value from working with Omnea You'll organise community building events for the technology ecosystem You'll be accountable for partner-sourced and partner-influenced pipeline, helping unlock new opportunities and improve win rates across deals You'll work hands-on with the Sales team on live deals and work with partners to build unfair advantages to drive joint wins, then codifying what works into repeatable playbooks You'll build trusted relationships with technology partners — keeping their sales teams in lockstep with ours and equipped to confidently recommend Omnea to their clients You'll build that same trust internally — giving our Sales and Customer Success teams the understanding and the incentive to recommend our technology partners to their customers and prospects, so the value flows both ways About you You have 4–6+ years of experience in fast-moving, high-performance environments You have commercial experience in a high-growth startup or scale-up in a quota-carrier, account management or partnerships role You've got a track record of exceptional performance, whether it's in academia, work, sport, or whatever else you've put your mind to You're deeply commercial and outcome-oriented, able to move between relationship management and execution to drive measurable impact You have the communication skills and polish to work confidently with a variety of stakeholders internally and across technology partners You're intellectually sharp and able to quickly understand complex products, simplifying problems into clear next steps, deal strategy, or product feedback You're ambitious and competitive, thrive on responsibility, and are motivated by building something meaningful in a high-ownership environment You perform best in environments that demand speed, accountability, and autonomy, and you care deeply about building something that lasts At Omnea, we embrace diversity. To build a product that's loved by everyone, we're best served by a team with all sorts of backgrounds, experiences, and perspectives. We encourage you to apply even if your experience doesn't quite match the full job spec! And regardless of your race, religion, colour, gender, or anything else! If you think you could be a good fit for Omnea, please reach out. A few things to note: We offer competitive geo-localised benefits, and you can check out our UK Benefits Package here and our US Benefits Package here . We work Tuesdays, Wednesdays &amp; Thursdays in-person at our offices. At this early stage of our company life-cycle it's important to us that we get this together-time, and you can read more about why we believe this is a winning move here We're commercial, ambitious and we don't pretend otherwise! We're actively seeking folks looking to make the most of a career-defining opportunity, with the hunger to be part of building something really impressive . You can see our values here and our Omnea Future Founder's fund here ! We sometimes use AI note-takers to help us transcribe interview notes, so we can be more present in your interview. If you'd like to opt out of us using automatic transcribers, please note this in the free text field in your application, otherwise we'll take your application as confirmation that you're happy for us to use notetakers (whether added to video calls or in the background). We are proud to be recognised for both our culture and product, and we are just getting started. Join us as we grow! Legal note: if you are viewing this posting outside of the Omnea careers' page, this may be an auto-generated advertisement and may lack the full range of advertised information - please click through to the posting at https://jobs.ashbyhq.com/omnea to view additional advertised information on this posting. Additionally, where roles have hard-specified requirements (e.g. [x] days in office, unable to provide visas, etc), if in your application you provide deterministic check-box confirmation that you do not meet the hard-specified requirements, deterministic (not AI or subjective) automatic rejection criteria are in place. Find more English Speaking Jobs in United Kingdom on Arbeitnow",
     "score": null,
     "score_reason": "",
     "skills": [],
@@ -16922,7 +16921,7 @@
     "salary_period": "",
     "salary_inr": "not stated",
     "employment_type": "Full Time",
-    "description": "Our Mission At Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails , and pull in Finance, Legal, Security, and IT just to get something approved. We’ve raised $75M from Khosla Ventures, Insight Partners, and Accel to change that. Our AI-native platform connects every person, step, and system so buying is fast, safe, and efficient – one place to request, automated approvals and renewals, real-time supplier risk, and complete spend visibility. The opportunity is massive. Every enterprise on the planet has this problem and nobody has solved it . We’ve 10x’d ARR to double-digit millions in 18 months and are trusted by global enterprises like Spotify, MongoDB, Monzo, and Albertsons. We’re now the 4th fastest growing startup in Europe &amp; the Sunday Times' #1 Best Medium Sized Tech Company To Work for. Our team previously scaled Tessian ( cybersecurity tech, backed by Sequoia, Balderton, Accel , acquired post-Series C), and our team includes ex-founders operators who’ve grown unicorns, shipped world-class products, and executed at the highest levels. You’ll work alongside leaders like Ben , Abs , Sabrina , and Rebe . Find out more about the team and life at Omnea here . What we're looking for This is the first dedicated Product Operations hire at Omnea. You'll report to our VP Product. You'll live at the intersection of product and AI. You'll build the operational layer a fast-growing product team needs: the tool stack, the launch rhythm, our top-level metrics, early access programmes, the comms. Treat the product org as your user. Define the problem, build the thing, get people using it, then check whether it made anyone faster. If it didn't, kill it and try something else. We want a structured operator with low ego and a builder's instinct. You'd rather automate a problem than write a process doc about it. You'll be hands-on — wiring up integrations, writing Claude skills, pulling data, shipping dashboards. What Can You Expect? AI enablement for the product team. You'll work out where PMs, designers and engineers are spending time they shouldn't, then build the agents, Claude skills and automations that take it off them: synthesising customer signal from Gong, Slack and support, turning specs into first drafts, generating release notes, assembling reporting. Getting people to use what you build matters as much as building it, so expect to spend real time on adoption and coaching. Hold yourself to whether the team is measurably faster. The product tool stack. Claude (incl skills), Figma, Linear, Notion, Pylon, Mixpanel, Datadog, Granola, our AI tooling, whatever comes next. You own how it's configured, how it connects and how well it's used. Kill what isn't earning its licence. Run the evaluation when we need something new. Connect them up so nobody's copy-pasting between systems. And structure our sources of truth — roadmap data, decision logs, product knowledge — so agents can read them as well as people can. Launch and release coordination. The product launch calendar, readiness criteria, and a reliable record of what shipped when. The important part is the join between what we build and how we sell it. Product Marketing owns the narrative and the campaign and marketing release timing; you own the reality underneath it. You’ll know the product inside &amp; out, you’ll ensure that the thing we're announcing has actually shipped, works, is documented for internal teams and customer, and a customer can use it on day one. Nothing goes out before it's ready. Nothing meaningful ships without the market hearing about it. Early access programmes. Alpha, beta and design partner programmes are how we de-risk what we build and how our best customers get a stake in the roadmap. They run informally today. As we sell to bigger and more demanding enterprises they need proper structure: who gets in, what both sides commit to, how feedback gets captured and routed, and what has to be true before something goes GA. You'll design that and mature it as our customer base does. Top-level metrics. PMs own the detail for their own areas and should keep owning it. You own the layer above: our North Star and company-level product metrics, the key metric from each team pulled into one picture, kept current and actually looked at. You’ll shape the narrative around the metrics and work with PMs to connect the detail into the company level. You'll bring in the signals from outside product that should be shaping decisions — pipeline and what we're winning on, customer health, how people really use what we've shipped. Board and investor materials should pull from your view rather than getting rebuilt from scratch every quarter. Product comms, including the roadmap deck. The internal newsletter, release notifications, release tracking. As we ship faster this becomes the difference between a business that's aligned and one that's guessing — Sales, Customer and Marketing should never be surprised by something we've shipped. You'll also own our external-facing roadmap deck, used with prospects and customers and as an internal alignment tool. Documentation. Integration guides, technical docs and product reference material that get used live in sales cycles and onboarding. You'll keep them accurate as the product grows, you’ll track their adoption and adjust. How the product team comes together. A team growing this fast needs coherence. You'll run our quarterly or semi-annual product events, and wider R&amp;D events where it makes sense, with a real agenda and a real outcome rather than a day of slides. You'll also own our learning rhythm: lunch and learns, internal teach-ins, and getting good external speakers in from other product orgs. About You You've spent 2 to 3 years in product operations, product management, business operations, strategy and ops, consulting or a chief-of-staff role, ideally in B2B SaaS. The strongest candidates will have done more than one of those, and will have built the systems they ran rather than inherited them. AI is already how you work. Not something you're planning to get to. You use it instinctively, and more usefully, you know how to design systems that leverage it for other people. You've built agents, automations or internal tools that others adopted and kept using. You can get to a working prototype without waiting for engineering. You're comfortable with data. You can pull it, interrogate it and turn it into something a PM will act on. You're a systems thinker. You know the difference between a process problem and a structural one, and when to optimise versus when to redesign. You write well. You can take a roadmap, a release, or a pile of signals from across the business and make it land with people who didn't build it. You can hold an event with a lot of moving parts and senior people in it, and land it. You have experience in a start up or scale-up environment. You have a track record of top performance, in academia or work or both. At Omnea, we embrace diversity. To build a product that's loved by everyone, we're best served by a team with all sorts of backgrounds, experiences, and perspectives. We encourage you to apply even if your experience doesn't quite match the full job spec! And regardless of your race, religion, colour, gender, or anything else! If you think you could be a good fit for Omnea, please reach out. A few things to note: We offer competitive geo-localised benefits, and you can check out our UK Benefits Package here and our US Benefits Package here . We work Tuesdays, Wednesdays &amp; Thursdays in-person at our offices. At this early stage of our company life-cycle it's important to us that we get this together-time, and you can read more about why we believe this is a winning move here We're commercial, ambitious and we don't pretend otherwise! We're actively seeking folks looking to make the most of a career-defining opportunity, with the hunger to be part of building something really impressive . You can see our values here and our Omnea Future Founder's fund here ! We sometimes use AI note-takers to help us transcribe interview notes, so we can be more present in your interview. If you'd like to opt out of us using automatic transcribers, please note this in the free text field in your application, otherwise we'll take your application as confirmation that you're happy for us to use notetakers (whether added to video calls or in the background). We are proud to be recognised for both our culture and product, and we are just getting started. Join us as we grow! Legal note: if you are viewing this posting outside of the Omnea careers' page, this may be an auto-generated advertisement and may lack the full range of advertised information - please click through to the posting at https://jobs.ashbyhq.com/omnea to view additional advertised information on this posting. Additionally, where roles have hard-specified requirements (e.g. [x] days in office, unable to provide visas, etc), if in your application you provide deterministic check-box confirmation that you do not meet the hard-specified requirements, deterministic (not AI or subjective) automatic rejection criteria are in place. Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+    "description": "Our Mission At Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails , and pull in Finance, Legal, Security, and IT just to get something approved. We’ve raised $75M from Khosla Ventures, Insight Partners, and Accel to change that. Our AI-native platform connects every person, step, and system so buying is fast, safe, and efficient – one place to request, automated approvals and renewals, real-time supplier risk, and complete spend visibility. The opportunity is massive. Every enterprise on the planet has this problem and nobody has solved it . We’ve 10x’d ARR to double-digit millions in 18 months and are trusted by global enterprises like Spotify, MongoDB, Monzo, and Albertsons. We’re now the 4th fastest growing startup in Europe &amp; the Sunday Times' #1 Best Medium Sized Tech Company To Work for. Our team previously scaled Tessian ( cybersecurity tech, backed by Sequoia, Balderton, Accel , acquired post-Series C), and our team includes ex-founders operators who’ve grown unicorns, shipped world-class products, and executed at the highest levels. You’ll work alongside leaders like Ben , Abs , Sabrina , and Rebe . Find out more about the team and life at Omnea here . What we're looking for This is the first dedicated Product Operations hire at Omnea. You'll report to our VP Product. You'll live at the intersection of product and AI. You'll build the operational layer a fast-growing product team needs: the tool stack, the launch rhythm, our top-level metrics, early access programmes, the comms. Treat the product org as your user. Define the problem, build the thing, get people using it, then check whether it made anyone faster. If it didn't, kill it and try something else. We want a structured operator with low ego and a builder's instinct. You'd rather automate a problem than write a process doc about it. You'll be hands-on — wiring up integrations, writing Claude skills, pulling data, shipping dashboards. What Can You Expect? AI enablement for the product team. You'll work out where PMs, designers and engineers are spending time they shouldn't, then build the agents, Claude skills and automations that take it off them: synthesising customer signal from Gong, Slack and support, turning specs into first drafts, generating release notes, assembling reporting. Getting people to use what you build matters as much as building it, so expect to spend real time on adoption and coaching. Hold yourself to whether the team is measurably faster. The product tool stack. Claude (incl skills), Figma, Linear, Notion, Pylon, Mixpanel, Datadog, Granola, our AI tooling, whatever comes next. You own how it's configured, how it connects and how well it's used. Kill what isn't earning its licence. Run the evaluation when we need something new. Connect them up so nobody's copy-pasting between systems. And structure our sources of truth — roadmap data, decision logs, product knowledge — so agents can read them as well as people can. Launch and release coordination. The product launch calendar, readiness criteria, and a reliable record of what shipped when. The important part is the join between what we build and how we sell it. Product Marketing owns the narrative and the campaign and marketing release timing; you own the reality underneath it. You’ll know the product inside &amp; out, you’ll ensure that the thing we're announcing has actually shipped, works, is documented for internal teams and customer, and a customer can use it on day one. Nothing goes out before it's ready. Nothing meaningful ships without the market hearing about it. Early access programmes. Alpha, beta and design partner programmes are how we de-risk what we build and how our best customers get a stake in the roadmap. They run informally today. As we sell to bigger and more demanding enterprises they need proper structure: who gets in, what both sides commit to, how feedback gets captured and routed, and what has to be true before something goes GA. You'll design that and mature it as our customer base does. Top-level metrics. PMs own the detail for their own areas and should keep owning it. You own the layer above: our North Star and company-level product metrics, the key metric from each team pulled into one picture, kept current and actually looked at. You’ll shape the narrative around the metrics and work with PMs to connect the detail into the company level. You'll bring in the signals from outside product that should be shaping decisions — pipeline and what we're winning on, customer health, how people really use what we've shipped. Board and investor materials should pull from your view rather than getting rebuilt from scratch every quarter. Product comms, including the roadmap deck. The internal newsletter, release notifications, release tracking. As we ship faster this becomes the difference between a business that's aligned and one that's guessing — Sales, Customer and Marketing should never be surprised by something we've shipped. You'll also own our external-facing roadmap deck, used with prospects and customers and as an internal alignment tool. Documentation. Integration guides, technical docs and product reference material that get used live in sales cycles and onboarding. You'll keep them accurate as the product grows, you’ll track their adoption and adjust. How the product team comes together. A team growing this fast needs coherence. You'll run our quarterly or semi-annual product events, and wider R&amp;D events where it makes sense, with a real agenda and a real outcome rather than a day of slides. You'll also own our learning rhythm: lunch and learns, internal teach-ins, and getting good external speakers in from other product orgs. About You You've spent 2 to 3 years in product operations, product management, business operations, strategy and ops, consulting or a chief-of-staff role, ideally in B2B SaaS. The strongest candidates will have done more than one of those, and will have built the systems they ran rather than inherited them. AI is already how you work. Not something you're planning to get to. You use it instinctively, and more usefully, you know how to design systems that leverage it for other people. You've built agents, automations or internal tools that others adopted and kept using. You can get to a working prototype without waiting for engineering. You're comfortable with data. You can pull it, interrogate it and turn it into something a PM will act on. You're a systems thinker. You know the difference between a process problem and a structural one, and when to optimise versus when to redesign. You write well. You can take a roadmap, a release, or a pile of signals from across the business and make it land with people who didn't build it. You can hold an event with a lot of moving parts and senior people in it, and land it. You have experience in a start up or scale-up environment. You have a track record of top performance, in academia or work or both. At Omnea, we embrace diversity. To build a product that's loved by everyone, we're best served by a team with all sorts of backgrounds, experiences, and perspectives. We encourage you to apply even if your experience doesn't quite match the full job spec! And regardless of your race, religion, colour, gender, or anything else! If you think you could be a good fit for Omnea, please reach out. A few things to note: We offer competitive geo-localised benefits, and you can check out our UK Benefits Package here and our US Benefits Package here . We work Tuesdays, Wednesdays &amp; Thursdays in-person at our offices. At this early stage of our company life-cycle it's important to us that we get this together-time, and you can read more about why we believe this is a winning move here We're commercial, ambitious and we don't pretend otherwise! We're actively seeking folks looking to make the most of a career-defining opportunity, with the hunger to be part of building something really impressive . You can see our values here and our Omnea Future Founder's fund here ! We sometimes use AI note-takers to help us transcribe interview notes, so we can be more present in your interview. If you'd like to opt out of us using automatic transcribers, please note this in the free text field in your application, otherwise we'll take your application as confirmation that you're happy for us to use notetakers (whether added to video calls or in the background). We are proud to be recognised for both our culture and product, and we are just getting started. Join us as we grow! Legal note: if you are viewing this posting outside of the Omnea careers' page, this may be an auto-generated advertisement and may lack the full range of advertised information - please click through to the posting at https://jobs.ashbyhq.com/omnea to view additional advertised information on this posting. Additionally, where roles have hard-specified requirements (e.g. [x] days in office, unable to provide visas, etc), if in your application you provide deterministic check-box confirmation that you do not meet the hard-specified requirements, deterministic (not AI or subjective) automatic rejection criteria are in place. Find Jobs in United Kingdom on Arbeitnow",
     "score": null,
     "score_reason": "",
     "skills": [],
@@ -17004,7 +17003,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "6e6b021481b9df8c",
@@ -17038,7 +17037,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "c51ca9850eb39c0e",
@@ -17080,7 +17079,7 @@
     "company": "Provinzial Konzern",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5854940798?se=1MsKXD2g8RGLZZiuaUCfOw&utm_medium=api&utm_source=ceaf5c9d&v=DAD1029AEE1D53A9718515166CD0C1A61401F0D3",
+    "url": "https://www.adzuna.de/land/ad/5854940798?se=jlEZwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=DAD1029AEE1D53A9718515166CD0C1A61401F0D3",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-25",
@@ -17114,7 +17113,7 @@
     "company": "Elevion GmbH",
     "location": "Germany",
     "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5854940065?se=1MsKXD2g8RGLZZiuaUCfOw&utm_medium=api&utm_source=ceaf5c9d&v=B418D8DE6E55846218C17A6C876A62EB26AB9BD2",
+    "url": "https://www.adzuna.de/land/ad/5854940065?se=jlEZwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=B418D8DE6E55846218C17A6C876A62EB26AB9BD2",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-25",
@@ -17127,6 +17126,142 @@
     "salary_inr": "not stated",
     "employment_type": "not stated",
     "description": "Job Description Die Elevion ist der europäische Lösungsanbieter für alle Aufgaben rund um die klimaschonende Gewinnung und Nutzung von Energie. Mit unserem Fokus auf integrierte Energiedienstleistungen, liefern wir Lösungen, die CO2-Reduzierung, Steigerung der Energieeffizienz, Einsparungen bei den Energiekosten, Systeme für erneuerbare Energien sowie alle Bereiche der Technischen Gebäudeausrüstung und Dienstleistungen miteinander verbinden. Scrollen Sie nach unten, um einen ausführlichen Überb…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "missing_runs": 0
+  },
+  {
+    "id": "ed425b3e479c554f",
+    "title": "Navigation Solution Consultant",
+    "company": "Rightway",
+    "location": "United States",
+    "country": "REMOTE",
+    "url": "https://himalayas.app/companies/rightway/jobs/navigation-solution-consultant",
+    "source": "himalayas",
+    "source_type": "api",
+    "posted_date": "1787632638",
+    "remote": true,
+    "salary": "113000-146000 USD annual",
+    "salary_min": 113000,
+    "salary_max": 146000,
+    "salary_currency": "USD",
+    "salary_period": "annual",
+    "salary_inr": "≈ ₹1.1 Cr–1.4 Cr annual",
+    "employment_type": "Full Time",
+    "description": "Navigation Solution Consultant ABOUT THE ROLE The Navigation Solution Consultant at Rightway is a subject matter expert (SME) who serves as the cornerstone of technical, clinical and strategic expertise during client engagements. This role is pivotal in ensuring Rightway ’s most sophisticated clients fully understand and realize the value of our Navigation and Unity (PBM &amp; Navigation) solutions. From RFPs, pitch meetings to finalist discussions, the Navigation Solution Consultant demonstrates mastery of our solution offerings, articulating their benefits and strategic impact for our clients. Collaborating across teams, this individual plays a key role in commercial activities, client satisfaction, operational excellence, and Rightway ’s market leadership. WHAT YOU’LL DO Represent Rightway as a subject matter expert during client interactions, including high-stakes pitch meetings and finalist discussions, showcasing a deep understanding of our Navigation solutions and their strategic benefits. Support the proposals team by contributing to RFP responses. Collaboration with the Navigation and Unity delivery leadership to ensure strong knowledge of current and ever-evolving service model. Provide insights to the marketing and partnership teams as a subject matter expert. Conduct interactive workshops with clients to identify current issues and needs, brainstorm potential solutions, and propose actionable plans for future enhancements. Develop comprehensive materials and resources to empower the sales team, fostering knowledge sharing and operational efficiency. Design impactful client demos that resonate with diverse client needs and effectively showcase the value of Rightway ’s Navigation solutions. Collaborate with sales support roles and technical teams to create a Unity demo and pitch Act as a conduit between product marketing and sales enablement, ensuring cohesive messaging, tools, and strategies that enhance client engagement. Provide clinical and technical leadership and insights throughout the client lifecycle, from discovery and design to implementation and ongoing optimization. Collaborate with internal teams to gather feedback on product offerings and ensure alignment with sophisticated client requirements and market trends. Support enablement efforts, equipping the sales team with the necessary resources to engage clients effectively and efficiently. Continuously refine solution expertise by staying up to date on market dynamics, market intelligence, client needs, and emerging technologies within the Navigation space. WHO YOU ARE Bachelor of Science degree in healthcare, technology, or a related field; advanced degree preferred. 4-8 years of experience in Navigation solutions, healthcare IT, or a related role, with a proven ability to engage and guide sophisticated clients through complex discussions. Expertise in Navigation operations and their strategic application to client needs. Exceptional communication and interpersonal skills, with the ability to engage effectively with both technical and non-technical stakeholders. Strong presentation skills, with experience leading client-facing discussions and tailoring messaging to meet diverse client needs. Analytical and solution-oriented mindset, with a track record of translating complex requirements into actionable solutions. Proactively requests feedback from internal stakeholders on a regular basis and incorporates IDEAL Experience with enterprise-level healthcare solutions and interoperability frameworks. Familiarity with Rightway ’s product offerings and how they address client challenges. Clinical background and experience desired, preferably Registered Nurse COMPENSATION: Base Salary: $113,000 - $146,000 Compensation offered will be determined by geographic location, experience, and qualifications. CYBERSECURITY AWARENESS NOTICE In response to ongoing and industry-wide fraudulent recruitment activities (i.e., job scams), Rightway wants to inform potential candidates that we will only contact them from the @ email domain. We will never ask for bank details or deposits of any kind as a condition of employment. ABOUT RIGHTWAY: Rightway is on a mission to harmonize healthcare for everyone, everywhere. Our products guide patients to the best care and medications by inserting clinicians and pharmacists into a patient’s care journey through a modern, mobile app. Rightway is a front door to healthcare, giving patients the tools they need along with on-demand access to Rightway health guides, human experts that answer their questions and manage the frustrating parts of healthcare for them. Since its founding in 2017, Rightway has raised over $200mm from investors including Khosla Ventures, Thrive Capital, and Tiger Global. We’re headquartered in New York City, with satellite offices in Denver and Dallas. Our clients rely on us to transform the healthcare experience, improve outcomes for their teams, and decrease their healthcare costs. HOW WE LIVE OUR VALUES TO OUR TEAMMATES: We’re seeking those with passion for healthcare and relentless devotion to our goal. We need team members that embody our core values: 1) We are human, first Our humanity binds us together. We bring the same empathetic approach to every individual we engage with, whether it be our members, our clients, or each other. We are all worthy of respect and understanding and we engage in our interactions with care and intention. We honor our stories. We listen to—and hear—each other, we celebrate our differences and similarities, we are present for each other, and we strive for mutual understanding. 2) We redefine what is possible We always look beyond the obstacles in front of us to imagine new solutions. We approach our work with inspiration from other industries, other leaders, and other challenges. We use ingenuity and resourcefulness when faced with tough problems. 3) We debate then commit We believe that a spirit of open discourse is part of a healthy culture. We understand and appreciate different perspectives and we challenge our assumptions. When working toward a decision or a new solution, we actively listen to one another, approach it with a “yes, and” mentality, and assume positive intent. Once a decision is made, we align and champion it as one team. 4) We cultivate grit Changing healthcare doesn’t happen overnight. We reflect and learn from challenges and approach the future with a determination to strive for better. In the face of daunting situations, we value persistence. We embrace failure as a stepping stone to future success. On this journey, we seek to act with guts, resilience, initiative, and tenacity. 5) We seek to delight Healthcare is complicated and personal. We work tirelessly to meet the goals of our clients while also delivering the best experience to our members. We recognize that no matter the role or team, we each play a crucial part in our members’ care and take that responsibility seriously. When faced with an obstacle, we are kind, respectful, and solution-oriented in our approach. We hold ourselves accountable to our clients and our members’ success. Rightway is proud to be an Equal Opportunity Employer that believes in the strength of diverse thought, beliefs, backgrounds, and education. We foster an inclusive culture where differences are celebrated to drive the best business decisions possible. We do not discriminate on any basis protected by applicable law. All employment decisions are based on merit, qualifications, need, and performance. Originally posted on Himalayas",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "missing_runs": 0
+  },
+  {
+    "id": "966e6f6174460fc2",
+    "title": "Pharmacy Technician - Care Team (Bilingual)",
+    "company": "Rightway",
+    "location": "United States",
+    "country": "REMOTE",
+    "url": "https://himalayas.app/companies/rightway/jobs/pharmacy-technician-care-team-bilingual",
+    "source": "himalayas",
+    "source_type": "api",
+    "posted_date": "1787632437",
+    "remote": true,
+    "salary": "23-23 USD hourly",
+    "salary_min": 23,
+    "salary_max": 23,
+    "salary_currency": "USD",
+    "salary_period": "hourly",
+    "salary_inr": "≈ ₹2,203–2,203 hourly",
+    "employment_type": "Full Time",
+    "description": "ABOUT THE ROLE: Rightway exists to make pharmacy benefits fair, transparent, and easier to navigate. This role sits on the Rightway Operations team and is a member of the front line of that mission: the first point of contact for members, providers, and pharmacies with questions about benefits, prior authorization, claims, and clinical program enrollment. You'll work across phone, chat, and email applying the same standard of empathy and root cause problem solving no matter the channel a member chooses. WHAT YOU’LL DO: Serve as the primary point of contact for members, providers, and pharmacies across phone, chat, email, and written correspondence, delivering timely and accurate support regardless of communication channel. Field and resolve inquiries related to mail order, benefit design, formulary coverage, medication cost, prior authorization criteria, and claims adjudication. Seamlessly support interactions across phone, chat, email, and other digital channels while maintaining consistent quality and service standards. Assist network pharmacies in processing prescription claims, reviewing claims for accuracy against benefit guidelines and contract standards. Support clinical pharmacists with patient and provider outreach, including scheduling appointments, enrolling members in Rightway clinical programs, and following up on medication adherence. Accurately document interactions and resolutions within internal systems to support continuity of care, quality assurance, compliance requirements, and operational reporting. Take ownership of member, provider, and pharmacy issues from initial contact through final resolution, coordinating with internal teams when necessary to ensure timely and complete resolution. Utilize AI-enabled tools and internal knowledge systems to efficiently resolve inquiries, document interactions, and deliver a consistent member experience. Foster a team environment that values cooperation, respect, and diversity, and take on other duties and projects as assigned. WHO YOU ARE: Bilingual in English/Spanish Education: associate's or bachelor's degree preferred, or equivalent relevant work experience. Certification: Active/Current National Pharmacy Technician Certification (PTCB, NHA) Experience: 1 to 3 years as a pharmacy technician in a health plan, retail pharmacy setting, TPA, or PBM contact center role. Mail order and specialty pharmacy backgrounds are also a strong fit. Working knowledge of pharmacy claims adjudication, benefit design, and PBM terminology. Detail oriented, adaptable, and analytical, with the ability to dig past a symptom to find and resolve the true root cause. Empathetic and intellectually curious, with a genuine desire to improve a member's healthcare experience and deliver concierge level service across every channel. Comfortable multitasking and prioritizing across concurrent phone, chat, and email queues, with the independence to manage your own workload. Comfortable supporting multiple lines of business and shifting priorities based on business needs, seasonal demand, and service levels. COMPENSATION: $23.00/hr Compensation offered will be determined by geographic location, experience, and qualifications. CYBERSECURITY AWARENESS NOTICE In response to ongoing and industry-wide fraudulent recruitment activities (i.e., job scams), Rightway wants to inform potential candidates that we will only contact them from the @ email domain. We will never ask for bank details or deposits of any kind as a condition of employment. ABOUT RIGHTWAY: Rightway is on a mission to harmonize healthcare for everyone, everywhere. Our products guide patients to the best care and medications by inserting clinicians and pharmacists into a patient’s care journey through a modern, mobile app. Rightway is a front door to healthcare, giving patients the tools they need along with on-demand access to Rightway health guides, human experts that answer their questions and manage the frustrating parts of healthcare for them. Since its founding in 2017, Rightway has raised over $200mm from investors including Khosla Ventures, Thrive Capital, and Tiger Global. We’re headquartered in New York City, with satellite offices in Denver and Dallas. Our clients rely on us to transform the healthcare experience, improve outcomes for their teams, and decrease their healthcare costs. HOW WE LIVE OUR VALUES TO OUR TEAMMATES: We’re seeking those with passion for healthcare and relentless devotion to our goal. We need team members that embody our core values: 1) We are human, first Our humanity binds us together. We bring the same empathetic approach to every individual we engage with, whether it be our members, our clients, or each other. We are all worthy of respect and understanding and we engage in our interactions with care and intention. We honor our stories. We listen to—and hear—each other, we celebrate our differences and similarities, we are present for each other, and we strive for mutual understanding. 2) We redefine what is possible We always look beyond the obstacles in front of us to imagine new solutions. We approach our work with inspiration from other industries, other leaders, and other challenges. We use ingenuity and resourcefulness when faced with tough problems. 3) We debate then commit We believe that a spirit of open discourse is part of a healthy culture. We understand and appreciate different perspectives and we challenge our assumptions. When working toward a decision or a new solution, we actively listen to one another, approach it with a “yes, and” mentality, and assume positive intent. Once a decision is made, we align and champion it as one team. 4) We cultivate grit Changing healthcare doesn’t happen overnight. We reflect and learn from challenges and approach the future with a determination to strive for better. In the face of daunting situations, we value persistence. We embrace failure as a stepping stone to future success. On this journey, we seek to act with guts, resilience, initiative, and tenacity. 5) We seek to delight Healthcare is complicated and personal. We work tirelessly to meet the goals of our clients while also delivering the best experience to our members. We recognize that no matter the role or team, we each play a crucial part in our members’ care and take that responsibility seriously. When faced with an obstacle, we are kind, respectful, and solution-oriented in our approach. We hold ourselves accountable to our clients and our members’ success. Rightway is proud to be an Equal Opportunity Employer that believes in the strength of diverse thought, beliefs, backgrounds, and education. We foster an inclusive culture where differences are celebrated to drive the best business decisions possible. We do not discriminate on any basis protected by applicable law. All employment decisions are based on merit, qualifications, need, and performance. Originally posted on Himalayas",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "missing_runs": 0
+  },
+  {
+    "id": "0291561754d5df5d",
+    "title": "Junior IT Security Consultant (m/w/d)- 100%",
+    "company": "Agnostic Intelligence AG",
+    "location": "Zug, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5854363649?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-24",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Im Zuge der digitalen Transformation und zunehmender Vernetzung von IT‑, OT‑ und IoT‑Systemen suchen wir eine erfahrene Persönlichkeit, die Cybersecurity nicht nur operativ versteht, sondern ganzheitlich denkt. In dieser Rolle gestaltest du integrierte Sicherheitslösungen, etablierst belastbare Governance‑Strukturen und begleitest Organisationen bei der sicheren Umsetzung moderner Technologien und Geschäftsmodelle. Aufgaben Analyse, Bewertung und Weiterentwicklung von Organisationsstrukturen, S…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "missing_runs": 0
+  },
+  {
+    "id": "14ca97c63ebb0b44",
+    "title": "Information Security Engineer (m/w/d) - Technical Incident Response & Detection Siem/ Edr",
+    "company": "Hasso-Plattner-Institut für Digital Engineering gGmbH",
+    "location": "Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5854944390?se=jlEZwU2g8RGkr9xW060fUg&utm_medium=api&utm_source=ceaf5c9d&v=F1DA28FE791E95DCB913FF5B0E799CC3D6B51AEF",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-25",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Das HPI ist eines der führenden universitären Informatikinstitute, ( ). Unser Ziel ist es, die digitale Souveränität Europas mit exzellenter Forschung und praxisnaher Lehre in der Informatik zu stärken. Am HPI sind wir davon überzeugt, dass Exzellenz dann entsteht, wenn wir das Wissen verschiedener Disziplinen in Zusammenarbeit verbinden, um gemeinsam verantwortungsvolle . klicken sie bewerben, für die volle Stellenbeschreibung",
     "score": null,
     "score_reason": "",
     "skills": [],
