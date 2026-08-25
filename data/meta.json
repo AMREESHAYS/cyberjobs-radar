@@ -1,14 +1,14 @@
 {
-  "total": 492,
-  "new": 4,
-  "scored": 9,
+  "total": 503,
+  "new": 11,
+  "scored": 10,
   "removed": 0,
   "aged_out": 0,
   "above_level": 120,
   "off_topic": 0,
   "sources": {
-    "arbeitnow": 9,
-    "jobicy": 32,
+    "arbeitnow": 12,
+    "jobicy": 37,
     "remoteok": 1,
     "himalayas": 3,
     "adzuna": 47,
@@ -28,5 +28,5 @@
   },
   "quiet_sources": [],
   "duplicates": 17,
-  "generated_at": "2026-08-25T06:25:20+00:00"
+  "generated_at": "2026-08-25T08:28:48+00:00"
 }
