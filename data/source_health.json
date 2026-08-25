@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 42,
+    "last_count": 43,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 12,
+    "last_count": 8,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
