@@ -1,14 +1,14 @@
 {
-  "total": 561,
+  "total": 563,
   "new": 2,
   "scored": 10,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 128,
+  "above_level": 124,
   "off_topic": 1,
   "sources": {
-    "arbeitnow": 18,
-    "jobicy": 39,
+    "arbeitnow": 14,
+    "jobicy": 38,
     "remoteok": 1,
     "himalayas": 3,
     "adzuna": 37,
@@ -27,6 +27,6 @@
     "norway": 5
   },
   "quiet_sources": [],
-  "duplicates": 15,
-  "generated_at": "2026-08-26T19:30:14+00:00"
+  "duplicates": 14,
+  "generated_at": "2026-08-26T22:34:04+00:00"
 }
