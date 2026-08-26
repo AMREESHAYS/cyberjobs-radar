@@ -1,6 +1,6 @@
 {
-  "total": 526,
-  "new": 4,
+  "total": 527,
+  "new": 1,
   "scored": 9,
   "removed": 0,
   "aged_out": 0,
@@ -27,6 +27,6 @@
     "norway": 5
   },
   "quiet_sources": [],
-  "duplicates": 14,
-  "generated_at": "2026-08-25T22:14:27+00:00"
+  "duplicates": 15,
+  "generated_at": "2026-08-26T00:36:45+00:00"
 }
