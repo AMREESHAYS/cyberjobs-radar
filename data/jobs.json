@@ -35,7 +35,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "539311d0f2913469",
@@ -69,7 +69,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e820fe49f46f7c50",
@@ -103,7 +103,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "71a36bb696e98ee1",
@@ -139,7 +139,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
   },
   {
     "id": "2ffca3238c45c221",
@@ -182,7 +182,41 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
+  },
+  {
+    "id": "ae1ed54b02d17ca6",
+    "title": "Product Cybersecurity Engineer",
+    "company": "Stoneridge",
+    "location": "Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/details/5695096271?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-04-10",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Since 1965, Stoneridge has designed and manufactured advanced, award-winning technologies including driveline and transmission actuation systems, vision systems, emissions control systems, safety systems, and security and monitoring systems for vehicle OEMs in the commercial vehicle, automotive, off-highway and agricultural vehicle markets. We’re focused on the areas of greatest market need – both today and tomorrow. Our core products and technologies are aligned with industry megatrends includ…",
+    "score": 65,
+    "score_reason": "Good location match and relevant cybersecurity title, but no explicit entry‑level or sponsorship info.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Product Cybersecurity Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Develop and secure product technologies, including security and monitoring systems, for vehicle OEMs.",
+    "expectations": "Contribute to the design and implementation of security and monitoring systems for automotive and commercial vehicle products.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
   },
   {
     "id": "c164466e4d97beb5",
@@ -216,7 +250,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -250,7 +284,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -284,7 +318,41 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
+  },
+  {
+    "id": "254aa5c1f051e892",
+    "title": "Cyber Security Analyst",
+    "company": "Robeco",
+    "location": "Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/details/5832093760?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-07",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Department Robeco is a leading international asset manager with a strong focus on innovation, sustainability, and digital resilience. Within the CTO domain, our Digital Policy, Control & Resilience (DPC&R) department plays a key role in safeguarding information security, business continuity, and cyber resilience. The team is responsible for security monitoring, testing, identity & access management, cybersecurity analytics, and policy development. The department is led by Robeco’s Chief Informa…",
+    "score": 60,
+    "score_reason": "Good role match and location but no sponsorship info and not remote.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Cyber Security Analyst",
+    "experience_required": "not stated",
+    "role_summary": "The team handles security monitoring, testing, identity & access management, cybersecurity analytics, and policy development.",
+    "expectations": "The candidate is expected to contribute to security monitoring, testing, identity & access management, cybersecurity analytics, and policy development.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
   },
   {
     "id": "2595d3ad66e1a358",
@@ -318,7 +386,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "de171b3879297693",
@@ -352,7 +420,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -386,7 +454,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "ad921f0040d8793e",
@@ -420,7 +488,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "1b335ce87e775fbd",
@@ -454,7 +522,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "c0fe0fe84e369725",
@@ -494,7 +562,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "caced87e577282ce",
@@ -528,7 +596,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2f12772a9fcf57e2",
@@ -562,7 +630,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a4b20f18a0a369ba",
@@ -603,7 +671,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "0d8ecd0957406d67",
@@ -637,7 +705,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -674,7 +742,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -708,7 +776,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "56417291cb8dd0ab",
@@ -742,7 +810,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "7092a5699be1bfb0",
@@ -776,7 +844,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "5909b779819a505b",
@@ -810,7 +878,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 73
+    "missing_runs": 74
   },
   {
     "id": "ec9bf9a63c8bfaad",
@@ -844,7 +912,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "c139a3f39fd13c85",
@@ -878,7 +946,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "bf0820f135a1f703",
@@ -912,7 +980,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "bc9c587ce30270b3",
@@ -946,7 +1014,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -985,7 +1053,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e4c5fdc224a98690",
@@ -1019,7 +1087,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "73e7d133877f0bbe",
@@ -1053,7 +1121,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "9a80ae04c03c6f5c",
@@ -1087,7 +1155,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "507c647b9a2dfdb9",
@@ -1121,7 +1189,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "80c22a7537713ce7",
@@ -1161,7 +1229,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "bcbc8689b56ddf88",
@@ -1195,7 +1263,115 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
+  },
+  {
+    "id": "9e4364264e5e5427",
+    "title": "Information Security Associate",
+    "company": "Cicorel S.A.",
+    "location": "Boudry, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5835556974?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-10",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "IT Security Group is a Swiss-listed technology company delivering high-quality customized electronic solutions. With 4,600 employees across 29 production sites worldwide, the company serves clients in the medical, aerospace, automotive, and industrial sectors. As the group continues to expand and its cybersecurity posture, we are strengthening our central security function to support all group entities in protecting their assets and meeting evolving demands.Mission:You will join the IT security…",
+    "score": 55,
+    "score_reason": "Entry-level role in Switzerland matches candidate location, but no sponsorship or remote-from-India info.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "Information Security Associate",
+    "experience_required": "not stated",
+    "role_summary": "You will join the IT security team to support the group's cybersecurity posture.",
+    "expectations": "The candidate is expected to support all group entities in protecting assets and meeting evolving security demands.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
+  },
+  {
+    "id": "7cd86f344e99a1a8",
+    "title": "Cybersecurity Engineer (m/w/d)",
+    "company": "MED-EL Medical Electronics",
+    "location": "Innsbruck, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5700979204?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-04-16",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "IT_32604 Cybersecurity Engineer (m/w/d) Information Technology Innsbruck, Österreich FachkräfteVollzeit 38,5 hUnbefristet Bewerben Ihre Aufgaben Implementierung, Betrieb und kontinuierliche Weiterentwicklung von Sicherheitstechnologien im Unternehmen (z. B. EDR/XDR, SIEM, Vulnerability Management, Cloud-Security-Tools) Analyse, Priorisierung und Bearbeitung von Sicherheitswarnungen, -vorfällen und neuen Bedrohungen Zusammenarbeit mit IT- und Engineering-Teams zur Sicherstellung einer sicheren A…",
+    "score": 55,
+    "score_reason": "Mid-level Austrian role with no explicit sponsorship or remote option, limited entry-level fit.",
+    "skills": [
+      "EDR/XDR",
+      "SIEM",
+      "Vulnerability Management",
+      "Cloud Security Tools",
+      "Security Incident Analysis"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Cybersecurity Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Implement, operate and continuously improve security technologies while analyzing and responding to security alerts and incidents.",
+    "expectations": "The candidate is expected to implement and manage security tools such as EDR/XDR, SIEM, vulnerability management and cloud security tools, and to analyze, prioritize and handle security warnings and incidents.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
+  },
+  {
+    "id": "261799f9389ecc83",
+    "title": "International IT Security Compliance Analyst (Vienna, Austria)",
+    "company": "Badger Meter",
+    "location": "Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5825743781?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-02",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Badger Meter - Where Every Drop Counts and So Do You Badger Meter is a leading global water technology company, with a mission to preserve and protect the world’s most precious resource. For more than 120 years, cities and businesses have utilized our innovative and trusted solutions to enhance operational efficiency and conserve water while making it more affordable, clean and resilient. Every employee at Badger Meter is an important part of our success. We are committed to building a workplac…",
+    "score": 55,
+    "score_reason": "Role matches candidate's GRC interest, but the posting provides no details on experience level or visa sponsorship.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "International IT Security Compliance Analyst",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
   },
   {
     "id": "a5023110bce9f6b8",
@@ -1272,7 +1448,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "fd8a4612739c1de5",
@@ -1306,7 +1482,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "f741f6d3e0557d86",
@@ -1348,7 +1524,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "6ea9a9439204fcc1",
@@ -1425,7 +1601,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "8cda8d21535f2463",
@@ -1459,7 +1635,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "c912053be2fdadd1",
@@ -1493,7 +1669,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "d895bd56cb8e8e7d",
@@ -1570,7 +1746,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "0047779a30cdf267",
@@ -1604,7 +1780,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 73
+    "missing_runs": 74
   },
   {
     "id": "d94a1fe270ef0984",
@@ -1638,7 +1814,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -1672,7 +1848,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -1706,7 +1882,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "060145e073cddc6d",
@@ -1747,7 +1923,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "e11f74245ad46e12",
@@ -1781,7 +1957,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "c63a1bb43cf5203d",
@@ -1820,7 +1996,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "fc4823ecbd0885cf",
@@ -1854,7 +2030,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "f0725c056e6ea3a8",
@@ -1888,7 +2064,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "cec8b3ac66109141",
@@ -1922,7 +2098,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "0eff96b6d03fe02c",
@@ -1956,7 +2132,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "fc3b66b561c80863",
@@ -1990,7 +2166,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "405d17edd0856752",
@@ -2024,7 +2200,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 73
+    "missing_runs": 74
   },
   {
     "id": "8e2341bce1ee3800",
@@ -2063,7 +2239,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "e5fa894602c488ff",
@@ -2097,7 +2273,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -2131,7 +2307,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "c8e3b61e7ad82840",
@@ -2165,7 +2341,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "d3965ea1a4c02eab",
@@ -2199,7 +2375,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "73dd215b79d7b6d7",
@@ -2233,7 +2409,75 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
+  },
+  {
+    "id": "83da98b3fb07fc09",
+    "title": "Information Security Intern (f/m/d)",
+    "company": "Prewave",
+    "location": "Leopoldstadt, Austria",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5849658383?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-20",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Part Time",
+    "description": "What we build Most companies find out about supplier insolvencies, cyber attacks, factory fires or floods that affect their supply chain when it's already a crisis. Prewave exists to change that. We're an AI-native company giving BMW Group, Hilti and Lufthansa real-time visibility into supply chain risks before they become headlines. We're looking for an Information Security Intern who takes ownership of building things that are actually used and automating what slows down a modern security tea…",
+    "score": 45,
+    "score_reason": "Entry-level role matches candidate but no sponsorship or remote work information is provided.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "intern",
+    "title_en": "Information Security Intern",
+    "experience_required": "internship",
+    "role_summary": "You will take ownership of building and automating security tools and processes used by the security team.",
+    "expectations": "The candidate is expected to build usable security solutions and automate tasks that slow down the security team.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-25",
+    "missing_runs": 6
+  },
+  {
+    "id": "716012ff2e45c815",
+    "title": "Security Transformation New Associate",
+    "company": "Accenture",
+    "location": "Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/details/5775569927?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-06-25",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Internship details Period: 4 – 6 months Hours a week: 32 - 40 Location: ITO office, Amsterdam Start date: F irst day of the month THE WORK You will be an intern within the Cyber Security group in Accenture. During the period of 4-6 months, you will write your thesis in one of the fastest growing business areas in the world. Accenture will give you the opportunity to gain knowledge with the most innovative tools, technologies and methodologies. Team: In the Cyber Security department, the team is…",
+    "score": 45,
+    "score_reason": "Internship in Netherlands matches location but lacks sponsorship info and specific role alignment.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "intern",
+    "title_en": "Security Transformation New Associate",
+    "experience_required": "internship",
+    "role_summary": "Intern within the Cyber Security group working on a thesis and learning innovative tools, technologies and methodologies.",
+    "expectations": "Candidate will work as an intern in the Cyber Security department, writing a thesis and gaining knowledge of innovative tools, technologies and methodologies.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 65
   },
   {
     "id": "4cdb857444cfb299",
@@ -2276,7 +2520,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "6f56c8683fcd4ec0",
@@ -2317,7 +2561,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "3a92e95b47203e99",
@@ -2351,7 +2595,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "cd1fc3ded981dc2d",
@@ -2385,7 +2629,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -2419,7 +2663,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "0c9459fbf5817847",
@@ -2453,7 +2697,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "d896235fe6f292dc",
@@ -2487,7 +2731,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -2521,7 +2765,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "aee5431825ba06be",
@@ -2555,7 +2799,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a4b3082c51fc239c",
@@ -2589,7 +2833,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "42b5375cea91e1da",
@@ -2623,7 +2867,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2661b767c6421eaa",
@@ -2657,7 +2901,75 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
+  },
+  {
+    "id": "f12dc995f0b5ff69",
+    "title": "Cybersecurity Operations Engineer 80 - 100%",
+    "company": "Die Securitas Gruppe",
+    "location": "Zollikofen, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/land/ad/5747465380?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=3677F6754660AB94B05134E73C8CBCAB3A84F00D",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-06-01",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Cybersecurity Operations Engineer 80 - 100% (m/w/d) Die Group Services mit Hauptsitz in Zollikofen sind erfahrene Partner und Dienstleister für die 26 Gesellschaften der Securitas Gruppe mit ihren zahlreichen Standorten und Marken. Die Mitarbeitenden der Group Services unterstützen und stärken mit ihren Leistungen, Kompetenzen und ihrem Fachwissen die beiden Unternehmensbereiche «Sicherheitsdienstleistungen» sowie «Alarm- und Sicherheitssysteme». Wir entwickeln die Gesellschaften, stärken uns g…",
+    "score": 40,
+    "score_reason": "Matches cybersecurity operations but no sponsorship info and likely requires local work authorization, reducing fit for junior Indian candidate.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "Cybersecurity Operations Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Provides cybersecurity operations support and expertise to the Group Services' security and alarm system divisions.",
+    "expectations": "Expected to support and strengthen the security services and alarm system business areas with relevant expertise.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
+  },
+  {
+    "id": "2da3a883eb20a956",
+    "title": "Cybersecurity Consultant in Westland",
+    "company": "VTM Groep",
+    "location": "Westland, Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/details/5672572821?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-03-20",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "Permanent",
+    "description": "IT / Automatisering Zie jij wat anderen missen als het gaat om digitale risico’s? In deze rol help je organisaties niet alleen om dreigingen te begrijpen, maar vooral om ze voor te blijven. Je vertaalt complexe vraagstukken naar heldere oplossingen en maakt van cybersecurity iets dat écht werkt in de praktijk. Dit is jouw kans om impact te maken waar het er toe doet—op de veiligheid van vandaag én morgen. Wat ga je doen als Cybersecurity Consultant? Organisaties helpen digitale risico’s te herk…",
+    "score": 40,
+    "score_reason": "No sponsorship info and unclear seniority, but role aligns with candidate interests.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "Cybersecurity Consultant",
+    "experience_required": "not stated",
+    "role_summary": "Help organizations understand and stay ahead of digital threats by translating complex issues into practical cybersecurity solutions.",
+    "expectations": "They expect you to help organizations understand digital risks, translate complex questions into clear solutions, and make cybersecurity work in practice.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 59
   },
   {
     "id": "d3aa0707d62a6af0",
@@ -2698,7 +3010,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "8008b79da52fcf75",
@@ -2732,7 +3044,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "d706ad37f78319bc",
@@ -2766,7 +3078,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "b333e11f4e4d507d",
@@ -2800,7 +3112,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e663a9ba8b6a0c06",
@@ -2834,7 +3146,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "6c358b564f0fe65b",
@@ -2868,7 +3180,41 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
+  },
+  {
+    "id": "4843633d16d653e7",
+    "title": "IT-Spezialist (m/w/d) Network & Endpoint Security",
+    "company": "Diehl Defence GmbH & Co. KG",
+    "location": "Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5813484345?se=SIMzr_2c8RGwBe63zKMEtw&utm_medium=api&utm_source=ceaf5c9d&v=9D0842F7F08B8C454135730865F0EA6F387FA111",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-24",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­arbeiter­innen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unsere Standorte Diehl Defence GmbH & Co. KG …",
+    "score": 35,
+    "score_reason": "Role loosely matches defensive security, but no entry‑level or sponsorship information is provided.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "IT Specialist Network & Endpoint Security",
+    "experience_required": "not stated",
+    "role_summary": "Work on network and endpoint security as part of Diehl Defence's digital transformation initiatives.",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 77
   },
   {
     "id": "518b66566e72f965",
@@ -2902,7 +3248,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2976652a37da1f0d",
@@ -2943,7 +3289,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "24b143beae454291",
@@ -2977,7 +3323,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "5a70272f5048b012",
@@ -3020,7 +3366,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 60
+    "missing_runs": 61
   },
   {
     "id": "807857290d85cdd6",
@@ -3054,7 +3400,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "b3422309512a8bfe",
@@ -3088,7 +3434,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "b84b199d728c3d54",
@@ -3122,7 +3468,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "23298f072950a9a6",
@@ -3156,7 +3502,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "cb39bb0c2fc49fe7",
@@ -3190,7 +3536,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "019f01bf4b5cdf25",
@@ -3224,7 +3570,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "42edbf689da38d09",
@@ -3258,7 +3604,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -3292,7 +3638,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "62e9e54e2420585d",
@@ -3326,7 +3672,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "cf87750c996e5ba3",
@@ -3360,7 +3706,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "11dd98fd10d0a79d",
@@ -3394,7 +3740,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "f8b893d4dcf31c6f",
@@ -3428,7 +3774,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "ff4d8b531b5a5db3",
@@ -3462,7 +3808,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "aa5be1f6ad52d7ff",
@@ -3496,7 +3842,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "284ef22fbb9421c0",
@@ -3530,7 +3876,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "8bece923e2e7190c",
@@ -3564,7 +3910,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "c5d71a36cb209952",
@@ -3598,7 +3944,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "191c2c400808e938",
@@ -3632,7 +3978,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2307d28c4811f7b8",
@@ -3669,7 +4015,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "d9d2fd15609abde7",
@@ -3709,7 +4055,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "3aac25d374a4d221",
@@ -3752,7 +4098,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "9595952a81ac891d",
@@ -3829,7 +4175,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "e994083684a225fc",
@@ -3871,7 +4217,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "45e89d2fd2bee0ca",
@@ -3905,7 +4251,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "d94faa22744837d5",
@@ -3939,7 +4285,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "28bb4b2fd8cffbec",
@@ -3973,7 +4319,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "440562817c717302",
@@ -4007,7 +4353,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "42134c1aec29a7ae",
@@ -4041,7 +4387,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -4081,7 +4427,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "09a492b18788314a",
@@ -4149,7 +4495,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
   },
   {
     "id": "f567a352d9e0e284",
@@ -4183,7 +4529,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2e7f8d2ea0be544c",
@@ -4224,7 +4570,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "260ea34e1abe0694",
@@ -4344,7 +4690,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "7190bbcee872de2a",
@@ -4378,7 +4724,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "be3ba1b5124a1c16",
@@ -4412,7 +4758,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "604caf2eeefc482e",
@@ -4449,7 +4795,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "325c8016309eb60b",
@@ -4526,7 +4872,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "fdd98c194af2b1d8",
@@ -4560,7 +4906,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a8039868d519a083",
@@ -4594,7 +4940,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "bd47c592200aa70c",
@@ -4636,7 +4982,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "1b1734de6c951b45",
@@ -4670,7 +5016,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "5a3697f5f9b97f6b",
@@ -4704,7 +5050,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "6a24ab7df67918eb",
@@ -4738,7 +5084,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -4772,7 +5118,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "2d5a76f24121ddf4",
@@ -4806,7 +5152,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -4840,7 +5186,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "66f89db6c114d0b9",
@@ -4874,7 +5220,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 73
+    "missing_runs": 74
   },
   {
     "id": "dcc883d52a454cd6",
@@ -4908,7 +5254,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "58e805f87c37160f",
@@ -4950,7 +5296,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "352c303e8ee6c869",
@@ -4984,7 +5330,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "1804b4ce93756b21",
@@ -5018,7 +5364,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "eae0a9bb65c94def",
@@ -5052,7 +5398,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "11cd449d77493dda",
@@ -5086,7 +5432,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -5120,7 +5466,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "a942ec9b03df4840",
@@ -5154,7 +5500,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "b55640c1f733595a",
@@ -5188,7 +5534,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -5222,7 +5568,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "ae0d6c57cd8197ae",
@@ -5256,7 +5602,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 69
+    "missing_runs": 70
   },
   {
     "id": "472f6d72ac7d168c",
@@ -5290,7 +5636,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "0c896e97e6d5c122",
@@ -5402,7 +5748,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "14d8c62a9761e681",
@@ -5487,7 +5833,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "1c3bf4d9a9e569d5",
@@ -5521,7 +5867,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "1c82d76114693c53",
@@ -5555,7 +5901,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "8297697c0b68f485",
@@ -5675,7 +6021,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "9aece813e2d051f0",
@@ -5709,7 +6055,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "5e5b210208912cd3",
@@ -5743,7 +6089,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e42a540da8214e31",
@@ -5777,7 +6123,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a2febe5aa099a81b",
@@ -5820,7 +6166,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "a144f46ee4833856",
@@ -5854,7 +6200,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e04ebe29a453b0de",
@@ -5896,7 +6242,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "5b798dff2178cc87",
@@ -5930,7 +6276,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "16e8386d275e643e",
@@ -6012,7 +6358,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -6054,7 +6400,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "039e735f5c8670e1",
@@ -6097,7 +6443,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 65
+    "missing_runs": 66
   },
   {
     "id": "4987c76bf12cbb46",
@@ -6182,7 +6528,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "674a2558bffc5fb4",
@@ -6216,7 +6562,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "e78489d73b8098b5",
@@ -6259,7 +6605,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "32a59ab96f0f9ae7",
@@ -6293,7 +6639,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 59
+    "missing_runs": 60
   },
   {
     "id": "f7221d03635156da",
@@ -6327,7 +6673,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "01239214d8bc5030",
@@ -6361,7 +6707,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "5390f8be20209026",
@@ -6395,7 +6741,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "eed918fd33e49444",
@@ -6435,7 +6781,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "be0b67c80b1a3b85",
@@ -6469,7 +6815,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "60e7fd97deadf7ab",
@@ -6512,7 +6858,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 69
+    "missing_runs": 70
   },
   {
     "id": "49e76312a5be416a",
@@ -6551,7 +6897,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "9438fc06a05a8465",
@@ -6628,7 +6974,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "52a9a2f62d3c5420",
@@ -6662,7 +7008,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "75b97b83d38e9e67",
@@ -6703,7 +7049,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "d5b0319a1dc3a486",
@@ -6737,7 +7083,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2be399176e1ce304",
@@ -6779,7 +7125,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "7143db87b27883f0",
@@ -6813,7 +7159,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "03e791b6c4422839",
@@ -6847,7 +7193,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "0d932d0134eb63b4",
@@ -6881,7 +7227,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "92ed9099bde68df7",
@@ -6920,7 +7266,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "f4c2a23292e91f27",
@@ -6997,7 +7343,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a1b1a2f35799079b",
@@ -7039,7 +7385,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "c208c122436a1971",
@@ -7076,7 +7422,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e2bf2aa01e36adf2",
@@ -7157,7 +7503,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 60
+    "missing_runs": 61
   },
   {
     "id": "fe4ef31dae1f7a38",
@@ -7243,7 +7589,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "1e8685f3993b470e",
@@ -7286,7 +7632,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "469d11f1797792a0",
@@ -7320,7 +7666,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "c51b61ee70918035",
@@ -7354,7 +7700,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -7388,7 +7734,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -7474,7 +7820,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "2dbeab30a1df3688",
@@ -7560,7 +7906,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "ac4f2e9556c23d82",
@@ -7594,7 +7940,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
   },
   {
     "id": "9e641b8deecef414",
@@ -7628,7 +7974,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "d54ac133526865fa",
@@ -7667,7 +8013,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "0b70758a5c803f74",
@@ -7708,7 +8054,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -7749,7 +8095,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "24f80d9526012a45",
@@ -7792,353 +8138,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
-  },
-  {
-    "id": "83da98b3fb07fc09",
-    "title": "Information Security Intern (f/m/d)",
-    "company": "Prewave",
-    "location": "Leopoldstadt, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5849658383?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-20",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Part Time",
-    "description": "What we build Most companies find out about supplier insolvencies, cyber attacks, factory fires or floods that affect their supply chain when it's already a crisis. Prewave exists to change that. We're an AI-native company giving BMW Group, Hilti and Lufthansa real-time visibility into supply chain risks before they become headlines. We're looking for an Information Security Intern who takes ownership of building things that are actually used and automating what slows down a modern security tea…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "intern",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-25",
-    "missing_runs": 5
-  },
-  {
-    "id": "f12dc995f0b5ff69",
-    "title": "Cybersecurity Operations Engineer 80 - 100%",
-    "company": "Die Securitas Gruppe",
-    "location": "Zollikofen, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5747465380?se=dlbd7hGe8RGfYqjUJN_cUg&utm_medium=api&utm_source=ceaf5c9d&v=3677F6754660AB94B05134E73C8CBCAB3A84F00D",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-06-01",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Cybersecurity Operations Engineer 80 - 100% (m/w/d) Die Group Services mit Hauptsitz in Zollikofen sind erfahrene Partner und Dienstleister für die 26 Gesellschaften der Securitas Gruppe mit ihren zahlreichen Standorten und Marken. Die Mitarbeitenden der Group Services unterstützen und stärken mit ihren Leistungen, Kompetenzen und ihrem Fachwissen die beiden Unternehmensbereiche «Sicherheitsdienstleistungen» sowie «Alarm- und Sicherheitssysteme». Wir entwickeln die Gesellschaften, stärken uns g…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "4843633d16d653e7",
-    "title": "IT-Spezialist (m/w/d) Network & Endpoint Security",
-    "company": "Diehl Defence GmbH & Co. KG",
-    "location": "Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5813484345?se=SIMzr_2c8RGwBe63zKMEtw&utm_medium=api&utm_source=ceaf5c9d&v=9D0842F7F08B8C454135730865F0EA6F387FA111",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-24",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Digitale Trans­formation. Nach­haltig­keit. Friedens­sicherung. Spannende Aufgaben, an denen auch wir bei Diehl in unseren fünf Teil­konzernen Metall, Controls, Defence, Aviation und Metering und unsere über 16.000 Mit­arbeiter­innen und Mit­arbeiter mit Hochdruck arbeiten. Entdecken Sie faszinierende Techno­logien und bewerben Sie sich. In einem von Vertrauen und Mut geprägten Familien­unter­nehmen, das beständig und stabil ist – aus Tradition. Für unsere Standorte Diehl Defence GmbH & Co. KG …",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 76
-  },
-  {
-    "id": "9e4364264e5e5427",
-    "title": "Information Security Associate",
-    "company": "Cicorel S.A.",
-    "location": "Boudry, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5835556974?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-10",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "IT Security Group is a Swiss-listed technology company delivering high-quality customized electronic solutions. With 4,600 employees across 29 production sites worldwide, the company serves clients in the medical, aerospace, automotive, and industrial sectors. As the group continues to expand and its cybersecurity posture, we are strengthening our central security function to support all group entities in protecting their assets and meeting evolving demands.Mission:You will join the IT security…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "7cd86f344e99a1a8",
-    "title": "Cybersecurity Engineer (m/w/d)",
-    "company": "MED-EL Medical Electronics",
-    "location": "Innsbruck, Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5700979204?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-04-16",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "IT_32604 Cybersecurity Engineer (m/w/d) Information Technology Innsbruck, Österreich FachkräfteVollzeit 38,5 hUnbefristet Bewerben Ihre Aufgaben Implementierung, Betrieb und kontinuierliche Weiterentwicklung von Sicherheitstechnologien im Unternehmen (z. B. EDR/XDR, SIEM, Vulnerability Management, Cloud-Security-Tools) Analyse, Priorisierung und Bearbeitung von Sicherheitswarnungen, -vorfällen und neuen Bedrohungen Zusammenarbeit mit IT- und Engineering-Teams zur Sicherstellung einer sicheren A…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "EDR/XDR",
-      "SIEM",
-      "Vulnerability Management",
-      "Cloud Security Tools",
-      "Incident Response"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "261799f9389ecc83",
-    "title": "International IT Security Compliance Analyst (Vienna, Austria)",
-    "company": "Badger Meter",
-    "location": "Austria",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5825743781?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-02",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Badger Meter - Where Every Drop Counts and So Do You Badger Meter is a leading global water technology company, with a mission to preserve and protect the world’s most precious resource. For more than 120 years, cities and businesses have utilized our innovative and trusted solutions to enhance operational efficiency and conserve water while making it more affordable, clean and resilient. Every employee at Badger Meter is an important part of our success. We are committed to building a workplac…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "ae1ed54b02d17ca6",
-    "title": "Product Cybersecurity Engineer",
-    "company": "Stoneridge",
-    "location": "Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/details/5695096271?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-04-10",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Since 1965, Stoneridge has designed and manufactured advanced, award-winning technologies including driveline and transmission actuation systems, vision systems, emissions control systems, safety systems, and security and monitoring systems for vehicle OEMs in the commercial vehicle, automotive, off-highway and agricultural vehicle markets. We’re focused on the areas of greatest market need – both today and tomorrow. Our core products and technologies are aligned with industry megatrends includ…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "2da3a883eb20a956",
-    "title": "Cybersecurity Consultant in Westland",
-    "company": "VTM Groep",
-    "location": "Westland, Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/details/5672572821?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-03-20",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Permanent",
-    "description": "IT / Automatisering Zie jij wat anderen missen als het gaat om digitale risico’s? In deze rol help je organisaties niet alleen om dreigingen te begrijpen, maar vooral om ze voor te blijven. Je vertaalt complexe vraagstukken naar heldere oplossingen en maakt van cybersecurity iets dat écht werkt in de praktijk. Dit is jouw kans om impact te maken waar het er toe doet—op de veiligheid van vandaag én morgen. Wat ga je doen als Cybersecurity Consultant? Organisaties helpen digitale risico’s te herk…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "254aa5c1f051e892",
-    "title": "Cyber Security Analyst",
-    "company": "Robeco",
-    "location": "Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/details/5832093760?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-07",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Department Robeco is a leading international asset manager with a strong focus on innovation, sustainability, and digital resilience. Within the CTO domain, our Digital Policy, Control & Resilience (DPC&R) department plays a key role in safeguarding information security, business continuity, and cyber resilience. The team is responsible for security monitoring, testing, identity & access management, cybersecurity analytics, and policy development. The department is led by Robeco’s Chief Informa…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 58
-  },
-  {
-    "id": "716012ff2e45c815",
-    "title": "Security Transformation New Associate",
-    "company": "Accenture",
-    "location": "Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/details/5775569927?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-06-25",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Internship details Period: 4 – 6 months Hours a week: 32 - 40 Location: ITO office, Amsterdam Start date: F irst day of the month THE WORK You will be an intern within the Cyber Security group in Accenture. During the period of 4-6 months, you will write your thesis in one of the fastest growing business areas in the world. Accenture will give you the opportunity to gain knowledge with the most innovative tools, technologies and methodologies. Team: In the Cyber Security department, the team is…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "intern",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 77
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -8172,7 +8172,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "6934b9f8c8f1d6da",
@@ -8206,7 +8206,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e97742717ed8d3fb",
@@ -8240,7 +8240,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a3f36af8084cc068",
@@ -8274,7 +8274,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e932a8bd7500ab8a",
@@ -8312,7 +8312,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "69b1ff11a646af51",
@@ -8346,7 +8346,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "d24a5b4cd8b5767b",
@@ -8380,7 +8380,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "33ebeb90f15c38d4",
@@ -8414,7 +8414,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "22692eaae38299bf",
@@ -8448,7 +8448,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "a925f297df4476f9",
@@ -8482,7 +8482,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "ea539b63fa53d645",
@@ -8557,7 +8557,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -8591,7 +8591,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "57c17fa660d7eee3",
@@ -8625,7 +8625,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "eb14b2d934ef4f1b",
@@ -8659,7 +8659,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "37b051d9ee0311f6",
@@ -8699,7 +8699,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "e15c5442b76fe774",
@@ -8733,7 +8733,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "245c79eb56c53cec",
@@ -8767,7 +8767,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "9d003521671be9c0",
@@ -8801,7 +8801,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "c4f276bb34176883",
@@ -8835,7 +8835,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "afe62b02dc015988",
@@ -8884,7 +8884,7 @@
     "id": "9c79bd3d719ab0bc",
     "title": "Cybersecurity / Information Security Engineer (m/w/d)",
     "company": "MUSE Electronics GmbH",
-    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations",
+    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations",
     "country": "AT",
     "url": "https://www.adzuna.at/details/5841115108?utm_medium=api&utm_source=ceaf5c9d",
     "source": "adzuna",
@@ -8912,7 +8912,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "4ccbcea4861b434d",
@@ -8954,7 +8954,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "c65cb530d5eb56b3",
@@ -8990,7 +8990,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "5ae3dbc652d5a942",
@@ -9024,7 +9024,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "42550275ef09e998",
@@ -9058,7 +9058,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "9daa6a17cc13e7d8",
@@ -9092,7 +9092,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "899f0bbd2aa8c336",
@@ -9169,7 +9169,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "c610b87716750571",
@@ -9203,7 +9203,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
   },
   {
     "id": "62f78051b877db5a",
@@ -9237,7 +9237,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
   },
   {
     "id": "014f111ccfd193c8",
@@ -9271,7 +9271,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 64
+    "missing_runs": 65
   },
   {
     "id": "a434d2c2211f001e",
@@ -9305,7 +9305,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "43895121521a15d9",
@@ -9339,7 +9339,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "7a64ae009c5ecdce",
@@ -9373,7 +9373,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "914c02820936e419",
@@ -9407,7 +9407,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 62
+    "missing_runs": 63
   },
   {
     "id": "7df7167b00dd47cf",
@@ -9441,7 +9441,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "375d943288db746a",
@@ -9475,7 +9475,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "2dd9ab446aadf9f3",
@@ -9509,7 +9509,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "f0b7cebe2eca3163",
@@ -9543,7 +9543,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "6d25ac2a44c18cba",
@@ -9577,7 +9577,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "4dd44b03c68c0630",
@@ -9611,7 +9611,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "8d0fa64e60043046",
@@ -9645,7 +9645,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "dc23cdeefe773f13",
@@ -9679,7 +9679,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "a65f096f9cbfc185",
@@ -9713,7 +9713,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "06f62ee7eb1dc961",
@@ -9747,7 +9747,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 58
+    "missing_runs": 59
   },
   {
     "id": "ebc1315b58495c08",
@@ -9781,7 +9781,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "49350bf06811310d",
@@ -9849,7 +9849,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "a26061baf7ddd290",
@@ -9883,7 +9883,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "0744fa446bb88b8c",
@@ -9917,7 +9917,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "7ed8e3549688981b",
@@ -9951,7 +9951,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "149bf5e042a6c942",
@@ -10087,7 +10087,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "a3211baff2f00386",
@@ -10461,7 +10461,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "72967963bdaf0d90",
@@ -10495,7 +10495,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "c54f15aacae2cce8",
@@ -10529,7 +10529,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "9a296628c7f7cd65",
@@ -10903,7 +10903,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "aa1a50c50e0f1b51",
@@ -11107,7 +11107,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "0e0e563fe4979db0",
@@ -11141,7 +11141,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "e6fd93e66ca79d9e",
@@ -11209,7 +11209,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "29a20c20d2af7136",
@@ -11855,7 +11855,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "c3d60db5bd04d95a",
@@ -11889,7 +11889,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "09d837f634921342",
@@ -11923,7 +11923,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "b8e9c7502e790ef1",
@@ -11957,7 +11957,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "690fa4f08ea8fc71",
@@ -11991,7 +11991,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "a51b8ab2ca2b3e36",
@@ -12025,7 +12025,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "75b2a66d37de7447",
@@ -12059,7 +12059,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "d72c03955f841948",
@@ -12093,7 +12093,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "47e72ff3f8bf9be7",
@@ -12127,7 +12127,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "c7c3283828ecdd6f",
@@ -12161,7 +12161,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "a89ae22e57eb929b",
@@ -12195,7 +12195,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "8c1db89432bc9f7e",
@@ -12229,7 +12229,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "85f8062ba959aad9",
@@ -12263,7 +12263,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "cadf1bf830fd8b59",
@@ -12297,7 +12297,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "d90dcff72feaaa74",
@@ -12331,7 +12331,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "bad10a59bb3071ef",
@@ -12339,7 +12339,7 @@
     "company": "Axians ICT Austria GmbH",
     "location": "Innsbruck, Austria / Mutters, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852697010?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
+    "url": "https://www.adzuna.at/land/ad/5852697010?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12399,7 +12399,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "65f85e9f492c3d60",
@@ -12433,7 +12433,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "76d29a943de5c0c8",
@@ -12467,7 +12467,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "9941b57300c20d19",
@@ -12535,7 +12535,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "e57c091f5b824f0d",
@@ -12603,7 +12603,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "01bb1a82e6e02026",
@@ -12637,7 +12637,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "5bc0b9ba73d7d492",
@@ -12671,7 +12671,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "af8beacce9007c00",
@@ -12705,7 +12705,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 48
+    "missing_runs": 49
   },
   {
     "id": "993c74164feabc2d",
@@ -12739,7 +12739,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "69711d595db8cdc2",
@@ -12773,7 +12773,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "a82bbe43ff7f8e41",
@@ -12807,7 +12807,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "fbd4da93ebce907d",
@@ -12841,7 +12841,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "8826fa6a7998a2fa",
@@ -12875,7 +12875,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "d13af5b45fcddbb0",
@@ -12943,7 +12943,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "d390533573c8114f",
@@ -12977,7 +12977,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "fe2244151e4f39d9",
@@ -13011,7 +13011,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "cf3c92fe89349492",
@@ -13045,7 +13045,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "f59dab1de3382cbd",
@@ -13079,7 +13079,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "42d870004b8ac70d",
@@ -13113,7 +13113,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "a2c62d87fbd84ff2",
@@ -13147,7 +13147,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "c4b564184e3c73f5",
@@ -13181,7 +13181,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "3a303ed53df3552f",
@@ -13215,7 +13215,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "bd8ba5f505f1af46",
@@ -13249,7 +13249,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "99f670599ac9bedb",
@@ -13283,7 +13283,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "24852fed48469c5e",
@@ -13317,7 +13317,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 42
+    "missing_runs": 43
   },
   {
     "id": "f4df0f2ebacc9eb3",
@@ -13351,7 +13351,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "9a10dca6bb5cbec4",
@@ -13385,7 +13385,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "569d9d8eafe5548b",
@@ -13419,7 +13419,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "102b785e577f1bb6",
@@ -13453,7 +13453,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "70ac35bfd88b207c",
@@ -13487,7 +13487,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "5b9b90baff3fff26",
@@ -13521,7 +13521,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "a8cfac1b2102305f",
@@ -13555,7 +13555,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "83d7ec82dcfeb879",
@@ -13589,7 +13589,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "8a905ad5c1940194",
@@ -13623,7 +13623,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "1630859514b06093",
@@ -13691,7 +13691,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 37
+    "missing_runs": 38
   },
   {
     "id": "3e8bfc0008a58360",
@@ -13725,7 +13725,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "1b19d0ecaf3cf600",
@@ -13759,7 +13759,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "2ca1083995890368",
@@ -13793,7 +13793,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "0de5574ca42c8135",
@@ -13827,7 +13827,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "519f152d64b2ef7d",
@@ -13861,7 +13861,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "bbb599e9c795d81a",
@@ -13895,7 +13895,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "8f03a772450cf910",
@@ -13929,7 +13929,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "8f2c76f872c19d4c",
@@ -13963,7 +13963,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 32
+    "missing_runs": 33
   },
   {
     "id": "ffa03d2fae56138a",
@@ -13997,7 +13997,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e9a0848727b842de",
@@ -14031,7 +14031,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 33
+    "missing_runs": 34
   },
   {
     "id": "0dee59cca9ad001b",
@@ -14065,7 +14065,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "276fac613a35fb1a",
@@ -14099,7 +14099,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "a90fe9ff2bdfd2a2",
@@ -14133,7 +14133,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "eb3cbdcfa4f18b62",
@@ -14167,7 +14167,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "7b8a1b61dd965038",
@@ -14201,7 +14201,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "e35dd01496a67bd2",
@@ -14235,7 +14235,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "b97509e94209ab4c",
@@ -14269,7 +14269,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "92fb6ad33c2a2fc2",
@@ -14303,7 +14303,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 31
+    "missing_runs": 32
   },
   {
     "id": "f332821a5e809ba7",
@@ -14337,7 +14337,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "41e758a6fb174f6b",
@@ -14371,7 +14371,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "2a32d8593e5d6660",
@@ -14405,7 +14405,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "7e8cdcc00ecb151b",
@@ -14541,7 +14541,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "e2c9757435385e2e",
@@ -14575,7 +14575,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "f01cb1b74619bc22",
@@ -14609,7 +14609,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "b1160d9e4c444ab0",
@@ -14643,7 +14643,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "942a289818030032",
@@ -14677,7 +14677,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "fcac8d1c4835f929",
@@ -14711,7 +14711,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "f7951ac60834207c",
@@ -14745,7 +14745,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 22
+    "missing_runs": 23
   },
   {
     "id": "b1b17135798bca0f",
@@ -14753,7 +14753,7 @@
     "company": "Stadtwerke Klagenfurt AG",
     "location": "Klagenfurt, Austria +2 more locations",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5853766887?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
+    "url": "https://www.adzuna.at/land/ad/5853766887?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-23",
@@ -14787,7 +14787,7 @@
     "company": "SVD Büromanagement GmbH",
     "location": "Wien, Austria / Brigittenau, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852122634?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
+    "url": "https://www.adzuna.at/land/ad/5852122634?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -14821,7 +14821,7 @@
     "company": "PS3 Personalservice GmbH",
     "location": "Wien, Austria / Innere Stadt, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5851331171?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
+    "url": "https://www.adzuna.at/land/ad/5851331171?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14855,7 +14855,7 @@
     "company": "EMOLUTION KG",
     "location": "Austria / Döbling, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5850603851?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
+    "url": "https://www.adzuna.at/land/ad/5850603851?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14889,7 +14889,7 @@
     "company": "Job World GmbH",
     "location": "Wels, Austria / Linz, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5849826003?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
+    "url": "https://www.adzuna.at/land/ad/5849826003?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-20",
@@ -14949,7 +14949,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "8dbcff5c836988e3",
@@ -14983,7 +14983,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "87b165415aac34d9",
@@ -15017,7 +15017,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "536525ad3b88fcd5",
@@ -15051,7 +15051,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "a3eb5afe8fb65599",
@@ -15059,7 +15059,7 @@
     "company": "Consult & Pepper AG",
     "location": "Switzerland",
     "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5854265555?se=QBf1Qxeh8RG-NqkAdls7KA&utm_medium=api&utm_source=ceaf5c9d&v=0FE15131607548B96EAB20B3075EEBA27F41496C",
+    "url": "https://www.adzuna.ch/land/ad/5854265555?se=yqCXOyih8RG-Sdz4qyZPjg&utm_medium=api&utm_source=ceaf5c9d&v=0FE15131607548B96EAB20B3075EEBA27F41496C",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-24",
@@ -15255,7 +15255,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "9fca0464b56bac67",
@@ -15289,7 +15289,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "d6c5315b636b5c98",
@@ -15323,7 +15323,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "27b9b36fdf7564dc",
@@ -15391,7 +15391,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "b69c537416e2c552",
@@ -15425,7 +15425,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "80ba7432de709ac3",
@@ -15527,7 +15527,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d781b5c89b8576e3",
@@ -15629,7 +15629,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "718331ffb60b41fe",
@@ -15663,7 +15663,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "11d7dcc9f5b3a54b",
@@ -15697,7 +15697,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "8ba564eac53a883d",
@@ -15731,7 +15731,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "fd1d5b5ba73382b9",
@@ -15765,7 +15765,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d5afb2e5f003557a",
@@ -15833,7 +15833,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "855d907a9eae82b2",
@@ -15867,7 +15867,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "30695a48457cd0cc",
@@ -15935,7 +15935,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "ade7fdf6f647f2a5",
@@ -15969,7 +15969,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "14cd461ae84f690d",
@@ -16003,7 +16003,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "203f66c26401b8d7",
@@ -16037,7 +16037,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "b732214ee7417ea1",
@@ -16113,7 +16113,7 @@
     "company": "LGA IT",
     "location": "Heuvelland, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5854455202?se=gE3lRheh8RG-NqkAdls7KA&utm_medium=api&utm_source=ceaf5c9d&v=47D6B6CD16E1180AC7B5B7513588F24B96CF7C83",
+    "url": "https://www.adzuna.be/land/ad/5854455202?se=IoVmPyih8RG7j7TsS0oVjg&utm_medium=api&utm_source=ceaf5c9d&v=47D6B6CD16E1180AC7B5B7513588F24B96CF7C83",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-24",
@@ -16207,7 +16207,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "92e6ebfa1be9b8c6",
@@ -16241,7 +16241,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "b3efd785b8c221a8",
@@ -16275,7 +16275,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "93d24f1b9ea92599",
@@ -16309,7 +16309,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "d667582b21ea9672",
@@ -16377,7 +16377,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "fee13598955d673d",
@@ -16411,7 +16411,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "4ce4a2e68a766479",
@@ -16445,7 +16445,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "de41a9f10f89e2b2",
@@ -16479,7 +16479,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "1214ab502605e450",
@@ -16513,7 +16513,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "f4bd6c00c39d3e0c",
@@ -16547,7 +16547,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "752096593485d4c2",
@@ -16581,7 +16581,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "b58bf7c494cee742",
@@ -16615,7 +16615,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "734c4a7ef2e1f1b3",
@@ -16649,7 +16649,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 16
+    "missing_runs": 17
   },
   {
     "id": "3024eb34918abec4",
@@ -16785,7 +16785,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "c52fbc096d8d23ad",
@@ -16819,7 +16819,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "b4aedd099119790a",
@@ -16853,7 +16853,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "c7ec74daf7ba0b8e",
@@ -16887,7 +16887,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "a4153de8f1595d99",
@@ -16921,7 +16921,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "254f4ac667a2c392",
@@ -16955,7 +16955,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "e4cad37f71659f82",
@@ -16989,7 +16989,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "6e6b021481b9df8c",
@@ -17023,7 +17023,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "c51ca9850eb39c0e",
@@ -17091,7 +17091,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "0ca0977754fd5106",
@@ -17125,7 +17125,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "ed425b3e479c554f",
@@ -17159,7 +17159,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "966e6f6174460fc2",
@@ -17193,7 +17193,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "0291561754d5df5d",
@@ -17261,7 +17261,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "e500954660e2edb5",
@@ -17295,7 +17295,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "9fb06f6dd0f3d966",
@@ -17329,7 +17329,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "1d2a87fb2eec6b4d",
@@ -17363,7 +17363,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "48d1e6187ba6eff7",
@@ -17397,7 +17397,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "9267e833ab8dab7b",
@@ -17431,7 +17431,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "028f90f1f9e0b0be",
@@ -17465,7 +17465,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "e67c343e167b5315",
@@ -17499,7 +17499,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "13ad709477bc5e81",
@@ -17669,7 +17669,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "a0b8258a09d8d670",
@@ -17737,7 +17737,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "b778d8f8af229eed",
@@ -17839,7 +17839,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "91f3b94cceb6b928",
@@ -17907,7 +17907,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "f8a773152c55d227",
@@ -17941,7 +17941,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "846546e2862ce818",
@@ -17975,7 +17975,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "73a751e1e29bfbfd",
@@ -18009,7 +18009,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "f2a973d863225966",
@@ -18043,7 +18043,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "03977552f5f1a20f",
@@ -18077,7 +18077,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "a5b8b95e7949fd80",
@@ -18179,7 +18179,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "432a7f95fe00e488",
@@ -18247,7 +18247,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "f64cda98864b5710",
@@ -18281,7 +18281,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "9bb06cdef2b91e59",
@@ -18315,7 +18315,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "cb28c11c4b369d34",
@@ -18417,7 +18417,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 4
+    "missing_runs": 5
   },
   {
     "id": "2e3f18eeae28e50e",
@@ -18425,7 +18425,7 @@
     "company": "Bundesanstalt Statistik Österreich",
     "location": "Wien, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5855031406?se=KOgSRReh8RGCZtbxFymUqg&utm_medium=api&utm_source=ceaf5c9d&v=A7B4F833A2E727A14FF3545049538B989C89BA64",
+    "url": "https://www.adzuna.at/land/ad/5855031406?se=3MESPSih8RGODIWF3VxEEw&utm_medium=api&utm_source=ceaf5c9d&v=A7B4F833A2E727A14FF3545049538B989C89BA64",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-25",
@@ -18519,7 +18519,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "49d564a9406b8c49",
@@ -18553,7 +18553,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "d0ef23f4eb621fe5",
@@ -18587,7 +18587,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "a6aa92ff39cd85f9",
@@ -18621,7 +18621,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "75a740668e91910c",
@@ -18655,7 +18655,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "cd59c4a88b119ad5",
@@ -18757,7 +18757,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "930f7ce0cdf1c506",
@@ -18791,7 +18791,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "782ed6323bb7fd18",
@@ -18812,6 +18812,142 @@
     "salary_inr": "not stated",
     "employment_type": "Contract",
     "description": "Over de functie Cloud Security Engineer (Azure) – Contract | Eindhoven, Netherlands Requirement ID: 10910739 Location: TNDL – Eindhoven, Netherlands Start Date: 01 Sep 2026 Duration: 6 Months Status: Open About the Role We are seeking an experienced Cloud Security Engineer (Azure) to strengthen the security posture of our cloud platforms and support secure development practices across multidisciplinary DevOps teams. The ideal candidate has deep hands‑on experience with Azure security, cloud-nat…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 1
+  },
+  {
+    "id": "e80b87f135761ac5",
+    "title": "Software Engineer, Business intelligence (BI)",
+    "company": "Woltglobal2",
+    "location": "London",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-business-intelligence-bi-london-399847",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "&lt;h2&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The Core BI team at DoorDash builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists, Software Engineers and business teams discover trusted data and make informed decisions at scale.&lt;/p&gt; &lt;p&gt;We combine software engineering, platform ownership, and a strong user focus to make BI tooling reliable, secure, scalable and self-service. The team supports the current BI ecosystem while helping shape a more integrated experience across the DoorDash group.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Software Engineer on the Core BI team, you will build and operate production systems around our BI platforms. This is a hands-on software and platform engineering role focused on backend services, APIs, integrations, automation, access and governance, observability, reliability, and developer experience.&lt;/p&gt; &lt;p&gt;You will own problems from discovery through design, implementation, deployment, and operational support. You will work closely with Data Engineers, Analytics Engineers, Data Scientists, Software Engineers, Product Managers and business teams to turn recurring user needs into durable, self-service capabilities. If you&#39;re energized by solving technical problems with data and comfortable being deeply embedded across several domains, this role is for you!&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;You’re excited about this opportunity because you will…&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Design, build, test, deploy, and operate backend services, APIs and automation supporting BI platforms.&lt;/li&gt; &lt;li&gt;Automate metadata, workspace and content lifecycle, permissions, migrations, archival, validation and other platform workflows.&lt;/li&gt; &lt;li&gt;Improve platform availability, observability, performance, scalability and security.&lt;/li&gt; &lt;li&gt;Build self-service tools that reduce manual administration and help analytics teams work more effectively.&lt;/li&gt; &lt;li&gt;Support platform migrations and deprecations while protecting access, governance, data integrity and business continuity.&lt;/li&gt; &lt;li&gt;Participate in operational support, production debugging, incident response and continuous improvement.&lt;/li&gt; &lt;li&gt;Collaborate with engineering and data teams across DoorDash, Deliveroo and Wolt to develop shared standards and platform capabilities.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;We’re excited about you because…&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;You have at least two years of professional software engineering experience building production backend, platform, infrastructure or data-platform systems.&lt;/li&gt; &lt;li&gt;You write readable, maintainable, and well-tested code in Python or another general-purpose programming language.&lt;/li&gt; &lt;li&gt;You are comfortable working with SQL and understand data modelling, databases, and data-platform concepts.&lt;/li&gt; &lt;li&gt;You have experience building APIs, integrations, or automation and can reason about service boundaries, authentication, data contracts, and failure modes.&lt;/li&gt; &lt;li&gt;You have hands-on experience operating software in production, including CI/CD, observability, debugging, incident response and operational readiness.&lt;/li&gt; &lt;li&gt;You take end-to-end ownership and can turn ambiguous user or operational problems into secure, scalable, self-service solutions.&lt;/li&gt; &lt;li&gt;You communicate clearly and work effectively with both technical and non-technical teams.&lt;/li&gt; &lt;li&gt;You are comfortable working in a fast-paced, distributed environment and can organise your work independently.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience owning or integrating with BI platforms such as Looker, Sigma or comparable tools.&lt;/li&gt; &lt;li&gt;Experience with BI metadata, governance, permissions, content lifecycle, migrations or usage analytics.&lt;/li&gt; &lt;li&gt;Experience automating identity and access through Okta, SCIM or role-based access controls.&lt;/li&gt; &lt;/ul&gt; Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "b68e06b3078022ad",
+    "title": "Software Engineer II",
+    "company": "tripadvisor",
+    "location": "London",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-ii-london-45542",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "&lt;div&gt; &lt;div class=&quot;attachment-overlay preview&quot;&gt; &lt;div id=&quot;viewer-container&quot;&gt; &lt;div id=&quot;canvas-container&quot;&gt; &lt;div id=&quot;viewer&quot; class=&quot;pdfViewer&quot;&gt; &lt;div class=&quot;page&quot; data-page-number=&quot;1&quot; data-loaded=&quot;true&quot;&gt; &lt;div class=&quot;textLayer&quot;&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;About Tripadvisor&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;We’re looking for a&amp;nbsp;&lt;strong&gt;Software Engineer II&lt;/strong&gt; to join our fast-growing team. This role is open to candidates based within a commutable distance (generally within 1–2 hours) of our office hubs in London. We embrace flexibility in where and how work gets done and also value meaningful in-person moments to connect and collaborate. You can expect a remote-first working model with periodic in-person gatherings at your closest office for team connection, planning, or other key moments.&lt;/p&gt; &lt;p&gt;Within Tripadvisor Experiences we have a fun and friendly environment where the key objective is getting things done. Working closely alongside product managers and designers, our engineers are part of the full process from software design, to code, to test, to deployment and back again. Most of our engineers release code to production every few days and we have a daily release cycle.&lt;/p&gt; &lt;p data-start=&quot;174&quot; data-end=&quot;576&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;p data-start=&quot;174&quot; data-end=&quot;576&quot;&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt; &lt;p data-start=&quot;174&quot; data-end=&quot;576&quot;&gt;At Tripadvisor Experiences, our Engineers are versatile problem-solvers who thrive on a wide range of technical challenges. This is a full-stack role where you&#39;ll primarily work on backend systems, with occasional front-end projects. You don’t need to be a front-end expert — if you&#39;re eager to learn, we’ll support you on the job, and front-end skills won’t be assessed during the interview process.&lt;/p&gt; &lt;p data-start=&quot;578&quot; data-end=&quot;797&quot;&gt;Our web stack includes Java, GraphQL, Kubernetes, SQL and NoSQL databases, all running on AWS. While experience with every tool isn&#39;t required, &lt;strong&gt;strong proficiency in an object-oriented programming language is essential.&lt;/strong&gt;&lt;/p&gt; &lt;p data-start=&quot;578&quot; data-end=&quot;797&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;What We Offer&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Competitive compensation packages (routinely benchmarked against the latest industry data), including base salary and annual bonuses&lt;/li&gt; &lt;li&gt;“Work your way” with flexibility to suit your lifestyle. Tripadvisor Group takes a remote-friendly approach to collaboration across a worldwide team, with the option to join on-site as often as you’d like or as required by your team.&lt;/li&gt; &lt;li&gt;Flexible schedule. Work-life balance is ingrained in our culture by design. Trust and accountability make it work.&lt;/li&gt; &lt;li&gt;Donation matching. Give back? Give more! We match qualifying charitable donations annually.&lt;/li&gt; &lt;li&gt;Tuition assistance. Want to level up your career? We love to hear it! Receive annual support for qualified programs.&lt;/li&gt; &lt;li&gt;Lifestyle benefit. An annual benefit to spend on yourself. Use it on travel, wellness, or whatever suits you.&lt;/li&gt; &lt;li&gt;Travel perks. We believe that travel is employee development, so we provide discounts and more.&lt;/li&gt; &lt;li&gt;Employee assistance program. We’re here for you with resources and programs to help you through life’s challenges.&lt;/li&gt; &lt;li&gt;Health benefits. We offer great coverage and competitive premiums.&lt;/li&gt; &lt;li&gt;Generous referral scheme. Help us grow and be rewarded with generous awards for referring successful candidates.&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our Cultural Pillars:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Traveler first&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We exist to create value for our customer, the traveler. We enable our suppliers and partners to unlock this value. Their collective behaviors and insights are what drives us.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Execution is our edge&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We act fast, experiment, learn from failure, iterate, and improve the solutions of tomorrow across every aspect of our business. Our execution is agile, data-driven, prioritised, and built to scale. We assume no problem is someone else’s problem and finish what can be done today, knowing tomorrow will bring fresh challenges.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We succeed together&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The best outcomes are driven by empathic, humble, and diverse subject matter experts working toward shared goals. We collaborate relentlessly, challenge assumptions, give actionable feedback, and set each other up for success through empowered teams with a clear charter. We transparently take ownership of our growth, individually and as a team. We celebrate the quality of our effort, our learnings, and our collective achievements.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;We strive to create an accessible and inclusive experience for all candidates. If you need a reasonable accommodation during the application or the recruiting process, please make sure to reach out to your individual recruiter or our team at ----- &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div id=&quot;aria-msg-div&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;header class=&quot;sn-header-layout&quot;&gt;&lt;/header&gt; &lt;p&gt;If you have any additional questions about careers at Tripadvisor you can email us at ----- We have all the answers!&lt;/p&gt; &lt;p&gt;#LI-Hybrid&amp;nbsp;&lt;/p&gt; &lt;p&gt;#LI-SM1&lt;/p&gt; Find Jobs in United Kingdom on Arbeitnow",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "62dd8a6ceb2e4f59",
+    "title": "Junior Cloud Security Consultant – DevSecOps & Automation (m/w/d) - Consulting, IT-Security, Ingenieur",
+    "company": "Reply Deutschland SE",
+    "location": "Düsseldorf, Germany / Köln, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/details/5856525817?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-26",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Aufgaben - Gemeinsam mit dem Team setzt du Cloud-Projekte mit Security-Fokus um und arbeitest daran, Sicherheit von Anfang an smart zu integrieren - Durch die Auswahl und Implementierung geeigneter Tools sowie Automatisierungskomponenten trägst du dazu bei, Compliance-Anforderungen in komplexen Cloud-Umgebungen zuverlässig umzusetzen - Du bringst dich aktiv ein – in der Zusammenarbeit im Team ebenso wie im Austausch mit Kund\\*innen und relevanten Stakeholdern - Technische Dokumentationen, kurz…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "65e287f624a563d4",
+    "title": "Cybersecurity Engineer",
+    "company": "Scalo Sp. z o.o.",
+    "location": "Warszawa, Poland",
+    "country": "PL",
+    "url": "https://www.adzuna.pl/details/5856528172?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-26",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "PLN",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Cybersecurity Engineer Miejsce pracy: Warszawa Technologie, których używamy Wymagane AWS Azure O projekcie W Scalo zajmujemy się dostarczaniem projektów software'owych i wspieraniem naszych partnerów w rozwijaniu ich biznesu. Tworzymy oprogramowanie, które umożliwia ludziom dokonywanie zmian, działanie w szybszym tempie oraz osiąganie lepszych rezultatów. Wykorzystujemy szerokie spektrum usług IT, aby wspierać naszych klientów w realizacji ich celów biznesowych. Obszary naszej działalności obej…",
     "score": null,
     "score_reason": "",
     "skills": [],
