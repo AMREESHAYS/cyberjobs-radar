@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 43,
+    "last_count": 38,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 19,
+    "last_count": 16,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -37,7 +37,7 @@
   },
   "finland": {
     "errored": false,
-    "last_count": 10,
+    "last_count": 9,
     "last_ok": "finland",
     "quiet_runs": 0
   },
@@ -55,7 +55,7 @@
   },
   "jobicy": {
     "errored": false,
-    "last_count": 36,
+    "last_count": 39,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 126,
+    "last_count": 125,
     "last_ok": "workable",
     "quiet_runs": 0
   }
