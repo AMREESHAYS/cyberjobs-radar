@@ -1,10 +1,10 @@
 {
-  "total": 550,
-  "new": 6,
-  "scored": 10,
+  "total": 554,
+  "new": 4,
+  "scored": 9,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 130,
+  "above_level": 128,
   "off_topic": 0,
   "sources": {
     "arbeitnow": 19,
@@ -27,6 +27,6 @@
     "norway": 5
   },
   "quiet_sources": [],
-  "duplicates": 18,
-  "generated_at": "2026-08-26T12:26:54+00:00"
+  "duplicates": 17,
+  "generated_at": "2026-08-26T14:33:48+00:00"
 }

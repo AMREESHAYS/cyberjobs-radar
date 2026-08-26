@@ -1,5 +1,47 @@
 [
   {
+    "id": "899f0bbd2aa8c336",
+    "title": "Ubuntu Security Engineer",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "country": "REMOTE",
+    "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
+    "source": "jobicy",
+    "source_type": "api",
+    "posted_date": "2026-08-22",
+    "remote": true,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Full Time",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical is building a team dedicated to providing security coverage across a wide range of ecosystems and environments, working to make the world a better, safer place. We are hiring an Ubuntu Security Engineer to join an industry-leading security engineering team and help protect the open source community and Ubuntu users from emerging threats. We are looking for candidates across all levels of experience, from Graduate to Senior. As part of the Ubuntu Security Team, you will work with some of the best and brightest people in technology to monitor, triage, respond to, and document new and existing vulnerabilities in open source software. You will collaborate with internal teams and external partners to identify issues, prioritize them, and coordinate remediation. This is an engineering-focused role that may also involve activities such as producing security assessments, building features, conducting code reviews, developing internal tools, engaging with the open source community, and participating in industry initiatives and events. This role requires international travel at least twice a year, usually for one week. It also requires the ability to be productive in a globally distributed team through self-discipline and self-motivation. Location: Worldwide, this is a globally remote role The role entails Analyzing, fixing, and testing vulnerabilities in open source packages Keeping track of vulnerabilities in the Ubuntu ecosystem as they are discovered, researched, and fixed, leveraging internal tools Collaborating with other teams in the Ubuntu community and upstream developers, as needed, to exchange or develop vulnerability patches and ensure that Ubuntu includes the most robust security features Auditing source code for vulnerabilities Building features and tools to help teams strengthen the security of their products and contribute to the overall security of Ubuntu What we are looking for in you You have a thorough understanding of the common categories of security vulnerabilities and techniques for fixing them You are familiar with coordinated disclosure practices You are familiar with open source development tools and methodologies You are skilled in one or more of C, Python, Go, Rust, Java, Ruby, PHP or JavaScript/TypeScript You have excellent logic, problem-solving, troubleshooting, and decision-making skills You can clearly and effectively communicate with the team and Ubuntu community members Experience with Linux (Debian or Ubuntu preferred) Excellent interpersonal skills, curiosity, flexibility, and accountability Appreciative of diversity, polite, and effective in a multi-cultural, multi-national organization Thoughtfulness and self-motivation Result-oriented, with a personal drive to meet commitments What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program &amp; Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
+    "score": 80,
+    "score_reason": "Strong role match and remote eligibility for a junior candidate, but no explicit visa sponsorship mentioned.",
+    "skills": [
+      "Vulnerability analysis",
+      "Coordinated disclosure",
+      "Open source tools",
+      "C",
+      "Python",
+      "Linux",
+      "Code auditing"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Ubuntu Security Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Monitor, triage, and remediate vulnerabilities in open source software, audit code, and build security tools for Ubuntu.",
+    "expectations": "Candidates must understand common security vulnerability categories, be familiar with coordinated disclosure, use open source development tools, program in languages such as C or Python, and have Linux (Ubuntu/Debian) experience to analyze, fix, and test vulnerabilities.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
     "id": "ee548f992527e954",
     "title": "Privacy and Compliancy Consultant",
     "company": "NTT DATA",
@@ -35,7 +77,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "539311d0f2913469",
@@ -69,7 +111,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e820fe49f46f7c50",
@@ -103,7 +145,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "71a36bb696e98ee1",
@@ -139,7 +181,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "2ffca3238c45c221",
@@ -182,7 +224,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "ae1ed54b02d17ca6",
@@ -216,7 +258,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "ea539b63fa53d645",
@@ -260,6 +302,40 @@
     "missing_runs": 0
   },
   {
+    "id": "42550275ef09e998",
+    "title": "Cybersecurity Auditor (m/f/d) - DISW",
+    "company": "Digital Industries",
+    "location": "München, Germany",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5814251264?se=nuSZ5mud8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=3CCD54CF410DABFD0794B1A3DCF822C7F04C83C2",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-24",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Start your cyber career with us! As part of the global Cybersecurity Assurance function, we help Siemens to achieve their goals by providing objective, factual and independent assurance to the Siemens Managing Board and Audit Committee. As a business partner to Siemens executive management, we leverage our expertise in a wide range of topics to create an impact that drives change. We offer a vibrant and inclusive environment which ensures a variety of perspectives and enables big picture thinki…",
+    "score": 65,
+    "score_reason": "Good role and entry-level match in Germany, but no explicit visa sponsorship mentioned.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Cybersecurity Auditor",
+    "experience_required": "not stated",
+    "role_summary": "Provide objective, factual, and independent cybersecurity assurance to Siemens' Managing Board and Audit Committee as part of the global Cybersecurity Assurance function.",
+    "expectations": "The candidate is expected to act as a business partner to executive management, leveraging expertise across a wide range of topics to deliver assurance and drive change.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "missing_runs": 72
+  },
+  {
     "id": "c164466e4d97beb5",
     "title": "Junior Cyber Security Specialist",
     "company": "Ministerie van Defensie",
@@ -291,7 +367,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f9f73728fe8ad12b",
@@ -325,7 +401,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a33eccf1b6ff96ea",
@@ -359,7 +435,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "254aa5c1f051e892",
@@ -393,7 +469,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e932a8bd7500ab8a",
@@ -427,7 +503,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2595d3ad66e1a358",
@@ -461,7 +537,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "de171b3879297693",
@@ -495,7 +571,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f74a9f1924d50ca5",
@@ -529,7 +605,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "ad921f0040d8793e",
@@ -563,7 +639,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "1b335ce87e775fbd",
@@ -597,7 +673,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "c0fe0fe84e369725",
@@ -637,7 +713,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "caced87e577282ce",
@@ -671,7 +747,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2f12772a9fcf57e2",
@@ -705,7 +781,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a4b20f18a0a369ba",
@@ -746,7 +822,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "0d8ecd0957406d67",
@@ -780,7 +856,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "c92d4d8b5b8c3c12",
@@ -817,7 +893,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "1025ee50c35bdaa3",
@@ -851,7 +927,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "56417291cb8dd0ab",
@@ -885,7 +961,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "7092a5699be1bfb0",
@@ -919,7 +995,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "5909b779819a505b",
@@ -953,7 +1029,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "ec9bf9a63c8bfaad",
@@ -987,7 +1063,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "c139a3f39fd13c85",
@@ -1021,7 +1097,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "bf0820f135a1f703",
@@ -1055,7 +1131,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "bc9c587ce30270b3",
@@ -1089,7 +1165,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "0e2adde5c7b996b2",
@@ -1128,7 +1204,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e4c5fdc224a98690",
@@ -1162,7 +1238,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "73e7d133877f0bbe",
@@ -1196,7 +1272,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "9a80ae04c03c6f5c",
@@ -1230,7 +1306,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "507c647b9a2dfdb9",
@@ -1264,7 +1340,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "80c22a7537713ce7",
@@ -1304,7 +1380,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "bcbc8689b56ddf88",
@@ -1338,7 +1414,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "9e4364264e5e5427",
@@ -1372,7 +1448,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "7cd86f344e99a1a8",
@@ -1412,7 +1488,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "261799f9389ecc83",
@@ -1446,7 +1522,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "1c1a25d73b8a501f",
@@ -1480,7 +1556,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a3f36af8084cc068",
@@ -1514,7 +1590,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d24a5b4cd8b5767b",
@@ -1548,7 +1624,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "33ebeb90f15c38d4",
@@ -1582,7 +1658,126 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 64
+    "missing_runs": 65
+  },
+  {
+    "id": "afe62b02dc015988",
+    "title": "Information Security Engineer",
+    "company": "Consilium Safety Group AB",
+    "location": "Göteborg, Sweden",
+    "country": "SE",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31083679",
+    "source": "jobtech",
+    "source_type": "api",
+    "posted_date": "2026-05-26",
+    "remote": "not stated",
+    "salary": "Fast månads- vecko- eller timlön",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Heltid, Vanlig Anställning",
+    "description": "About Consilium Safety Group At Consilium Safety Group, we don’t just build technology, we create solutions that protect people, assets, and the planet. As a global leader in fire and gas safety, we serve critical industries such as marine, energy, rolling stock, and infrastructure. With more than 100 years of expertise, we combine deep industry knowledge with cutting-edge innovation to shape the future of Safety Tech. Headquartered in Gothenburg, Sweden, and operating in over 55 locations worldwide, we are a fast-growing global organization backed by Antin Infrastructure Partners. With strong financial support and a clear strategic vision, we are on an ambitious journey of growth and transformation, investing in innovation, operational excellence, and talent. This is an exciting time to join us. We are now looking for an Information Security Engineer to join the information security team at Consilium! About the Role As an Information Security Engineer at Consilium, you will combine hands-on security operations with strategic governance and compliance work. In practice, the role is split into two central pillars: Operational Excellence: Working hands-on to implement security controls, managing daily security activities, and acting as an internal subject matter expert. Strategic and Compliance-Oriented Leadership: Developing and driving our security strategy, ensuring we meet regulatory requirements, and continuously strengthening our security posture. You will help protect Consilium’s information assets, lead compliance efforts related to NIS2, and support alignment with frameworks such as NIST CSF, ISO 27001, the EU CRA, and the AI Act. The role works closely with teams across IT, HR, R&D, Sales, and Marketing. Your Main Responsibilities In this role, you will manage day-to-day security operations activities as well as strengthening the ISMS, implement controls aligned with ISO 27001, NIS2, and NIST CSF, coordinate audits, develop policies, and provide risk reporting and advisory support across the business. Qualifications and Experience To succeed in this role, you bring strong technical security knowledge, incident-handling capability, and an interest in governance and compliance. Requirements Technical Environment: Solid understanding of Microsoft Defender suite, Azure/O365, Windows, and Linux. Networking & Security Tools: Strong knowledge of TCP/IP, segmentation, firewalls, SIEM, EDR/EPP, and patch management. Automation: Basic to intermediate scripting skills (PowerShell, Python, Bash, KQL, or Graph API). Incident & Frameworks: Experience with log analysis, incident lifecycles, and frameworks like ISO 27001 or NIST CSF. Communication: Ability to explain technical security concepts clearly to non-technical stakeholders. Meriting Hands-on experience with Microsoft's advanced security stack (Sentinel, XDR, Entra, Intune, Purview/Priva). Cloud security controls (Azure), DevSecOps (GitHub Advanced Security), or direct audit-evidence collection experience. Previous experience working with audits and evidence collection linked to ISO 27001/NIS2/NIST CSF. Who Are We Looking For? We are looking for someone with hands-on experience in IT security and information security compliance, along with a solid understanding of relevant regulations and security frameworks. You are structured, analytical, and able to communicate clearly with a wide range of stakeholders. Personal Attributes You are analytical, proactive, and solution-oriented, with high integrity and a structured way of working. You communicate clearly, work well independently, and build strong relationships across technical and non-technical teams. What We Offer At Consilium Safety Group, you will join an innovative international environment where quality and safety come first. This is a high-impact role with opportunities to shape global security initiatives, along with a competitive salary, benefits, and career development. Apply Now Does this sound like your next challenge? Submit your application as soon as possible, as we review applications on a rolling basis. Consilium Safety Group is an equal opportunity employer committed to diversity and inclusion. Ready to learn more about our journey? Hear from our CEO: Philip Isell Lind af Hageby, Consilium, en mästare på turnarounds - Värdeskaparna | En podd om riskkapital av OPX Partners | Podcast on Spotify",
+    "score": 55,
+    "score_reason": "Good defensive/compliance role and location match, but no sponsorship info and likely expects more than entry‑level experience.",
+    "skills": [
+      "PowerShell",
+      "Python",
+      "Bash",
+      "log analysis",
+      "incident handling",
+      "ISO 27001",
+      "NIST CSF",
+      "Azure"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Information Security Engineer",
+    "experience_required": "not stated",
+    "role_summary": "The role combines hands‑on security operations—implementing controls, managing daily security activities, and incident handling—with strategic governance and compliance work such as developing policies and supporting audits.",
+    "expectations": "They expect candidates to have strong technical security knowledge, hands‑on experience with Microsoft’s security stack and cloud security controls, scripting skills, and familiarity with ISO 27001, NIST CSF and audit evidence collection.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "4ccbcea4861b434d",
+    "title": "Information Security Analyst - Audit, Compliance & Cybersecurity",
+    "company": "Nice",
+    "location": "not stated",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/information-security-analyst-audit-compliance-cybersecurity-5835",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;At NICE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;So, what’s the role all about?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Information Security Analyst is primarily responsible for ensuring compliance with information security frameworks such as Cyber Essentials, Cyber Essentials Plus, ISO 27001, ISO 27701, ISO 42001, GDPR, and DORA. This role focuses on internal audits, regulatory compliance, and readiness for external audits while also contributing to Cybersecurity Operations Center (CSOC) activities, including incident monitoring and response.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;How will you make an impact?&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Internal Audit Execution: Conduct internal audits to evaluate and enhance IT controls, compliance with standards, and risk management processes.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Audit Preparation: Assist internal control owners in scoping appropriate evidence and preparing for external audits.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Gap Assessments: Facilitate and/or conduct internal gap assessments and audit readiness evaluations for frameworks such as ISO 27001, GDPR, and DORA.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Framework Tracking: Monitor updates to Cyber Essentials, ISO, and regulatory frameworks and ensure internal alignment.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Control Documentation: Develop and maintain control narratives, walkthroughs, and documentation of compliance processes.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Audit Findings: Identify control deficiencies and work with stakeholders to recommend cost-effective, value-added remediation actions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Compliance Reporting: Draft audit reports and present findings to management during status updates and closing meetings.&amp;nbsp;&lt;/li&gt; &lt;li&gt;External Audit Coordination: Collaborate with external audit teams to streamline processes and provide requested documentation and evidence.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Security Monitoring: Use tools such as Rapid7 InsightIDR or other SIEM solutions to assist with security monitoring and incident detection.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Incident Response Support: Participate in incident response efforts, documenting security incidents and assisting in containment and recovery actions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Threat Identification: Contribute to analyzing cybersecurity threats and implementing recommendations to improve the security posture.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Policy and Procedure Development: Assist in creating and refining cybersecurity policies and operational procedures to align with audit and compliance objectives.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Vulnerability Management: Support the tracking and remediation of vulnerabilities in coordination with IT and Security Operations teams.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Have you got what it takes?&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Strong expertise in audit and compliance frameworks, including ISO 27001, ISO 27701, ISO 42001, GDPR, DORA, Cyber Essentials, and Cyber Essentials Plus.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Familiarity with CSOC tools such as Rapid7 InsightIDR or other SIEM solutions.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Hands-on experience in internal and external audits, compliance assessments, and process improvement.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Basic understanding of incident response frameworks and cybersecurity best practices.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Exceptional analytical, organizational, and communication skills.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Commitment to continuous learning and professional development in audit, compliance, and security.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You will have an advantage if you also have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;A Master’s degree in Cybersecurity, Risk Management, or related fields is a plus.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Certifications (preferred or required):&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Certified Information Systems Auditor (CISA)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Certified Information Security Manager (CISM)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Certified Information Systems Security Professional (CISSP)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;ISO 27001 Lead Auditor or Implementer&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Cyber Essentials Assessor (or equivalent)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;GIAC certifications (e.g., GIAC Certified Incident Handler - GCIH or GIAC Security Essentials - GSEC)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What’s in it for you?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Join an ever-growing, market disrupting, global company where the teams – comprised of the best of the best – work in a fast-paced, collaborative, and creative environment! As the market leader, every day at NICE is a chance to learn and grow, and there are endless internal career opportunities across multiple roles, disciplines, domains, and locations. If you are passionate, innovative, and excited to constantly raise the bar, you may just be our next NICEr!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Enjoy NICE-FLEX!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At NICE, we work according to the NICE-FLEX hybrid model, which enables maximum flexibility: 2 days working from the office and 3 days of remote work, each week. Naturally, office days focus on face-to-face meetings, where teamwork and collaborative thinking generate innovation, new ideas, and a vibrant, interactive atmosphere.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About NICE&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NICE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Known as an innovation powerhouse that excels in AI, cloud and digital, NICE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to&amp;nbsp;race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.&lt;/em&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Requisition ID: 10993&lt;br&gt;Reporting into: &lt;/strong&gt;Director Information&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Role Type:&amp;nbsp;&lt;/strong&gt;Individual Contributor&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;About NiCE &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NiCE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Known as an innovation powerhouse that excels in AI, cloud and digital, NiCE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NiCE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find Jobs in United Kingdom on Arbeitnow",
+    "score": 55,
+    "score_reason": "Good GRC match but no clear sponsorship or remote options and unclear experience level.",
+    "skills": [
+      "internal audit",
+      "external audit",
+      "compliance assessment",
+      "process improvement",
+      "analytical skills",
+      "organizational skills",
+      "communication skills"
+    ],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Information Security Analyst - Audit, Compliance & Cybersecurity",
+    "experience_required": "not stated",
+    "role_summary": "The role involves conducting internal and external audits, ensuring compliance with frameworks like ISO 27001 and GDPR, and supporting CSOC incident monitoring and response.",
+    "expectations": "They expect candidates to have hands‑on experience in internal and external audits, compliance assessments and process improvement, along with strong analytical, organizational and communication skills.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-20",
+    "last_seen": null,
+    "missing_runs": 80
+  },
+  {
+    "id": "9daa6a17cc13e7d8",
+    "title": "Analista CSIRT Cybersecurity",
+    "company": "Experis",
+    "location": "Bardonnex, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/details/5832579142?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-08",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "CHF",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Analyste CSIRT - CybersécuritéExperis SA, divisione IT di ManpowerGroup, è leader nel reclutamento di profili IT specializzati. Offriamo soluzioni flessibili: missioni temporanee, inserimenti permanenti, gestione di progetti e consulenza professionale. La nostra competenza copre il digitale, la cybersicurezza, il cloud, le infrastrutture e altro ancora. Grazie alla nostra portata globale combinata a un approccio locale e personalizzato, accompagniamo efficacemente professionisti e aziende verso…",
+    "score": 55,
+    "score_reason": "Good role match but no sponsorship info and on‑site Switzerland location.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "not stated",
+    "title_en": "CSIRT Analyst Cybersecurity",
+    "experience_required": "not stated",
+    "role_summary": "A CSIRT analyst responsible for cybersecurity tasks.",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 62
   },
   {
     "id": "a5023110bce9f6b8",
@@ -1659,7 +1854,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "fd8a4612739c1de5",
@@ -1693,7 +1888,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f741f6d3e0557d86",
@@ -1735,7 +1930,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "6ea9a9439204fcc1",
@@ -1812,7 +2007,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "8cda8d21535f2463",
@@ -1846,7 +2041,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "c912053be2fdadd1",
@@ -1880,7 +2075,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d895bd56cb8e8e7d",
@@ -1957,7 +2152,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "0047779a30cdf267",
@@ -1991,7 +2186,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "d94a1fe270ef0984",
@@ -2025,7 +2220,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "1a46dbe88f03bd8a",
@@ -2059,7 +2254,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a56f63b33ce36ac8",
@@ -2093,7 +2288,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "060145e073cddc6d",
@@ -2134,7 +2329,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "e11f74245ad46e12",
@@ -2168,7 +2363,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "c63a1bb43cf5203d",
@@ -2207,7 +2402,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "fc4823ecbd0885cf",
@@ -2241,7 +2436,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f0725c056e6ea3a8",
@@ -2275,7 +2470,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "cec8b3ac66109141",
@@ -2309,7 +2504,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "0eff96b6d03fe02c",
@@ -2343,7 +2538,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "fc3b66b561c80863",
@@ -2377,7 +2572,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "405d17edd0856752",
@@ -2411,7 +2606,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "8e2341bce1ee3800",
@@ -2450,7 +2645,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 66
+    "missing_runs": 67
   },
   {
     "id": "e5fa894602c488ff",
@@ -2484,7 +2679,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d08c2e83c6e2364a",
@@ -2518,7 +2713,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "c8e3b61e7ad82840",
@@ -2552,7 +2747,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d3965ea1a4c02eab",
@@ -2586,7 +2781,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "73dd215b79d7b6d7",
@@ -2620,7 +2815,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "83da98b3fb07fc09",
@@ -2654,7 +2849,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "716012ff2e45c815",
@@ -2688,7 +2883,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "e97742717ed8d3fb",
@@ -2722,7 +2917,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a925f297df4476f9",
@@ -2756,7 +2951,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "37b051d9ee0311f6",
@@ -2795,7 +2990,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "245c79eb56c53cec",
@@ -2829,7 +3024,75 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
+  },
+  {
+    "id": "c4f276bb34176883",
+    "title": "Security Analyst",
+    "company": "Bison Schweiz AG",
+    "location": "Sursee / Sursee, Switzerland",
+    "country": "CH",
+    "url": "https://www.adzuna.ch/land/ad/5836718856?se=EgevDXKc8RGqn_jkSy3S8Q&utm_medium=api&utm_source=ceaf5c9d&v=A68C9F36D170FBE64BD6285DDE426D7B891C9745",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-11",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Security Analyst (w/m/d) Die BISON sorgt als Partner*in der Landwirtschaft dafür, dass die Lebensmittel zu den Konsumenten*innen gelangen. Dabei ist es wichtig, dass die IT optimal auf die Bedürfnisse der Fachbereiche abgestimmt werden kann. Genau hier kommst du als Security Analyst*in ins Spiel! Dank deinem täglichen Einsatz ist alles mit dem Business abgestimmt und für die Zukunft optimal ausgerichtet. Du hast die \"can do\" Mentalität und arbeitest gern im Team? Du bist offen und kommunizierst…",
+    "score": 45,
+    "score_reason": "Good role match but no sponsorship or remote option and unclear experience level.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Security Analyst",
+    "experience_required": "not stated",
+    "role_summary": "You act as the security analyst aligning IT security with business needs and ensuring optimal future‑oriented security solutions.",
+    "expectations": "They expect a can‑do attitude, teamwork, openness and strong communication skills.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 80
+  },
+  {
+    "id": "9c79bd3d719ab0bc",
+    "title": "Cybersecurity / Information Security Engineer (m/w/d)",
+    "company": "MUSE Electronics GmbH",
+    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations",
+    "country": "AT",
+    "url": "https://www.adzuna.at/details/5841115108?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-14",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "MUSE ist ein modernes und dynamisches Technologie-Unternehmen mit dem Auftrag, bedingungslos cyberssichere, und robuste Handheld-Devices für extreme Anwendungsbedingungen herzustellen. Sie möchten Security nicht nur verwalten, sondern aktiv gestalten? In dieser Schlu sselrolle u bernehmen Sie Verantwortung fu r die Weiterentwicklung unserer Security-Landschaft und sorgen dafu r, dass Sicherheit von Anfang an in unsere Produkte und Systeme integriert ist. Sie arbeiten eng mit IT, Entwicklung und…",
+    "score": 45,
+    "score_reason": "Role matches security interests but lacks sponsorship/remote options and seniority is unclear for a junior candidate.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Cybersecurity / Information Security Engineer",
+    "experience_required": "not stated",
+    "role_summary": "Responsible for advancing the security landscape and ensuring security is integrated from the start into products and systems, working closely with IT and development teams.",
+    "expectations": "The candidate is expected to take ownership of developing the security landscape, embed security into products and systems, and collaborate with IT and development.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-22",
+    "missing_runs": 62
   },
   {
     "id": "4cdb857444cfb299",
@@ -2872,7 +3135,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "6f56c8683fcd4ec0",
@@ -2913,7 +3176,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "3a92e95b47203e99",
@@ -2947,7 +3210,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "cd1fc3ded981dc2d",
@@ -2981,7 +3244,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2ef3f4aa72ecd050",
@@ -3015,7 +3278,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "0c9459fbf5817847",
@@ -3049,7 +3312,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "d896235fe6f292dc",
@@ -3083,7 +3346,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "fc56ea2e1a4b4844",
@@ -3117,7 +3380,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "aee5431825ba06be",
@@ -3151,7 +3414,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a4b3082c51fc239c",
@@ -3185,7 +3448,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "42b5375cea91e1da",
@@ -3219,7 +3482,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2661b767c6421eaa",
@@ -3253,7 +3516,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f12dc995f0b5ff69",
@@ -3287,7 +3550,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2da3a883eb20a956",
@@ -3321,7 +3584,41 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
+  },
+  {
+    "id": "5ae3dbc652d5a942",
+    "title": "Cloud Security Engineer DevSecOps",
+    "company": "Motorola Solutions",
+    "location": "Kraków, małopolskie",
+    "country": "PL",
+    "url": "https://www.adzuna.pl/details/5809265594?utm_medium=api&utm_source=ceaf5c9d",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-07-21",
+    "remote": "not stated",
+    "salary": "168000-216000",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "The position is part of our Core Platforms & Services (CPS) Cybersecurity organization which operates and manages MSI’s Cloud Public Safety Application SaaS platform. You will be part of a team that is responsible for the security of these mission critical systems that are used everyday by public safety and government agencies across multiple countries. In this role, you will also be working in a world-class team that uses state of the art technologies and techniques. This team is part of Motor…",
+    "score": 40,
+    "score_reason": "Good role match but no entry‑level cues, no remote or sponsorship info, and location is on‑site in Poland.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "mid",
+    "title_en": "Cloud Security Engineer DevSecOps",
+    "experience_required": "not stated",
+    "role_summary": "Secure the cloud public‑safety SaaS platform used by government agencies across multiple countries.",
+    "expectations": "Join the Core Platforms & Services Cybersecurity team to protect mission‑critical systems and work with state‑of‑the‑art technologies.",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-19",
+    "last_seen": null,
+    "missing_runs": 80
   },
   {
     "id": "d3aa0707d62a6af0",
@@ -3362,7 +3659,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "8008b79da52fcf75",
@@ -3396,7 +3693,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d706ad37f78319bc",
@@ -3430,7 +3727,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "b333e11f4e4d507d",
@@ -3464,7 +3761,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e663a9ba8b6a0c06",
@@ -3498,7 +3795,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "6c358b564f0fe65b",
@@ -3532,7 +3829,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "4843633d16d653e7",
@@ -3566,7 +3863,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "57c17fa660d7eee3",
@@ -3600,7 +3897,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e15c5442b76fe774",
@@ -3634,7 +3931,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "518b66566e72f965",
@@ -3668,7 +3965,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2976652a37da1f0d",
@@ -3709,7 +4006,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "24b143beae454291",
@@ -3743,7 +4040,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 66
+    "missing_runs": 67
   },
   {
     "id": "5a70272f5048b012",
@@ -3786,7 +4083,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "807857290d85cdd6",
@@ -3820,7 +4117,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "b3422309512a8bfe",
@@ -3854,7 +4151,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "b84b199d728c3d54",
@@ -3888,7 +4185,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "23298f072950a9a6",
@@ -3922,7 +4219,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "cb39bb0c2fc49fe7",
@@ -3956,7 +4253,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "019f01bf4b5cdf25",
@@ -3990,7 +4287,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "42edbf689da38d09",
@@ -4024,7 +4321,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "aacefa0b4dcd00db",
@@ -4058,7 +4355,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "62e9e54e2420585d",
@@ -4092,7 +4389,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "cf87750c996e5ba3",
@@ -4126,7 +4423,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "11dd98fd10d0a79d",
@@ -4160,7 +4457,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f8b893d4dcf31c6f",
@@ -4194,7 +4491,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "ff4d8b531b5a5db3",
@@ -4228,7 +4525,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "aa5be1f6ad52d7ff",
@@ -4262,7 +4559,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "284ef22fbb9421c0",
@@ -4296,7 +4593,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "8bece923e2e7190c",
@@ -4330,7 +4627,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "c5d71a36cb209952",
@@ -4364,7 +4661,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "191c2c400808e938",
@@ -4398,7 +4695,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2307d28c4811f7b8",
@@ -4435,7 +4732,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d9d2fd15609abde7",
@@ -4475,7 +4772,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "3aac25d374a4d221",
@@ -4518,7 +4815,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "9595952a81ac891d",
@@ -4595,7 +4892,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "e994083684a225fc",
@@ -4637,7 +4934,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "45e89d2fd2bee0ca",
@@ -4671,7 +4968,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "d94faa22744837d5",
@@ -4705,7 +5002,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "28bb4b2fd8cffbec",
@@ -4739,7 +5036,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "440562817c717302",
@@ -4773,7 +5070,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "42134c1aec29a7ae",
@@ -4807,7 +5104,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "f5d7d9e6ed8ed0b6",
@@ -4847,7 +5144,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "09a492b18788314a",
@@ -4881,7 +5178,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "b8156df2259f9f32",
@@ -4915,7 +5212,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "f567a352d9e0e284",
@@ -4949,7 +5246,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2e7f8d2ea0be544c",
@@ -4990,7 +5287,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "260ea34e1abe0694",
@@ -5110,7 +5407,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "eb14b2d934ef4f1b",
@@ -5144,7 +5441,41 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
+  },
+  {
+    "id": "e95686d830f57aef",
+    "title": "Coördinerend Adviseur Security",
+    "company": "Ministerie van Defensie",
+    "location": "Netherlands",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5843172109?se=LgSy8BGe8RG86Oflwfyx5Q&utm_medium=api&utm_source=ceaf5c9d&v=B9F7DA6947E40CD07664C372F83476F13B1FBDDC",
+    "source": "adzuna",
+    "source_type": "api",
+    "posted_date": "2026-08-15",
+    "remote": "not stated",
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "Vacature kenmerken Standplaats Utrecht Contractduur 2 jaar Uren per week - 38 Maandsalaris €5.863,00 - €7.575,00 Salarisniveau Burgerschaal IBBAD 12 - Burgerschaal IBBAD 12 Niveau HBO oude stijl Vakgebied Orde / vrede / veiligheid Vacaturenummer 79306 Dienstverband ​Tijdelijke aanstelling met zicht op vaste aanstelling​ Functiegroep Burger Functieomschrijving Werken bij het ministerie Defensie, maar niet als militair? Als je kiest voor een baan bij Defensie, dan kies je voor maatschappelijk rel…",
+    "score": 30,
+    "score_reason": "Limited information, no sponsorship mentioned, on‑site Netherlands role, unclear fit with candidate's junior level and remote‑from‑India preference.",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "junior",
+    "title_en": "Coordinating Security Advisor",
+    "experience_required": "not stated",
+    "role_summary": "Provides security advice and coordination within the Ministry of Defence.",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 6,
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-22",
+    "missing_runs": 62
   },
   {
     "id": "7190bbcee872de2a",
@@ -5178,7 +5509,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "be3ba1b5124a1c16",
@@ -5212,7 +5543,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "604caf2eeefc482e",
@@ -5249,7 +5580,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "325c8016309eb60b",
@@ -5326,7 +5657,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "fdd98c194af2b1d8",
@@ -5360,7 +5691,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a8039868d519a083",
@@ -5394,7 +5725,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "bd47c592200aa70c",
@@ -5436,7 +5767,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "1b1734de6c951b45",
@@ -5470,7 +5801,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "5a3697f5f9b97f6b",
@@ -5504,7 +5835,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "6a24ab7df67918eb",
@@ -5538,7 +5869,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "dcd359ccd7bf989b",
@@ -5572,7 +5903,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "2d5a76f24121ddf4",
@@ -5606,7 +5937,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "11ea0aec0fbe9940",
@@ -5640,7 +5971,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "66f89db6c114d0b9",
@@ -5674,7 +6005,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 76
+    "missing_runs": 77
   },
   {
     "id": "dcc883d52a454cd6",
@@ -5708,7 +6039,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "58e805f87c37160f",
@@ -5750,7 +6081,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "352c303e8ee6c869",
@@ -5784,7 +6115,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "1804b4ce93756b21",
@@ -5818,7 +6149,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "eae0a9bb65c94def",
@@ -5852,7 +6183,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "11cd449d77493dda",
@@ -5886,7 +6217,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "5f7ea3f234c7c353",
@@ -5920,7 +6251,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "a942ec9b03df4840",
@@ -5954,7 +6285,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "b55640c1f733595a",
@@ -5988,7 +6319,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e5a61b8c78be2cfe",
@@ -6022,7 +6353,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "ae0d6c57cd8197ae",
@@ -6056,7 +6387,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-21",
-    "missing_runs": 72
+    "missing_runs": 73
   },
   {
     "id": "472f6d72ac7d168c",
@@ -6090,7 +6421,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "0c896e97e6d5c122",
@@ -6202,7 +6533,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "14d8c62a9761e681",
@@ -6279,7 +6610,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "22692eaae38299bf",
@@ -6313,7 +6644,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "6663a30a41a037d1",
@@ -6347,7 +6678,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "fdc54eb5c3105f25",
@@ -6389,7 +6720,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "1c3bf4d9a9e569d5",
@@ -6423,7 +6754,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "1c82d76114693c53",
@@ -6457,7 +6788,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "8297697c0b68f485",
@@ -6577,7 +6908,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "9aece813e2d051f0",
@@ -6611,7 +6942,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 70
+    "missing_runs": 71
   },
   {
     "id": "5e5b210208912cd3",
@@ -6645,7 +6976,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e42a540da8214e31",
@@ -6679,7 +7010,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a2febe5aa099a81b",
@@ -6722,7 +7053,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "a144f46ee4833856",
@@ -6756,7 +7087,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e04ebe29a453b0de",
@@ -6798,7 +7129,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "5b798dff2178cc87",
@@ -6832,7 +7163,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "16e8386d275e643e",
@@ -6914,7 +7245,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "a6eb69ca3c8ed453",
@@ -6956,7 +7287,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "039e735f5c8670e1",
@@ -6999,7 +7330,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 68
+    "missing_runs": 69
   },
   {
     "id": "4987c76bf12cbb46",
@@ -7084,7 +7415,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "674a2558bffc5fb4",
@@ -7118,7 +7449,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "e78489d73b8098b5",
@@ -7161,7 +7492,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "32a59ab96f0f9ae7",
@@ -7195,7 +7526,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
-    "missing_runs": 62
+    "missing_runs": 63
   },
   {
     "id": "f7221d03635156da",
@@ -7229,7 +7560,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "01239214d8bc5030",
@@ -7263,7 +7594,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "5390f8be20209026",
@@ -7297,7 +7628,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "eed918fd33e49444",
@@ -7337,7 +7668,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "636b9ad8c8606c2e",
@@ -7371,7 +7702,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "9d003521671be9c0",
@@ -7405,7 +7736,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "be0b67c80b1a3b85",
@@ -7439,7 +7770,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "60e7fd97deadf7ab",
@@ -7482,7 +7813,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 72
+    "missing_runs": 73
   },
   {
     "id": "49e76312a5be416a",
@@ -7521,7 +7852,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "9438fc06a05a8465",
@@ -7598,7 +7929,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "52a9a2f62d3c5420",
@@ -7632,7 +7963,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 71
+    "missing_runs": 72
   },
   {
     "id": "75b97b83d38e9e67",
@@ -7673,7 +8004,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 71
+    "missing_runs": 72
   },
   {
     "id": "d5b0319a1dc3a486",
@@ -7707,7 +8038,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2be399176e1ce304",
@@ -7749,7 +8080,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "7143db87b27883f0",
@@ -7783,7 +8114,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 71
+    "missing_runs": 72
   },
   {
     "id": "03e791b6c4422839",
@@ -7817,7 +8148,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "0d932d0134eb63b4",
@@ -7851,7 +8182,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "92ed9099bde68df7",
@@ -7890,7 +8221,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 66
+    "missing_runs": 67
   },
   {
     "id": "f4c2a23292e91f27",
@@ -7933,7 +8264,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "651cf430a57772f3",
@@ -7967,7 +8298,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "a1b1a2f35799079b",
@@ -8009,7 +8340,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 66
+    "missing_runs": 67
   },
   {
     "id": "69b1ff11a646af51",
@@ -8043,7 +8374,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "c208c122436a1971",
@@ -8080,7 +8411,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "e2bf2aa01e36adf2",
@@ -8161,7 +8492,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 63
+    "missing_runs": 64
   },
   {
     "id": "fe4ef31dae1f7a38",
@@ -8247,7 +8578,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "1e8685f3993b470e",
@@ -8290,7 +8621,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "469d11f1797792a0",
@@ -8324,7 +8655,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "c51b61ee70918035",
@@ -8358,7 +8689,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "db11d02c6a8b8e3d",
@@ -8392,7 +8723,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "f3bb9cebf811bda0",
@@ -8478,7 +8809,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "2dbeab30a1df3688",
@@ -8564,7 +8895,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "ac4f2e9556c23d82",
@@ -8598,7 +8929,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "9e641b8deecef414",
@@ -8632,7 +8963,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-21",
-    "missing_runs": 71
+    "missing_runs": 72
   },
   {
     "id": "d54ac133526865fa",
@@ -8671,7 +9002,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "0b70758a5c803f74",
@@ -8712,7 +9043,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "9cf13e712dfb1a3d",
@@ -8753,7 +9084,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "24f80d9526012a45",
@@ -8796,160 +9127,7 @@
     "analysis_version": 6,
     "first_seen": "2026-08-20",
     "last_seen": null,
-    "missing_runs": 79
-  },
-  {
-    "id": "c4f276bb34176883",
-    "title": "Security Analyst",
-    "company": "Bison Schweiz AG",
-    "location": "Sursee / Sursee, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/land/ad/5836718856?se=EgevDXKc8RGqn_jkSy3S8Q&utm_medium=api&utm_source=ceaf5c9d&v=A68C9F36D170FBE64BD6285DDE426D7B891C9745",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-11",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Security Analyst (w/m/d) Die BISON sorgt als Partner*in der Landwirtschaft dafür, dass die Lebensmittel zu den Konsumenten*innen gelangen. Dabei ist es wichtig, dass die IT optimal auf die Bedürfnisse der Fachbereiche abgestimmt werden kann. Genau hier kommst du als Security Analyst*in ins Spiel! Dank deinem täglichen Einsatz ist alles mit dem Business abgestimmt und für die Zukunft optimal ausgerichtet. Du hast die \"can do\" Mentalität und arbeitest gern im Team? Du bist offen und kommunizierst…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 79
-  },
-  {
-    "id": "afe62b02dc015988",
-    "title": "Information Security Engineer",
-    "company": "Consilium Safety Group AB",
-    "location": "Göteborg, Sweden",
-    "country": "SE",
-    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31083679",
-    "source": "jobtech",
-    "source_type": "api",
-    "posted_date": "2026-05-26",
-    "remote": "not stated",
-    "salary": "Fast månads- vecko- eller timlön",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Heltid, Vanlig Anställning",
-    "description": "About Consilium Safety Group At Consilium Safety Group, we don’t just build technology, we create solutions that protect people, assets, and the planet. As a global leader in fire and gas safety, we serve critical industries such as marine, energy, rolling stock, and infrastructure. With more than 100 years of expertise, we combine deep industry knowledge with cutting-edge innovation to shape the future of Safety Tech. Headquartered in Gothenburg, Sweden, and operating in over 55 locations worldwide, we are a fast-growing global organization backed by Antin Infrastructure Partners. With strong financial support and a clear strategic vision, we are on an ambitious journey of growth and transformation, investing in innovation, operational excellence, and talent. This is an exciting time to join us. We are now looking for an Information Security Engineer to join the information security team at Consilium! About the Role As an Information Security Engineer at Consilium, you will combine hands-on security operations with strategic governance and compliance work. In practice, the role is split into two central pillars: Operational Excellence: Working hands-on to implement security controls, managing daily security activities, and acting as an internal subject matter expert. Strategic and Compliance-Oriented Leadership: Developing and driving our security strategy, ensuring we meet regulatory requirements, and continuously strengthening our security posture. You will help protect Consilium’s information assets, lead compliance efforts related to NIS2, and support alignment with frameworks such as NIST CSF, ISO 27001, the EU CRA, and the AI Act. The role works closely with teams across IT, HR, R&D, Sales, and Marketing. Your Main Responsibilities In this role, you will manage day-to-day security operations activities as well as strengthening the ISMS, implement controls aligned with ISO 27001, NIS2, and NIST CSF, coordinate audits, develop policies, and provide risk reporting and advisory support across the business. Qualifications and Experience To succeed in this role, you bring strong technical security knowledge, incident-handling capability, and an interest in governance and compliance. Requirements Technical Environment: Solid understanding of Microsoft Defender suite, Azure/O365, Windows, and Linux. Networking & Security Tools: Strong knowledge of TCP/IP, segmentation, firewalls, SIEM, EDR/EPP, and patch management. Automation: Basic to intermediate scripting skills (PowerShell, Python, Bash, KQL, or Graph API). Incident & Frameworks: Experience with log analysis, incident lifecycles, and frameworks like ISO 27001 or NIST CSF. Communication: Ability to explain technical security concepts clearly to non-technical stakeholders. Meriting Hands-on experience with Microsoft's advanced security stack (Sentinel, XDR, Entra, Intune, Purview/Priva). Cloud security controls (Azure), DevSecOps (GitHub Advanced Security), or direct audit-evidence collection experience. Previous experience working with audits and evidence collection linked to ISO 27001/NIS2/NIST CSF. Who Are We Looking For? We are looking for someone with hands-on experience in IT security and information security compliance, along with a solid understanding of relevant regulations and security frameworks. You are structured, analytical, and able to communicate clearly with a wide range of stakeholders. Personal Attributes You are analytical, proactive, and solution-oriented, with high integrity and a structured way of working. You communicate clearly, work well independently, and build strong relationships across technical and non-technical teams. What We Offer At Consilium Safety Group, you will join an innovative international environment where quality and safety come first. This is a high-impact role with opportunities to shape global security initiatives, along with a competitive salary, benefits, and career development. Apply Now Does this sound like your next challenge? Submit your application as soon as possible, as we review applications on a rolling basis. Consilium Safety Group is an equal opportunity employer committed to diversity and inclusion. Ready to learn more about our journey? Hear from our CEO: Philip Isell Lind af Hageby, Consilium, en mästare på turnarounds - Värdeskaparna | En podd om riskkapital av OPX Partners | Podcast on Spotify",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "PowerShell",
-      "Python",
-      "Bash",
-      "KQL",
-      "Log analysis",
-      "Incident handling",
-      "Azure",
-      "ISO 27001"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-26",
-    "missing_runs": 0
-  },
-  {
-    "id": "9c79bd3d719ab0bc",
-    "title": "Cybersecurity / Information Security Engineer (m/w/d)",
-    "company": "MUSE Electronics GmbH",
-    "location": "Innere Stadt, Austria / Wien, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria / Innere Stadt, Austria +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations +2 more locations",
-    "country": "AT",
-    "url": "https://www.adzuna.at/details/5841115108?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-14",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "MUSE ist ein modernes und dynamisches Technologie-Unternehmen mit dem Auftrag, bedingungslos cyberssichere, und robuste Handheld-Devices für extreme Anwendungsbedingungen herzustellen. Sie möchten Security nicht nur verwalten, sondern aktiv gestalten? In dieser Schlu sselrolle u bernehmen Sie Verantwortung fu r die Weiterentwicklung unserer Security-Landschaft und sorgen dafu r, dass Sicherheit von Anfang an in unsere Produkte und Systeme integriert ist. Sie arbeiten eng mit IT, Entwicklung und…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 61
-  },
-  {
-    "id": "4ccbcea4861b434d",
-    "title": "Information Security Analyst - Audit, Compliance & Cybersecurity",
-    "company": "Nice",
-    "location": "not stated",
-    "country": "REMOTE",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/information-security-analyst-audit-compliance-cybersecurity-5835",
-    "source": "arbeitnow",
-    "source_type": "api",
-    "posted_date": null,
-    "remote": false,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;At NICE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;So, what’s the role all about?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Information Security Analyst is primarily responsible for ensuring compliance with information security frameworks such as Cyber Essentials, Cyber Essentials Plus, ISO 27001, ISO 27701, ISO 42001, GDPR, and DORA. This role focuses on internal audits, regulatory compliance, and readiness for external audits while also contributing to Cybersecurity Operations Center (CSOC) activities, including incident monitoring and response.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;How will you make an impact?&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Internal Audit Execution: Conduct internal audits to evaluate and enhance IT controls, compliance with standards, and risk management processes.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Audit Preparation: Assist internal control owners in scoping appropriate evidence and preparing for external audits.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Gap Assessments: Facilitate and/or conduct internal gap assessments and audit readiness evaluations for frameworks such as ISO 27001, GDPR, and DORA.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Framework Tracking: Monitor updates to Cyber Essentials, ISO, and regulatory frameworks and ensure internal alignment.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Control Documentation: Develop and maintain control narratives, walkthroughs, and documentation of compliance processes.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Audit Findings: Identify control deficiencies and work with stakeholders to recommend cost-effective, value-added remediation actions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Compliance Reporting: Draft audit reports and present findings to management during status updates and closing meetings.&amp;nbsp;&lt;/li&gt; &lt;li&gt;External Audit Coordination: Collaborate with external audit teams to streamline processes and provide requested documentation and evidence.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Security Monitoring: Use tools such as Rapid7 InsightIDR or other SIEM solutions to assist with security monitoring and incident detection.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Incident Response Support: Participate in incident response efforts, documenting security incidents and assisting in containment and recovery actions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Threat Identification: Contribute to analyzing cybersecurity threats and implementing recommendations to improve the security posture.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Policy and Procedure Development: Assist in creating and refining cybersecurity policies and operational procedures to align with audit and compliance objectives.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Vulnerability Management: Support the tracking and remediation of vulnerabilities in coordination with IT and Security Operations teams.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Have you got what it takes?&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Strong expertise in audit and compliance frameworks, including ISO 27001, ISO 27701, ISO 42001, GDPR, DORA, Cyber Essentials, and Cyber Essentials Plus.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Familiarity with CSOC tools such as Rapid7 InsightIDR or other SIEM solutions.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Hands-on experience in internal and external audits, compliance assessments, and process improvement.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Basic understanding of incident response frameworks and cybersecurity best practices.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Exceptional analytical, organizational, and communication skills.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Commitment to continuous learning and professional development in audit, compliance, and security.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You will have an advantage if you also have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;A Master’s degree in Cybersecurity, Risk Management, or related fields is a plus.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Certifications (preferred or required):&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Certified Information Systems Auditor (CISA)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Certified Information Security Manager (CISM)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Certified Information Systems Security Professional (CISSP)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;ISO 27001 Lead Auditor or Implementer&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;Cyber Essentials Assessor (or equivalent)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;ul&gt; &lt;ul&gt; &lt;li&gt;GIAC certifications (e.g., GIAC Certified Incident Handler - GCIH or GIAC Security Essentials - GSEC)&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What’s in it for you?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Join an ever-growing, market disrupting, global company where the teams – comprised of the best of the best – work in a fast-paced, collaborative, and creative environment! As the market leader, every day at NICE is a chance to learn and grow, and there are endless internal career opportunities across multiple roles, disciplines, domains, and locations. If you are passionate, innovative, and excited to constantly raise the bar, you may just be our next NICEr!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Enjoy NICE-FLEX!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At NICE, we work according to the NICE-FLEX hybrid model, which enables maximum flexibility: 2 days working from the office and 3 days of remote work, each week. Naturally, office days focus on face-to-face meetings, where teamwork and collaborative thinking generate innovation, new ideas, and a vibrant, interactive atmosphere.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About NICE&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NICE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Known as an innovation powerhouse that excels in AI, cloud and digital, NICE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to&amp;nbsp;race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.&lt;/em&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Requisition ID: 10993&lt;br&gt;Reporting into: &lt;/strong&gt;Director Information&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Role Type:&amp;nbsp;&lt;/strong&gt;Individual Contributor&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;About NiCE &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NiCE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Known as an innovation powerhouse that excels in AI, cloud and digital, NiCE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NiCE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find Jobs in United Kingdom on Arbeitnow",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "internal audits",
-      "external audits",
-      "compliance assessments",
-      "process improvement",
-      "analytical skills",
-      "organizational skills",
-      "communication skills"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-20",
-    "last_seen": null,
-    "missing_runs": 79
+    "missing_runs": 80
   },
   {
     "id": "c65cb530d5eb56b3",
@@ -8985,186 +9163,7 @@
     "analysis_version": 5,
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
-  },
-  {
-    "id": "5ae3dbc652d5a942",
-    "title": "Cloud Security Engineer DevSecOps",
-    "company": "Motorola Solutions",
-    "location": "Kraków, małopolskie",
-    "country": "PL",
-    "url": "https://www.adzuna.pl/details/5809265594?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-21",
-    "remote": "not stated",
-    "salary": "168000-216000",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "The position is part of our Core Platforms & Services (CPS) Cybersecurity organization which operates and manages MSI’s Cloud Public Safety Application SaaS platform. You will be part of a team that is responsible for the security of these mission critical systems that are used everyday by public safety and government agencies across multiple countries. In this role, you will also be working in a world-class team that uses state of the art technologies and techniques. This team is part of Motor…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "not stated",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": null,
-    "missing_runs": 79
-  },
-  {
-    "id": "42550275ef09e998",
-    "title": "Cybersecurity Auditor (m/f/d) - DISW",
-    "company": "Digital Industries",
-    "location": "München, Germany",
-    "country": "DE",
-    "url": "https://www.adzuna.de/land/ad/5814251264?se=nuSZ5mud8RGfQpohglHoaw&utm_medium=api&utm_source=ceaf5c9d&v=3CCD54CF410DABFD0794B1A3DCF822C7F04C83C2",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-07-24",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Start your cyber career with us! As part of the global Cybersecurity Assurance function, we help Siemens to achieve their goals by providing objective, factual and independent assurance to the Siemens Managing Board and Audit Committee. As a business partner to Siemens executive management, we leverage our expertise in a wide range of topics to create an impact that drives change. We offer a vibrant and inclusive environment which ensures a variety of perspectives and enables big picture thinki…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-21",
-    "missing_runs": 71
-  },
-  {
-    "id": "9daa6a17cc13e7d8",
-    "title": "Analista CSIRT Cybersecurity",
-    "company": "Experis",
-    "location": "Bardonnex, Switzerland",
-    "country": "CH",
-    "url": "https://www.adzuna.ch/details/5832579142?utm_medium=api&utm_source=ceaf5c9d",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-08",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "CHF",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Analyste CSIRT - CybersécuritéExperis SA, divisione IT di ManpowerGroup, è leader nel reclutamento di profili IT specializzati. Offriamo soluzioni flessibili: missioni temporanee, inserimenti permanenti, gestione di progetti e consulenza professionale. La nostra competenza copre il digitale, la cybersicurezza, il cloud, le infrastrutture e altro ancora. Grazie alla nostra portata globale combinata a un approccio locale e personalizzato, accompagniamo efficacemente professionisti e aziende verso…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "missing_runs": 61
-  },
-  {
-    "id": "899f0bbd2aa8c336",
-    "title": "Ubuntu Security Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "country": "REMOTE",
-    "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
-    "source": "jobicy",
-    "source_type": "api",
-    "posted_date": "2026-08-22",
-    "remote": true,
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_inr": "not stated",
-    "employment_type": "Full Time",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical is building a team dedicated to providing security coverage across a wide range of ecosystems and environments, working to make the world a better, safer place. We are hiring an Ubuntu Security Engineer to join an industry-leading security engineering team and help protect the open source community and Ubuntu users from emerging threats. We are looking for candidates across all levels of experience, from Graduate to Senior. As part of the Ubuntu Security Team, you will work with some of the best and brightest people in technology to monitor, triage, respond to, and document new and existing vulnerabilities in open source software. You will collaborate with internal teams and external partners to identify issues, prioritize them, and coordinate remediation. This is an engineering-focused role that may also involve activities such as producing security assessments, building features, conducting code reviews, developing internal tools, engaging with the open source community, and participating in industry initiatives and events. This role requires international travel at least twice a year, usually for one week. It also requires the ability to be productive in a globally distributed team through self-discipline and self-motivation. Location: Worldwide, this is a globally remote role The role entails Analyzing, fixing, and testing vulnerabilities in open source packages Keeping track of vulnerabilities in the Ubuntu ecosystem as they are discovered, researched, and fixed, leveraging internal tools Collaborating with other teams in the Ubuntu community and upstream developers, as needed, to exchange or develop vulnerability patches and ensure that Ubuntu includes the most robust security features Auditing source code for vulnerabilities Building features and tools to help teams strengthen the security of their products and contribute to the overall security of Ubuntu What we are looking for in you You have a thorough understanding of the common categories of security vulnerabilities and techniques for fixing them You are familiar with coordinated disclosure practices You are familiar with open source development tools and methodologies You are skilled in one or more of C, Python, Go, Rust, Java, Ruby, PHP or JavaScript/TypeScript You have excellent logic, problem-solving, troubleshooting, and decision-making skills You can clearly and effectively communicate with the team and Ubuntu community members Experience with Linux (Debian or Ubuntu preferred) Excellent interpersonal skills, curiosity, flexibility, and accountability Appreciative of diversity, polite, and effective in a multi-cultural, multi-national organization Thoughtfulness and self-motivation Result-oriented, with a personal drive to meet commitments What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program &amp; Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [
-      "Linux",
-      "C",
-      "Python",
-      "Go",
-      "Rust",
-      "Java",
-      "coordinated disclosure",
-      "vulnerability analysis"
-    ],
-    "hiring_process": "not stated",
-    "seniority_fit": "junior",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 5,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-26",
-    "missing_runs": 0
-  },
-  {
-    "id": "e95686d830f57aef",
-    "title": "Coördinerend Adviseur Security",
-    "company": "Ministerie van Defensie",
-    "location": "Netherlands",
-    "country": "NL",
-    "url": "https://www.adzuna.nl/land/ad/5843172109?se=LgSy8BGe8RG86Oflwfyx5Q&utm_medium=api&utm_source=ceaf5c9d&v=B9F7DA6947E40CD07664C372F83476F13B1FBDDC",
-    "source": "adzuna",
-    "source_type": "api",
-    "posted_date": "2026-08-15",
-    "remote": "not stated",
-    "salary": "not stated",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "EUR",
-    "salary_period": "year",
-    "salary_inr": "not stated",
-    "employment_type": "not stated",
-    "description": "Vacature kenmerken Standplaats Utrecht Contractduur 2 jaar Uren per week - 38 Maandsalaris €5.863,00 - €7.575,00 Salarisniveau Burgerschaal IBBAD 12 - Burgerschaal IBBAD 12 Niveau HBO oude stijl Vakgebied Orde / vrede / veiligheid Vacaturenummer 79306 Dienstverband ​Tijdelijke aanstelling met zicht op vaste aanstelling​ Functiegroep Burger Functieomschrijving Werken bij het ministerie Defensie, maar niet als militair? Als je kiest voor een baan bij Defensie, dan kies je voor maatschappelijk rel…",
-    "score": null,
-    "score_reason": "AI unavailable",
-    "skills": [],
-    "hiring_process": "not stated",
-    "seniority_fit": "",
-    "title_en": "",
-    "experience_required": "not stated",
-    "role_summary": "not stated",
-    "expectations": "not stated",
-    "visa_sponsorship": "not stated",
-    "analysis_version": 0,
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "c610b87716750571",
@@ -9198,7 +9197,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "62f78051b877db5a",
@@ -9232,7 +9231,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "014f111ccfd193c8",
@@ -9266,7 +9265,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 67
+    "missing_runs": 68
   },
   {
     "id": "a434d2c2211f001e",
@@ -9300,7 +9299,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "missing_runs": 71
+    "missing_runs": 72
   },
   {
     "id": "43895121521a15d9",
@@ -9334,7 +9333,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "7a64ae009c5ecdce",
@@ -9368,7 +9367,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "914c02820936e419",
@@ -9402,7 +9401,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 65
+    "missing_runs": 66
   },
   {
     "id": "7df7167b00dd47cf",
@@ -9436,7 +9435,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "375d943288db746a",
@@ -9470,7 +9469,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "2dd9ab446aadf9f3",
@@ -9504,7 +9503,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "f0b7cebe2eca3163",
@@ -9538,7 +9537,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "6d25ac2a44c18cba",
@@ -9572,7 +9571,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "4dd44b03c68c0630",
@@ -9606,7 +9605,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "8d0fa64e60043046",
@@ -9640,7 +9639,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "dc23cdeefe773f13",
@@ -9674,7 +9673,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "a65f096f9cbfc185",
@@ -9708,7 +9707,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "06f62ee7eb1dc961",
@@ -9742,7 +9741,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 61
+    "missing_runs": 62
   },
   {
     "id": "ebc1315b58495c08",
@@ -9776,7 +9775,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "49350bf06811310d",
@@ -9844,7 +9843,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "a26061baf7ddd290",
@@ -9878,7 +9877,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "0744fa446bb88b8c",
@@ -9912,7 +9911,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "7ed8e3549688981b",
@@ -9946,7 +9945,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "149bf5e042a6c942",
@@ -10082,7 +10081,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "a3211baff2f00386",
@@ -10456,7 +10455,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "72967963bdaf0d90",
@@ -10490,7 +10489,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "c54f15aacae2cce8",
@@ -10524,7 +10523,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "9a296628c7f7cd65",
@@ -10898,7 +10897,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "aa1a50c50e0f1b51",
@@ -11102,7 +11101,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "0e0e563fe4979db0",
@@ -11136,7 +11135,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "e6fd93e66ca79d9e",
@@ -11204,7 +11203,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "29a20c20d2af7136",
@@ -11340,7 +11339,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5e7dba2fb2b69d58",
@@ -11680,7 +11679,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "80ee0a720bc106ae",
@@ -11850,7 +11849,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 57
+    "missing_runs": 58
   },
   {
     "id": "c3d60db5bd04d95a",
@@ -11884,7 +11883,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 57
+    "missing_runs": 58
   },
   {
     "id": "09d837f634921342",
@@ -11918,7 +11917,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 57
+    "missing_runs": 58
   },
   {
     "id": "b8e9c7502e790ef1",
@@ -11952,7 +11951,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 57
+    "missing_runs": 58
   },
   {
     "id": "690fa4f08ea8fc71",
@@ -11986,7 +11985,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 57
+    "missing_runs": 58
   },
   {
     "id": "a51b8ab2ca2b3e36",
@@ -12020,7 +12019,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 57
+    "missing_runs": 58
   },
   {
     "id": "75b2a66d37de7447",
@@ -12054,7 +12053,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "d72c03955f841948",
@@ -12088,7 +12087,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "47e72ff3f8bf9be7",
@@ -12122,7 +12121,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "c7c3283828ecdd6f",
@@ -12156,7 +12155,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "a89ae22e57eb929b",
@@ -12190,7 +12189,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "8c1db89432bc9f7e",
@@ -12224,7 +12223,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "85f8062ba959aad9",
@@ -12258,7 +12257,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "cadf1bf830fd8b59",
@@ -12292,7 +12291,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 55
+    "missing_runs": 56
   },
   {
     "id": "d90dcff72feaaa74",
@@ -12326,7 +12325,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "bad10a59bb3071ef",
@@ -12334,7 +12333,7 @@
     "company": "Axians ICT Austria GmbH",
     "location": "Innsbruck, Austria / Mutters, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852697010?se=mhXHbkmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
+    "url": "https://www.adzuna.at/land/ad/5852697010?se=xu7_KFuh8RGgo6RzkAQImQ&utm_medium=api&utm_source=ceaf5c9d&v=0CDB0EDDDAA4A6212C562CA850A0F3EB82D322D1",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -12394,7 +12393,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 54
+    "missing_runs": 55
   },
   {
     "id": "65f85e9f492c3d60",
@@ -12428,7 +12427,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 53
+    "missing_runs": 54
   },
   {
     "id": "76d29a943de5c0c8",
@@ -12462,7 +12461,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 53
+    "missing_runs": 54
   },
   {
     "id": "9941b57300c20d19",
@@ -12530,7 +12529,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "e57c091f5b824f0d",
@@ -12598,7 +12597,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "01bb1a82e6e02026",
@@ -12632,7 +12631,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "5bc0b9ba73d7d492",
@@ -12666,7 +12665,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "af8beacce9007c00",
@@ -12700,7 +12699,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 51
+    "missing_runs": 52
   },
   {
     "id": "993c74164feabc2d",
@@ -12734,7 +12733,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 52
+    "missing_runs": 53
   },
   {
     "id": "69711d595db8cdc2",
@@ -12768,7 +12767,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-23",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "a82bbe43ff7f8e41",
@@ -12802,7 +12801,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "fbd4da93ebce907d",
@@ -12836,7 +12835,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "missing_runs": 50
+    "missing_runs": 51
   },
   {
     "id": "8826fa6a7998a2fa",
@@ -12870,7 +12869,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 49
+    "missing_runs": 50
   },
   {
     "id": "d13af5b45fcddbb0",
@@ -12938,7 +12937,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "d390533573c8114f",
@@ -12972,7 +12971,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "fe2244151e4f39d9",
@@ -13006,7 +13005,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "cf3c92fe89349492",
@@ -13040,7 +13039,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "f59dab1de3382cbd",
@@ -13074,7 +13073,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "42d870004b8ac70d",
@@ -13108,7 +13107,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "a2c62d87fbd84ff2",
@@ -13142,7 +13141,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "c4b564184e3c73f5",
@@ -13176,7 +13175,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 47
+    "missing_runs": 48
   },
   {
     "id": "3a303ed53df3552f",
@@ -13210,7 +13209,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "bd8ba5f505f1af46",
@@ -13244,7 +13243,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "99f670599ac9bedb",
@@ -13278,7 +13277,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 46
+    "missing_runs": 47
   },
   {
     "id": "24852fed48469c5e",
@@ -13312,7 +13311,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 45
+    "missing_runs": 46
   },
   {
     "id": "f4df0f2ebacc9eb3",
@@ -13346,7 +13345,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "9a10dca6bb5cbec4",
@@ -13380,7 +13379,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 44
+    "missing_runs": 45
   },
   {
     "id": "569d9d8eafe5548b",
@@ -13414,7 +13413,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "102b785e577f1bb6",
@@ -13448,7 +13447,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "70ac35bfd88b207c",
@@ -13482,7 +13481,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "5b9b90baff3fff26",
@@ -13516,7 +13515,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 43
+    "missing_runs": 44
   },
   {
     "id": "a8cfac1b2102305f",
@@ -13550,7 +13549,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 41
+    "missing_runs": 42
   },
   {
     "id": "83d7ec82dcfeb879",
@@ -13584,7 +13583,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 42
+    "missing_runs": 43
   },
   {
     "id": "8a905ad5c1940194",
@@ -13618,7 +13617,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 37
+    "missing_runs": 38
   },
   {
     "id": "1630859514b06093",
@@ -13686,7 +13685,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 40
+    "missing_runs": 41
   },
   {
     "id": "3e8bfc0008a58360",
@@ -13720,7 +13719,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "1b19d0ecaf3cf600",
@@ -13754,7 +13753,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "2ca1083995890368",
@@ -13788,7 +13787,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 39
+    "missing_runs": 40
   },
   {
     "id": "0de5574ca42c8135",
@@ -13822,7 +13821,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "519f152d64b2ef7d",
@@ -13856,7 +13855,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "bbb599e9c795d81a",
@@ -13890,7 +13889,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "missing_runs": 38
+    "missing_runs": 39
   },
   {
     "id": "8f03a772450cf910",
@@ -13924,7 +13923,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "8f2c76f872c19d4c",
@@ -13958,7 +13957,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-24",
-    "missing_runs": 35
+    "missing_runs": 36
   },
   {
     "id": "ffa03d2fae56138a",
@@ -13992,7 +13991,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 37
+    "missing_runs": 38
   },
   {
     "id": "e9a0848727b842de",
@@ -14026,7 +14025,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 36
+    "missing_runs": 37
   },
   {
     "id": "0dee59cca9ad001b",
@@ -14060,7 +14059,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "276fac613a35fb1a",
@@ -14094,7 +14093,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "a90fe9ff2bdfd2a2",
@@ -14128,7 +14127,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "eb3cbdcfa4f18b62",
@@ -14162,7 +14161,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "7b8a1b61dd965038",
@@ -14196,7 +14195,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "e35dd01496a67bd2",
@@ -14230,7 +14229,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "b97509e94209ab4c",
@@ -14264,7 +14263,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "92fb6ad33c2a2fc2",
@@ -14298,7 +14297,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 34
+    "missing_runs": 35
   },
   {
     "id": "f332821a5e809ba7",
@@ -14332,7 +14331,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "41e758a6fb174f6b",
@@ -14366,7 +14365,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 9
+    "missing_runs": 10
   },
   {
     "id": "2a32d8593e5d6660",
@@ -14400,7 +14399,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "7e8cdcc00ecb151b",
@@ -14536,7 +14535,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "e2c9757435385e2e",
@@ -14570,7 +14569,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "f01cb1b74619bc22",
@@ -14604,7 +14603,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 27
+    "missing_runs": 28
   },
   {
     "id": "b1160d9e4c444ab0",
@@ -14638,7 +14637,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "942a289818030032",
@@ -14672,7 +14671,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "fcac8d1c4835f929",
@@ -14706,7 +14705,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "f7951ac60834207c",
@@ -14740,7 +14739,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 25
+    "missing_runs": 26
   },
   {
     "id": "b1b17135798bca0f",
@@ -14748,7 +14747,7 @@
     "company": "Stadtwerke Klagenfurt AG",
     "location": "Klagenfurt, Austria +2 more locations",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5853766887?se=mhXHbkmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
+    "url": "https://www.adzuna.at/land/ad/5853766887?se=xu7_KFuh8RGgo6RzkAQImQ&utm_medium=api&utm_source=ceaf5c9d&v=FB66EB6C92B6DA1C77105DF771675F047F3C4B35",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-23",
@@ -14782,7 +14781,7 @@
     "company": "SVD Büromanagement GmbH",
     "location": "Wien, Austria / Brigittenau, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5852122634?se=mhXHbkmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
+    "url": "https://www.adzuna.at/land/ad/5852122634?se=xu7_KFuh8RGgo6RzkAQImQ&utm_medium=api&utm_source=ceaf5c9d&v=8CCF23D3FAD5002F93515DA349B6B928A98D2524",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-22",
@@ -14816,7 +14815,7 @@
     "company": "PS3 Personalservice GmbH",
     "location": "Wien, Austria / Innere Stadt, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5851331171?se=mhXHbkmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
+    "url": "https://www.adzuna.at/land/ad/5851331171?se=xu7_KFuh8RGgo6RzkAQImQ&utm_medium=api&utm_source=ceaf5c9d&v=83FA9640E85005E9A36ACBE325F0ABCDBD29A070",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14850,7 +14849,7 @@
     "company": "EMOLUTION KG",
     "location": "Austria / Döbling, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5850603851?se=mhXHbkmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
+    "url": "https://www.adzuna.at/land/ad/5850603851?se=xu7_KFuh8RGgo6RzkAQImQ&utm_medium=api&utm_source=ceaf5c9d&v=9AFD6C3AD64140E96C4AF35E020940B9B85EDA2B",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-21",
@@ -14882,7 +14881,7 @@
     "id": "884e27830db69d3a",
     "title": "Automatisierungstechniker/in bzw. IT Security Engineer mit OT bzw. ICS Erfahrung",
     "company": "Job World GmbH",
-    "location": "Wels, Austria / Linz, Austria / Linz, Austria",
+    "location": "Wels, Austria / Linz, Austria / Linz, Austria / Linz, Austria",
     "country": "AT",
     "url": "https://www.adzuna.at/land/ad/5849826003?se=8HRcMDih8RG-NqkAdls7KA&utm_medium=api&utm_source=ceaf5c9d&v=A3C3F1363E7D33A34241CB75C2CE7ACA211BBF2F",
     "source": "adzuna",
@@ -14910,7 +14909,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "f112cbbd2a969637",
@@ -14944,7 +14943,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "8dbcff5c836988e3",
@@ -14978,7 +14977,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "87b165415aac34d9",
@@ -15012,7 +15011,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "536525ad3b88fcd5",
@@ -15046,7 +15045,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "a3eb5afe8fb65599",
@@ -15080,7 +15079,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "788ed37e73e6127b",
@@ -15250,7 +15249,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "9fca0464b56bac67",
@@ -15284,7 +15283,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d6c5315b636b5c98",
@@ -15318,7 +15317,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "27b9b36fdf7564dc",
@@ -15386,7 +15385,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "b69c537416e2c552",
@@ -15420,7 +15419,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 24
+    "missing_runs": 25
   },
   {
     "id": "80ba7432de709ac3",
@@ -15454,7 +15453,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "08439291adaa9687",
@@ -15488,7 +15487,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-26",
-    "missing_runs": 2
+    "missing_runs": 3
   },
   {
     "id": "cc7aafec05fa1097",
@@ -15522,7 +15521,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "d781b5c89b8576e3",
@@ -15624,7 +15623,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "718331ffb60b41fe",
@@ -15658,7 +15657,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "11d7dcc9f5b3a54b",
@@ -15692,7 +15691,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "8ba564eac53a883d",
@@ -15726,7 +15725,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "fd1d5b5ba73382b9",
@@ -15760,7 +15759,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 23
+    "missing_runs": 24
   },
   {
     "id": "d5afb2e5f003557a",
@@ -15828,7 +15827,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "855d907a9eae82b2",
@@ -15862,7 +15861,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "30695a48457cd0cc",
@@ -15930,7 +15929,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "ade7fdf6f647f2a5",
@@ -15964,7 +15963,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "14cd461ae84f690d",
@@ -15998,7 +15997,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "203f66c26401b8d7",
@@ -16032,7 +16031,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "b732214ee7417ea1",
@@ -16108,7 +16107,7 @@
     "company": "LGA IT",
     "location": "Heuvelland, België",
     "country": "BE",
-    "url": "https://www.adzuna.be/land/ad/5854455202?se=XNStcEmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=47D6B6CD16E1180AC7B5B7513588F24B96CF7C83",
+    "url": "https://www.adzuna.be/land/ad/5854455202?se=0kG9Kluh8RGQA_bVNgJMEA&utm_medium=api&utm_source=ceaf5c9d&v=47D6B6CD16E1180AC7B5B7513588F24B96CF7C83",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-24",
@@ -16202,7 +16201,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "92e6ebfa1be9b8c6",
@@ -16236,7 +16235,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "b3efd785b8c221a8",
@@ -16270,7 +16269,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 21
+    "missing_runs": 22
   },
   {
     "id": "93d24f1b9ea92599",
@@ -16304,7 +16303,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "d667582b21ea9672",
@@ -16372,7 +16371,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "fee13598955d673d",
@@ -16406,7 +16405,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "4ce4a2e68a766479",
@@ -16440,7 +16439,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 20
+    "missing_runs": 21
   },
   {
     "id": "de41a9f10f89e2b2",
@@ -16474,7 +16473,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "1214ab502605e450",
@@ -16508,7 +16507,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "f4bd6c00c39d3e0c",
@@ -16542,7 +16541,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-25",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "752096593485d4c2",
@@ -16576,7 +16575,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "b58bf7c494cee742",
@@ -16610,7 +16609,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "734c4a7ef2e1f1b3",
@@ -16644,7 +16643,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "missing_runs": 19
+    "missing_runs": 20
   },
   {
     "id": "3024eb34918abec4",
@@ -16780,7 +16779,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 18
+    "missing_runs": 19
   },
   {
     "id": "c52fbc096d8d23ad",
@@ -16814,7 +16813,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "b4aedd099119790a",
@@ -16848,7 +16847,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "c7ec74daf7ba0b8e",
@@ -16882,7 +16881,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "a4153de8f1595d99",
@@ -16916,7 +16915,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "254f4ac667a2c392",
@@ -16950,7 +16949,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "e4cad37f71659f82",
@@ -16984,7 +16983,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "6e6b021481b9df8c",
@@ -17018,7 +17017,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 17
+    "missing_runs": 18
   },
   {
     "id": "c51ca9850eb39c0e",
@@ -17086,7 +17085,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "0ca0977754fd5106",
@@ -17120,7 +17119,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "ed425b3e479c554f",
@@ -17154,7 +17153,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "966e6f6174460fc2",
@@ -17188,7 +17187,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 15
+    "missing_runs": 16
   },
   {
     "id": "0291561754d5df5d",
@@ -17222,7 +17221,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "14ca97c63ebb0b44",
@@ -17256,7 +17255,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 12
+    "missing_runs": 13
   },
   {
     "id": "e500954660e2edb5",
@@ -17290,7 +17289,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "9fb06f6dd0f3d966",
@@ -17324,7 +17323,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "1d2a87fb2eec6b4d",
@@ -17358,7 +17357,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "48d1e6187ba6eff7",
@@ -17392,7 +17391,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "9267e833ab8dab7b",
@@ -17426,7 +17425,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "028f90f1f9e0b0be",
@@ -17460,7 +17459,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "e67c343e167b5315",
@@ -17494,7 +17493,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 14
+    "missing_runs": 15
   },
   {
     "id": "13ad709477bc5e81",
@@ -17664,7 +17663,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 13
+    "missing_runs": 14
   },
   {
     "id": "a0b8258a09d8d670",
@@ -17732,7 +17731,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 8
+    "missing_runs": 9
   },
   {
     "id": "b778d8f8af229eed",
@@ -17834,7 +17833,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "91f3b94cceb6b928",
@@ -17868,7 +17867,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "8396ec17d342075e",
@@ -17902,7 +17901,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "f8a773152c55d227",
@@ -17936,7 +17935,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "846546e2862ce818",
@@ -17970,7 +17969,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 10
+    "missing_runs": 11
   },
   {
     "id": "73a751e1e29bfbfd",
@@ -18004,7 +18003,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "f2a973d863225966",
@@ -18038,7 +18037,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "03977552f5f1a20f",
@@ -18072,7 +18071,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 11
+    "missing_runs": 12
   },
   {
     "id": "a5b8b95e7949fd80",
@@ -18174,7 +18173,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "432a7f95fe00e488",
@@ -18208,7 +18207,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 1
+    "missing_runs": 2
   },
   {
     "id": "5a93a18cacdc06a4",
@@ -18242,7 +18241,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 6
+    "missing_runs": 7
   },
   {
     "id": "f64cda98864b5710",
@@ -18276,7 +18275,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "9bb06cdef2b91e59",
@@ -18310,7 +18309,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "cb28c11c4b369d34",
@@ -18412,7 +18411,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
-    "missing_runs": 7
+    "missing_runs": 8
   },
   {
     "id": "2e3f18eeae28e50e",
@@ -18420,7 +18419,7 @@
     "company": "Bundesanstalt Statistik Österreich",
     "location": "Wien, Austria",
     "country": "AT",
-    "url": "https://www.adzuna.at/land/ad/5855031406?se=mhXHbkmh8RG8FMBMmGshhA&utm_medium=api&utm_source=ceaf5c9d&v=A7B4F833A2E727A14FF3545049538B989C89BA64",
+    "url": "https://www.adzuna.at/land/ad/5855031406?se=xu7_KFuh8RGgo6RzkAQImQ&utm_medium=api&utm_source=ceaf5c9d&v=A7B4F833A2E727A14FF3545049538B989C89BA64",
     "source": "adzuna",
     "source_type": "api",
     "posted_date": "2026-08-25",
@@ -18514,7 +18513,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "49d564a9406b8c49",
@@ -18548,7 +18547,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "d0ef23f4eb621fe5",
@@ -18582,7 +18581,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "a6aa92ff39cd85f9",
@@ -18616,7 +18615,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "75a740668e91910c",
@@ -18650,7 +18649,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 5
+    "missing_runs": 6
   },
   {
     "id": "cd59c4a88b119ad5",
@@ -18752,7 +18751,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "930f7ce0cdf1c506",
@@ -18786,7 +18785,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "782ed6323bb7fd18",
@@ -18820,7 +18819,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 3
+    "missing_runs": 4
   },
   {
     "id": "e80b87f135761ac5",
@@ -18840,7 +18839,7 @@
     "salary_period": "",
     "salary_inr": "not stated",
     "employment_type": "not stated",
-    "description": "&lt;h2&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The Core BI team at DoorDash builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists, Software Engineers and business teams discover trusted data and make informed decisions at scale.&lt;/p&gt; &lt;p&gt;We combine software engineering, platform ownership, and a strong user focus to make BI tooling reliable, secure, scalable and self-service. The team supports the current BI ecosystem while helping shape a more integrated experience across the DoorDash group.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Software Engineer on the Core BI team, you will build and operate production systems around our BI platforms. This is a hands-on software and platform engineering role focused on backend services, APIs, integrations, automation, access and governance, observability, reliability, and developer experience.&lt;/p&gt; &lt;p&gt;You will own problems from discovery through design, implementation, deployment, and operational support. You will work closely with Data Engineers, Analytics Engineers, Data Scientists, Software Engineers, Product Managers and business teams to turn recurring user needs into durable, self-service capabilities. If you&#39;re energized by solving technical problems with data and comfortable being deeply embedded across several domains, this role is for you!&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;You’re excited about this opportunity because you will…&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Design, build, test, deploy, and operate backend services, APIs and automation supporting BI platforms.&lt;/li&gt; &lt;li&gt;Automate metadata, workspace and content lifecycle, permissions, migrations, archival, validation and other platform workflows.&lt;/li&gt; &lt;li&gt;Improve platform availability, observability, performance, scalability and security.&lt;/li&gt; &lt;li&gt;Build self-service tools that reduce manual administration and help analytics teams work more effectively.&lt;/li&gt; &lt;li&gt;Support platform migrations and deprecations while protecting access, governance, data integrity and business continuity.&lt;/li&gt; &lt;li&gt;Participate in operational support, production debugging, incident response and continuous improvement.&lt;/li&gt; &lt;li&gt;Collaborate with engineering and data teams across DoorDash, Deliveroo and Wolt to develop shared standards and platform capabilities.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;We’re excited about you because…&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;You have at least two years of professional software engineering experience building production backend, platform, infrastructure or data-platform systems.&lt;/li&gt; &lt;li&gt;You write readable, maintainable, and well-tested code in Python or another general-purpose programming language.&lt;/li&gt; &lt;li&gt;You are comfortable working with SQL and understand data modelling, databases, and data-platform concepts.&lt;/li&gt; &lt;li&gt;You have experience building APIs, integrations, or automation and can reason about service boundaries, authentication, data contracts, and failure modes.&lt;/li&gt; &lt;li&gt;You have hands-on experience operating software in production, including CI/CD, observability, debugging, incident response and operational readiness.&lt;/li&gt; &lt;li&gt;You take end-to-end ownership and can turn ambiguous user or operational problems into secure, scalable, self-service solutions.&lt;/li&gt; &lt;li&gt;You communicate clearly and work effectively with both technical and non-technical teams.&lt;/li&gt; &lt;li&gt;You are comfortable working in a fast-paced, distributed environment and can organise your work independently.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience owning or integrating with BI platforms such as Looker, Sigma or comparable tools.&lt;/li&gt; &lt;li&gt;Experience with BI metadata, governance, permissions, content lifecycle, migrations or usage analytics.&lt;/li&gt; &lt;li&gt;Experience automating identity and access through Okta, SCIM or role-based access controls.&lt;/li&gt; &lt;/ul&gt; Find Jobs in United Kingdom on Arbeitnow",
+    "description": "&lt;h2&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The Core BI team at DoorDash builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists, Software Engineers and business teams discover trusted data and make informed decisions at scale.&lt;/p&gt; &lt;p&gt;We combine software engineering, platform ownership, and a strong user focus to make BI tooling reliable, secure, scalable and self-service. The team supports the current BI ecosystem while helping shape a more integrated experience across the DoorDash group.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Software Engineer on the Core BI team, you will build and operate production systems around our BI platforms. This is a hands-on software and platform engineering role focused on backend services, APIs, integrations, automation, access and governance, observability, reliability, and developer experience.&lt;/p&gt; &lt;p&gt;You will own problems from discovery through design, implementation, deployment, and operational support. You will work closely with Data Engineers, Analytics Engineers, Data Scientists, Software Engineers, Product Managers and business teams to turn recurring user needs into durable, self-service capabilities. If you&#39;re energized by solving technical problems with data and comfortable being deeply embedded across several domains, this role is for you!&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;You’re excited about this opportunity because you will…&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Design, build, test, deploy, and operate backend services, APIs and automation supporting BI platforms.&lt;/li&gt; &lt;li&gt;Automate metadata, workspace and content lifecycle, permissions, migrations, archival, validation and other platform workflows.&lt;/li&gt; &lt;li&gt;Improve platform availability, observability, performance, scalability and security.&lt;/li&gt; &lt;li&gt;Build self-service tools that reduce manual administration and help analytics teams work more effectively.&lt;/li&gt; &lt;li&gt;Support platform migrations and deprecations while protecting access, governance, data integrity and business continuity.&lt;/li&gt; &lt;li&gt;Participate in operational support, production debugging, incident response and continuous improvement.&lt;/li&gt; &lt;li&gt;Collaborate with engineering and data teams across DoorDash, Deliveroo and Wolt to develop shared standards and platform capabilities.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;We’re excited about you because…&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;You have at least two years of professional software engineering experience building production backend, platform, infrastructure or data-platform systems.&lt;/li&gt; &lt;li&gt;You write readable, maintainable, and well-tested code in Python or another general-purpose programming language.&lt;/li&gt; &lt;li&gt;You are comfortable working with SQL and understand data modelling, databases, and data-platform concepts.&lt;/li&gt; &lt;li&gt;You have experience building APIs, integrations, or automation and can reason about service boundaries, authentication, data contracts, and failure modes.&lt;/li&gt; &lt;li&gt;You have hands-on experience operating software in production, including CI/CD, observability, debugging, incident response and operational readiness.&lt;/li&gt; &lt;li&gt;You take end-to-end ownership and can turn ambiguous user or operational problems into secure, scalable, self-service solutions.&lt;/li&gt; &lt;li&gt;You communicate clearly and work effectively with both technical and non-technical teams.&lt;/li&gt; &lt;li&gt;You are comfortable working in a fast-paced, distributed environment and can organise your work independently.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience owning or integrating with BI platforms such as Looker, Sigma or comparable tools.&lt;/li&gt; &lt;li&gt;Experience with BI metadata, governance, permissions, content lifecycle, migrations or usage analytics.&lt;/li&gt; &lt;li&gt;Experience automating identity and access through Okta, SCIM or role-based access controls.&lt;/li&gt; &lt;/ul&gt; Find more English Speaking Jobs in United Kingdom on Arbeitnow",
     "score": null,
     "score_reason": "",
     "skills": [],
@@ -18990,7 +18989,7 @@
     "analysis_version": 0,
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
-    "missing_runs": 0
+    "missing_runs": 1
   },
   {
     "id": "0bdb94a200a4ff18",
@@ -19249,6 +19248,142 @@
     "salary_inr": "not stated",
     "employment_type": "not stated",
     "description": "Szukamy doświadczonego specjalisty, który dołączy do projektu realizowanego w sektorze healthcare. Projekt koncentruje się na rozwoju i rozszerzaniu systemów zarządzania jakością oraz bezpieczeństwem informacji w regionie EMEA, zgodnie ze standardami ISO 9001 i ISO/IEC 27001. Osoba na tym stanowisku będzie wspierać utrzymanie certyfikacji, prowadzenie audytów oraz doskonalenie procesów organizacyjnych. Twoje zadania Wspieranie ciągłego doskonalenia i rozszerzania istniejącego systemu zarządzani…",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "acd97bccfac1dc58",
+    "title": "Security Engineer (SOC) (m,f,x)",
+    "company": "hellofresh",
+    "location": "Berlin, Berlin",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/security-engineer-soc-mfx-berlin-berlin-220853",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re looking for a new teammate to join us on the journey of keeping HelloFresh a trusted name - someone with a passion for security and appetite for new challenges. Security Engineers work in a variety of ways to constantly iterate and improve HelloFresh’s security posture.&amp;nbsp;&lt;/p&gt; &lt;p&gt;This role aims to improve the HelloFresh Security Logging &amp;amp; Monitoring Program by maturing the tools, processes and playbooks to reduce dwell time (indicators of which would be lowered MTTD&amp;amp;R).&lt;/p&gt; &lt;p&gt;Above all, we are looking for people who will&amp;nbsp;&lt;strong&gt;make HelloFresh&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;better.&lt;/strong&gt;&amp;nbsp;We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Responsible&lt;/strong&gt; for SOC monitoring, use-case building, triage and advisory using cloud-native SIEM platforms&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Conduct&lt;/strong&gt; initial triage of security events and incidents and document progress throughout the Incident Response Lifecycle&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Automate&lt;/strong&gt;, optimize, automate and operate modern security solutions like EDR/EPPs and conventional Firewalls, IDS/IPS, Email Security, VPN, and MDM tools&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Leverage&lt;/strong&gt; premium and open-source threat intel feeds to regularly sweep environments against rising APT campaigns&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Prepare&lt;/strong&gt; status reports and follow up with the stakeholders through Jira and Incident Mgmt. Platform to close the remediation loop&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Facilitate&lt;/strong&gt; efficient Incident Detection and Response in AWS cloud and enterprise IT environments&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;A minimum of 2 years of experience working in mature SOC environments&lt;/li&gt; &lt;li&gt;Security monitoring and incident response experience in public cloud environments such as AWS&lt;/li&gt; &lt;li&gt;Experience with cloud SIEM &amp;amp; SOAR platforms, DDoS mitigation and preventing tools and Layer-7 Web-based perimeter security controls&lt;/li&gt; &lt;li&gt;Understanding of network intrusion methods, network containment, segregation techniques and technologies such as Sandboxes and Intrusion Detection/Prevention Systems (ID/PS)&lt;/li&gt; &lt;li&gt;Ability to operate EDR, EPP and Device Management solutions as per best security practices&lt;/li&gt; &lt;li&gt;Decent programming skills to enable data processing, IaC and security automations&lt;/li&gt; &lt;li&gt;Good communication and reporting skills&lt;/li&gt; &lt;li&gt;Experience with log analysis stacks like ElasticSearch, Splunk/SumoLogic&lt;/li&gt; &lt;li&gt;Open to working on-call in rotational shifts&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a diverse global community of 90+ nationalities.&lt;/li&gt; &lt;li&gt;Enjoy a competitive compensation package that goes beyond the norm, with perks like a HelloFresh- subsidized Pension Scheme and a Hybrid working model.&lt;/li&gt; &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your growth with a German language learning budget, and access to the HelloFresh Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being covered with mental health support, transportation perks, and working-parent-friendly benefits. From our 24/7 gym access,wellbeing platforms like Headspace and Spill, to sabbatical leave options, HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; Find Jobs in Germany on Arbeitnow",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "9b81f59f3563aab9",
+    "title": "Cloud Security Engineer (m,f,x)",
+    "company": "hellofresh",
+    "location": "Berlin, Berlin",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/cloud-security-engineer-mfx-berlin-berlin-373612",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "not stated",
+    "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;HelloFresh is the world leader in meal-kits and one of Germany&#39;s biggest and fastest growing publicly traded companies. Join the Hellofresh security team to help to maintain the highest security standards within the industry. In this role you will join the Cloud Security Team, which is responsible for providing infrastructure security solutions at scale through automation.&lt;/p&gt; &lt;p&gt;Above all, we are looking for people who will&amp;nbsp;&lt;strong&gt;make HelloFresh&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;better.&lt;/strong&gt;&amp;nbsp;We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Enhance&lt;/strong&gt; the security posture of HelloFresh’s cloud infrastructure and services, hardening them against abuse and nefarious activities&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Secure&lt;/strong&gt; containers, CI/CD pipelines and implement guardrails for the developers aligned with the DevSecOps principles&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Automate&lt;/strong&gt; procedures and develop products to improve the Security posture of HelloFresh’s infrastructure&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt; and operate scalable processes to provision cloud access and maintain least-privilege&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mentor&lt;/strong&gt; &lt;strong&gt;and train&lt;/strong&gt; your peers on the best practices in security&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Remediate &lt;/strong&gt;and validate security issues across cloud infrastructure&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Curious mindset, the eagerness to learn and a commitment to staying updated with the latest advancements and best practices in the field of security&lt;/li&gt; &lt;li&gt;Bachelor&#39;s degree in Computer Science, Engineering, or a related field.&lt;/li&gt; &lt;li&gt;Work experience in a security domain&lt;/li&gt; &lt;li&gt;Fluency in one or more programming or scripting languages (e.g. Python, GO)&lt;/li&gt; &lt;li&gt;Experience with one of the major cloud provider (AWS, Azure, GCP)&lt;/li&gt; &lt;li&gt;Ability to work independently and as part of cross-functional squads&lt;/li&gt; &lt;li&gt;Good problem solving skills and the ability to troubleshoot and solve technical issues&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a diverse global community of 90+ nationalities.&lt;/li&gt; &lt;li&gt;Enjoy a competitive compensation package that goes beyond the norm, with perks like a HelloFresh- subsidized Pension Scheme and a Hybrid working model.&lt;/li&gt; &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your growth with a German language learning budget, and access to the HelloFresh Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being covered with mental health support, transportation perks, and working-parent-friendly benefits. From our 24/7 gym access,wellbeing platforms like Headspace and Spill, to sabbatical leave options, HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; Find Jobs in Germany on Arbeitnow",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "09fda5b23360ee9c",
+    "title": "Growth Account Executive - DACH (all genders)",
+    "company": "Revel8",
+    "location": "Munich",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.com/jobs/companies/revel8/growth-account-executive-dach-all-genders-munich-98325",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Experienced, Permanent, Full Time",
+    "description": "Our mission We're on a mission to create 10 million human firewalls! At revel8, we redefine cybersecurity training with hyper-realistic simulations that reflect today's evolving attack landscape. Our innovative platform combines AI-driven multi-channel attacks with gamified, real-time learning to build resilience where it matters most: the people. Your mission We're scaling our core business across the DACH region, and you're right at the heart of it. As a Growth Account Executive, you own the full sales cycle for SMB and key accounts in Germany, Austria, and Switzerland: from first conversation to signed deal. You are the person who turns qualified opportunities into real revenue and builds the relationships that carry revel8 in the DACH market. How your day-to-day will look like: Own the Full Cycle: You run the sales process end to end — qualifying opportunities, running discovery, giving demos, handling objections, and closing. You take real ownership of your pipeline and your number. Close New Business: You turn qualified opportunities into signed customers, negotiating with decision-makers and navigating DACH-specific buying dynamics to bring deals over the line. Build the Playbook: You are early enough to shape how we sell. You test messaging, refine our approach to local buyers, and feed what works back into a repeatable playbook. Represent revel8: You are the face of our company in DACH, from customer calls to webinars and events. You understand the specific needs of local clients and channel those insights directly into our product and global growth. Work Cross-Functionally: You partner closely with our SDR, marketing, and product teams to keep your pipeline healthy and to make sure the voice of the market is heard across the company. Is it you we are looking for? You... have a completed degree, whether in Business, Economics, Engineering, or another field that sharpened your analytical thinking and drive. We welcome diverse backgrounds; what matters most is what you bring to the role, not the exact subject on your diploma. have first experience as an SDR or in sales with a strong track record, ideally in B2B SaaS or another fast-paced environment. You've already built pipeline, qualified opportunities, and talked to potential customers. want to take the next step into full-cycle sales: You're eager to own your own deals, negotiate, and close . And to grow with real ownership. are a motivated, goal-oriented self-starter: You take initiative, work independently, and thrive with real ownership. Ambitious targets energize you rather than scare you. are curious &amp; adaptable: You love opening up something new, challenging the status quo, and finding what works. are excited about cybersecurity &amp; AI: You're curious about how AI is transforming the security space and eager to rethink how security awareness is done. are tech-savvy: You're comfortable with modern sales tooling (CRM, outreach, automation) and happy to build scalable processes as we grow. are fluent in German (business proficient) and English: German is a must, it's how you'll win and work with clients across the DACH region. Good English helps you collaborate smoothly with our team. Bonus First closing experience as AE: You've already brought your own deals over the line. Knowledge of additional European languages, opening the door to further markets. Existing network among relevant decision-makers in DACH. Why revel8? Our revelutionary Energy: A team that's ambitious, kind, and genuinely excited about what we're building. We move fast, we have fun, and we treat each other well. Timing: Product-market fit is proven. The work now is to scale through rigorous execution. Build, Don't Maintain: You take real ownership early, shape how we sell in DACH, and see your decisions reflected directly in our pipeline and ARR, not a small lever inside a corporate machine. Shared success: Every team member is part of our ESOP program, so everyone shares in what we build. Office-first: In the heart of Munich at Stiglmaierplatz, with flexibility when you need it. Unlimited coffee, table tennis and good vibes included. EGYM Wellpass membership for your daily balance. Ready to join the revelution? Perfect, let's talk! Just submit your application, and we'll get back to you as soon as possible. In case you have any questions, feel free to reach out to Melina or Helena from our People &amp; Culture Team. We're looking forward to receiving your application! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "score": null,
+    "score_reason": "",
+    "skills": [],
+    "hiring_process": "not stated",
+    "seniority_fit": "",
+    "title_en": "",
+    "experience_required": "not stated",
+    "role_summary": "not stated",
+    "expectations": "not stated",
+    "visa_sponsorship": "not stated",
+    "analysis_version": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "missing_runs": 0
+  },
+  {
+    "id": "4f58fc1d9ffd3402",
+    "title": "Account Executive - Nordics (all genders)",
+    "company": "Revel8",
+    "location": "Munich",
+    "country": "REMOTE",
+    "url": "https://www.arbeitnow.com/jobs/companies/revel8/account-executive-nordics-all-genders-munich-392580",
+    "source": "arbeitnow",
+    "source_type": "api",
+    "posted_date": null,
+    "remote": false,
+    "salary": "not stated",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_inr": "not stated",
+    "employment_type": "Experienced, Permanent, Full Time",
+    "description": "Our mission We're on a mission to create 10 million human firewalls! At revel8, we redefine cybersecurity training with hyper-realistic simulations that reflect today's evolving attack landscape. Our innovative platform combines AI-driven multi-channel attacks with gamified, real-time learning to build resilience where it matters most: the people. Your mission We're starting our international expansion and the Nordics are one of our first markets. As an Account Executive, you own the full sales cycle: from first conversation to signed deal. You are the person who turns a brand-new market into real revenue, building revel8's presence in the Nordics region from the ground up and closing the deals that prove we belong there. How your day-to-day will look like: Own the Full Cycle: You run the sales process end to end in the Nordics: Qualifying opportunities, running discovery, giving demos, handling objections, and closing. You take real ownership of your pipeline and your number. Close New Business: You turn qualified opportunities into signed customers, negotiating with decision-makers and navigating Nordics-specific buying dynamics to bring deals over the line. Build the Nordics Playbook: You are early enough to shape how we sell here. You test messaging, refine our approach to local buyers, and feed what works back into a repeatable playbook for the market. Represent revel8: You are the face of our company in the Nordics, at customer calls, webinars, and events. You understand the specific needs of local clients and channel those insights directly into our product and global growth. Work Cross-Functionally: You partner closely with our GTM, marketing, and product teams to keep your pipeline healthy. Is it you we are looking for? You... have a completed Bachelor or Master degree, whether in Business, Economics, Engineering, or another field that sharpened your analytical thinking and drive. We welcome diverse backgrounds; what matters most is what you bring to the role, not the exact subject on your diploma. You have 1-2 years of experience closing B2B SaaS deals in the Italian market. What matters to us is that you've owned deals and carried a quota, not the exact title you held. are a confident cold caller &amp; closer: You're comfortable running the full sales cycle, negotiating with decision-makers, and asking for the deal. are a motivated, goal-oriented self-starter: You take initiative, work independently, and thrive with real ownership. Ambitious targets energize you rather than scare you. are curious &amp; adaptable: You love opening up something new, challenging the status quo, and finding what works in an unproven market. are excited about cybersecurity &amp; AI: You're curious about how AI is transforming the security space and eager to rethink how security awareness is done. are tech-savvy: You're comfortable with modern sales tooling (Hubspot, outreach, automation) and happy to build scalable processes as we grow. are fluent in English : Business-fluent English is a must. It's how you'll work with clients across the Nordics and with our team. A regional language (Swedish, Danish and/or Finnish) is a strong plus, and German is welcome too. Bonus Knowledge of additional European languages, opening the door to further markets. Existing network among relevant decision-makers in the Nordics area. Why revel8? Our revelutionary Energy : A team that's ambitious, kind, and genuinely excited about what we're building. We move fast, we have fun, and we treat each other well. Mission-Driven Impact: Contribute to a meaningful mission of building human resilience against cyber threats. Founding Role &amp; High-Growth Trajectory: As a core member of our early sales team, you will join us at a critical inflection point, taking full ownership of our International market penetration and directly shaping the sales strategy that will define revel8’s future. Office-first: In the heart of Munich at Stiglmaierplatz, with flexibility when you need it. Unlimited coffee, table tennis and good vibes included. Shared success: Every team member is part of our ESOP program, so everyone shares in what we build. EGYM Wellpass membership for your daily balance. Ready to join the revelution? Perfect, let’s talk! Just submit your application, and we’ll get back to you as soon as possible. In case you have any questions, feel free to reach out to Melina or Helena from our People &amp; Culture Team. We're looking forward to receiving your application! Find Jobs in Germany on Arbeitnow",
     "score": null,
     "score_reason": "",
     "skills": [],
