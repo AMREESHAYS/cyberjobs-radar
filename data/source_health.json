@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 38,
+    "last_count": 37,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 16,
+    "last_count": 18,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -97,13 +97,13 @@
   },
   "web3career": {
     "errored": false,
-    "last_count": 80,
+    "last_count": 79,
     "last_ok": "web3career",
     "quiet_runs": 0
   },
   "workable": {
     "errored": false,
-    "last_count": 125,
+    "last_count": 126,
     "last_ok": "workable",
     "quiet_runs": 0
   }
