@@ -1,18 +1,18 @@
 {
-  "total": 642,
-  "new": 4,
+  "total": 644,
+  "new": 3,
   "scored": 10,
   "removed": 0,
   "aged_out": 0,
   "above_level": 133,
   "off_topic": 0,
   "sources": {
-    "arbeitnow": 18,
+    "arbeitnow": 20,
     "jobicy": 42,
     "remoteok": 2,
-    "himalayas": 1,
-    "adzuna": 39,
-    "workable": 130,
+    "himalayas": 0,
+    "adzuna": 31,
+    "workable": 120,
     "greenhouse": 3,
     "ashby": 2,
     "lever": 1,
@@ -27,6 +27,6 @@
     "norway": 6
   },
   "quiet_sources": [],
-  "duplicates": 27,
-  "generated_at": "2026-08-29T15:53:14+00:00"
+  "duplicates": 19,
+  "generated_at": "2026-08-29T18:58:50+00:00"
 }
