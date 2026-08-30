@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 36,
+    "last_count": 33,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 4,
+    "last_count": 7,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -51,11 +51,11 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "himalayas",
-    "quiet_runs": 1
+    "quiet_runs": 2
   },
   "jobicy": {
     "errored": false,
-    "last_count": 42,
+    "last_count": 41,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -73,7 +73,7 @@
   },
   "norway": {
     "errored": false,
-    "last_count": 6,
+    "last_count": 5,
     "last_ok": "norway",
     "quiet_runs": 0
   },
