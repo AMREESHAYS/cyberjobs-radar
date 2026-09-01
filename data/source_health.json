@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 31,
+    "last_count": 29,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 21,
+    "last_count": 18,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -37,7 +37,7 @@
   },
   "finland": {
     "errored": false,
-    "last_count": 10,
+    "last_count": 11,
     "last_ok": "finland",
     "quiet_runs": 0
   },
@@ -67,13 +67,13 @@
   },
   "lever": {
     "errored": false,
-    "last_count": 1,
+    "last_count": 3,
     "last_ok": "lever",
     "quiet_runs": 0
   },
   "norway": {
     "errored": false,
-    "last_count": 3,
+    "last_count": 5,
     "last_ok": "norway",
     "quiet_runs": 0
   },
