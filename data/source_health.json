@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 29,
+    "last_count": 28,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 7,
+    "last_count": 10,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -51,7 +51,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "himalayas",
-    "quiet_runs": 2
+    "quiet_runs": 3
   },
   "jobicy": {
     "errored": false,
