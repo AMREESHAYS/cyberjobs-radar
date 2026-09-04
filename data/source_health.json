@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 36,
+    "last_count": 26,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 15,
+    "last_count": 12,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -49,7 +49,7 @@
   },
   "himalayas": {
     "errored": false,
-    "last_count": 3,
+    "last_count": 6,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
