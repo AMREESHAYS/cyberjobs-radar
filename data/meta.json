@@ -1,10 +1,10 @@
 {
   "total": 839,
-  "new": 3,
+  "new": 1,
   "scored": 10,
-  "removed": 0,
+  "removed": 1,
   "aged_out": 0,
-  "above_level": 133,
+  "above_level": 134,
   "off_topic": 0,
   "sources": {
     "arbeitnow": 25,
@@ -29,6 +29,6 @@
   "quiet_sources": [
     "ashby"
   ],
-  "duplicates": 22,
-  "generated_at": "2026-09-05T21:46:05+00:00"
+  "duplicates": 21,
+  "generated_at": "2026-09-05T23:26:06+00:00"
 }
