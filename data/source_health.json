@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 43,
+    "last_count": 45,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -15,7 +15,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 19
+    "quiet_runs": 20
   },
   "cryptojobslist": {
     "errored": false,
