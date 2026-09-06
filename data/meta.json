@@ -1,17 +1,17 @@
 {
-  "total": 860,
-  "new": 1,
-  "scored": 9,
-  "removed": 0,
+  "total": 863,
+  "new": 4,
+  "scored": 10,
+  "removed": 1,
   "aged_out": 0,
-  "above_level": 129,
-  "off_topic": 1,
+  "above_level": 134,
+  "off_topic": 0,
   "sources": {
-    "arbeitnow": 20,
+    "arbeitnow": 22,
     "jobicy": 45,
     "remoteok": 1,
     "himalayas": 2,
-    "adzuna": 34,
+    "adzuna": 43,
     "workable": 121,
     "greenhouse": 5,
     "ashby": 0,
@@ -29,6 +29,6 @@
   "quiet_sources": [
     "ashby"
   ],
-  "duplicates": 15,
-  "generated_at": "2026-09-06T19:42:43+00:00"
+  "duplicates": 19,
+  "generated_at": "2026-09-06T21:49:06+00:00"
 }
