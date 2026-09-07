@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 44,
+    "last_count": 45,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -15,7 +15,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 23
+    "quiet_runs": 24
   },
   "cryptojobslist": {
     "errored": false,
@@ -49,13 +49,13 @@
   },
   "himalayas": {
     "errored": false,
-    "last_count": 3,
+    "last_count": 4,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
   "jobicy": {
     "errored": false,
-    "last_count": 45,
+    "last_count": 44,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 123,
+    "last_count": 122,
     "last_ok": "workable",
     "quiet_runs": 0
   }
