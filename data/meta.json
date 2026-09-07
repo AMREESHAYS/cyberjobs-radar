@@ -1,6 +1,6 @@
 {
-  "total": 884,
-  "new": 6,
+  "total": 886,
+  "new": 2,
   "scored": 10,
   "removed": 0,
   "aged_out": 0,
@@ -10,9 +10,9 @@
     "arbeitnow": 15,
     "jobicy": 44,
     "remoteok": 1,
-    "himalayas": 4,
-    "adzuna": 45,
-    "workable": 122,
+    "himalayas": 2,
+    "adzuna": 41,
+    "workable": 123,
     "greenhouse": 5,
     "ashby": 0,
     "lever": 3,
@@ -29,6 +29,6 @@
   "quiet_sources": [
     "ashby"
   ],
-  "duplicates": 21,
-  "generated_at": "2026-09-07T18:27:50+00:00"
+  "duplicates": 19,
+  "generated_at": "2026-09-07T22:22:05+00:00"
 }
