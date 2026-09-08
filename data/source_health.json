@@ -1,7 +1,7 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 49,
+    "last_count": 46,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
@@ -15,7 +15,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 29
+    "quiet_runs": 30
   },
   "cryptojobslist": {
     "errored": false,
@@ -30,16 +30,16 @@
     "quiet_runs": 0
   },
   "denmark": {
-    "errored": false,
-    "last_count": 4,
+    "errored": true,
+    "last_count": null,
     "last_ok": "denmark",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "finland": {
-    "errored": false,
-    "last_count": 7,
+    "errored": true,
+    "last_count": null,
     "last_ok": "finland",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "greenhouse": {
     "errored": false,
@@ -49,9 +49,9 @@
   },
   "himalayas": {
     "errored": false,
-    "last_count": 1,
+    "last_count": 0,
     "last_ok": "himalayas",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "jobicy": {
     "errored": false,
@@ -72,10 +72,10 @@
     "quiet_runs": 0
   },
   "norway": {
-    "errored": false,
-    "last_count": 5,
+    "errored": true,
+    "last_count": null,
     "last_ok": "norway",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "recruitee": {
     "errored": false,
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 126,
+    "last_count": 127,
     "last_ok": "workable",
     "quiet_runs": 0
   }
