@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 50,
+    "last_count": 54,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 17,
+    "last_count": 14,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -15,13 +15,13 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 32
+    "quiet_runs": 33
   },
   "cryptojobslist": {
-    "errored": false,
-    "last_count": 3,
+    "errored": true,
+    "last_count": null,
     "last_ok": "cryptojobslist",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "cryptovalley": {
     "errored": false,
@@ -54,10 +54,10 @@
     "quiet_runs": 0
   },
   "jobicy": {
-    "errored": false,
-    "last_count": 44,
+    "errored": true,
+    "last_count": null,
     "last_ok": "jobicy",
-    "quiet_runs": 0
+    "quiet_runs": 1
   },
   "jobtech": {
     "errored": false,
