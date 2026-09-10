@@ -7,7 +7,7 @@
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 9,
+    "last_count": 11,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -15,7 +15,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 41
+    "quiet_runs": 42
   },
   "cryptojobslist": {
     "errored": false,
@@ -27,7 +27,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "cryptovalley",
-    "quiet_runs": 8
+    "quiet_runs": 9
   },
   "denmark": {
     "errored": false,
@@ -42,14 +42,14 @@
     "quiet_runs": 0
   },
   "greenhouse": {
-    "errored": true,
-    "last_count": null,
+    "errored": false,
+    "last_count": 5,
     "last_ok": "greenhouse",
-    "quiet_runs": 1
+    "quiet_runs": 0
   },
   "himalayas": {
     "errored": false,
-    "last_count": 2,
+    "last_count": 1,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
