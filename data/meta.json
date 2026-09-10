@@ -1,17 +1,17 @@
 {
-  "total": 982,
-  "new": 1,
-  "scored": 1,
+  "total": 988,
+  "new": 6,
+  "scored": 6,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 125,
+  "above_level": 127,
   "off_topic": 0,
   "sources": {
-    "arbeitnow": 11,
-    "jobicy": 44,
+    "arbeitnow": 13,
+    "jobicy": 45,
     "remoteok": 4,
     "himalayas": 1,
-    "adzuna": 47,
+    "adzuna": 41,
     "workable": 124,
     "greenhouse": 5,
     "ashby": 0,
@@ -30,6 +30,6 @@
     "ashby",
     "cryptovalley"
   ],
-  "duplicates": 22,
-  "generated_at": "2026-09-10T20:11:05+00:00"
+  "duplicates": 17,
+  "generated_at": "2026-09-10T23:31:43+00:00"
 }
