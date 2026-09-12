@@ -1,17 +1,17 @@
 {
   "total": 1052,
-  "new": 10,
-  "scored": 10,
+  "new": 0,
+  "scored": 0,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 122,
+  "above_level": 125,
   "off_topic": 0,
   "sources": {
-    "arbeitnow": 13,
+    "arbeitnow": 16,
     "jobicy": 45,
     "remoteok": 4,
     "himalayas": 0,
-    "adzuna": 47,
+    "adzuna": 36,
     "workable": 123,
     "greenhouse": 5,
     "ashby": 0,
@@ -31,6 +31,6 @@
     "cryptovalley",
     "himalayas"
   ],
-  "duplicates": 22,
-  "generated_at": "2026-09-12T17:57:22+00:00"
+  "duplicates": 19,
+  "generated_at": "2026-09-12T20:03:00+00:00"
 }
