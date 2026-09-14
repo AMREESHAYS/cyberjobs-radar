@@ -1,13 +1,13 @@
 {
-  "total": 1088,
-  "new": 7,
-  "scored": 7,
+  "total": 1090,
+  "new": 2,
+  "scored": 2,
   "removed": 0,
   "aged_out": 0,
   "above_level": 123,
-  "off_topic": 1,
+  "off_topic": 0,
   "sources": {
-    "arbeitnow": 13,
+    "arbeitnow": 8,
     "jobicy": 45,
     "remoteok": 4,
     "himalayas": 2,
@@ -30,6 +30,6 @@
     "ashby",
     "cryptovalley"
   ],
-  "duplicates": 32,
-  "generated_at": "2026-09-14T16:02:11+00:00"
+  "duplicates": 29,
+  "generated_at": "2026-09-14T21:08:22+00:00"
 }
