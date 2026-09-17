@@ -1,13 +1,13 @@
 {
-  "total": 1169,
+  "total": 1172,
   "new": 3,
   "scored": 3,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 126,
-  "off_topic": 0,
+  "above_level": 123,
+  "off_topic": 1,
   "sources": {
-    "arbeitnow": 10,
+    "arbeitnow": 11,
     "jobicy": 45,
     "remoteok": 5,
     "himalayas": 2,
@@ -20,16 +20,16 @@
     "recruitee": 1,
     "jobtech": 7,
     "cryptovalley": 0,
-    "cryptojobslist": 8,
+    "cryptojobslist": 5,
     "web3career": 75,
     "denmark": 4,
     "finland": 5,
-    "norway": 8
+    "norway": 6
   },
   "quiet_sources": [
     "ashby",
     "cryptovalley"
   ],
   "duplicates": 27,
-  "generated_at": "2026-09-17T19:22:42+00:00"
+  "generated_at": "2026-09-17T22:30:55+00:00"
 }
