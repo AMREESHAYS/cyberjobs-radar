@@ -15,7 +15,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 99
+    "quiet_runs": 100
   },
   "cryptojobslist": {
     "errored": false,
@@ -27,7 +27,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "cryptovalley",
-    "quiet_runs": 66
+    "quiet_runs": 67
   },
   "denmark": {
     "errored": false,
@@ -49,9 +49,9 @@
   },
   "himalayas": {
     "errored": false,
-    "last_count": 0,
+    "last_count": 3,
     "last_ok": "himalayas",
-    "quiet_runs": 1
+    "quiet_runs": 0
   },
   "jobicy": {
     "errored": false,
@@ -103,7 +103,7 @@
   },
   "workable": {
     "errored": false,
-    "last_count": 122,
+    "last_count": 123,
     "last_ok": "workable",
     "quiet_runs": 0
   }
