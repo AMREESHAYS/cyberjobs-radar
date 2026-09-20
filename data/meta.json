@@ -1,7 +1,7 @@
 {
-  "total": 1240,
-  "new": 2,
-  "scored": 2,
+  "total": 1243,
+  "new": 3,
+  "scored": 3,
   "removed": 0,
   "aged_out": 0,
   "above_level": 140,
@@ -11,7 +11,7 @@
     "jobicy": 44,
     "remoteok": 6,
     "himalayas": 3,
-    "adzuna": 23,
+    "adzuna": 26,
     "workable": 123,
     "greenhouse": 5,
     "ashby": 0,
@@ -30,6 +30,6 @@
     "ashby",
     "cryptovalley"
   ],
-  "duplicates": 24,
-  "generated_at": "2026-09-20T19:55:33+00:00"
+  "duplicates": 25,
+  "generated_at": "2026-09-20T22:01:46+00:00"
 }
