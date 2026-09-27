@@ -1,17 +1,17 @@
 {
-  "total": 1472,
-  "new": 9,
-  "scored": 10,
+  "total": 1476,
+  "new": 4,
+  "scored": 4,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 146,
-  "off_topic": 3,
+  "above_level": 150,
+  "off_topic": 2,
   "sources": {
-    "arbeitnow": 23,
+    "arbeitnow": 27,
     "jobicy": 42,
     "remoteok": 5,
-    "himalayas": 3,
-    "adzuna": 18,
+    "himalayas": 4,
+    "adzuna": 22,
     "workable": 127,
     "greenhouse": 6,
     "ashby": 0,
@@ -31,6 +31,6 @@
     "cryptovalley",
     "web3career"
   ],
-  "duplicates": 10,
-  "generated_at": "2026-09-27T15:56:31+00:00"
+  "duplicates": 16,
+  "generated_at": "2026-09-27T19:25:46+00:00"
 }
