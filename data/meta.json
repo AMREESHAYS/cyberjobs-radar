@@ -1,17 +1,17 @@
 {
-  "total": 1505,
-  "new": 5,
-  "scored": 5,
+  "total": 1515,
+  "new": 10,
+  "scored": 9,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 169,
-  "off_topic": 1,
+  "above_level": 163,
+  "off_topic": 3,
   "sources": {
-    "arbeitnow": 51,
+    "arbeitnow": 46,
     "jobicy": 42,
     "remoteok": 5,
-    "himalayas": 0,
-    "adzuna": 26,
+    "himalayas": 2,
+    "adzuna": 33,
     "workable": 133,
     "greenhouse": 6,
     "ashby": 0,
@@ -29,9 +29,8 @@
   "quiet_sources": [
     "ashby",
     "cryptovalley",
-    "himalayas",
     "web3career"
   ],
-  "duplicates": 21,
-  "generated_at": "2026-09-29T00:02:05+00:00"
+  "duplicates": 23,
+  "generated_at": "2026-09-29T07:37:45+00:00"
 }
