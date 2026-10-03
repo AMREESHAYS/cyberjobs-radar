@@ -1,17 +1,17 @@
 {
-  "total": 1647,
-  "new": 11,
-  "scored": 10,
+  "total": 1651,
+  "new": 4,
+  "scored": 4,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 160,
+  "above_level": 150,
   "off_topic": 1,
   "sources": {
-    "arbeitnow": 37,
-    "jobicy": 12,
+    "arbeitnow": 32,
+    "jobicy": 11,
     "remoteok": 5,
-    "himalayas": 1,
-    "adzuna": 25,
+    "himalayas": 0,
+    "adzuna": 22,
     "workable": 141,
     "greenhouse": 5,
     "ashby": 0,
@@ -20,7 +20,7 @@
     "recruitee": 1,
     "jobtech": 9,
     "cryptovalley": 0,
-    "cryptojobslist": 5,
+    "cryptojobslist": 6,
     "web3career": 76,
     "denmark": 5,
     "finland": 10,
@@ -30,6 +30,6 @@
     "ashby",
     "cryptovalley"
   ],
-  "duplicates": 19,
-  "generated_at": "2026-10-03T07:13:40+00:00"
+  "duplicates": 21,
+  "generated_at": "2026-10-03T12:49:07+00:00"
 }
