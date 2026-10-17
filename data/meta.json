@@ -1,16 +1,16 @@
 {
-  "total": 1510,
-  "new": 3,
-  "scored": 3,
+  "total": 1511,
+  "new": 1,
+  "scored": 1,
   "removed": 0,
   "aged_out": 0,
-  "above_level": 153,
+  "above_level": 155,
   "off_topic": 2,
   "sources": {
     "arbeitnow": 28,
     "jobicy": 16,
     "remoteok": 7,
-    "himalayas": 1,
+    "himalayas": 2,
     "adzuna": 37,
     "workable": 145,
     "greenhouse": 2,
@@ -31,5 +31,5 @@
     "cryptovalley"
   ],
   "duplicates": 17,
-  "generated_at": "2026-10-17T21:50:04+00:00"
+  "generated_at": "2026-10-17T23:36:00+00:00"
 }
