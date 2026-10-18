@@ -1,13 +1,13 @@
 {
-  "total": 1511,
-  "new": 1,
-  "scored": 1,
+  "total": 1500,
+  "new": 7,
+  "scored": 7,
   "removed": 0,
-  "aged_out": 0,
-  "above_level": 155,
+  "aged_out": 18,
+  "above_level": 154,
   "off_topic": 2,
   "sources": {
-    "arbeitnow": 28,
+    "arbeitnow": 25,
     "jobicy": 16,
     "remoteok": 7,
     "himalayas": 2,
@@ -20,7 +20,7 @@
     "recruitee": 1,
     "jobtech": 6,
     "cryptovalley": 0,
-    "cryptojobslist": 4,
+    "cryptojobslist": 6,
     "web3career": 76,
     "denmark": 9,
     "finland": 12,
@@ -31,5 +31,5 @@
     "cryptovalley"
   ],
   "duplicates": 17,
-  "generated_at": "2026-10-17T23:36:00+00:00"
+  "generated_at": "2026-10-18T01:56:28+00:00"
 }
