@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 51,
+    "last_count": 49,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 11,
+    "last_count": 12,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -15,11 +15,11 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 273
+    "quiet_runs": 274
   },
   "cryptojobslist": {
     "errored": false,
-    "last_count": 9,
+    "last_count": 11,
     "last_ok": "cryptojobslist",
     "quiet_runs": 0
   },
@@ -27,7 +27,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "cryptovalley",
-    "quiet_runs": 240
+    "quiet_runs": 241
   },
   "denmark": {
     "errored": false,
@@ -55,7 +55,7 @@
   },
   "jobicy": {
     "errored": false,
-    "last_count": 27,
+    "last_count": 25,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -81,7 +81,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "recruitee",
-    "quiet_runs": 6
+    "quiet_runs": 7
   },
   "remoteok": {
     "errored": false,
@@ -97,7 +97,7 @@
   },
   "web3career": {
     "errored": false,
-    "last_count": 75,
+    "last_count": 74,
     "last_ok": "web3career",
     "quiet_runs": 0
   },
