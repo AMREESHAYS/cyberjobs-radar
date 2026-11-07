@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 31,
+    "last_count": 30,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 9,
+    "last_count": 13,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -15,11 +15,11 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 313
+    "quiet_runs": 314
   },
   "cryptojobslist": {
     "errored": false,
-    "last_count": 9,
+    "last_count": 10,
     "last_ok": "cryptojobslist",
     "quiet_runs": 0
   },
@@ -45,7 +45,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "greenhouse",
-    "quiet_runs": 33
+    "quiet_runs": 34
   },
   "himalayas": {
     "errored": false,
@@ -66,10 +66,10 @@
     "quiet_runs": 0
   },
   "lever": {
-    "errored": true,
-    "last_count": null,
+    "errored": false,
+    "last_count": 3,
     "last_ok": "lever",
-    "quiet_runs": 1
+    "quiet_runs": 0
   },
   "norway": {
     "errored": false,
@@ -81,7 +81,7 @@
     "errored": true,
     "last_count": null,
     "last_ok": "recruitee",
-    "quiet_runs": 46
+    "quiet_runs": 47
   },
   "remoteok": {
     "errored": false,
