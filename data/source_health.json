@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 23,
+    "last_count": 24,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 18,
+    "last_count": 13,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -15,7 +15,7 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "ashby",
-    "quiet_runs": 332
+    "quiet_runs": 333
   },
   "cryptojobslist": {
     "errored": false,
@@ -30,38 +30,38 @@
     "quiet_runs": 0
   },
   "denmark": {
-    "errored": true,
-    "last_count": null,
+    "errored": false,
+    "last_count": 6,
     "last_ok": "denmark",
-    "quiet_runs": 2
+    "quiet_runs": 0
   },
   "finland": {
-    "errored": true,
-    "last_count": null,
+    "errored": false,
+    "last_count": 19,
     "last_ok": "finland",
-    "quiet_runs": 2
+    "quiet_runs": 0
   },
   "greenhouse": {
     "errored": false,
     "last_count": 0,
     "last_ok": "greenhouse",
-    "quiet_runs": 52
+    "quiet_runs": 53
   },
   "himalayas": {
     "errored": false,
-    "last_count": 1,
+    "last_count": 2,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
   "jobicy": {
     "errored": false,
-    "last_count": 26,
+    "last_count": 25,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
   "jobtech": {
     "errored": false,
-    "last_count": 3,
+    "last_count": 4,
     "last_ok": "jobtech",
     "quiet_runs": 0
   },
@@ -72,16 +72,16 @@
     "quiet_runs": 0
   },
   "norway": {
-    "errored": true,
-    "last_count": null,
+    "errored": false,
+    "last_count": 11,
     "last_ok": "norway",
-    "quiet_runs": 2
+    "quiet_runs": 0
   },
   "recruitee": {
     "errored": true,
     "last_count": null,
     "last_ok": "recruitee",
-    "quiet_runs": 65
+    "quiet_runs": 66
   },
   "remoteok": {
     "errored": false,
