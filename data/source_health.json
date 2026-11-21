@@ -1,13 +1,13 @@
 {
   "adzuna": {
     "errored": false,
-    "last_count": 22,
+    "last_count": 18,
     "last_ok": "adzuna",
     "quiet_runs": 0
   },
   "arbeitnow": {
     "errored": false,
-    "last_count": 19,
+    "last_count": 15,
     "last_ok": "arbeitnow",
     "quiet_runs": 0
   },
@@ -19,7 +19,7 @@
   },
   "cryptojobslist": {
     "errored": false,
-    "last_count": 15,
+    "last_count": 14,
     "last_ok": "cryptojobslist",
     "quiet_runs": 0
   },
@@ -45,17 +45,17 @@
     "errored": false,
     "last_count": 0,
     "last_ok": "greenhouse",
-    "quiet_runs": 80
+    "quiet_runs": 81
   },
   "himalayas": {
     "errored": false,
-    "last_count": 1,
+    "last_count": 4,
     "last_ok": "himalayas",
     "quiet_runs": 0
   },
   "jobicy": {
     "errored": false,
-    "last_count": 16,
+    "last_count": 12,
     "last_ok": "jobicy",
     "quiet_runs": 0
   },
@@ -81,11 +81,11 @@
     "errored": true,
     "last_count": null,
     "last_ok": "recruitee",
-    "quiet_runs": 93
+    "quiet_runs": 94
   },
   "remoteok": {
     "errored": false,
-    "last_count": 19,
+    "last_count": 26,
     "last_ok": "remoteok",
     "quiet_runs": 0
   },
@@ -97,13 +97,13 @@
   },
   "web3career": {
     "errored": false,
-    "last_count": 74,
+    "last_count": 75,
     "last_ok": "web3career",
     "quiet_runs": 0
   },
   "workable": {
     "errored": false,
-    "last_count": 133,
+    "last_count": 132,
     "last_ok": "workable",
     "quiet_runs": 0
   }
